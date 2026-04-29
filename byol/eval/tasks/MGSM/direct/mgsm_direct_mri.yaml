@@ -1,0 +1,15 @@
+include: direct_yaml
+dataset_name: mri
+dataset_kwargs:
+  data_files:
+    train: data/mri/eval/mgsm_train_english2mri_microsoft_translated.jsonl
+    test:  data/mri/eval/mgsm_test_english2mri_microsoft_translated.jsonl
+doc_to_target: '{% if answer is not none %}{{answer[31:]}}{% else %}{{answer_number|string}}{% endif %}'
+doc_to_text: '{% if answer is not none %}{{question+"\nWhakautu:"}}{% else %}{{"Pātai: "+question+"\nWhakautu:"}}{% endif %}'
+generation_kwargs:
+  do_sample: false
+  until:
+  - 'Pātai:'
+  - </s>
+  - <|im_end|>
+task: mgsm_direct_mri

@@ -1,0 +1,125 @@
+# Instruct Model Evaluation - English (eng)
+# English-only benchmarks for instruct (chat) models
+# 0-shot evaluation with chat template
+
+evaluation:
+  results_dir: "results/eval"
+  gpus: "0"
+  batch_size: auto:4
+  apply_chat_template: true
+
+models:
+  - name: "model"
+    path: "google/gemma-3-4b-it"
+    dtype: "bfloat16"
+    trust_remote_code: true
+
+lm_eval:
+  include_path: "tasks"
+  log_samples: false
+
+tasks:
+  # MMLU Gen English - 0-shot
+  - name: "global_mmlu_en_gen_0shot"
+    enabled: true
+    apply_chat_template: true
+
+  # Winogrande - 0-shot
+  - name: "winogrande"
+    num_fewshot: 0
+    enabled: true
+    apply_chat_template: true
+
+  # COPA - 0-shot
+  - name: "copa"
+    num_fewshot: 0
+    enabled: true
+    apply_chat_template: true
+
+  # XNLI English - 0-shot
+  - name: "xnli_en"
+    num_fewshot: 0
+    enabled: true
+    apply_chat_template: true
+
+  # Belebele English - 0-shot
+  - name: "belebele_eng_Latn"
+    num_fewshot: 0
+    enabled: true
+    apply_chat_template: true
+
+  # MGSM English - 0-shot
+  - name: "mgsm_direct_en"
+    num_fewshot: 0
+    enabled: true
+    apply_chat_template: true
+
+  # HellaSwag - 0-shot
+  - name: "hellaswag"
+    num_fewshot: 0
+    enabled: true
+    apply_chat_template: true
+
+  # ARC-Challenge - 0-shot
+  - name: "arc_challenge"
+    num_fewshot: 0
+    enabled: true
+    apply_chat_template: true
+    batch_size: auto:2
+
+  # ARC-Easy - 0-shot
+  - name: "arc_easy"
+    num_fewshot: 0
+    enabled: true
+    apply_chat_template: true
+
+  # ARC-Challenge Chat - 0-shot
+  - name: "arc_challenge_chat"
+    num_fewshot: 0
+    enabled: true
+    apply_chat_template: true
+
+  # PIQA - 0-shot
+  - name: "piqa"
+    num_fewshot: 0
+    enabled: true
+    apply_chat_template: true
+
+  # XStoryCloze English - 0-shot
+  - name: "xstorycloze_en"
+    num_fewshot: 0
+    enabled: true
+    apply_chat_template: true
+    batch_size: auto:1
+
+  # TruthfulQA-Multi English - 6-shot
+  - name: "truthfulqa-multi_mc1_en,truthfulqa-multi_mc2_en"
+    num_fewshot: 6
+    enabled: true
+    apply_chat_template: true
+
+  - name: "truthfulqa-multi_gen_en"
+    num_fewshot: 6
+    enabled: true
+    apply_chat_template: true
+
+  # GPQA Diamond - 0-shot
+  - name: "gpqa_diamond_zeroshot"
+    enabled: true
+    apply_chat_template: true
+
+  # BBH Zero-shot
+  - name: "bbh_zeroshot"
+    enabled: true
+    apply_chat_template: true
+
+  # IFEval
+  - name: "ifeval"
+    enabled: true
+    apply_chat_template: true
+
+  # HumanEval
+  - name: "humaneval_instruct"
+    num_fewshot: 0
+    enabled: true
+    apply_chat_template: true

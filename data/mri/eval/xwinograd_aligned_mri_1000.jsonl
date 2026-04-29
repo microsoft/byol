@@ -1,0 +1,935 @@
+{"sentence": "I whakakāhore nga kaikaunihera o te taone nui i te whakaaetanga a nga kaiwhakatūtū nā te mea _ i wehi i te tutu.", "option1": "nga kaiwhakatūtū", "option2": "Nga kaikaunihera o te taone", "answer": "2"}
+{"sentence": "I whakakāhoretia e nga kaikaunihera o te taone he whakaaetanga ki nga kaiwhakatūtū nā te mea i taunakitia e _ te tutu.", "option1": "Nga kaikaunihera o te taone", "option2": "nga kaiwhakatūtū", "answer": "2"}
+{"sentence": "Kāore te tohu e uru ki roto i te pāhi parauri nā te mea he nui rawa te _.", "option1": "Te tohu", "option2": "putea", "answer": "1"}
+{"sentence": "Kāore te tohu e uru ki roto i te pāhi parauri nā te mea he iti rawa te _.", "option1": "putea", "option2": "Te tohu", "answer": "1"}
+{"sentence": "I whakamātau a Paora ki te waea atu ki a Hōri i runga i te waea, engari _ kāore i tutuki.", "option1": "Paora", "option2": "Hōri", "answer": "1"}
+{"sentence": "I whakamātau a Paora ki te waea atu ki a Hōri i runga i te waea, engari _ kāore i te wātea.", "option1": "Hōri", "option2": "Paora", "answer": "1"}
+{"sentence": "Ka pātai atu te rōia ki te kaiwhakaatu, engari _ i manawapa ki te tārua.", "option1": "Te rōia", "option2": "kaiwhakaatu", "answer": "1"}
+{"sentence": "Ka pātai atu te rōia ki te kaiwhakaatu, engari i manawapa a _ ki te whakautu.", "option1": "Te rōia", "option2": "kaiwhakaatu", "answer": "2"}
+{"sentence": "I rongo a Frank i te whakawāteatanga o tana tauwhāinga roa o Pire ko _ te toa o te whakataetae.", "option1": "Frank", "option2": "Pire", "answer": "1"}
+{"sentence": "I rongo a Frank i te pakaru i te whakaaturanga a tana tauwhāinga roa o Pire ko _ te toa o te whakataetae.", "option1": "Pire", "option2": "Frank", "answer": "1"}
+{"sentence": "Kāore i taea e te tangata te hiki i tana tama nā te mea he ngoikore rawa a _.", "option1": "Te tangata", "option2": "tama", "answer": "1"}
+{"sentence": "Kaore i taea e te tangata te hiki i tana tama nā te mea he taumaha rawa te _.", "option1": "Te tangata", "option2": "tama", "answer": "2"}
+{"sentence": "Kaore a Hoani i kite i te atamira me Billy i mua i a ia na te mea he poto rawa te _.", "option1": "Pire", "option2": "John", "answer": "2"}
+{"sentence": "Kāore a Hoani i kite i te atamira me Billy i mua i a ia nā te mea he roa rawa te _.", "option1": "Pire", "option2": "John", "answer": "1"}
+{"sentence": "Ahakoa i ōrite te tere o ta rātau oma, ka whiua e Sue a Sally nā te mea he pai te tīmatanga o te _.", "option1": "Sally", "option2": "Hūmātia", "answer": "2"}
+{"sentence": "Ka huri te whakairo i te whata nā te mea kāore a _ i taunga.", "option1": "Te whakairo", "option2": "whata", "answer": "1"}
+{"sentence": "I whakairihia te tātuhi a Sam i runga ake tonu i a Tina, ā, _ he pai ake te āhua me tētahi atu i raro iho.", "option1": "Te tātuhi a Sam", "option2": "Tina's", "answer": "1"}
+{"sentence": "I whakairihia te tātuhi a Sam i runga ake i a Tina, ā, _ he pai ake te āhua me tētahi atu i runga.", "option1": "Te tātuhi a Sam", "option2": "Tina's", "answer": "2"}
+{"sentence": "I tae mai nga kaipatu ahi i muri i nga pirihimana nā te mea _ i haere mai i tawhiti rawa.", "option1": "Nga kaipatu ahi", "option2": "Ngā pirihimana", "answer": "1"}
+{"sentence": "I riri a Frank ki a Tom nā te mea kāore i mahi te toaster _ i hokona mai i a ia.", "option1": "Tom", "option2": "Frank", "answer": "2"}
+{"sentence": "I riri a Frank ki a Tom nā te mea kāore i mahi te toaster _ i hokona ia.", "option1": "Tom", "option2": "Frank", "answer": "1"}
+{"sentence": "I te whakaweti ngā tauira pakeke i ngā tamariki, nā reira i whiua e mātau _.", "option1": "Nga tauira pakeke", "option2": "nga tamariki", "answer": "1"}
+{"sentence": "I te whakaweti ngā tauira pakeke i ngā tamariki, nā reira i whakaorangia e mātau _.", "option1": "Nga tauira pakeke", "option2": "nga tamariki", "answer": "2"}
+{"sentence": "I ringihia e au te wai mai i te pounamu ki roto i te kapu tae noa ki te _ putunga.", "option1": "te kapu", "option2": "te pounamu", "answer": "2"}
+{"sentence": "I whakamāramatia e Sid tana ariā ki a Mark, engari _ kāore i taea te whakatūpato i a ia.", "option1": "Tohu", "option2": "Hiper", "answer": "2"}
+{"sentence": "I whakamāramatia e Sid tana ariā ki a Mark, engari _ kāore i mārama ki a ia.", "option1": "Tohu", "option2": "Hiper", "answer": "1"}
+{"sentence": "E whakaatu ana te peita i te rūma noho o Mark i tētahi rākau oki. _ kei te taha matau o te pouaka pukapuka.", "option1": "Te peita", "option2": "oki", "answer": "1"}
+{"sentence": "E whakaatu ana te peita i te rūma noho o Mark i tētahi rākau oki. _ kei te taha matau o te whare.", "option1": "Te peita", "option2": "oki", "answer": "2"}
+{"sentence": "He āputa kai roto i te pakitara. Ka taea e koe te kite i te māra mā _.", "option1": "te pakitara", "option2": "āputa", "answer": "2"}
+{"sentence": "He āputa kai roto i te pakitara. Ka kite koe i te kari i muri i _.", "option1": "āputa", "option2": "te pakitara", "answer": "2"}
+{"sentence": "I tīmata taku hui i te 4:00, ā, i hiahia ahau ki te hopu i te tereina i te 4:30, nā reira kāore i nui te wā. Waimarie, he poto te _, nā reira i pai ai.", "option1": "te tereina", "option2": "hui", "answer": "2"}
+{"sentence": "I tīmata taku hui i te 4:00, ā, i hiahia ahau ki te hopu i te tereina i te 4:30, nā reira kāore i nui te wā. Waimarie, i takawaretia a _, nā reira i pai ai.", "option1": "te tereina", "option2": "hui", "answer": "1"}
+{"sentence": "He pou kei waenganui i a au me te atamira, ā, kāore au e kite huri noa _.", "option1": "pou", "option2": "te atamira", "answer": "1"}
+{"sentence": "He pou kei waenganui i a au me te atamira, ā, kāore au e kite i te _.", "option1": "pou", "option2": "te atamira", "answer": "2"}
+{"sentence": "I pāohotia e rātau tētahi pānuitanga, engari i tae mai he waka raro ki te teihana, ā, kāore au i rongo _.", "option1": "panui", "option2": "waka raro", "answer": "1"}
+{"sentence": "I pāohotia e rātau tētahi pānuitanga, engari i tae mai he waka raro ki te teihana, ā, kāore au i rongo i runga i te _.", "option1": "panui", "option2": "waka raro", "answer": "2"}
+{"sentence": "I waenganui o te konohete o waho, ka tīmata te marangai, engari _ ka haere tonu tae noa ki te 10.", "option1": "te marangai", "option2": "konohete", "answer": "2"}
+{"sentence": "I whakamahia e au he kākahu tawhito hei horoi i te naihi, kātahi ka purua e au _ ki roto i te para.", "option1": "kākahu", "option2": "te maripi", "answer": "1"}
+{"sentence": "I whakamahia e au he kākahu tawhito hei horoi i te naihi, kātahi ka purua e au _ ki roto i te toroa.", "option1": "kākahu", "option2": "te maripi", "answer": "2"}
+{"sentence": "Ka pātai atu a Ann ki a Meri he aha te wā e kati ai te whare pukapuka, nā te mea kua wareware a _.", "option1": "Ana", "option2": "Meri", "answer": "1"}
+{"sentence": "I tangohia e au te pounamu wai i roto i te pēke kia pai ai te _.", "option1": "te pēke", "option2": "te pounamu wai", "answer": "2"}
+{"sentence": "Kāore i taea e au te puru te kōhua ki runga i te whata nā te mea he roa rawa te _.", "option1": "whata", "option2": "kohua", "answer": "2"}
+{"sentence": "Kāore i taea e au te puru te kōhua ki runga i te whata nā te mea he tiketike rawa te _.", "option1": "whata", "option2": "kohua", "answer": "1"}
+{"sentence": "E mōhio tūturu ana ahau ka whakaaturia e taku mahere tēnei whare; He tino pai te _.", "option1": "Mahere", "option2": "whare", "answer": "1"}
+{"sentence": "I utua e Bob te mātauranga kāreti o Charlie. _ he tino ohaoha.", "option1": "Charlie", "option2": "Bob", "answer": "2"}
+{"sentence": "I utua e Bob te mātauranga kāreti o Charlie. He tino whakawhetai a _.", "option1": "Charlie", "option2": "Bob", "answer": "1"}
+{"sentence": "I utua e Bob te mātauranga kāreti o Charlie, engari ināianei ka mahi a Charlie me te mea kāore anō kia puta. _ he tino mamae.", "option1": "Bob", "option2": "Charlie", "answer": "1"}
+{"sentence": "I te tākaro kāri a Bob me Arama, ā, i mua noa iho. Mehemea kāore a Arama i waimarie ohorere, kua toa a _.", "option1": "Bob", "option2": "Arama", "answer": "1"}
+{"sentence": "I te tākaro kāri a Bob me Arama, ā, i mua noa iho. Mehemea kāore a Arama i waimarie ohorere, kua ngaro a _.", "option1": "Bob", "option2": "Arama", "answer": "2"}
+{"sentence": "Kāore e taea e Arama te waiho i te mahi i konei kia tae rā anō a Bob ki te whakakapi i a ia. Mehemea i wehe a Bob i te kāinga ki te mahi i te wā tika, _ kua ngaro i tēnei wā.", "option1": "Arama", "option2": "Bob", "answer": "1"}
+{"sentence": "Kāore e taea e Arama te waiho i te mahi i konei kia tae rā anō a Bob ki te whakakapi i a ia. Mehemea i wehe a Bob i te kāinga ki te mahi i te wā tika, _ ka tae mai ki konei i tēnei wā.", "option1": "Bob", "option2": "Arama", "answer": "1"}
+{"sentence": "E takoto ana te poti i te taha o te rua kiore e tatari ana ki te kiore, engari _ i te manawanui rawa.", "option1": "Te poti", "option2": "te kiore", "answer": "1"}
+{"sentence": "E takoto ana te poti i te taha o te rua kiore e tatari ana ki te kiore, engari _ i tūpato rawa.", "option1": "te kiore", "option2": "Te poti", "answer": "1"}
+{"sentence": "Ka kainga e te ika te kutukutu. _ i hiakai.", "option1": "Te ika", "option2": "te kutukutu", "answer": "1"}
+{"sentence": "Ka kainga e te ika te kutukutu. _ he reka.", "option1": "te kutukutu", "option2": "Te ika", "answer": "1"}
+{"sentence": "Ka whaia e te kurī te poti, a, ka oma ki runga i te rākau. _ e tatari ana i raro.", "option1": "te poti", "option2": "Te kurī", "answer": "2"}
+{"sentence": "Ka whaia e te kurī te poti, a, ka oma ki runga i te rākau. _ e tatari ana i runga.", "option1": "Te kurī", "option2": "te poti", "answer": "2"}
+{"sentence": "Ka haere te kiritaki ki roto i te pēke, a, ka okaina tētahi o nga kaihoko. _ i mauria wawetia ki te teihana pirihimana.", "option1": "Te kiritaki", "option2": "tētahi o ngā kaikōrero", "answer": "1"}
+{"sentence": "Ka haere te kiritaki ki roto i te pēke, a, ka okaina tētahi o nga kaihoko. _ i mauria wawetia ki te hōhipera.", "option1": "tētahi o ngā kaikōrero", "option2": "Te kiritaki", "answer": "1"}
+{"sentence": "I te rangahau a Hoani i te whare pukapuka i tana rongonga i tētahi tangata e ngunguru ana, e whiowhio ana. _ i tino riri.", "option1": "John", "option2": "tangata", "answer": "1"}
+{"sentence": "I te rangahau a Hoani i te whare pukapuka i tana rongonga i tētahi tangata e ngunguru ana, e whiowhio ana. _ he tino pōrearea.", "option1": "John", "option2": "tangata", "answer": "2"}
+{"sentence": "I te omaoma a Hoani i roto i te pāka i tana kitenga i tētahi tangata e hīkoi ana i te merengi. I tino mīharo a _.", "option1": "he tangata", "option2": "John", "answer": "2"}
+{"sentence": "I te omaoma a Hoani i roto i te pāka i tana kitenga i tētahi tangata e hīkoi ana i te merengi. He tino mīharo te _.", "option1": "John", "option2": "he tangata", "answer": "2"}
+{"sentence": "Ka hinga a Bob i te tahataha. Kaore i roa ka kite ia i a Carl e haere mai ana ki te āwhina. _ i tino mate.", "option1": "Bob", "option2": "Kara", "answer": "1"}
+{"sentence": "He tino aroha a Sam rāua ko Amy, engari e pouri ana ngā mātua o Amy ki taua mea, nā te mea he snobs _ rātou.", "option1": "Sam rāua ko Amy", "option2": "Ngā mātua o Amy", "answer": "2"}
+{"sentence": "He maha nga teka i korerotia e Mark ki a Pete mo ia ano, i whakaurua e Pete ki tana pukapuka. Ko te tikanga kia pono ake te _.", "option1": "Tohu", "option2": "Pete", "answer": "1"}
+{"sentence": "Kua hokona e Joe tōna whare, a, kua hokona mai he mea hou i ētahi maero te tawhiti. Ka neke atu a ia i _ i te Tāite.", "option1": "tona whare", "option2": "he mea hou", "answer": "1"}
+{"sentence": "Kua hokona e Joe tōna whare, a, kua hokona mai he mea hou i ētahi maero te tawhiti. Ka neke a ia ki _ a te Tāite.", "option1": "he mea hou", "option2": "tona whare", "answer": "1"}
+{"sentence": "He tokomaha ngā tāngata e tīmata ana ki te pānui i ngā pukapuka a Paora, ā, kāore e taea te whakararo. _ e mau ana nā te mea he pai rawa te tuhituhi a Paora.", "option1": "iwi", "option2": "Ngā pukapuka a Paora", "answer": "1"}
+{"sentence": "He tokomaha ngā tāngata e tīmata ana ki te pānui i ngā pukapuka a Paora, ā, kāore e taea te whakararo. _ e paingia ana nā te mea he pai rawa te tuhituhi a Paora.", "option1": "Ngā pukapuka a Paora", "option2": "iwi", "answer": "1"}
+{"sentence": "Ka tangohia e Meri tana putorino ka whakatangi i tētahi o ana mea tino pai. Mai i a ia e tamariki ana, kua whai _ a ia.", "option1": "tana putorino", "option2": "tētahi o āna mahi makau", "answer": "1"}
+{"sentence": "Ka kumea e Sam tētahi tūru ki te piana, engari _ i pakaru, nā reira me tū kē ia.", "option1": "tūru", "option2": "te piana", "answer": "1"}
+{"sentence": "Ka kumea e Sam he tūru ki te piana, engari _ i pakaru, nā reira me waiata kē ia.", "option1": "tūru", "option2": "te piana", "answer": "2"}
+{"sentence": "Ka patoto a Jane i te tatau o Susan, engari kāore he whakautu. I matekiri a _.", "option1": "Susana", "option2": "Jane", "answer": "2"}
+{"sentence": "Ka patoto a Jane i te tatau o Susan, engari kāore he whakautu. _ i waho.", "option1": "Jane", "option2": "Susana", "answer": "2"}
+{"sentence": "Ka patoto a Jane i te tatau, a, ka whakautua e Susan. _ i tono i a ia kia puta mai ki waho.", "option1": "Jane", "option2": "Susana", "answer": "1"}
+{"sentence": "Ka patoto a Jane i te tatau, a, ka whakautua e Susan. _ i tono i a ia kia haere mai.", "option1": "Jane", "option2": "Susana", "answer": "2"}
+{"sentence": "I tango a Sam i ngā akoranga Wīwī mai i a Arama, nā te mea i hiahia a _ ki te kōrero matau.", "option1": "Arama", "option2": "Hamu", "answer": "2"}
+{"sentence": "I tango a Sam i ngā akoranga Wīwī mai i a Arama, nā te mea i mōhiotia a _ he matatau te kōrero.", "option1": "Hamu", "option2": "Arama", "answer": "2"}
+{"sentence": "I āraia te ara ki te roto, nā reira kāore i taea e mātou te whakamahi _.", "option1": "te roto", "option2": "Te ara", "answer": "2"}
+{"sentence": "I āraia te ara ki te roto, nā reira kāore i taea e mātau te tae atu ki _.", "option1": "te roto", "option2": "Te ara", "answer": "1"}
+{"sentence": "I taupokina te rā e te kapua mātotoru puta noa i te ata, engari waimarie, i te tīmatanga o te pikiniki, kua pau a _.", "option1": "kapua", "option2": "Te rā", "answer": "2"}
+{"sentence": "I taupokina te rā e te kapua mātotoru puta noa i te ata, engari waimarie, i te tīmatanga o te pikiniki, kua ngaro a _.", "option1": "kapua", "option2": "Te rā", "answer": "1"}
+{"sentence": "Ka purua e Meri tana tamāhine a Anne ki te moenga, kia taea ai e _ te mahi.", "option1": "tana tamāhine ko Anne", "option2": "Meri", "answer": "2"}
+{"sentence": "He tino mahana nga koti o Fred raua ko Alice, engari _ kaore i rite mo te makariri i Alaska.", "option1": "koti", "option2": "Fred rāua ko Alice", "answer": "2"}
+{"sentence": "He tino mahana nga koti o Fred raua ko Alice, engari _ kaore i ranea mo te makariri i Alaska.", "option1": "Fred rāua ko Alice", "option2": "koti", "answer": "2"}
+{"sentence": "I haere a Thomson ki te urupa o Cooper i te tau 1765. I taua rā _ e rima tau e haere ana.", "option1": "Kupa", "option2": "Thomson", "answer": "2"}
+{"sentence": "I haere a Thomson ki te urupa o Cooper i te tau 1765. I taua rā _ kua mate mo te rima tau.", "option1": "Thomson", "option2": "Kupa", "answer": "2"}
+{"sentence": "I tino whakaawetia a Jackson e Arnold, ahakoa _ i ora ia e rua rau tau i muri mai.", "option1": "Arnold", "option2": "Jackson", "answer": "2"}
+{"sentence": "E kore e taea e au te tapahi i taua rākau ki taua toki; He mātotoru rawa te _.", "option1": "toki", "option2": "rakau", "answer": "2"}
+{"sentence": "E kore e taea e au te tapahi i taua rākau ki taua toki; He iti rawa te _.", "option1": "toki", "option2": "rakau", "answer": "1"}
+{"sentence": "Kai te uru mai nga pokiha i te pō ki te whakaeke i nga pīkaokao. Me patu e au _.", "option1": "ngā pīkaokao", "option2": "Nga pokiha", "answer": "2"}
+{"sentence": "Kai te uru mai nga pokiha i te pō ki te whakaeke i nga pīkaokao. Me tiaki e au _.", "option1": "Nga pokiha", "option2": "ngā pīkaokao", "answer": "2"}
+{"sentence": "Kai te uru mai nga pokiha i te pō ki te whakaeke i nga pīkaokao. _ kua tino maia.", "option1": "ngā pīkaokao", "option2": "Nga pokiha", "answer": "2"}
+{"sentence": "Kai te uru mai nga pokiha i te pō ki te whakaeke i nga pīkaokao. _ kua tino āmaimai.", "option1": "Nga pokiha", "option2": "ngā pīkaokao", "answer": "2"}
+{"sentence": "Ka taupokina e Fred ōna whatu ki ōna ringa, nā te mea e pupuhi ana te hau i te kirikiri. Ka whakatuwheratia e ia _ i te mutunga o te hau.", "option1": "ona ringaringa", "option2": "ōna whatu", "answer": "2"}
+{"sentence": "Ka taupokina e Fred ōna whatu ki ōna ringa, nā te mea e pupuhi ana te hau i te kirikiri. Ka whakahekea e ia _ i te mutunga o te hau.", "option1": "ona ringaringa", "option2": "ōna whatu", "answer": "1"}
+{"sentence": "I tapaina te kaiwhakaari ko Terpsichore, engari i huri ia _ ki a Tina i ngā tau tata nei, nā te mea i whakaaro ia he uaua rawa te whakahua.", "option1": "Terpsichore", "option2": "Tina", "answer": "1"}
+{"sentence": "I tapaina te kaiwhakaari ko Terpsichore, engari i huri ia _ ki a Tina i ngā tau tata nei, nā te mea i whakaaro ia he ngāwari kē atu te whakahua.", "option1": "Tina", "option2": "Terpsichore", "answer": "1"}
+{"sentence": "Ka mātakitaki a Fred i te pouaka whakaata i a Hōri e haere ana ki te hoko kai. I muri i te haora ka maranga ake a _.", "option1": "Hōri", "option2": "Pātata", "answer": "2"}
+{"sentence": "Ka mātakitaki a Fred i te pouaka whakaata i a Hōri e haere ana ki te hoko kai. I muri i te haora ka hoki mai a _.", "option1": "Pātata", "option2": "Hōri", "answer": "2"}
+{"sentence": "Ko Fred anake te tangata e ora tonu ana e maumahara ana ki taku tipuna tupuna. He tangata whakamīharo a _.", "option1": "Pātata", "option2": "tōku tipuna tipuna", "answer": "1"}
+{"sentence": "Ko Fred anake te tangata e ora tonu ana e maumahara ana ki taku tipuna tupuna. He tangata whakamīharo a _.", "option1": "tōku tipuna tipuna", "option2": "Pātata", "answer": "1"}
+{"sentence": "I a Hōngongoi, ka whakapuakina e Kamtchatka te whawhai ki Yakutsk. I te mea he pai ake te whakaraupapa o te ope a Yakutsk, tekau ngā wā nui ake, _ i hinga i roto i ngā wiki.", "option1": "Kamtchatka", "option2": "Yakutsk", "answer": "1"}
+{"sentence": "I a Hōngongoi, ka whakapuakina e Kamtchatka te whawhai ki Yakutsk. I te mea he pai ake te whakaraupapa o te ope a Yakutsk, tekau ngā wā nui ake, ka wikitōria a _ i roto i ngā wiki.", "option1": "Yakutsk", "option2": "Kamtchatka", "answer": "1"}
+{"sentence": "Titiro! Tērā tētahi mīhini e kauhoe ana i raro tonu i taua pārera! _ Me tere te haere atu ki te haumaru!", "option1": "mokohukohu", "option2": "pārera", "answer": "1"}
+{"sentence": "Titiro! He mangō e kauhoe ana i raro tonu i taua pārera! _ Me tere te haere atu ki te haumaru!", "option1": "pārera", "option2": "mangō", "answer": "1"}
+{"sentence": "Kua whakatauria e nga kaimātai whenua e noho ana te tangata i Laputa i te 20,000 tau ki mua. _ i whaia he whakaaturanga i runga i nga tahataha o te awa.", "option1": "tangata", "option2": "Kaimātai Whenua", "answer": "2"}
+{"sentence": "Kua whakatauria e nga kaimātai whenua e noho ana te tangata i Laputa i te 20,000 tau ki mua. _ i whaiwhai tia i nga tahataha o te awa.", "option1": "tangata", "option2": "Kaimātai Whenua", "answer": "1"}
+{"sentence": "Kai te ako nga kaipūtaiao i nga momo ika e toru kātahi anō ka kitea e noho ana i te Moana Iniani. _ i tīmata i te rua tau ki muri.", "option1": "Ika", "option2": "Nga kaipūtaiao", "answer": "2"}
+{"sentence": "Kai te ako nga kaipūtaiao i nga momo ika e toru kātahi anō ka kitea e noho ana i te Moana Iniani. _ i puta mai i te rua tau ki muri.", "option1": "Ika", "option2": "Nga kaipūtaiao", "answer": "1"}
+{"sentence": "I uiuia e nga kaipūrongo nga whetū o te whitiāhua hou. _ i tino tohetohe, nā reira he roa te wā i roa ai te uiuinga.", "option1": "ngā whetū", "option2": "Nga kaipūrongo", "answer": "2"}
+{"sentence": "I uiuia e nga kaipūrongo nga whetū o te whitiāhua hou. _ i tino mahi tahi, nā reira he roa te wā i roa ai te uiuinga.", "option1": "ngā whetū", "option2": "Nga kaipūrongo", "answer": "1"}
+{"sentence": "Ka hopukina e nga pirihimana nga mema katoa o te rōpū. _ e ngana ana ki te whakamutu i te hokohoko rongoā i te rohe.", "option1": "nga mema o te rōpū", "option2": "Ngā pirihimana", "answer": "2"}
+{"sentence": "Ka hopukina e nga pirihimana nga mema katoa o te rōpū. _ e ngana ana ki te whakahaere i te hokohoko rongoā i te takiwā.", "option1": "Ngā pirihimana", "option2": "nga mema o te rōpū", "answer": "2"}
+{"sentence": "I whati a Sam i ōna raparapa e rua, ā, kei te haere ia me ngā tokotoko. Engari kotahi marama, neke atu rānei mai i tēnei wā _ me pai ake.", "option1": "raparapa", "option2": "tokotoko", "answer": "1"}
+{"sentence": "I whati a Sam i ōna raparapa e rua, ā, kei te haere ia me ngā tokotoko. Engari kotahi marama, neke atu rānei mai i tēnei wā _ me koretake.", "option1": "raparapa", "option2": "tokotoko", "answer": "2"}
+{"sentence": "I te taenga atu o nga kaitautoko o te pire ki te hōro o te taone, ka mīharo rātau ki te kite kua kī tonu te rūma i te hoariri. _ i tino iti noa iho.", "option1": "hoariri", "option2": "nga kaitautoko", "answer": "2"}
+{"sentence": "I te taenga atu o nga kaitautoko o te pire ki te hōro o te taone, ka mīharo rātau ki te kite kua kī tonu te rūma i te hoariri. _ i tino nui te nuinga.", "option1": "nga kaitautoko", "option2": "hoariri", "answer": "2"}
+{"sentence": "I tino aroha te katoa ki ngā pihikete oatmeal; He torutoru noa iho ngā tāngata i pīrangi ki ngā pihikete tiakarete. Hei tērā wā, me nui ake te _.", "option1": "nga pihikete oatmeal", "option2": "Nga Pihikete Tiakarete", "answer": "1"}
+{"sentence": "I tino aroha te katoa ki ngā pihikete oatmeal; He torutoru noa iho ngā tāngata i pīrangi ki ngā pihikete tiakarete. Hei tērā wā, me iti ake te _.", "option1": "nga pihikete oatmeal", "option2": "Nga Pihikete Tiakarete", "answer": "2"}
+{"sentence": "I tūmanako mātou ki te whakatakoto i ngā tārua o tā mātou pānui ki runga i ngā tūru katoa i te whare whakaminenga, engari kāore i rawaka te _ .", "option1": "Ngā tārua o tā mātou pānui", "option2": "nga tūru", "answer": "1"}
+{"sentence": "I tūmanako mātou ki te whakatakoto i ngā tārua o tā mātou pānui ki runga i ngā tūru katoa i te whare whakaminenga, engari he nui rawa ngā _ .", "option1": "nga tūru", "option2": "Ngā tārua o tā mātou pānui", "answer": "1"}
+{"sentence": "I purua e au he pine ki roto i te kāreti. I taku unu i te pine ki waho, _ ka mahue he rua.", "option1": "Taro", "option2": "te pine", "answer": "2"}
+{"sentence": "I purua e au he pine ki roto i te kāreti. I taku unutanga atu i te pine, _ he rua.", "option1": "Taro", "option2": "te pine", "answer": "1"}
+{"sentence": "Kāore i kitea e au he koko, nā reira i ngana ahau ki te whakamahi i te pene hei whakaoho i taku kawhe. Engari i puta he ariā kino tērā, nā te mea kī tonu te _ i te waituhi.", "option1": "kawhe", "option2": "pene", "answer": "1"}
+{"sentence": "Ka whai a Steve i te tauira a Fred i ngā mea katoa. _ e tino mīharo ana ki a ia.", "option1": "Pātata", "option2": "Tīpene", "answer": "2"}
+{"sentence": "Ka whai a Steve i te tauira a Fred i ngā mea katoa. _ he tino whakaawe i a ia.", "option1": "Tīpene", "option2": "Pātata", "answer": "2"}
+{"sentence": "Kaore te tēpu e uru ki te tatau nā te mea he whānui rawa te _.", "option1": "te kuwaha", "option2": "Te ripanga", "answer": "2"}
+{"sentence": "Kaore te tēpu e uru ki roto i te tatau nā te mea he whāiti rawa te _.", "option1": "Te ripanga", "option2": "te kuwaha", "answer": "2"}
+{"sentence": "I hari a Grace ki te whakawhiti i tana werawera mo taku koti. E whakaaro ana a ia _ e āhua mārire ana ki a ia.", "option1": "Koti", "option2": "werawera", "answer": "2"}
+{"sentence": "I hari a Grace ki te whakawhiti i tana werawera mo taku koti. E whakaaro ana a ia _ he tino pai te āhua ki a ia.", "option1": "werawera", "option2": "Koti", "answer": "2"}
+{"sentence": "I utua e Hoani a Pire hei tiaki i a _ .", "option1": "John", "option2": "Pire", "answer": "1"}
+{"sentence": "I utua e Hoani a ia ki a Pire hei tiaki i a _ .", "option1": "John", "option2": "Pire", "answer": "2"}
+{"sentence": "Ko te haurongo a Sam Goodman o te tianara o Spartan Xenophanes e whakaatu ana i te āhua mārama o ngā uauatanga _ i anga ki ana rangahau.", "option1": "Te Tangata Pai", "option2": "Xenophanes", "answer": "1"}
+{"sentence": "Ko te haurongo a Sam Goodman o te tianara o Spartan Xenophanes e whakaatu ana i te āhua mārama o ngā uauatanga _ i tūpono ki tōna tamarikitanga.", "option1": "Te Tangata Pai", "option2": "Xenophanes", "answer": "2"}
+{"sentence": "Ka patoto a Jane i te tatau o Susan engari _ kāore i whakautu.", "option1": "Susana", "option2": "Jane", "answer": "1"}
+{"sentence": "Kaore a Peti i riri ki a Sally, nāna ia i tapahi, nā te mea ka tū a _ ka tatau ki te tekau.", "option1": "Pete", "option2": "Sally", "answer": "1"}
+{"sentence": "Ka tohu atu a Hēmi ki te kaitiaki, a, ka tohu atu ki _ karaehe wātea", "option1": "te kaihoko", "option2": "Hēmi", "answer": "2"}
+{"sentence": "I mau a Dan i te tūru o muri i te wā i tono a Bill i mua nā te mea he pōturi te _ \"Dibs!\"", "option1": "Rana", "option2": "Pire", "answer": "1"}
+{"sentence": "Ka kī atu a Tom \"Tirohia\" ki a Ralph i a ia e neke ana _ pīhopa.", "option1": "Ralph", "option2": "Tom", "answer": "2"}
+{"sentence": "I te haerenga atu o Andrea i roto i te puehu poro i runga i a Susan, ka kite a _ i te pae taunga.", "option1": "Susana", "option2": "Anaana", "answer": "2"}
+{"sentence": "I te haerenga atu o Andrea i roto i te puehu poro i runga i a Susan, ka kite a _ i te taputapu taunga.", "option1": "Anaana", "option2": "Susana", "answer": "2"}
+{"sentence": "Ka hoatu e Pire te pereti haurua wātea ki a Hoani nā te mea kua kī a _.", "option1": "John", "option2": "Pire", "answer": "2"}
+{"sentence": "Ka hoatu e Pire te pereti haurua wātea ki a Hoani nā te mea i hiakai a _.", "option1": "Pire", "option2": "John", "answer": "2"}
+{"sentence": "Ka tukuna atu e Pire te kaitākaro ki a Hoani nā te mea ko te hurihanga _ i muri mai.", "option1": "Pire", "option2": "John", "answer": "2"}
+{"sentence": "I a Ollie e kawe ana i a Tommy ki runga i ngā kaupae hurihuri roa, _ ka mamae ngā waewae.", "option1": "Ollie", "option2": "Tommy", "answer": "1"}
+{"sentence": "I a Ollie e kawe ana i a Tommy ki runga i ngā kaupae hurihuri roa, _ ka tārewa ngā waewae.", "option1": "Ollie", "option2": "Tommy", "answer": "2"}
+{"sentence": "Ka kawea e te pāpā te tamaiti e moe ana i roto i ngā ringa _", "option1": "Te matua", "option2": "tama", "answer": "1"}
+{"sentence": "Ka puritia e te wahine te kōtiro ki te pouaka _", "option1": "Te wahine", "option2": "Te kōtiro", "answer": "1"}
+{"sentence": "Ka puritia e te wahine te kōtiro ki te _ hiahia.", "option1": "Te kōtiro", "option2": "Te wahine", "answer": "1"}
+{"sentence": "I whakamōhio atu a Dr. Adams ki a Kate kua haere a _, ā, he maha ngā kōwhiringa mō te rongoā ā muri ake.", "option1": "Kate", "option2": "Tākuta Arama", "answer": "2"}
+{"sentence": "Me aukati a Dan i a Bill kia kaua e tākaro i te manu i whara. He tino aroha a _.", "option1": "Rana", "option2": "Pire", "answer": "1"}
+{"sentence": "Me aukati a Dan i a Bill kia kaua e tākaro i te manu i whara. He tino nanakia te _.", "option1": "Rana", "option2": "Pire", "answer": "2"}
+{"sentence": "I whiwhi tīkiti koreutu a Hōri ki te whakaari, engari i hoatu e _ ki a Eric, ahakoa i tino hiahia ia ki te kite.", "option1": "Erika", "option2": "Hōri", "answer": "2"}
+{"sentence": "I whiwhi tīkiti koreutu a Hōri ki te tākaro, engari _ i hoatu ki a Eric, nā te mea i tino hiahia ia ki te kite.", "option1": "Hōri", "option2": "Erika", "answer": "2"}
+{"sentence": "I whiwhi tīkiti koreutu a Hōri ki te tākaro, engari _ i hoatu ki a Eric, nā te mea kāore a ia i tino hiahia ki te kite.", "option1": "Erika", "option2": "Hōri", "answer": "2"}
+{"sentence": "Ka hoatu e Jane he reka ki a Joan nā te mea _ kāore i hiakai.", "option1": "Jane", "option2": "Hoana", "answer": "1"}
+{"sentence": "Ka hoatu e Jane he reka ki a Joan nā te mea i hiakai a _.", "option1": "Hoana", "option2": "Jane", "answer": "1"}
+{"sentence": "I whakamātau ahau ki te peita i tētahi pikitia o tētahi māra rākau, me ngā rēmana i roto i ngā rākau rēmana, engari _ i puta mai he rite ki ngā pūrama.", "option1": "rakau rēmana", "option2": "rēmana", "answer": "2"}
+{"sentence": "I whakamātau ahau ki te peita i tētahi pikitia o tētahi māra rākau, me ngā rēmana i roto i ngā rākau rēmana, engari _ i puta mai he rite ki ngā pou waea.", "option1": "rakau rēmana", "option2": "rēmana", "answer": "1"}
+{"sentence": "I tono a Hemi ki a Robert mō tētahi manakohanga, engari _ i whakakahore.", "option1": "Robert", "option2": "Hemi", "answer": "1"}
+{"sentence": "Kaore a Emma i tuku i te pōro ki a Janie ahakoa kei te tuwhera a _.", "option1": "E Hēni", "option2": "Emma", "answer": "1"}
+{"sentence": "I purua e au te parirau pepe ki runga i te tēpu, a, _ pakaru.", "option1": "parirau pepe", "option2": "te ripanga", "answer": "1"}
+{"sentence": "I purua e au te pukapuka taumaha ki runga i te tēpu, a, _ pakaru.", "option1": "te ripanga", "option2": "Te Pukapuka Taumaha", "answer": "1"}
+{"sentence": "I panaia e Madonna tana kaiwhakaako nā te mea kāore i taea e _ tana hoa tāne.", "option1": "Madonna", "option2": "kaiwhakangungu", "answer": "1"}
+{"sentence": "I whakapono a Carol kua whakapae a Rebecca kua tāhaetia e _ te wati.", "option1": "Waiata", "option2": "Rebecca", "answer": "1"}
+{"sentence": "I kimi a Alice i tana hoa ko Jade i roto i te huihuinga. I te mea he waimarie tonu a _, ka tere te kite a Alice i a ia.", "option1": "Ariki", "option2": "Jade", "answer": "1"}
+{"sentence": "I te wā o tētahi kēmu tūtohu, ka whaia e Etana a Luke nā te mea ko _ \"tērā\".", "option1": "Etana", "option2": "Luka", "answer": "1"}
+{"sentence": "I te wā o tētahi kēmu tūtohu, ka oma a Etana i a Luke nā te mea ko _ \"tērā\".", "option1": "Luka", "option2": "Etana", "answer": "1"}
+{"sentence": "I te whakataetae Loebner kāore i taea e ngā kaiwhakawā te mōhio ko ēhea ngā kaiwhakautu nā te mea he tino heahea te _.", "option1": "ngā kōrerorero", "option2": "nga kaiwhakawa", "answer": "2"}
+{"sentence": "I te whakataetae Loebner kāore i taea e ngā kaiwhakawā te mōhio ko ēhea ngā kaiwhakautu nā te mea he tino hōhonu rawa te _.", "option1": "nga kaiwhakawa", "option2": "ngā kōrerorero", "answer": "2"}
+{"sentence": "Kua haere mai nga whaea o Arthur raua ko Celeste ki te taone ki te tiki _. E tino hari ana rātau ki te whakahoki mai i a rātau, engari he rite tonu ta rātau kohete i a rātau nā te mea i oma atu rātau.", "option1": "whaea", "option2": "Arthur raua ko Celeste", "answer": "2"}
+{"sentence": "I tata a Mark ki ngā rekereke o Tāne Kaiwaiata. _ i rongo i a ia e karanga ana ki te kāpene, me te kī taurangi ki a ia, i roto i te kupu kōrero a te katoa i taua pō, kia kaua tētahi mea e pakaru i runga i te kaipuke, engari ko te kāpene me ana kaimahi katoa me noho ki roto i te rūma kia mutu rā anō te mahi", "option1": "Tohu", "option2": "Tāne Kaiwaiata", "answer": "1"}
+{"sentence": "He pai te whanonga o te poni, e tā, ā, kāore i whakaaturia he kino; engari i te mutunga ka whiua e ia ōna rekereke, ka whiua te taitama ki roto i te taiepa tataramoa. _ i hiahia ahau ki te āwhina i a ia, engari ko taku tūmanako ka whakawāteatia ahau e koe, e tā, kāore au i hiahia ki te mahi pēnā.", "option1": "poni", "option2": "taitama", "answer": "2"}
+{"sentence": "Ko te haurongo a Sam Goodman o te tianara o Spartan Xenophanes e whakaatu ana i te āhua mārama o ngā uauatanga _ i tūpono ki tōna tamarikitanga.", "option1": "Te Tangata Pai", "option2": "Xenophanes", "answer": "2"}
+{"sentence": "I utua e Bob te mātauranga kāreti o Charlie, engari ināianei ka mahi a Charlie me te mea kāore anō kia puta. _ he tino mamae.", "option1": "Charlie", "option2": "Bob", "answer": "2"}
+{"sentence": "I tango a Sam i ngā akoranga Wīwī mai i a Arama , nā te mea i hiahia a _ ki te kōrero matau.", "option1": "Arama", "option2": "Hamu", "answer": "2"}
+{"sentence": "Ka kainga e te ika te kutukutu. _ he reka.", "option1": "Te ika", "option2": "te kutukutu", "answer": "2"}
+{"sentence": "E miharo ana a Babar me pēhea e whiwhi kākahu hou ai te _. Waimarie, ko tētahi koroua tino rangatira e aroha ana ki ngā arewhana iti i ngā wā katoa e mārama ana kei te hiahia ia ki tētahi hūtu pai. I a ia e pai ana ki te whakahari i te tangata, ka hoatu e ia tana kopa ki a ia.", "option1": "koroua", "option2": "Papara", "answer": "1"}
+{"sentence": "I tapaina te kaiwhakaari ko Terpsichore , engari i huri ia _ ki a Tina i ngā tau tata nei, nā te mea i whakaaro ia he ngāwari kē atu te whakahua.", "option1": "Tina", "option2": "Terpsichore", "answer": "1"}
+{"sentence": "Ka hipokina e Fred ōna whatu ki ōna ringa , nā te mea e pupuhi ana te hau i te kirikiri. Ka whakahekea e ia _ i te mutunga o te hau.", "option1": "ōna whatu", "option2": "ona ringaringa", "answer": "2"}
+{"sentence": "I a Andrea i roto i te puehu poro e haere ana i runga i a Susan , _ ka kite i te pae taunga.", "option1": "Susana", "option2": "Anaana", "answer": "2"}
+{"sentence": "E takoto ana te poti i te taha o te rua kiore e tatari ana ki te kiore , engari _ i tūpato rawa.", "option1": "te kiore", "option2": "Te poti", "answer": "1"}
+{"sentence": "Kei te whakarau a Lionel i tētahi kaipūtaiao, a Dr. Vardi , nāna i waihanga tētahi pūrere e huri ana i ngā kararehe e kore e kitea; Ka whakaaro a Lionel ki te whakamahi i runga i a Geoffrey me te tuku _ ki te tāhae i ngā rawa karihi i tētahi taupoki taua.", "option1": "Raiona", "option2": "Kiriata", "answer": "2"}
+{"sentence": "Kei te whakarau a Lionel i tētahi kaipūtaiao, a Dr. Vardi , nāna i waihanga tētahi pūrere e huri ana i ngā kararehe e kore e kitea; Ka whakaaro a Lionel ki te whakamahi i runga i a Geoffrey me te tuku _ ki te tāhae i ngā rawa karihi i tētahi taupoki taua.", "option1": "Dr. Vardi", "option2": "Kiriata", "answer": "2"}
+{"sentence": "I utua e Bob te mātauranga kāreti o Charlie. _ he tino ohaoha.", "option1": "Charlie", "option2": "Bob", "answer": "2"}
+{"sentence": "Ko ngā pātene katoa i muri o te kākahu kōpikopiko o Dora i pātene ki waho. Ko te tikanga kua whakaaro a Maude ki te pātene i a ia; engari kaore, _ i waiho e Dora iti rawakore ki te mahi i te pai e taea e ia, ko ia anake.", "option1": "Dora", "option2": "Maude", "answer": "1"}
+{"sentence": "Kotahi tonu te mea i tino mōhio ai a Mark. He iti iho te mōhio o Harry i te _.", "option1": "Hēhi", "option2": "Tohu", "answer": "2"}
+{"sentence": "I haere atu ahau ki te kai , he nui ake te wā i te mea i hiahia ahau ki te _ .", "option1": "Te wā", "option2": "kai", "answer": "2"}
+{"sentence": "Ko Fred anake te tangata e ora tonu ana e maumahara ana ki taku tipuna tupuna . He tangata whakamīharo a _.", "option1": "Pātata", "option2": "tōku tipuna tipuna", "answer": "2"}
+{"sentence": "Ka whakatau taku rangatira me taku rangatira rangatira ki te toro atu ki ētahi hoa e noho ana i te whā tekau mā ono maero mai i tō mātou kāinga, ā, ko Hemi te taraiwa _ .", "option1": "etahi hoa", "option2": "rangatira", "answer": "2"}
+{"sentence": "Ka patoto a Jane i te tatau o Susan engari _ kaore i whakautu.", "option1": "Jane", "option2": "Susana", "answer": "2"}
+{"sentence": "Kai te uru mai nga pokiha i te pō me te whakaeke i nga pīkaokao. _ kua tino maia.", "option1": "ngā pīkaokao", "option2": "Nga pokiha", "answer": "2"}
+{"sentence": "Ko Fred anake te tangata e ora tonu ana e maumahara ana ki taku tipuna tupuna . He tangata whakamīharo a _.", "option1": "Pātata", "option2": "tōku tipuna tipuna", "answer": "1"}
+{"sentence": "E hiahia ana a Tā Clifford kia kimihia e au he tane hou māna, tata ki te rua tekau, e rua tekau mā tahi rānei, e mōhio ana ki tana mahi. _ Kei te ngoikore te koroua kaiako, a e hiahia ana ia kia mahi tahi tetahi tangata me ia, kia uru ki ona ara, ka taea e ia, ina whakahekea te koroua, ki te haere ki tona wahi.", "option1": "Tā Clifford", "option2": "tane hou", "answer": "1"}
+{"sentence": "I haere a Thomson ki te urupa o Cooper i te tau 1765. I taua rā _ e rima tau e haere ana.", "option1": "Thomson", "option2": "Kupa", "answer": "1"}
+{"sentence": "Ka rongo a Mark i ngā waewae o Steve e heke ana i te arawhata. Ka katia te tatau o te toa i muri i te _ . Ka oma atu a ia ki te titiro atu ki waho o te wini.", "option1": "Tohu", "option2": "Tīpene", "answer": "2"}
+{"sentence": "I whiwhi tīkiti koreutu a Hōri ki te tākaro, engari _ i hoatu ki a Erika , nā te mea i tino hiahia ia ki te kite.", "option1": "Erika", "option2": "Hōri", "answer": "1"}
+{"sentence": "Ka patoto a Jane i te tatau o Susan, engari kaore he whakautu. I matekiri a _.", "option1": "Jane", "option2": "Susana", "answer": "1"}
+{"sentence": "I haere a Thomson ki te urupa o Cooper i te tau 1765. I taua rā _ kua mate mo te rima tau.", "option1": "Kupa", "option2": "Thomson", "answer": "1"}
+{"sentence": "E miharo ana a Pabar me pēhea e whiwhi kākahu hou ai ia. Waimarie, ko tētahi koroua tino rangatira e aroha ana ki ngā arewhana iti i ngā wā katoa e mārama ana kei te hiahia ia ki tētahi hūtu pai. I a ia e pai ana ki te whakahari i te tangata, ka hoatu e ia ki a ia te _ putea.", "option1": "koroua", "option2": "Papara", "answer": "1"}
+{"sentence": "I haere mātau ki te roto , nā te mea i kitea he mangō i te one moana , nā reira _ he wāhi haumaru ake ki te kauhoe.", "option1": "te roto", "option2": "Te one moana", "answer": "1"}
+{"sentence": "Ka tono a Haihana Holmes ki nga kōtiro kia whakaahua i te maoho . Ehara i te mea i hoatu e Nancy ki te pirihimana he whakaahuatanga tino pai mo te kaihīkoi taumaha e toru tekau tau, engari i tātuhia he tātuhi taratara o te kanohi _.", "option1": "Haihana Holmes", "option2": "te maoho", "answer": "2"}
+{"sentence": "Kai te uru mai nga pokiha i te pō me te whakaeke i nga pīkaokao. _ kua tino āmaimai.", "option1": "Nga pokiha", "option2": "ngā pīkaokao", "answer": "2"}
+{"sentence": "Kua haere mai nga whaea o Arthur raua ko Celeste ki te taone ki te tiki i a raua. _ e tino hari ana ki te whakahoki mai i a rātau, engari he rite tonu ta rātau kohete i a rātau nā te mea i oma atu rātau.", "option1": "Arthur raua ko Celeste", "option2": "whaea", "answer": "2"}
+{"sentence": "Ka whārōrō _ ki muri, ka menemene te wahine ki te kōtiro .", "option1": "te wahine", "option2": "Te kōtiro", "answer": "1"}
+{"sentence": "Ko te haurongo a Sam Goodman o te tianara o Spartan Xenophanes e whakaatu ana i te āhua mārama o ngā uauatanga _ i anga ki ana rangahau.", "option1": "Xenophanes", "option2": "Te Tangata Pai", "answer": "2"}
+{"sentence": "I te taenga atu o Tatyana ki te rūma, e moe ana tōna whaea. I tūpato a _ kia kaua e whakararuraru i a ia, ka wetewete i ngā kākahu, ka piki anō ki tōna moenga.", "option1": "whaea", "option2": "Tatyana", "answer": "2"}
+{"sentence": "I mōhio a Susan kua aituā te tama a Ann, nā te mea i kōrero a _ ki a ia.", "option1": "Susana", "option2": "Ana", "answer": "2"}
+{"sentence": "Kua haere mai nga whaea o Arthur raua ko Celeste ki te taone ki te tiki i a raua. E tino hari ana rātau ki te whakahoki mai i a rātau, engari _ kohetetia rātau i te mea i oma atu rātau.", "option1": "whaea", "option2": "Arthur raua ko Celeste", "answer": "2"}
+{"sentence": "E whakaaro ana koe ko Pita te kawenga mo te mate o te kāpene? Tērā pea _ i whakapati i te tunu kai kia purua he mea ki roto i ana kai.", "option1": "Pita", "option2": "te kāpene", "answer": "1"}
+{"sentence": "I hopukina e nga pirihimana nga mema rōpū katoa. _ e ngana ana ki te whakamutu i te hokohoko rongoā i te rohe.", "option1": "Ngā pirihimana", "option2": "nga mema o te rōpū", "answer": "1"}
+{"sentence": "I tangohia e Sam ngā akoranga Wīwī mai i a Arama , nā te mea i mōhiotia a _ ki te kōrero matatau i a ia.", "option1": "Arama", "option2": "Hamu", "answer": "1"}
+{"sentence": "Kua haere mai nga whaea o Arthur raua ko Celeste ki te taone ki te tiki _ . E tino hari ana rātau ki te whakahoki mai i a rātau, engari he rite tonu ta rātau kohete i a rātau nā te mea i oma atu rātau. ratou .", "option1": "Arthur raua ko Celeste", "option2": "whaea", "answer": "1"}
+{"sentence": "I tono ahau ki a Dave kia tikina mai taku werawera i tērā taha o te tīwai . I a ia e haere ana, ka okioki taku ringa ki runga i te kaupae i reira, a, ohorere ana _ ka tuku.", "option1": "Ara tereina", "option2": "waka waka", "answer": "1"}
+{"sentence": "I tono ahau ki a Dave kia tikina mai taku werawera i tērā taha o te tīwai . I a ia e haere ana, ka okioki taku ringa ki runga i te kaupae i reira, a, ohorere ana _ ka tuku.", "option1": "Ara tereina", "option2": "werawera", "answer": "1"}
+{"sentence": "I tono ahau ki a Dave kia tikina mai taku werawera i tērā taha o te tīwai . I a ia e haere ana, ka okioki taku ringa ki runga i te kaupae i reira, a, ohorere ana _ ka tuku.", "option1": "Ara tereina", "option2": "ringa", "answer": "1"}
+{"sentence": "He tino mahana nga koti o Fred raua ko Alice , engari _ kaore i ranea mo te makariri i Alaska.", "option1": "Fred rāua ko Alice", "option2": "koti", "answer": "2"}
+{"sentence": "Ahakoa i mua i to rātau taenga atu ki te taone , ka rongo rātau i te tangi pēnei i te kānga e pahū ana. Ka pātai atu a Dora he aha te _, a, ka kī a Pāpā he mumura.", "option1": "taone", "option2": "Oro", "answer": "2"}
+{"sentence": "Ahakoa i mua i to rātau taenga atu ki te taone , ka rongo rātau i te tangi pēnei i te kānga e pahū ana. Ka pātai atu a Dora he aha te _, a, ka kī a Pāpā he mumura.", "option1": "kānga", "option2": "Oro", "answer": "2"}
+{"sentence": "E whai ana a Steve i te tauira a Fred i roto i nga mea katoa. _ he tino whakaawe i a ia.", "option1": "Tīpene", "option2": "Pātata", "answer": "2"}
+{"sentence": "I tapaina te kaiwhakaari ko Terpsichore , engari i huri ia _ ki a Tina i ngā tau tata nei, nā te mea i whakaaro ia he uaua rawa te whakahua.", "option1": "Terpsichore", "option2": "Tina", "answer": "1"}
+{"sentence": "I whiwhi tīkiti koreutu a Hōri ki te tākaro, engari _ i hoatu ki a Erika , ahakoa i tino hiahia ia ki te kite.", "option1": "Erika", "option2": "Hōri", "answer": "2"}
+{"sentence": "Kāore i taea e nga kaipōrangapū tawhiti i Washington te mōhio ki nga tangata noho kia whakaritea ai e rātau he ture hei whakarite _ .", "option1": "tangata noho", "option2": "kaitōrangapū", "answer": "1"}
+{"sentence": "Ka kainga e te ika te kutukutu. _ i hiakai.", "option1": "te kutukutu", "option2": "Te ika", "answer": "2"}
+{"sentence": "I muri iho i tētahi kōrerorero roa, ka whakamōhio a Nancy ki te kaitiaki whare kāore he take wawe mō te whakaoho. _ kāore i kōrero i te mahi i te teihana pahi o Hamilton, i te mōhiotanga ka tāpiri noa iho ki te āwangawanga o Whaea Gruen.", "option1": "Nancy", "option2": "te kaitiaki whare", "answer": "1"}
+{"sentence": "Ka whaia e te kurī te poti , ka oma ki runga i te rākau. _ e tatari ana i raro.", "option1": "Te kurī", "option2": "te poti", "answer": "1"}
+{"sentence": "E takoto ana te poti i te taha o te rua kiore e tatari ana ki te kiore , engari _ i te manawanui rawa.", "option1": "te kiore", "option2": "Te poti", "answer": "2"}
+{"sentence": "Ehara i te mea ngāwari ki te mokowā i ngā pātene i te tawhiti ōrite, ā, _ he tino uaua ki te tapahi i te rahi tika . Mā te horo iti rawa o te kutikuti ka nui rawa te rua, ā, ahakoa kotahi te miro kāore i tapahia, ka iti rawa.", "option1": "horo", "option2": "kohao", "answer": "2"}
+{"sentence": "Ehara i te mea ngāwari ki te mokowā i ngā pātene i te tawhiti ōrite, ā, _ he tino uaua ki te tapahi i te rahi tika . Mā te horo iti rawa o te kutikuti ka nui rawa te rua, ā, ahakoa kotahi te miro kāore i tapahia, ka iti rawa.", "option1": "kohao", "option2": "te kutikuti", "answer": "1"}
+{"sentence": "Ehara i te mea ngāwari ki te mokowā i ngā pātene i te tawhiti ōrite, ā, _ he tino uaua ki te tapahi i te rahi tika . Mā te horo iti rawa o te kutikuti ka nui rawa te rua, ā, ahakoa kotahi te miro kāore i tapahia, ka iti rawa.", "option1": "kohao", "option2": "te rahi tika", "answer": "1"}
+{"sentence": "I haere mātau ki te roto , nā te mea i kitea he mangō i te one moana , nā reira _ he wāhi mōrearea ki te kauhoe.", "option1": "Te one moana", "option2": "te roto", "answer": "1"}
+{"sentence": "Ka patoto a Jane i te tatau o Susan, engari kaore he whakautu. _ i waho.", "option1": "Susana", "option2": "Jane", "answer": "1"}
+{"sentence": "I mōhio a Susan kua aituā te tama a Ann, nā reira _ i kōrero ki a ia mō taua mea.", "option1": "Susana", "option2": "Ana", "answer": "1"}
+{"sentence": "Mehemea kua tutuki i te kaiwaiata tinihanga a Sam , _ kua ngaro te nui o te moni.", "option1": "Hamu", "option2": "te kaiwaiata tinihanga", "answer": "1"}
+{"sentence": "He tino mahana nga koti o Fred raua ko Alice , engari _ kaore i rite mo te makariri i Alaska.", "option1": "Fred rāua ko Alice", "option2": "koti", "answer": "1"}
+{"sentence": "E whai ana a Steve i te tauira a Fred i roto i nga mea katoa. _ e tino mīharo ana ki a ia.", "option1": "Tīpene", "option2": "Pātata", "answer": "1"}
+{"sentence": "Kai te uru mai nga pokiha i te pō me te whakaeke i nga pīkaokao. Me patu e au _ .", "option1": "Nga pokiha", "option2": "ngā pīkaokao", "answer": "1"}
+{"sentence": "Ka rongo a Mark i ngā waewae o Steve e heke ana i te arawhata. Ka kati te tatau o te toa i muri i a ia. _ oma ki te titiro atu ki waho o te matapihi.", "option1": "Tohu", "option2": "Tīpene", "answer": "1"}
+{"sentence": "I a Andrea i roto i te puehu poro e haere ana i runga i a Susan , _ ka kite i te taputapu taunga.", "option1": "Susana", "option2": "Anaana", "answer": "1"}
+{"sentence": "Kai te uru mai nga pokiha i te pō me te whakaeke i nga pīkaokao. Me tiaki ahau _ .", "option1": "ngā pīkaokao", "option2": "Nga pokiha", "answer": "1"}
+{"sentence": "I noho ahau i reira me te āhua o te kōpikopiko i pānuitia e au i roto i tētahi pukapuka , nāna i kōhuru tētahi atu kokoru me te huna i te tinana i raro i te tēpu o te rūma kai , kātahi ka noho hei oranga me te wairua o tētahi hākari hapa, me _ i reira i ngā wā katoa.", "option1": "Pukapuka", "option2": "tinana", "answer": "2"}
+{"sentence": "I noho ahau i reira me te āhua o te kōpikopiko i pānuitia e au i roto i tētahi pukapuka , nāna i kōhuru tētahi atu kokoru me te huna i te tinana i raro i te tēpu o te rūma kai , kātahi ka noho hei oranga me te wairua o tētahi hākari hapa, me _ i reira i ngā wā katoa.", "option1": "tinana", "option2": "ripanga", "answer": "1"}
+{"sentence": "I noho ahau i reira me te āhua o te kōpikopiko i pānuitia e au i roto i tētahi pukapuka , nāna i kōhuru tētahi atu kokoru me te huna i te tinana i raro i te tēpu o te rūma kai , kātahi ka noho hei oranga me te wairua o tētahi hākari hapa, me _ i reira i ngā wā katoa.", "option1": "tinana", "option2": "ora me te wairua", "answer": "1"}
+{"sentence": "Ka whaia e te kurī te poti , ka oma ki runga i te rākau. _ e tatari ana i runga.", "option1": "Te kurī", "option2": "te poti", "answer": "2"}
+{"sentence": "Ko te wāhi tuatahi e maumahara ana ahau he pātītī nui me te hāroto wai mārama i _ . Ka piko mai ētahi rākau marumaru", "option1": "hāroto", "option2": "pātītī", "answer": "1"}
+{"sentence": "I ngā wā katoa i mua, i āwhina a Larry i a Pāpā ki te _ mahi. Engari kāore i taea e ia te āwhina i a ia ināianei, nā te mea i kī a Pāpā kāore tōna rangatira i te kamupene rerewhenua e hiahia kia mahi tētahi atu tangata i te tari.", "option1": "Papa", "option2": "Larry", "answer": "1"}
+{"sentence": "I āraia te ara ki te roto, nā reira kāore i taea e mātou te whakamahi i te _ .", "option1": "te roto", "option2": "Te ara", "answer": "2"}
+{"sentence": "I tēnei wā, i roto i te ngahere, kei te karanga ngā arewhana me te whai i te tiketike, i te pāpaku hoki mō Arthur rāua ko Celeste , ā, kei te tino māharahara o rāua whaea. Waimarie, i a ia e rere ana i runga i te taone, kua kite tētahi manu marabou tawhito _ ā, ka hoki wawe mai ki te kōrero i te rongo.", "option1": "o ratou whaea", "option2": "Arthur raua ko Celeste", "answer": "2"}
+{"sentence": "I tēnei wā, i roto i te ngahere, kei te karanga ngā arewhana me te whai i te tiketike, i te pāpaku hoki mō Arthur rāua ko Celeste , ā, kei te tino māharahara o rāua whaea. Waimarie, i a ia e rere ana i runga i te taone, kua kite tētahi manu marabou tawhito _ ā, ka hoki wawe mai ki te kōrero i te rongo.", "option1": "nga arewhana", "option2": "Arthur raua ko Celeste", "answer": "2"}
+{"sentence": "I te puehu a Alice i te rūma noho, e ngana ana ki te kimi i te pātene i hunaia e Māmā. Kāore he wā i tēnei rā ki te titiro ki ngā pikitia tawhito i roto i tana pukaemi whakaahua makau . I tēnei rā me kimi pātene ia , nā reira i purua e ia te pukaemi ki runga i te tūru me te kore e whakatuwhera _ .", "option1": "pukaemi", "option2": "tūru", "answer": "1"}
+{"sentence": "I te puehu a Alice i te rūma noho, e ngana ana ki te kimi i te pātene i hunaia e Māmā. Kāore he wā i tēnei rā ki te titiro ki ngā pikitia tawhito i roto i tana pukaemi whakaahua makau . I tēnei rā me kimi pātene ia , nā reira i purua e ia te pukaemi ki runga i te tūru me te kore e whakatuwhera _ .", "option1": "Rūma noho", "option2": "pukaemi", "answer": "2"}
+{"sentence": "I te puehu a Alice i te rūma noho, e ngana ana ki te kimi i te pātene i hunaia e Māmā. Kāore he wā i tēnei rā ki te titiro ki ngā pikitia tawhito i roto i tana pukaemi whakaahua makau . I tēnei rā me kimi pātene ia , nā reira i purua e ia te pukaemi ki runga i te tūru me te kore e whakatuwhera _ .", "option1": "pukaemi", "option2": "Pātuhi", "answer": "1"}
+{"sentence": "I te mea e whakawhirinaki ana a Chester ki a Uncle Vernon , _ kāore i tino pai te mārena ki te kore tana whakaaetanga", "option1": "Matua kēkē Vernon", "option2": "Chester", "answer": "2"}
+{"sentence": "I ngā wā katoa i mua, i āwhina a Larry i a Papa i tana mahi. Engari kāore i taea e _ te āwhina i a ia ināianei, i kī hoki a Pāpā kāore tōna rangatira i te kamupene rerewhenua e hiahia kia mahi tētahi atu tangata engari ko ia anake ki te tari.", "option1": "Larry", "option2": "Papa", "answer": "1"}
+{"sentence": "I ngā wā katoa i mua, i āwhina a Larry i a Papa i tana mahi. Engari kāore i taea e ia te āwhina _ ināianei, nā te mea i kī a Pāpā kāore tōna rangatira i te kamupene rerewhenua e hiahia kia mahi tētahi atu tangata engari ko ia anake ki te tari.", "option1": "Larry", "option2": "Papa", "answer": "2"}
+{"sentence": "I tino aroha te katoa ki ngā pihikete oatmeal ; He torutoru noa iho ngā tāngata i pīrangi ki ngā pihikete tiakarete . Hei tērā wā, me nui ake tātau i te _ .", "option1": "nga pihikete oatmeal", "option2": "Nga Pihikete Tiakarete", "answer": "1"}
+{"sentence": "I ia rā i muri i te hapa ka moe roa a Tāne Schmidt. Ka tukua ia e Mark kia moe mō te haora, kātahi ka whakaoho, ka kohete, ka tiki i a ia ki te mahi. I hiahia ia ki te whakaoti i a ia _ mahi, no te mea he ātaahua tana mahi", "option1": "Tohu", "option2": "Tāne Schmidt", "answer": "2"}
+{"sentence": "Ka titiro whakararo a Papa ki ngā kanohi o ngā tamariki , i te pōhēhētanga, i te pouri ināianei. He kino rawa te whakahēnga i a rātau i te maha o ngā mea nā te mea kāore i taea e ia te utu _ .", "option1": "kanohi", "option2": "mea", "answer": "2"}
+{"sentence": "Ka titiro whakararo a Papa ki ngā kanohi o ngā tamariki , i te pōhēhētanga, i te pouri ināianei. He kino rawa te whakahēnga i a rātau i te maha o ngā mea nā te mea kāore i taea e ia te utu _ .", "option1": "mea", "option2": "tamariki", "answer": "1"}
+{"sentence": "I āraia te ara ki te roto, nā reira kāore i taea e mātou te tae atu ki _.", "option1": "te roto", "option2": "Te ara", "answer": "1"}
+{"sentence": "Kāore a Pārera , kāore anō kia kōrero ki te mana kāwanatanga _ he iti iho i te 21 i tana tāpaetanga mō tētahi kerēme kāinga, kāore i whakaaro kua mahia e ia tētahi mea tinihanga. Ahakoa rā, ko te tangata e mōhio ana he 19 ona tau, ka taea e ia te tango i tana kerēme i a ia.", "option1": "te mana o te kawanatanga", "option2": "Pārera", "answer": "2"}
+{"sentence": "I tētahi rā e whakatoi ana a Tiki i ngā kuao, ā, kāore i mōhio kei te mara tērā te rangatira; engari i reira a _, e mātakitaki ana i ngā mea e haere ana; i runga i te taiepa ka peke atu ia, a, ka mau i te ringa o Tiki, ka kaha tana patu i a ia, a, ka hamama ia i te mamae me te ohorere.", "option1": "Tiki", "option2": "te rangatira", "answer": "2"}
+{"sentence": "I noho nga kaitiaki toa ki te taone ki te whakahaere i a rātau toa, a, ka noho i roto i nga rūma i muri i _ .", "option1": "rūma", "option2": "pātaka", "answer": "2"}
+{"sentence": "I noho nga kaitiaki toa ki te taone ki te whakahaere i a rātau toa, a, ka noho i roto i nga rūma i muri i _ .", "option1": "pātaka", "option2": "kaitiaki toa", "answer": "1"}
+{"sentence": "I ia rā i muri i te hapa ka moe roa a Tāne Schmidt. Ka tukua ia e Mark kia moe mō te haora, kātahi ka whakaoho, ka kohete, ka tiki i a ia ki te mahi. _ i hiahia ki te whakaoti i a ia i tana mahi, no te mea he ātaahua tana mahi", "option1": "Tohu", "option2": "Tāne Schmidt", "answer": "1"}
+{"sentence": "Ka tau te pī ki runga i te putiputi nā te mea _ i hiahia haehae.", "option1": "putiputi", "option2": "Te pī", "answer": "2"}
+{"sentence": "Ka hāparangi te atekōkiri pahi ki tētahi tamaiti i muri i te _ whati i te matapihi.", "option1": "he tamaiti", "option2": "Te atekōkiri pahi", "answer": "1"}
+{"sentence": "I te oma a Jimbo i a Bobbert nā te mea _ he kino te haunga.", "option1": "Bobbert", "option2": "Jimbo", "answer": "1"}
+{"sentence": "I te oma a Jimbo i a Bobbert nā te mea i hiahia a _ ki te haere ki te motokā i te tuatahi.", "option1": "Bobbert", "option2": "Jimbo", "answer": "2"}
+{"sentence": "Ka whakaekea e Jimbo a Bobbert nā te mea kāore i taea e _ te whakahaere i tōna riri.", "option1": "Bobbert", "option2": "Jimbo", "answer": "2"}
+{"sentence": "I mataku a Jimbo i a Bobbert nā te mea _ ka mataku i ngā tāngata hou.", "option1": "Bobbert", "option2": "Jimbo", "answer": "2"}
+{"sentence": "I mataku a Jimbo i a Bobbert nā te mea e oma ana a _ me te tao toto.", "option1": "Bobbert", "option2": "Jimbo", "answer": "1"}
+{"sentence": "Ka kainga e te manu te porohita, a, _ ka pakaru.", "option1": "te porohita", "option2": "Te manu", "answer": "1"}
+{"sentence": "I horoia e Meri te rūma o Susan, ā, _ i whakawhetai.", "option1": "Susana", "option2": "Meri", "answer": "1"}
+{"sentence": "E kai ana ngā raiona i te zebra nā te mea _ he kaiwhaiwhai.", "option1": "hepera", "option2": "Raiona", "answer": "2"}
+{"sentence": "E kai ana ngā raiona i te zebra nā te mea he mīti te _.", "option1": "hepera", "option2": "Raiona", "answer": "1"}
+{"sentence": "I whakahē te kaiako i te kaitākaro nā te mea kāore a _ i piri ki te hanganga o te tīma.", "option1": "Te kaiako", "option2": "te kaitākaro", "answer": "2"}
+{"sentence": "I whakahē te kaiako i te kaitākaro nā te mea _ i kī mārama ki te katoa kia kaua e whati i te hanganga o te tīma.", "option1": "te kaitākaro", "option2": "Te kaiako", "answer": "2"}
+{"sentence": "I tono a Hemi ki a Robert mō tētahi manakohanga, engari _ i whakakahore.", "option1": "Hemi", "option2": "Robert", "answer": "2"}
+{"sentence": "I tono a Hemi ki a Robert mo te manakohanga, engari _ i whakakahoretia.", "option1": "Robert", "option2": "Hemi", "answer": "2"}
+{"sentence": "Kāore te kaiako i tūtohu i a William nā te mea ehara a _ i te ākonga pai.", "option1": "Te kaiako", "option2": "Wiremu", "answer": "2"}
+{"sentence": "Kāore te kaiako i tūtohu i a William nā te mea he nui ngā paerewa o _.", "option1": "Te kaiako", "option2": "Wiremu", "answer": "1"}
+{"sentence": "I kī te ahorangi e māka ana i te pepa a te ākonga he heahea te _.", "option1": "te ākonga", "option2": "Te ahorangi", "answer": "1"}
+{"sentence": "I kī te ahorangi e māka ana i te pepa a te ākonga e _ i aroha.", "option1": "te ākonga", "option2": "Te ahorangi", "answer": "2"}
+{"sentence": "Ka riri a Jeremy i a Justin kia taea ai e _ te puta atu i te rūma.", "option1": "Pirihitini", "option2": "Heremi", "answer": "1"}
+{"sentence": "I riri a Jeremy i a Justin kia _ ka taea te rūma.", "option1": "Pirihitini", "option2": "Heremi", "answer": "2"}
+{"sentence": "I hinga a Rocky ki a Clubber Lang nā te mea kua rite a _ mo te whawhai.", "option1": "Clubber Lang", "option2": "Pōhatu", "answer": "1"}
+{"sentence": "Ka kihi a Arona i a Rana nā te mea i hiahia a _.", "option1": "Arona", "option2": "Rana", "answer": "1"}
+{"sentence": "Ka kihi a Arona i a Rana nā te mea i hiahia a _ ki a ia.", "option1": "Rana", "option2": "Arona", "answer": "1"}
+{"sentence": "I moe nga tauira i te wā o nga kauhau a te ahorangi nā te mea _ he hōhā.", "option1": "nga kauhau a te ahorangi", "option2": "Ngā ākonga", "answer": "1"}
+{"sentence": "I moe nga tauira i te wā o nga kauhau a te ahorangi nā te mea _ i hōhā.", "option1": "Ngā ākonga", "option2": "nga kauhau a te ahorangi", "answer": "1"}
+{"sentence": "Ka inoi a Derrick ki tana rangatira mo te pikinga engari _ kaore i whiwhi i tētahi.", "option1": "Derrick", "option2": "tōna rangatira", "answer": "1"}
+{"sentence": "Ka inoi a Derrick ki tana rangatira mo te pikinga engari _ kaore i hoatu tētahi.", "option1": "Derrick", "option2": "tōna rangatira", "answer": "2"}
+{"sentence": "Ka whakawāteatia e nga kaiwhakawā te tūponotanga o nga whakapae mo nga haora, engari _ kaore i tae ki te whakataunga.", "option1": "Nga kaiwhakawā", "option2": "nga whakapae", "answer": "1"}
+{"sentence": "Ka whakawāteatia e nga kaiwhakawā te tūponotanga o nga whakapae mo nga haora, engari _ kāore i whiwhi i te whiu mate.", "option1": "nga whakapae", "option2": "Nga kaiwhakawā", "answer": "1"}
+{"sentence": "I whakawaia te rōpū whakatangitangi e te hunga whakarongo nā te mea i tūmanakohia e _ he pēne toka.", "option1": "Te rōpū whakatangitangi", "option2": "te hunga whakarongo", "answer": "2"}
+{"sentence": "I hoatu e Hakopa he moni ki a William nā te mea i hiahiatia e _ ētahi.", "option1": "Hakopa", "option2": "Wiremu", "answer": "2"}
+{"sentence": "I hoatu e Hakopa he moni ki a William nā te mea i hokona e _ te motokā.", "option1": "Hakopa", "option2": "Wiremu", "answer": "1"}
+{"sentence": "I whakamātau a Olivia ki te tohutohu i a Emily, engari _ kāore i hiahiatia.", "option1": "Olivia", "option2": "Emily", "answer": "2"}
+{"sentence": "I whakamātau a Olivia ki te tohutohu i a Emily, engari _ i whakakahoretia.", "option1": "Olivia", "option2": "Emily", "answer": "1"}
+{"sentence": "I haere a Hemi ki te arcade o Sully, engari _ kāore i pai ki te tuku i a ia ki roto.", "option1": "Hemi", "option2": "Sully", "answer": "2"}
+{"sentence": "I whānakotia a Pire e Hoani, nā reira ka hopukina e te āpiha _.", "option1": "John", "option2": "Pire", "answer": "1"}
+{"sentence": "I whānakotia a Pire e Hoani, nā reira i āwhina te āpiha _.", "option1": "John", "option2": "Pire", "answer": "2"}
+{"sentence": "I purua e ia te hukarere ki runga i te kanohi menemene nā te mea i mākū a _.", "option1": "te kanohi menemene", "option2": "Huka", "answer": "2"}
+{"sentence": "I purua e ia te hukarere ki runga i te kanohi menemene nā te mea i maroke a _.", "option1": "Huka", "option2": "te kanohi menemene", "answer": "2"}
+{"sentence": "I tākaro te poti ki te miro nā te mea he ngahau te _.", "option1": "Te poti poti", "option2": "miro", "answer": "2"}
+{"sentence": "I tākaro te poti ki te miro nā te mea i hōhā a _.", "option1": "Te poti poti", "option2": "miro", "answer": "1"}
+{"sentence": "I tapahia e au te rākau ki taku toki nā te mea he roa a _.", "option1": "taku toki", "option2": "te rākau", "answer": "2"}
+{"sentence": "I tapahia e au te rākau ki taku toki nā te mea he koi te _.", "option1": "te rākau", "option2": "taku toki", "answer": "2"}
+{"sentence": "I hinga a Spiderman i a Magnito nā te mea he tangata pai a _.", "option1": "Magnito", "option2": "Pūngāwerewere", "answer": "2"}
+{"sentence": "I hinga a Spiderman i a Magnito nā te mea he tangata kino a _.", "option1": "Pūngāwerewere", "option2": "Magnito", "answer": "2"}
+{"sentence": "Ka whakakeke nga tangata whenua ki te kāwanatanga nā te mea kei te pēhia te _.", "option1": "Nga tangata whenua", "option2": "te kawanatanga", "answer": "1"}
+{"sentence": "I whakakeke nga tangata whenua ki te kāwanatanga nā te mea he kino te _.", "option1": "Nga tangata whenua", "option2": "te kawanatanga", "answer": "2"}
+{"sentence": "He mōhio ake ngā poti i te kurī nā te mea _ ka tau tonu ki runga i o rātau waewae.", "option1": "kurī", "option2": "Poti", "answer": "2"}
+{"sentence": "He mōhio ake ngā poti i te kurī nā te mea _ auau mō te kore take.", "option1": "Poti", "option2": "kurī", "answer": "2"}
+{"sentence": "Ka pā te pōro ki te matapihi, a, ka tapia e Pire _.", "option1": "Te pōro", "option2": "te matapihi", "answer": "2"}
+{"sentence": "Ka pā te pōro ki te matapihi, a, ka mau a Pire i _.", "option1": "te matapihi", "option2": "Te pōro", "answer": "2"}
+{"sentence": "I panaia e Robert a Chris nā te mea kāore i taea e _ te mahi.", "option1": "Pirihi", "option2": "Robert", "answer": "1"}
+{"sentence": "I panaia e Robert a Chris nā te mea _ kua kore e hiahiatia he kaimahi.", "option1": "Pirihi", "option2": "Robert", "answer": "2"}
+{"sentence": "Ka rakuraku a Steve i a Hōne nā te mea i riri a _.", "option1": "Johnny", "option2": "Tīpene", "answer": "2"}
+{"sentence": "Ka rakuraku a Steve i a Hōne, nā reira _ ka riri.", "option1": "Tīpene", "option2": "Johnny", "answer": "2"}
+{"sentence": "Ka oma atu te taitamariki i te koroua nā te mea kei te āhua a _.", "option1": "Te taitamariki", "option2": "te koroua", "answer": "1"}
+{"sentence": "Kei te hokohoko ake ngā kēmu ataata i ngā whitiāhua nā te mea he mea tawhito te _.", "option1": "kiriata", "option2": "Ngā kēmu ataata", "answer": "1"}
+{"sentence": "I hokona e Google a Motorola nā te mea _ e hiahia ana ki tōna pūtake kiritaki.", "option1": "Motorola", "option2": "Google", "answer": "2"}
+{"sentence": "I tinihangatia e Sam a Sally, engari _ kaore i tangi.", "option1": "Sally", "option2": "Hamu", "answer": "1"}
+{"sentence": "I tinihangatia e Sam a Sally engari _ kaore i ripeneta.", "option1": "Sally", "option2": "Hamu", "answer": "2"}
+{"sentence": "I panaia e Keith a Blaine ahakoa kei te uaua a _.", "option1": "Keith", "option2": "Pirihitini", "answer": "2"}
+{"sentence": "Na te āwhā i whakaroa te rerenga i a _ e haere ana i runga i te moana.", "option1": "te rerenga", "option2": "Te āwhā", "answer": "1"}
+{"sentence": "Ka piu a Hoani i a Pire nā te mea _ i kite i tētahi rango i runga i tōna hāte.", "option1": "John", "option2": "Pire", "answer": "1"}
+{"sentence": "Ka whaia e nga zombies nga mōrehu nā te mea i hiakai a _.", "option1": "Nga kairoro", "option2": "nga mōrehu", "answer": "1"}
+{"sentence": "I whaia e nga zombies nga mōrehu nā te mea he reka te _.", "option1": "Nga kairoro", "option2": "nga mōrehu", "answer": "2"}
+{"sentence": "Ka tukua e Medvedev te perehitini ki a Hapa nā te mea he pai ake te _.", "option1": "Medvedev", "option2": "Hapa", "answer": "2"}
+{"sentence": "Ka whati te karaehe i te poti nā te mea he ngohengohe te _.", "option1": "Te poti", "option2": "karaehe", "answer": "2"}
+{"sentence": "Ka whati te poti i te karaehe nā te mea he pōauau te _.", "option1": "karaehe", "option2": "Te poti", "answer": "2"}
+{"sentence": "I whakahokia e Bill a Jim e rua tekau tāra nā te mea _ i tono moni.", "option1": "Pire", "option2": "Hēmi", "answer": "1"}
+{"sentence": "I whakahokia e Bill a Jim e rua tekau tāra nā te mea _ i whakatārewa moni.", "option1": "Hēmi", "option2": "Pire", "answer": "1"}
+{"sentence": "I hinga te tīma whero i te tīma kikorangi nā te mea i mahia e _ te whana whiu whakamutunga.", "option1": "Te tīma whero", "option2": "Te Tīma Kahurangi", "answer": "1"}
+{"sentence": "I hinga te tīma whero i te tīma kikorangi nā te mea _ i hapa i te whana whiu whakamutunga.", "option1": "Te tīma whero", "option2": "Te Tīma Kahurangi", "answer": "2"}
+{"sentence": "Na Jack i pana a Hoani ki runga i te maunga nā te mea kei roto a _ i te hurihuri.", "option1": "Kuhunga", "option2": "John", "answer": "2"}
+{"sentence": "Ka āta poipoi te koroua kōpikopiko ki te pāhihi tōkeke e haere ana nā te mea _ e ngaru ana ki te katoa.", "option1": "te pāhihi tōkeke e haere ana", "option2": "Te koroua kōpikopiko", "answer": "2"}
+{"sentence": "Ka āta poipoi te koroua kōpikopiko ki te pāhihi tōkeke e haere ana nā te mea _ i poipoi ki a ia.", "option1": "te pāhihi tōkeke e haere ana", "option2": "Te koroua kōpikopiko", "answer": "1"}
+{"sentence": "Ka oma te tama i te pirihimana nā te mea i mahia e _ te hara.", "option1": "te pirihimana", "option2": "Te tama", "answer": "2"}
+{"sentence": "Ka oma te tama i te pirihimana nā te mea i kite _ i te hara.", "option1": "te pirihimana", "option2": "Te tama", "answer": "1"}
+{"sentence": "I taka te pōtae i te pounamu nā te mea i pēhia te _.", "option1": "Te pōtae", "option2": "te pounamu", "answer": "2"}
+{"sentence": "I whakamātau te tama ki te kōrero ki tōna hoa, engari _ kāore i taea te kōrero.", "option1": "tona hoa", "option2": "Te tama", "answer": "2"}
+{"sentence": "I whakamātau te tama ki te kōrero ki tōna hoa, engari _ kāore i rongo.", "option1": "tona hoa", "option2": "Te tama", "answer": "1"}
+{"sentence": "Ka mauria mai e te motokā tana paepae ki te tangata, engari _ i wareware i ana parai wīwī.", "option1": "Te hūpeke motokā", "option2": "te tangata", "answer": "1"}
+{"sentence": "Ka mauria mai e te peke motokā tana paepae ki te tangata, engari _ kāore i roto i te motokā.", "option1": "Te hūpeke motokā", "option2": "te tangata", "answer": "2"}
+{"sentence": "I riri nga kaitiaki taiao ki te kaporeihana nā te mea i waiho e _ ta rātau kaupapa.", "option1": "Nga kaitiaki taiao", "option2": "te kaporeihana", "answer": "2"}
+{"sentence": "I whiua e Steve te pōro peihana ki raro i te ara i te wā e mārama ana te _.", "option1": "pōro peihana", "option2": "te ara", "answer": "2"}
+{"sentence": "I te haerenga o nga tamariki kōhungahunga ki nga tangata pakeke, _ i mīharo te whanonga.", "option1": "nga tamariki kōhungahunga", "option2": "nga kaumātua", "answer": "1"}
+{"sentence": "I te haerenga o nga tamariki kōhungahunga ki nga tangata pakeke, _ he tino manaaki.", "option1": "nga tamariki kōhungahunga", "option2": "nga kaumātua", "answer": "2"}
+{"sentence": "He pai ki te tīma whutupōro tamariki ngā Kaupoi o Dallas nā te mea _ ka mātakitaki i te whutupōro kounga.", "option1": "Te tīma whutupōro tamariki", "option2": "nga Kaupoi o Dallas", "answer": "1"}
+{"sentence": "He nui ake te kai a Jimbo i a Bobbert nā te mea kei te kai a _.", "option1": "Jimbo", "option2": "Bobbert", "answer": "2"}
+{"sentence": "He nui ake te kai a Jimbo i a Bobbert nā te mea kāore a _ i runga i te kai.", "option1": "Jimbo", "option2": "Bobbert", "answer": "1"}
+{"sentence": "I patua e Rawiri a Pire nā te mea he tino pai ki a Meri _.", "option1": "Rawiri", "option2": "Pire", "answer": "2"}
+{"sentence": "I patua e Rawiri a Pire nā te mea i tono a Meri _ ki.", "option1": "Pire", "option2": "Rawiri", "answer": "2"}
+{"sentence": "I toa a Ingarangi i te tono ki Paniora nā te mea he pai ake te whakarite a _.", "option1": "Pāniora", "option2": "Ingarangi", "answer": "2"}
+{"sentence": "I toa a Ingarangi i te tono ki Paniora nā te mea kāore a _ i tino whakarite.", "option1": "Ingarangi", "option2": "Pāniora", "answer": "2"}
+{"sentence": "I tere te hinga o Caroline i a Sue nā te mea i whiwhi anō a _ i tōna maia.", "option1": "Karolina", "option2": "Hūmātia", "answer": "1"}
+{"sentence": "He nui ake te whakamahinga o Firefox i te Internet Explorer nā te mea he pūmau ake te _.", "option1": "Firefox", "option2": "Internet Explorer", "answer": "1"}
+{"sentence": "He nui ake te whakamahinga o Firefox i te Internet Explorer nā te mea he iti iho te pūmau o te _.", "option1": "Firefox", "option2": "Internet Explorer", "answer": "2"}
+{"sentence": "E kino ana ngā ākonga ki ngā whakamātautau nā te mea he māngere te _.", "option1": "whakamatautau", "option2": "Ngā ākonga", "answer": "2"}
+{"sentence": "I hae a Gary ki a Bill nā te mea he rangatira a _.", "option1": "Keiti", "option2": "Pire", "answer": "2"}
+{"sentence": "I hae a Gary ki a Bill nā te mea he rawakore a _.", "option1": "Keiti", "option2": "Pire", "answer": "1"}
+{"sentence": "I whakaae te kamupene ki te taumira nā te mea he pai te tuhituhi a _.", "option1": "te taumira", "option2": "Te kamupene", "answer": "1"}
+{"sentence": "I whakaae te kamupene ki te taumira nā te mea i tino mōrearea a _.", "option1": "te taumira", "option2": "Te kamupene", "answer": "2"}
+{"sentence": "Ka patua e te pepa te toka, engari _ ka patua e te kutikuti.", "option1": "Pepa", "option2": "toka", "answer": "1"}
+{"sentence": "Ka patua e te pepa te toka, engari ka taea e _ te patu kutikuti.", "option1": "Pepa", "option2": "toka", "answer": "2"}
+{"sentence": "Ka kī atu te kaiako ki te tauira e _ tūmanako ana i tētahi mea pai ake i a ia.", "option1": "te ākonga", "option2": "Te kaiako", "answer": "2"}
+{"sentence": "Ka kī atu te kaiako ki te kāpene e whakakake ana _ ki a ia.", "option1": "Te kaiako", "option2": "te kāpene", "answer": "1"}
+{"sentence": "Ka kī atu te kaiako ki te kāpene kua panaia a _.", "option1": "te kāpene", "option2": "Te kaiako", "answer": "1"}
+{"sentence": "I whakaorangia e Luigi a Mario nā te mea ko _ anake te tangata e taea ana.", "option1": "Luigi", "option2": "Mario", "answer": "1"}
+{"sentence": "I hokona a Planet Express e te Ratonga Tuku Rata a Māmā kia taea ai e _ te whakakore i te whakataetae.", "option1": "Te Ratonga Tuku Rata a Māmā", "option2": "Aorangi Tere", "answer": "1"}
+{"sentence": "Kaore nga kaitākaro i pīrangi ki nga nerds nā te mea _ he whakaweti.", "option1": "Nga kaitākaro", "option2": "nga nerds", "answer": "1"}
+{"sentence": "Kaore nga kaitākaro i pīrangi ki nga nerds nā te mea _ he hunga hinga.", "option1": "Nga kaitākaro", "option2": "nga nerds", "answer": "2"}
+{"sentence": "Ka kainga e te pūngāwerewere te rango nā te mea i hiakai a _.", "option1": "rango", "option2": "Te pūngāwerewere", "answer": "2"}
+{"sentence": "Ka hoatu e te nēhi he lollypop ki te kōtiro nā te mea _ he nui rawa.", "option1": "Te kōtiro", "option2": "Te nēhi", "answer": "2"}
+{"sentence": "Ka whaia e te pirihimana te tāhae nā te mea i te pare a _ i te pēke.", "option1": "tahae", "option2": "Te pirihimana", "answer": "2"}
+{"sentence": "Na te Pānuitanga Whakawāteatanga i kore ai e mana te kahungatanga, engari i whakamahia tonutia te _.", "option1": "kahungatanga", "option2": "Te Whakapuakitanga Whakawāteatanga", "answer": "1"}
+{"sentence": "Na te Pānuitanga Whakawāteatanga i kore ai e mana te kahungatanga, engari _ kāore i whakawāteatia te tokomaha o ngā pononga.", "option1": "kahungatanga", "option2": "Te Whakapuakitanga Whakawāteatanga", "answer": "2"}
+{"sentence": "I riri a Pirihi i te whakangahau a Sebastian i ana kī nā te mea _ i hiahia ki te whakangahau.", "option1": "Pirihi", "option2": "Hēpiana", "answer": "2"}
+{"sentence": "I āwhina a Sam i a Davey ki te whakapakari i to rātau pokapū nā te mea i whakaaro _ kei te whakaekea e ngā Mehiko.", "option1": "Hamu", "option2": "Davey", "answer": "2"}
+{"sentence": "Ka taraiwa a Fred ki te toa taea o Mack, a, _ hokona mai he taea.", "option1": "Pātata", "option2": "Mack", "answer": "1"}
+{"sentence": "I tunua e Bob ngā omelet mā Jack, nā te mea i mōhio _ me pēhea.", "option1": "Bob", "option2": "Kuhunga", "answer": "1"}
+{"sentence": "I tunua e Bob he omelet mā Jack, nā te mea i hiakai a _.", "option1": "Bob", "option2": "Kuhunga", "answer": "2"}
+{"sentence": "I hokona e Hoani he pia mā Pire nā te mea he mātao te _.", "option1": "John", "option2": "Pire", "answer": "2"}
+{"sentence": "I hinga a Gartok i a Grognak nā te mea ko _ te tangata kaha ake.", "option1": "Grognak", "option2": "Gartok", "answer": "2"}
+{"sentence": "I patua e Shawn a Joe engari _ kāore i hāmama.", "option1": "Shawn", "option2": "Joe", "answer": "2"}
+{"sentence": "I patua e Shawn a Joe engari _ kaore i whakapāha.", "option1": "Joe", "option2": "Shawn", "answer": "2"}
+{"sentence": "I whakapaea e Keiti a Jane engari _ kāore i kitea he hara.", "option1": "Jane", "option2": "Keiti", "answer": "1"}
+{"sentence": "I whakapaea e Keiti a Jane engari _ i kino te rongo mo taua mea.", "option1": "Keiti", "option2": "Jane", "answer": "1"}
+{"sentence": "Ka karanga a Sherry ki a Karla, engari _ kaore i whakautu.", "option1": "Heri", "option2": "Karla", "answer": "2"}
+{"sentence": "I kōhurutia e Whīhī te perehitini nā te mea he ohaoha rawa te _.", "option1": "Whīni", "option2": "te perehitini", "answer": "2"}
+{"sentence": "I kōhurutia e Steven te perehitini nā te mea i utua _ ki te mahi.", "option1": "Whīni", "option2": "te perehitini", "answer": "1"}
+{"sentence": "Ka kainga e nga wuruhi nga kau nā te mea _ i hiakai.", "option1": "Nga wuruhi", "option2": "nga kau", "answer": "1"}
+{"sentence": "I pūruatia e Mikaera a Pire nā te mea he tino pai ki a Hoani _.", "option1": "Mikaera", "option2": "Pire", "answer": "2"}
+{"sentence": "I tautokona e Mikaera a Pire nā te mea i tono a Hoani _ ki.", "option1": "Pire", "option2": "Mikaera", "answer": "2"}
+{"sentence": "I hiahia a Johnson ki te whakahoahoa ki a Rawiri, nā te mea he pai te tūhono o _.", "option1": "Hōnenea", "option2": "Rawiri", "answer": "2"}
+{"sentence": "I hiahia a Hōne ki te whakahoahoa ki a Rawiri, nā te mea i hiahia āwhina a _", "option1": "Hōnenea", "option2": "Rawiri", "answer": "1"}
+{"sentence": "I whakakāhore te kura i ngā whakaaetanga tūnga tūnga o ngā mātua nā te mea _ kāore i pīrangi kia kōpikopiko ngā wāhi tūnga i ngā motokā.", "option1": "Te kura", "option2": "matua", "answer": "1"}
+{"sentence": "I whakakāhore te kura i ngā whakaaetanga tūnga tūnga a ngā mātua nā te mea _ i takahi i ngā ture tūranga.", "option1": "matua", "option2": "Te kura", "answer": "1"}
+{"sentence": "I pakipaki a Joe i te kanohi o Jose nā te mea i whiua ia e _.", "option1": "Joe", "option2": "Hohe", "answer": "2"}
+{"sentence": "Ka pakipaki a Joe i te kanohi o Jose nā te mea i riri a _.", "option1": "Hohe", "option2": "Joe", "answer": "2"}
+{"sentence": "Ka hoatu e Stephanie he putiputi ki a Brandy nā te mea i mate a _.", "option1": "parani", "option2": "Tīpene", "answer": "1"}
+{"sentence": "I whakataua e te tīma kia whakakore i o rātau pānga ki te Rangatōpū AT&T nā te mea he whakahīhī te _.", "option1": "Rangatōpū AT&T", "option2": "Te tīma", "answer": "1"}
+{"sentence": "I kōwhiria e Hoani a Pire nā te mea ko _ te kōwhiringa pai rawa atu.", "option1": "John", "option2": "Pire", "answer": "2"}
+{"sentence": "I kino a Hoani ki a Bill, engari _ kāore i mōhio.", "option1": "Pire", "option2": "John", "answer": "1"}
+{"sentence": "Ka takahi a Godzilla puta noa i Tokyo ki te kore _ e hanga i ngā parenga pai ake.", "option1": "Atuazilla", "option2": "Tokyo", "answer": "2"}
+{"sentence": "Ka whiua e te kuia tana mokopuna ki tōna matenga nā te mea i hae a _.", "option1": "tana mokopuna", "option2": "Te kuia", "answer": "2"}
+{"sentence": "Ka whiua e te kuia tana mokopuna ki tōna matenga nā te mea kāore a _ e mutu te hāmama.", "option1": "tana mokopuna", "option2": "Te kuia", "answer": "1"}
+{"sentence": "I pūhia e Bob Marley te sheriff, engari _ e oati ana i a ia anō.", "option1": "Bob Marley", "option2": "te sheriff", "answer": "1"}
+{"sentence": "I pūhia e Bob Marley te sheriff, engari _ i ora.", "option1": "Bob Marley", "option2": "te sheriff", "answer": "2"}
+{"sentence": "Ka whiua e te whaea te tamāhine nā te mea i whakarongo kore a _.", "option1": "te tamāhine", "option2": "Te whaea", "answer": "1"}
+{"sentence": "Ka whiua e te whaea te tamāhine nā te mea i whakapataritari a _.", "option1": "te tamāhine", "option2": "Te whaea", "answer": "2"}
+{"sentence": "I rahua nga kaiako i nga tauira nā te mea i hē te whakautu a _ i te whakamātautau.", "option1": "Nga kaiako", "option2": "ngā ākonga", "answer": "2"}
+{"sentence": "I whakangaromia e te awa te piriti nā te mea he tiketike a _.", "option1": "te piriti", "option2": "Te awa", "answer": "2"}
+{"sentence": "I whakangaromia e te awa te piriti nā te mea he pāpaku te _.", "option1": "Te awa", "option2": "te piriti", "answer": "2"}
+{"sentence": "Ka whakawhiti te taua i te awa nā te mea he pāpaku a _.", "option1": "Te awa", "option2": "Te taua", "answer": "1"}
+{"sentence": "Ka whakawhiti te taua i te awa nā te mea kei te hoki whakamuri a _.", "option1": "Te awa", "option2": "Te taua", "answer": "2"}
+{"sentence": "I whakangaromia e te taitamariki te Whetū tōmua i roto i te whakataetae, nā reira _ i whakawāteatia mo te toenga o te tau.", "option1": "Te taitamariki", "option2": "te Whetū tawhito", "answer": "2"}
+{"sentence": "E kino ana ngā makimaki ki ngā raiona nā te mea _ kai i a rātou.", "option1": "raiona", "option2": "makimaki", "answer": "2"}
+{"sentence": "E kino ana ngā makimaki ki ngā raiona nā te mea he whakamataku te _.", "option1": "raiona", "option2": "makimaki", "answer": "1"}
+{"sentence": "I te whakataetae tēnehi o tērā wiki, i pakoire a Djokovic i te mahi a Roddick nā te mea ko _ te kaitākaro pai ake.", "option1": "Roddick", "option2": "Djokovic", "answer": "1"}
+{"sentence": "I te whakataetae tēnehi o tērā wiki, i pakoire a Djokovic i te mahi a Roddick nā te mea he rekareka te _.", "option1": "Roddick", "option2": "Djokovic", "answer": "2"}
+{"sentence": "I horapa te mate puta noa i te whare nā te mea i rere te _.", "option1": "te whare", "option2": "Te whakapokenga", "answer": "2"}
+{"sentence": "I horapa te mate puta noa i te whare nā te mea i whakahāwea a _.", "option1": "te whare", "option2": "Te whakapokenga", "answer": "1"}
+{"sentence": "Ka titiro atu te kaitiaki whare taonga ki te kaitiaki, a, ka mea _ me haere.", "option1": "Te kaitiaki o te whare taonga", "option2": "kairangi", "answer": "2"}
+{"sentence": "Ka titiro atu te kaitiaki whare taonga ki te kaitiaki, a, _ ka kite i a ia e kōpikopiko ana.", "option1": "Te kaitiaki o te whare taonga", "option2": "kairangi", "answer": "1"}
+{"sentence": "Ka kī atu to mātau ahorangi ki te TA e hiahia ana _ ki tana āwhina.", "option1": "te TA", "option2": "To mātau ahorangi", "answer": "2"}
+{"sentence": "I kī atu to mātau ahorangi ki te TA ka taea e _ te rā te whakatā.", "option1": "te TA", "option2": "To mātau ahorangi", "answer": "1"}
+{"sentence": "Ka hamama a Jack ki a Bill nā te mea _ i tūtuki te motokā.", "option1": "Kuhunga", "option2": "Pire", "answer": "2"}
+{"sentence": "Ka hamama a Jack ki a Pire nā te mea i riri a _.", "option1": "Kuhunga", "option2": "Pire", "answer": "1"}
+{"sentence": "Ka poipoi nga kaitākaro ki nga kaitākaro nā te mea e tatari ana _", "option1": "Nga kaitākaro korowha", "option2": "nga kaitākaro", "answer": "2"}
+{"sentence": "Ka poipoi nga kaitākaro ki nga kaitākaro nā te mea e pupuri ana _ i a rātau.", "option1": "nga kaitākaro", "option2": "Nga kaitākaro korowha", "answer": "2"}
+{"sentence": "Ka kata a Allen ki a Jimmy nā te mea _ i kōrero i tētahi kōrero rekareka.", "option1": "Jimmy", "option2": "Arana", "answer": "1"}
+{"sentence": "Ka kata a Allen ki a Jimmy nā te mea kei te whakakata a _ i a ia.", "option1": "Arana", "option2": "Jimmy", "answer": "1"}
+{"sentence": "I tino hari a Sally i te mutunga ka whiwhi mahi a Beth nā te mea he hoa āwangawanga a _.", "option1": "Pete", "option2": "Sally", "answer": "2"}
+{"sentence": "I te whare taonga te peita nā te mea i whakaaturia te _.", "option1": "Te peita", "option2": "Te Whare Taonga", "answer": "1"}
+{"sentence": "I te tuhituhi a Jill i runga i tētahi papa mō Jane nā te mea i hiahia _ ki te waiho i tana wāhitau.", "option1": "Jill", "option2": "Jane", "answer": "1"}
+{"sentence": "Ka takatū te hōia ki te haere ki te whawhai ki tētahi koroni Amish nā te mea i rongo a _ i te whakawehi.", "option1": "Te hōia", "option2": "he koroni Amish", "answer": "1"}
+{"sentence": "Ka ngenge te rōpū ki te mahi i ēnei rerenga kōrero nā te mea he hōhā te _.", "option1": "enei rerenga", "option2": "Te rōpū", "answer": "1"}
+{"sentence": "Ka ngenge te rōpū ki te mahi i ēnei rerenga kōrero nā te mea he māngere te _.", "option1": "Te rōpū", "option2": "enei rerenga", "answer": "1"}
+{"sentence": "Kei te inu wehikē te mea ngaro nā te mea _ he pai te reka.", "option1": "wehikē", "option2": "Te mea ngaro", "answer": "1"}
+{"sentence": "Kei te inu wehikē te mea ngaro nā te mea _ kei te nui tonu ēnei rerenga hei tuhi.", "option1": "Te mea ngaro", "option2": "wehikē", "answer": "1"}
+{"sentence": "E aroha ana te pēne ki a rātau kaihautū nā te mea _ haere mai ki ia whakaaturanga.", "option1": "ā rātou kaihautū", "option2": "Te pēne", "answer": "1"}
+{"sentence": "E aroha ana te pēne ki a rātau kaihautū nā te mea kāore e taea e _ te tīari me te kore tautoko.", "option1": "ā rātou kaihautū", "option2": "Te pēne", "answer": "2"}
+{"sentence": "I kai a Jimbo i te ika i whakaritea e Bobbert nā te mea i hiakai a _.", "option1": "Bobbert", "option2": "Jimbo", "answer": "2"}
+{"sentence": "Ka oma te kau ki roto i te taiapa, a, _ pakaru.", "option1": "Te kau", "option2": "te taiapa", "answer": "2"}
+{"sentence": "Ka oma te kau ki roto i te taiapa, a, _ ka whara.", "option1": "Te kau", "option2": "te taiapa", "answer": "1"}
+{"sentence": "Ka whakamākūkūtia e te kaimāra te rōhi a te rangatira nā te mea kei te mahi a _ i tana mahi.", "option1": "te rangatira", "option2": "Te kaimāra", "answer": "2"}
+{"sentence": "Ka whakamākūkūtia e te kaimāra te rōhi a te rangatira nā te mea _ i utua ia mo tēnā.", "option1": "Te kaimāra", "option2": "te rangatira", "answer": "2"}
+{"sentence": "Ka tāhaetia e Zidane a Zambrotta nā te mea kāore i taea e _ te whakahaere i tōna riri.", "option1": "Zitana", "option2": "Zamrotta", "answer": "1"}
+{"sentence": "Ka hoatu e te tangata he moni ki te kaipōkai nā te mea he tino ohaoha a _.", "option1": "kaipōkai", "option2": "Te tangata", "answer": "2"}
+{"sentence": "Ka panaia e te kaiwhakahaere te tauira nā te mea i riri a _.", "option1": "te tauira", "option2": "Te kaiwhakahaere", "answer": "2"}
+{"sentence": "Ka whakapārewa nga kaiwhakahaere kāwanatanga ki te iwi nā te mea i tonoa e _ he whakapae.", "option1": "te iwi", "option2": "Nga mana o te kawanatanga", "answer": "1"}
+{"sentence": "Na te pirihimana i pūhia te kaiwhakahaere nā te mea _ i whakamātau ki te whakaeke i te kāwana.", "option1": "te kaiwhakahaere", "option2": "Te pirihimana", "answer": "1"}
+{"sentence": "I ngā wā katoa ka whakahau a Hemi ki a Owen nā te mea he tino ngohengohe a _.", "option1": "Owen", "option2": "Hemi", "answer": "1"}
+{"sentence": "E kino ana a Chelsea ki a Manchester United nā te mea _ i ngā wā katoa ka haere mai i te tuarua.", "option1": "Chelsea", "option2": "Manatū United", "answer": "1"}
+{"sentence": "E kino ana a Chelsea ki a Manchester United nā te mea he whakahīhī rawa te _.", "option1": "Manatū United", "option2": "Chelsea", "answer": "1"}
+{"sentence": "E tino taunaki ana te ahorangi i te ākonga nā te mea e whakamīharo ana _ ki te hinengaro pākiki.", "option1": "te ākonga", "option2": "Te ahorangi", "answer": "2"}
+{"sentence": "Kāore te pūpāpāho pūoro i whakatuwhera i te kōnae nā te mea kāore te _ i purei i taua hōputu.", "option1": "te kōnae", "option2": "Te pūpāpāho pūoro", "answer": "2"}
+{"sentence": "I whakahē nga tauira ki nga kaupapa hou nā te mea he pākaha rawa te _.", "option1": "Ngā kaupapahere hōu", "option2": "Ngā ākonga", "answer": "1"}
+{"sentence": "I whakahē nga tauira ki nga kaupapa hou nā te mea i riri a _.", "option1": "Ngā kaupapahere hōu", "option2": "Ngā ākonga", "answer": "2"}
+{"sentence": "I kino nga kai i roto i te pouaka whakamātao nā te mea kāore i mono mai te _.", "option1": "te pouaka whakamātao", "option2": "Te kai", "answer": "1"}
+{"sentence": "I whati te pōro i te matapihi nā te mea he ngoikore te _.", "option1": "Te pōro", "option2": "te matapihi", "answer": "2"}
+{"sentence": "I whati te pōro i te matapihi nā te mea he uaua te _.", "option1": "Te pōro", "option2": "te matapihi", "answer": "1"}
+{"sentence": "Ka tukuna e te kaitukumahi kia whiwhi a Hoani i te mahi ahakoa i hiahia a _.", "option1": "John", "option2": "Te kaitukumahi", "answer": "2"}
+{"sentence": "I whakakāhore te rorohiko i te kupuhipa nā te mea i hē te _.", "option1": "Te rorohiko", "option2": "te kupuhipa", "answer": "2"}
+{"sentence": "I whakakāhoretia e te rorohiko te kupuhipa nā te mea i hē te _.", "option1": "Te rorohiko", "option2": "te kupuhipa", "answer": "1"}
+{"sentence": "Ka pātai atu ngā tamariki ki ō rātou hoa noho tata mehemea ka taea e _ te reka i te Halloween.", "option1": "ō rātou hoa noho tata", "option2": "Nga tamariki", "answer": "2"}
+{"sentence": "Ka kī atu te karaehe ki te kaitunu kai _ he momona.", "option1": "te tunu tunu", "option2": "Te karaehe", "answer": "1"}
+{"sentence": "Ka kī atu te karaehe ki te kaihoko _ he pai ki a ia te tiakarete.", "option1": "te tunu tunu", "option2": "Te karaehe", "answer": "2"}
+{"sentence": "Ka pana a Jack i a Tim ki raro i te arawhata nā te mea i pōrangi a _.", "option1": "Tim", "option2": "Kuhunga", "answer": "2"}
+{"sentence": "Ka pātai atu a Hoani ki te kaipūtaiao he aha te _ e mahi ana.", "option1": "te kaipūtaiao", "option2": "John", "answer": "1"}
+{"sentence": "He pai ake ki ngā kōtiro ngā tarakona i ngā hoiho nā te mea ka taea e _ te rere.", "option1": "tarakona", "option2": "hoiho", "answer": "1"}
+{"sentence": "He pai ake ki ngā kōtiro ngā tarakona i ngā hoiho nā te mea kāore i taea e _ te rere.", "option1": "hoiho", "option2": "tarakona", "answer": "1"}
+{"sentence": "Ka kī atu te rehetoi ki te tauira e hiahia ana _ kia tū hāngai ake.", "option1": "Te rehetoi", "option2": "te tauira", "answer": "2"}
+{"sentence": "I whakakapia a Misty e Mei nā te mea i hoki a _ ki te kāinga.", "option1": "Me", "option2": "Kohu", "answer": "2"}
+{"sentence": "I whakakapia a Misty e Mei nā te mea ko _ anake te mea e wātea ana.", "option1": "Kohu", "option2": "Me", "answer": "2"}
+{"sentence": "Ko Shigeru Miyamoto te kaiako o Satoshi Tajiri, nā reira he maha nga mea i akona e _.", "option1": "Shigeru Miyamoto", "option2": "Satoshi Tajiri", "answer": "1"}
+{"sentence": "He pai ake te mārama o Brock ki te rauemi i a Tracy nā te mea i aro atu a _.", "option1": "Brock", "option2": "Tracy", "answer": "1"}
+{"sentence": "He pai ake te mārama o Brock ki te rauemi i a Tracy nā te mea kāore a _ i aro atu.", "option1": "Brock", "option2": "Tracy", "answer": "2"}
+{"sentence": "I pīrangi a Hoani ki te pōti mō Doe, engari _ ehara i te kaitono tika.", "option1": "John", "option2": "Kupa", "answer": "2"}
+{"sentence": "He pīrangi a Yuji ki a Michael Jackson nā te mea he pai ki a _ te \"Thriller\".", "option1": "Yuji", "option2": "Michael Jackson", "answer": "1"}
+{"sentence": "He kaingākau a Yuji ki a Michael Jackson nā te mea he rongonui a _.", "option1": "Yuji", "option2": "Michael Jackson", "answer": "2"}
+{"sentence": "I patua e nga hōia ātea nga tauiwi nā te mea he tuma te _.", "option1": "nga tauiwi", "option2": "Nga moana ātea", "answer": "1"}
+{"sentence": "I patua e nga hōia ātea nga tauiwi nā te mea i whakahaua kia _.", "option1": "nga tauiwi", "option2": "Nga moana ātea", "answer": "2"}
+{"sentence": "I patua e Rocky a Drago nā te mea e tautoko ana te huihuinga _.", "option1": "Pōhatu", "option2": "Drago", "answer": "1"}
+{"sentence": "I patua e Rocky a Drago nā te mea kāore te huihuinga i te tautoko _.", "option1": "Drago", "option2": "Pōhatu", "answer": "1"}
+{"sentence": "He tamariki ake a Lucas i a Kōkō nā te mea i whānau whakamutunga a _.", "option1": "Ruka", "option2": "Kōkō", "answer": "1"}
+{"sentence": "He tamariki ake a Lucas i a Kōkā nā te mea i whānau tuatahi a _.", "option1": "Ruka", "option2": "Kōkō", "answer": "2"}
+{"sentence": "I kōwhao a Bill i a Larry nā te mea i riri a _.", "option1": "Pire", "option2": "Larry", "answer": "1"}
+{"sentence": "Ka pātai anō te tangata ki a Mark i te pātai nā te mea i pākiki a _.", "option1": "Tohu", "option2": "Te tangata", "answer": "2"}
+{"sentence": "Ka pātai anō te tangata ki a Mark i te pātai nā te mea kei te karo a _.", "option1": "Te tangata", "option2": "Tohu", "answer": "2"}
+{"sentence": "I whakamātau a Joe ki te whakaoho i a Tom, engari _ kāore i taea.", "option1": "Joe", "option2": "Tom", "answer": "1"}
+{"sentence": "I whakatikaina e tērā atu ākonga a Robert nā te mea _ i mārama ake ki te raruraru.", "option1": "Robert", "option2": "Tērā atu ākonga", "answer": "2"}
+{"sentence": "I whakatikaina e tērā atu ākonga a Robert nā te mea i hē te raruraru o _ i te raruraru.", "option1": "Tērā atu ākonga", "option2": "Robert", "answer": "2"}
+{"sentence": "Ka whakatūpato te kaiārahi tereina i te tangata e tū ana i te tatau nā te mea e whakaū ana _ i ngā ture.", "option1": "Te kaikawe tereina", "option2": "te tangata e tū ana i te tatau", "answer": "1"}
+{"sentence": "Ka whakatūpato te kaiārahi tereina i te tangata e tū ana i te tatau nā te mea kāore a _ i te whai i ngā ture.", "option1": "te tangata e tū ana i te tatau", "option2": "Te kaikawe tereina", "answer": "1"}
+{"sentence": "Kaore a Emma i tuku i te pōro ki a Janie, ahakoa i tuwhera a _.", "option1": "Emma", "option2": "E Hēni", "answer": "2"}
+{"sentence": "Ka hoatu e te tama he pihikete ki tōna hoa nā te mea i hiakai a _.", "option1": "Te tama", "option2": "tona hoa", "answer": "2"}
+{"sentence": "Ka hoatu e te tama he pihikete ki tōna hoa nā te mea he tāpiri anō tā _.", "option1": "Te tama", "option2": "tona hoa", "answer": "1"}
+{"sentence": "I whakatakotoria e te kāwanatanga he tāke ki runga i te hua kia whai hua ai _ i ngā hoko.", "option1": "Te kāwanatanga", "option2": "te hua", "answer": "1"}
+{"sentence": "Ka mahia e te kaitao te parakuihi ma te kāpene nā te mea e hiahiatia ana _.", "option1": "Te kaitao", "option2": "te kāpene", "answer": "1"}
+{"sentence": "Ka mahia e te kaitao te parakuihi ma te kāpene notemea _ e hiahiatia ana he kai.", "option1": "Te kaitao", "option2": "te kāpene", "answer": "2"}
+{"sentence": "I taea e Bill te tāhae i te panana i a Ken nā te mea he tere te _.", "option1": "Pire", "option2": "Keni", "answer": "1"}
+{"sentence": "I taea e Bill te tāhae i te panana i a Ken nā te mea he pōturi te _.", "option1": "Pire", "option2": "Keni", "answer": "2"}
+{"sentence": "I whaia e Allen te leprechaun nā te mea i hiahia _ ki tētahi kōhua koura.", "option1": "Arana", "option2": "te leprechaun", "answer": "1"}
+{"sentence": "I manako te tiati ki te tauwhāinga, nā reira _ i whiwhi ai i te mētara koura.", "option1": "te tauwhāinga", "option2": "Te kaiwhakawā", "answer": "1"}
+{"sentence": "I manako te tiati ki te tauwhāinga, nā reira _ i pōti manakohia.", "option1": "Te kaiwhakawā", "option2": "te tauwhāinga", "answer": "1"}
+{"sentence": "Kāore te papatono a Malaki e haere i runga i te rorohiko nā te mea kī tonu _ i ngā iro.", "option1": "te rorohiko", "option2": "Te porotarama a Malaki", "answer": "2"}
+{"sentence": "Kāore te papatono a Malaki e haere i runga i te rorohiko nā te mea he puku mārō hē tō _.", "option1": "Te porotarama a Malaki", "option2": "te rorohiko", "answer": "2"}
+{"sentence": "I hoatu e te whakahaere he pikinga ki nga kaimahi nā te mea i whakawehi a _ ki te tuki.", "option1": "nga kaimahi", "option2": "Whakahaerenga", "answer": "1"}
+{"sentence": "I whakaekea e te hōia o Roma nga Pahia nā te mea i rongo a _ i te whakawehi.", "option1": "nga Pahia", "option2": "Te hōia o Roma", "answer": "2"}
+{"sentence": "I whakaekea e te ope Roma nga Pahia nā te mea kua whakaekea e _.", "option1": "nga Pahia", "option2": "Te hōia o Roma", "answer": "1"}
+{"sentence": "Ka peke te pokiha parauri ki runga i te kurī nā te mea he tere a _.", "option1": "Te pokiha parauri", "option2": "kurī", "answer": "1"}
+{"sentence": "Ka peke te pokiha parauri ki runga i te kurī nā te mea he māngere te _.", "option1": "kurī", "option2": "Te pokiha parauri", "answer": "1"}
+{"sentence": "I āwhina a Alice i a Gwen ki te neke nā te mea he pai te _.", "option1": "Ariki", "option2": "Gwen", "answer": "1"}
+{"sentence": "I āwhina a Alice i a Gwen ki te neke nā te mea kāore i taea e _ te mahi ko ia anake.", "option1": "Gwen", "option2": "Ariki", "answer": "1"}
+{"sentence": "I whiua e Mark te quarterback, engari i taea e _ te whakaoti i te paheke.", "option1": "Tohu", "option2": "te kaiwawao", "answer": "2"}
+{"sentence": "I whiua e Mark te quarterback, engari i whiua a _.", "option1": "te kaiwawao", "option2": "Tohu", "answer": "2"}
+{"sentence": "I whiua e Kyle a Mark i te rēhi nā te mea ko _ te tamaiti tere rawa i te kura.", "option1": "Kyle", "option2": "Tohu", "answer": "1"}
+{"sentence": "I piro te kaitākaro i runga i te kaiwawao nā te mea _ i oma atu i nga kaiwawao.", "option1": "te kaitiaki", "option2": "Te kaipatu", "answer": "2"}
+{"sentence": "I piro te kaikōpae i runga i te kaiwawao nā te mea i mau a _ i te ārai.", "option1": "Te kaipatu", "option2": "te kaitiaki", "answer": "2"}
+{"sentence": "Ka tono a Mikaera ki a Hakopa kia kanikani nā te mea he mokemoke a _.", "option1": "Hakopa", "option2": "Mikaera", "answer": "1"}
+{"sentence": "E hiahia ana te kāwanatanga ki te whakakore i te iwi kia kaua e tākaro kīngi i te Mane nā te mea me mahi te _.", "option1": "te iwi", "option2": "Te kāwanatanga", "answer": "1"}
+{"sentence": "E hiahia ana te kāwanatanga ki te whakakore i te iwi kia kaua e tākaro kīngi i te Mane nā te mea e hiahia ana _ kia whai hua ake ngā Mane.", "option1": "Te kāwanatanga", "option2": "te iwi", "answer": "1"}
+{"sentence": "I whakamātau te kāwanatanga ki te whakawātea i nga kaipūrongo i Kōrea ki te Raki, engari _ kāore i tutuki.", "option1": "nga kaipūrongo", "option2": "Te kāwanatanga", "answer": "2"}
+{"sentence": "I whakamātau te kāwanatanga ki te whakawātea i nga kaipūrongo i Kōrea ki te Raki, engari i whakaraua te _.", "option1": "nga kaipūrongo", "option2": "Te kāwanatanga", "answer": "1"}
+{"sentence": "I hokona e Tim he moko a Erika, engari _ kāore i pai ki a ia.", "option1": "Tim", "option2": "Erika", "answer": "2"}
+{"sentence": "I whakarerekētia e Dan te motokā o Harry nā te mea kei a _ ngā utauta.", "option1": "Rana", "option2": "Hēhi", "answer": "1"}
+{"sentence": "I haere a Sarah ki te whare o Kelly nā te mea e haere ana a _ i te mahi.", "option1": "Hara", "option2": "Kelly", "answer": "1"}
+{"sentence": "I haere a Sarah ki te whare o Kelly nā te mea kei te kāinga a _.", "option1": "Kelly", "option2": "Hara", "answer": "1"}
+{"sentence": "I karapahia e Ken ngā whakaahua mō Neil i te mea i hiahia _ ki te tiaki i ana tuhinga.", "option1": "Keni", "option2": "Ko Neira", "answer": "2"}
+{"sentence": "I tinihangatia e Hemi te whakamātautau a Henry, ā, ka kī atu te Kaiwhakaako _.", "option1": "Hemi", "option2": "Henare", "answer": "2"}
+{"sentence": "I tinihangatia e Hemi te whakamātautau a Henry, ā, i rahua te Kaiwhakaako _.", "option1": "Hemi", "option2": "Henare", "answer": "1"}
+{"sentence": "Ka haere a Jim ki te whare o Hal, ka haere _ kurī.", "option1": "Hara", "option2": "Hēmi", "answer": "1"}
+{"sentence": "I tāutatia e Burt te pūmanawa a Joey, ā, _ i tāuta hoki i ana pūmārō.", "option1": "Joey", "option2": "Pēke", "answer": "2"}
+{"sentence": "I hinga a Arama i a Brandon i roto i te whawhai nā te mea he kaha ake a _.", "option1": "Brandon", "option2": "Arama", "answer": "2"}
+{"sentence": "I hinga a Arama i a Brandon i roto i te whawhai nā te mea he ngoikore ake a _.", "option1": "Arama", "option2": "Brandon", "answer": "2"}
+{"sentence": "I peitatia e Lemuera he mahi toi ki a Hēmi mai i te wā i tonoa e _.", "option1": "Remuere", "option2": "Hēmi", "answer": "2"}
+{"sentence": "Ka whaia e te kurī te pokiha nā te mea he whero te _.", "option1": "Te kurī", "option2": "te pokiha", "answer": "2"}
+{"sentence": "Ka whaia e te kurī te pokiha nā te mea i hiakai a _.", "option1": "te pokiha", "option2": "Te kurī", "answer": "2"}
+{"sentence": "I tūtaki te Hēkeretari me te Perehitini mo te _ pōtitanga.", "option1": "te Perehitini", "option2": "Te Hekeretari", "answer": "1"}
+{"sentence": "I tūtaki te Hēkeretari me te Perehitini mo _ te whakatūria.", "option1": "te Perehitini", "option2": "Te Hekeretari", "answer": "2"}
+{"sentence": "Ka kainga e te makimaki te mokomoko, a, _ ka hamama i te mamae.", "option1": "He makimaki", "option2": "mokomoko", "answer": "2"}
+{"sentence": "Ka pooped a Jim ki runga i a Jack, a, _ ruaki.", "option1": "Hēmi", "option2": "Kuhunga", "answer": "2"}
+{"sentence": "Ka pooped a Jim ki runga i a Jack, a, _ kata.", "option1": "Hēmi", "option2": "Kuhunga", "answer": "1"}
+{"sentence": "Ka whaia e nga hipi te poaka nā te mea he mōmona a _.", "option1": "Nga hipi", "option2": "te poaka", "answer": "2"}
+{"sentence": "Ka whaia e nga hipi te poaka nā te mea i muhanitia a _.", "option1": "Nga hipi", "option2": "te poaka", "answer": "1"}
+{"sentence": "Ka rewa te toka i roto i te lava nā te mea i panaia a _.", "option1": "te taheke", "option2": "Te toka", "answer": "2"}
+{"sentence": "Ka rewa te toka i roto i te taheke nā te mea i wera te _.", "option1": "te taheke", "option2": "Te toka", "answer": "1"}
+{"sentence": "E aroha ana a Jill ki a Jamie, a, _ i hokona mai he rīngi māna.", "option1": "Jamie", "option2": "Jill", "answer": "2"}
+{"sentence": "Ka ngaungau te kurī i te wheua, a, _ auau.", "option1": "wheua", "option2": "He kurī", "answer": "2"}
+{"sentence": "Ka ngaungau te kurī i te wheua, a, _ ka mākū.", "option1": "wheua", "option2": "He kurī", "answer": "1"}
+{"sentence": "I patua e Hoani a Carl, a, _ kaore i pai ki a ia.", "option1": "Kara", "option2": "John", "answer": "1"}
+{"sentence": "I patua e Hoani a Carl, a, _ ka tuki whakamuri.", "option1": "John", "option2": "Kara", "answer": "1"}
+{"sentence": "Ka tangi a Katy mō Susan i te mea i pouri a _.", "option1": "Susana", "option2": "Keiti", "answer": "2"}
+{"sentence": "Ka tangi a Katy mō Susan mai i te matenga o _.", "option1": "Susana", "option2": "Keiti", "answer": "1"}
+{"sentence": "E hiahiatia ana e Taco he rihi wera nā te mea _ ka whakapai ake i te kakara.", "option1": "Taco", "option2": "rihi wera", "answer": "2"}
+{"sentence": "E riri ana a Tobias ki a William nā te mea kāore a _ i utu.", "option1": "Topia", "option2": "Wiremu", "answer": "1"}
+{"sentence": "E riri ana a Tobias ki a William nā te mea he kino a _.", "option1": "Topia", "option2": "Wiremu", "answer": "2"}
+{"sentence": "Kei te whakakata a Jean i a Kyle nā te mea _ i toa.", "option1": "Heke", "option2": "Kyle", "answer": "1"}
+{"sentence": "Kei te whakakata a Jean i a Kyle nā te mea _ i ngaro.", "option1": "Kyle", "option2": "Heke", "answer": "1"}
+{"sentence": "He pai ake te tīhi i te keke hua rākau nā te mea he kino te _.", "option1": "keke hua rākau", "option2": "keke tīhi", "answer": "1"}
+{"sentence": "Ka kainga e nga taangata nga unicorn notemea _ i hiakai.", "option1": "Nga taone", "option2": "nga unicorns", "answer": "1"}
+{"sentence": "I kainga e nga taangata nga unicorn nā te mea he reka te _.", "option1": "Nga taone", "option2": "nga unicorns", "answer": "2"}
+{"sentence": "Ka whakarewaina e nga kaihīhī he whakaeke ohorere ki te emepaea kia taea ai e _ te huri i te tai o te riri.", "option1": "Te Emepaea", "option2": "Nga kaihīhī", "answer": "2"}
+{"sentence": "Ka whakarewaina e nga kaihīhī he whakaekenga ohorere ki te emepaea kia mau ai _ i te ārai.", "option1": "Te Emepaea", "option2": "Nga kaihīhī", "answer": "1"}
+{"sentence": "I whakamātau a Pat ki te kōrero ki a Jill engari _ i waihotia.", "option1": "Pat", "option2": "Jill", "answer": "1"}
+{"sentence": "I whakamātau a Pat ki te kōrero ki a Jill engari _ kāore i rongo.", "option1": "Jill", "option2": "Pat", "answer": "1"}
+{"sentence": "He pai ake te koura i te pango nā te mea he mōhinuhinu te _.", "option1": "Kōura", "option2": "Pango", "answer": "1"}
+{"sentence": "He pai ake te koura i te pango nā te mea kāore te _ e tiaho ana.", "option1": "Kōura", "option2": "Pango", "answer": "2"}
+{"sentence": "I whakamātau a Maika ki te whai i a Tom, engari _ he uaua ki te kite.", "option1": "Maika", "option2": "Tom", "answer": "2"}
+{"sentence": "I kōrero a Hōri ki a Pire nā te mea i āmaimai a _.", "option1": "Pire", "option2": "Hōri", "answer": "2"}
+{"sentence": "I whiua e Rosie a Meri i Scrabble nā te mea he kino te _ i ngā kēmu kupu.", "option1": "Meri", "option2": "Rōhi", "answer": "1"}
+{"sentence": "I patua e Bush a Gore nā te mea _ i tinihangatia te pōti.", "option1": "Gore", "option2": "Ngahere", "answer": "2"}
+{"sentence": "Ka tapahia e te naihi te taiapa nā te mea he koi a _.", "option1": "Te maripi", "option2": "te taiapa", "answer": "1"}
+{"sentence": "Ka tapahia e te naihi te taiapa nā te mea he waikura a _.", "option1": "Te maripi", "option2": "te taiapa", "answer": "2"}
+{"sentence": "I patua e Bob a Vincent nā te mea _ i hiahia ki te patu i tētahi tangata.", "option1": "Bob", "option2": "Wēneti", "answer": "1"}
+{"sentence": "He nui ake te hoko a ngā Iphones i ngā androids nā te mea he auau te _.", "option1": "ngā android", "option2": "Ngā Waea Hiko", "answer": "2"}
+{"sentence": "He nui ake te hoko a ngā Iphones i ngā androids nā te mea he uaua te whakamahi i te _.", "option1": "ngā android", "option2": "Ngā Waea Hiko", "answer": "1"}
+{"sentence": "I whakapuakina e te Whare Wānanga he hararei ki ngā ākonga nā te mea i tonoa e _ rātou.", "option1": "ākonga", "option2": "Te Whare Wānanga", "answer": "1"}
+{"sentence": "I uru atu a Maunga ki a Tērā nā te mea i huatau a Pire _.", "option1": "Maunga", "option2": "Tūpāpaku", "answer": "1"}
+{"sentence": "I uru atu a Maunga ki a Tērā nā te mea i whakawhirinaki a Pire _.", "option1": "Maunga", "option2": "Tūpāpaku", "answer": "2"}
+{"sentence": "I raupatutia e Hītara a Alex i te pakanga nā te mea i tautokona e te katoa _.", "option1": "Hītara", "option2": "Araka", "answer": "1"}
+{"sentence": "I raupatutia e Hītara a Alex i te pakanga nā te mea kāore he tangata i tautoko i _.", "option1": "Araka", "option2": "Hītara", "answer": "1"}
+{"sentence": "I pīrangi a Kikorangi kia oma a Tērā mo te perehitini nā te mea ka toa a _.", "option1": "Kikorangi", "option2": "Tūpāpaku", "answer": "2"}
+{"sentence": "I pīrangi a Kikorangi kia oma a Tērā mo te perehitini nā te mea kāore i taea e _ te toa.", "option1": "Kikorangi", "option2": "Tūpāpaku", "answer": "1"}
+{"sentence": "He taonga ake a Gates i a Jobs, nā reira ehara te _ i te tangata tino rangatira.", "option1": "Ngā Mahi", "option2": "Ngā Kuwaha", "answer": "1"}
+{"sentence": "He mōhio ake a Heta i a Sai, nā reira _ i kino ake i te uiuinga mahi.", "option1": "Heta", "option2": "Sai", "answer": "2"}
+{"sentence": "I whakapohehe a Hakopa i a Amine, no reira i awhina a Rawiri _.", "option1": "Amine", "option2": "Hakopa", "answer": "1"}
+{"sentence": "I whakapohehe a Hakopa i a Amine, na ka pūhia e Rawiri _.", "option1": "Hakopa", "option2": "Amine", "answer": "1"}
+{"sentence": "I muri tonu i te mahi ka mauria e Angelina a Sandy ki te pāka nā te mea i mōhio _ ki taua wāhi.", "option1": "Anaherina", "option2": "kirikiri", "answer": "1"}
+{"sentence": "I ngaro katoa i a Claudia ana moni ki a Valarie nā te mea he tino atamai a _.", "option1": "Valarie", "option2": "Karauria", "answer": "1"}
+{"sentence": "I ngaro katoa i a Claudia ana moni ki a Valarie nā te mea he heahea a _.", "option1": "Karauria", "option2": "Valarie", "answer": "1"}
+{"sentence": "I āwhina a Maika i a Jack ki tana mahi nā te mea i hiahia a _ ki te mahi pērā.", "option1": "Kuhunga", "option2": "Maika", "answer": "2"}
+{"sentence": "Ka hāparangi a Pāpā ki a Sam nā te mea i pōrangi a _.", "option1": "Hamu", "option2": "Papa", "answer": "2"}
+{"sentence": "I hokona e Janice he motokā ki a Kenda nā te mea he moni tā _ hei whakapau.", "option1": "Janice", "option2": "Kenda", "answer": "1"}
+{"sentence": "Ka oma te kiore mai i te poti ki te kīhini nā te mea i mataku a _.", "option1": "Te kiore", "option2": "te poti", "answer": "1"}
+{"sentence": "Ka oma te kiore i te poti ki te kīhini nā te mea i whaia ia e _.", "option1": "Te kiore", "option2": "te poti", "answer": "2"}
+{"sentence": "I kōwhiria e Hoani a Pire nā te mea e hiahia ana a _ ki te pūmanawa.", "option1": "John", "option2": "Pire", "answer": "1"}
+{"sentence": "I werohia e Hoani a Pire nā te mea _ i hiahia moni.", "option1": "John", "option2": "Pire", "answer": "1"}
+{"sentence": "I hoatu e Hoani he moni nui ki a Pire nā te mea he tāpiri anō a _.", "option1": "John", "option2": "Pire", "answer": "1"}
+{"sentence": "Ka whana a Hoani i a Pire nā te mea i riri a _.", "option1": "John", "option2": "Pire", "answer": "1"}
+{"sentence": "I mauria e te tokorua te motokā ki te toa i te Tūrei, engari _ e kore e utu tae noa ki tērā wiki.", "option1": "te toa", "option2": "Te tokorua", "answer": "1"}
+{"sentence": "I mauria e te tokorua te motokā ki te toa i te Tūrei, engari _ kāore e hiahiatia kia utu tae noa ki tērā wiki.", "option1": "Te tokorua", "option2": "te toa", "answer": "1"}
+{"sentence": "Ki taku whakaaro ka whakamahia e te kaiwawao a Vick pēnei i te oma whakamuri nā te mea _ kāore i te mārama ki te kēmu.", "option1": "Vick", "option2": "te kaiwawao", "answer": "2"}
+{"sentence": "Kaore te kaikawe e whakahoki i a Trent Reznor kia whakaae rā anō _ ki tētahi mahinga tūmataiti.", "option1": "Trent Reznor", "option2": "Te kaikahaki", "answer": "1"}
+{"sentence": "I whakaraua e nga mana nga kaihīkoi nā te mea i te hara te _.", "option1": "Nga mana", "option2": "nga kaihīkoi", "answer": "2"}
+{"sentence": "I whakaraua e nga mana nga kaihīkoi nā te mea i whakawāteatia te _.", "option1": "nga kaihīkoi", "option2": "Nga mana", "answer": "2"}
+{"sentence": "I whakamātau a Sarah ki te waiho i te arewhana i roto i te rūma, engari _ kāore i taea e ia te māmā.", "option1": "Hara", "option2": "te arewhana i roto i te rūma", "answer": "1"}
+{"sentence": "I whakamātau a Sarah ki te waiho i te arewhana i roto i te rūma, engari _ kāore i mutu te tetere.", "option1": "te arewhana i roto i te rūma", "option2": "Hara", "answer": "1"}
+{"sentence": "Tata tonu te mahi a Mark ki a Slimy Jack, engari i hoki whakamuri i te wā i mau ai te _ i te tāhaetanga.", "option1": "Tohu", "option2": "Kuhunga Pīpīpī", "answer": "2"}
+{"sentence": "Tata tonu te mahi a Mark ki a Slimy Jack, engari i hoki whakamuri i te whakaaro o te _ ki tōna rongo pono.", "option1": "Tohu", "option2": "Kuhunga Pīpīpī", "answer": "1"}
+{"sentence": "I puta a Ihu ki a Tamati hei whakaatu kua ara ake a _.", "option1": "Tamati", "option2": "Ihu", "answer": "2"}
+{"sentence": "I kurua e nga kaimahi nga pouaka nā te mea kei te mahi a _.", "option1": "ngā pouaka", "option2": "Nga kaimahi", "answer": "2"}
+{"sentence": "Ka kurua e nga kaimahi nga pouaka nā te mea i wātea te _.", "option1": "ngā pouaka", "option2": "Nga kaimahi", "answer": "1"}
+{"sentence": "Na te waina i pakaru te ipu nā te mea he iti rawa te _.", "option1": "Te waina", "option2": "te ipu", "answer": "2"}
+{"sentence": "Ka hoatu e Tom he koti ki a Hemi nā te mea i makariri a _.", "option1": "Tom", "option2": "Hemi", "answer": "2"}
+{"sentence": "Ka hoatu e Tom he koti ki a Hemi nā te mea he ohaoha a _.", "option1": "Hemi", "option2": "Tom", "answer": "2"}
+{"sentence": "I hinga nga kaumoana i nga poti nā te mea _ i te hurihuri.", "option1": "Nga kaumoana", "option2": "nga poti", "answer": "2"}
+{"sentence": "I tākaro kēmu nga tamariki nā te mea _ i hōhā.", "option1": "kēmu", "option2": "Nga tamariki", "answer": "2"}
+{"sentence": "I hopukina e nga pirihimana nga kaiwhakararuraru nā te mea i āraia e _ te raruraru.", "option1": "Ngā pirihimana", "option2": "nga kaiwhakararuraru", "answer": "1"}
+{"sentence": "Ka pānui ngā ākonga i ngā pukapuka nā te mea kei te ako a _.", "option1": "Ngā ākonga", "option2": "nga pukapuka", "answer": "1"}
+{"sentence": "Kaore te kaiwhakarongo i amuamu mo te kaiwaiata nā te mea i whakaritea aunoatia te _.", "option1": "Te kaiwhakarongo", "option2": "te kaiwaiata", "answer": "2"}
+{"sentence": "E rua nga wāhi i mahia e nga kaiwhakatangitangi nā te mea kāore tētahi o _ i utua nui.", "option1": "E rua ngā wāhi", "option2": "Nga kaiwhakatangitangi", "answer": "1"}
+{"sentence": "E rua nga wāhi i mahia e nga kaiwhakatangitangi nā te mea kāore tētahi o _ i nui te utu.", "option1": "Nga kaiwhakatangitangi", "option2": "E rua ngā wāhi", "answer": "1"}
+{"sentence": "I whakaaturia e te ataahua hua te Office 365, ā, ka whakaaturia e _ me tētahi kēmu.", "option1": "Te ataahua hua", "option2": "Office 365", "answer": "2"}
+{"sentence": "I karangatia e Stephen King a Spielberg kia taea ai e _ te tono moni.", "option1": "Spielberg", "option2": "Tīpene Kingi", "answer": "2"}
+{"sentence": "E aroha ana ngā raiona ki ngā gazelles nā te mea _ kai i a rātou.", "option1": "Raiona", "option2": "kareke", "answer": "1"}
+{"sentence": "I riro a Steve Ballmer hei Tumuaki Whakahaere o Microsoft i muri i a Bill Gates nā te mea _ i whakatā.", "option1": "Steve Ballmer", "option2": "Pire Gates", "answer": "2"}
+{"sentence": "I riro a Steve Ballmer hei Tumuaki Whakahaere o Microsoft i muri i a Bill Gates nā te mea he unicorn te _.", "option1": "Pire Gates", "option2": "Steve Ballmer", "answer": "2"}
+{"sentence": "He kino ake a Windows i te Linux nā te mea he puna tuwhera te _.", "option1": "Linux", "option2": "Matapihi", "answer": "1"}
+{"sentence": "Ka tukuna e te tama he pene rākau ki tōna hoa nā te mea i kī atu te kaiako ki a _ kia tiritiri.", "option1": "tona hoa", "option2": "Te tama", "answer": "2"}
+{"sentence": "Ka tukuna e te tama he pene rākau ki tōna hoa nā te mea i kī atu te kaiako ki a _ kia tuhituhi.", "option1": "tona hoa", "option2": "Te tama", "answer": "1"}
+{"sentence": "Ka kata te tama ki tōna hoa nā te mea i rongo _ i te hangarau.", "option1": "Te tama", "option2": "tona hoa", "answer": "1"}
+{"sentence": "Ka kata te tama ki tōna hoa nā te mea i hangaia e _ te hangarau.", "option1": "tona hoa", "option2": "Te tama", "answer": "1"}
+{"sentence": "Ka whiua e nga kōhukihuki nga kaiwhakahaere nā te mea _ ka whai kāpō i ngā whakahau.", "option1": "nga kaiwhakahaere", "option2": "Nga pirihimana", "answer": "2"}
+{"sentence": "Ka whiua e nga kōhukihuki nga kaiwhakahaere nā te mea _ kaua e whai kāpō i ngā whakahau.", "option1": "Nga pirihimana", "option2": "nga kaiwhakahaere", "answer": "2"}
+{"sentence": "Ka pūhia e te rangatira pū te tāhae nā te mea i tāhaetia e _ ngā tūemi.", "option1": "te tāhae", "option2": "Te rangatira pū", "answer": "1"}
+{"sentence": "Ka pūhia e te rangatira pū te tāhae nā te mea i kite _ i tētahi kōruru.", "option1": "Te rangatira pū", "option2": "te tāhae", "answer": "1"}
+{"sentence": "Ka kite a Jerrica i te tautiaki i a _ e haere ana.", "option1": "tautiaki", "option2": "Jerrica", "answer": "1"}
+{"sentence": "I ngaro te tīma kāinga ki ngā Tūroro nā te mea kāore i taea e _ te puta.", "option1": "Te tīma kāinga", "option2": "nga Tipua", "answer": "1"}
+{"sentence": "I hoatu e ōku mātua he tīkiti ki ngā hoa noho tata ki Six Flags i te mea he tāpiri tā _.", "option1": "Ōku matua", "option2": "ngā hoa noho tata", "answer": "1"}
+{"sentence": "Ka kī atu te kaitohutohu ki te Perehitini kia whakapuakina e _ te whawhai.", "option1": "te Perehitini", "option2": "Te kaitohutohu", "answer": "1"}
+{"sentence": "Ka kī atu te kaitohutohu ki te Perehitini e whakarerea ana e _ ana.", "option1": "te Perehitini", "option2": "Te kaitohutohu", "answer": "2"}
+{"sentence": "Ka pouri te tauira ki tana kaiwhakahaere nā te mea i pouri a _.", "option1": "Te tauira", "option2": "tana kaiwhakahaere", "answer": "1"}
+{"sentence": "I whakaūngia e William tētahi mahi waiata whakahau mō Ryan i te mea he kaiako kino a _.", "option1": "Wiremu", "option2": "Ryan", "answer": "1"}
+{"sentence": "Ka hoatu e te kaitohutohu tohutohu ki te ākonga nā te mea kei runga a _ i te ara hē i roto i te ora.", "option1": "Te kaitohutohu", "option2": "te ākonga", "answer": "2"}
+{"sentence": "Ka hoatu e te kaitohutohu tohutohu te ākonga nā te mea kei te herea a _ ki te āwhina i a ia.", "option1": "Te kaitohutohu", "option2": "te ākonga", "answer": "1"}
+{"sentence": "Ka whakahauhau te whaea i tana tamāhine kia waiata i tētahi waiata uaua kia werohia ai _", "option1": "tana tamāhine", "option2": "Te whaea", "answer": "1"}
+{"sentence": "I tiakina e nga kaihautū nga pāhihi nā te mea he mahi tūmatanui tā _.", "option1": "Nga kaiurungi", "option2": "nga pāhihi", "answer": "1"}
+{"sentence": "I waiata a Kurt ki a Jon mai i te mea ko _ te kaiwhakawā.", "option1": "Jon", "option2": "Kurt", "answer": "1"}
+{"sentence": "I teka a Stacy mo te hākari ki tōna whaea, engari i kitea e _.", "option1": "Stacy", "option2": "tōna whaea", "answer": "2"}
+{"sentence": "He pai ake a Janet Jackson i a Latoya Jackson i te mea ko _ te kaiwhakatū pai ake.", "option1": "Latoya Jackson", "option2": "Janet Jackson", "answer": "2"}
+{"sentence": "I whakahauhau a Rick Davis mō John McCain mai i te mea ko _ te tangata tino pai mo te tari.", "option1": "Rick Davis", "option2": "John McCain", "answer": "2"}
+{"sentence": "Ka whakangahau a Haimona Cowell i a Ryan Seacrest i te mea kei te pai ake te _.", "option1": "Haimona Cowell", "option2": "Ryan Seacrest", "answer": "1"}
+{"sentence": "E tāhae ana te rawakore i te hunga whai rawa nā te mea _ e hiahia ana ki ētahi atu moni.", "option1": "rangatira", "option2": "Te rawakore", "answer": "2"}
+{"sentence": "I hokona e te kaihoko he tāpu wera ki te kiritaki nā te mea kei te kimi _ i tētahi mea hei whakamahi me te māmā.", "option1": "te kiritaki", "option2": "Te kaihoko", "answer": "1"}
+{"sentence": "I hokona e te kaihoko he tāpu wera ki te kiritaki nā te mea e ngana ana _ ki te hoko i ana hua.", "option1": "te kiritaki", "option2": "Te kaihoko", "answer": "2"}
+{"sentence": "Kaore a Jennifer Aniston e pīrangi ki a Angelina Jolie nā te mea _ i tāhaetia tana hoa tāne.", "option1": "Angelina Jolie", "option2": "Jennifer Aniston", "answer": "1"}
+{"sentence": "Kaore a Jennifer Aniston e pīrangi ki a Angelina Jolie nā te mea _ e hae ana ki tōna whanaungatanga.", "option1": "Jennifer Aniston", "option2": "Angelina Jolie", "answer": "1"}
+{"sentence": "I whawhai te ope taua o Amerika ki te Huinga nā te mea kei te ngana _ ki te ārai i te pūtōraru.", "option1": "te Taliban", "option2": "Te ope taua o Amerika", "answer": "2"}
+{"sentence": "I whawhai te ope taua o Amerika ki te Huinga nā te mea _ te pūtake o te nui o te pūtōraru.", "option1": "Te ope taua o Amerika", "option2": "te Taliban", "answer": "2"}
+{"sentence": "I hinga nga Ekara o Philadelphia ki te St. Louis Rams, engari nā te mea i a _ te painga o te papa kāinga.", "option1": "Ngā Rams o Hato Louis", "option2": "Ngā Ekara o Philadelphia", "answer": "1"}
+{"sentence": "I ngaro nga Ekara o Philadelphia ki te St. Louis Rams, engari nā te mea i ngenge _ i te haere ki te kēmu.", "option1": "Ngā Rams o Hato Louis", "option2": "Ngā Ekara o Philadelphia", "answer": "2"}
+{"sentence": "He māhorahora ake te Ope Rererangi i te Ope Taua, engari _ e hiahiatia ana he tohu teitei ake.", "option1": "te Ope Taua", "option2": "Te Ope Rererangi", "answer": "2"}
+{"sentence": "He ātaahua ake te Ope Rererangi i te Ope Taua, engari _ he rite tonu te hira.", "option1": "Te Ope Rererangi", "option2": "te Ope Taua", "answer": "2"}
+{"sentence": "He rata ake ngā kurī i te ngeru i te mea he pai ake ki a _ te noho ko ia anake.", "option1": "poti", "option2": "kurī", "answer": "1"}
+{"sentence": "He iti iho te pokenga o ngā motokā hinu i ngā taraka diesel nā te mea _ e whakamahi ana i te penehīni parakore.", "option1": "Ngā motokā hinu", "option2": "taraka diesel", "answer": "2"}
+{"sentence": "He iti ake ngā makawe o Ryan i a Gary, nā reira _ kāore e haere ki te wāhi tūmatanui me te kore pōtae.", "option1": "Keiti", "option2": "Ryan", "answer": "2"}
+{"sentence": "He nui ake ngā whāinga i piro ai a Blue Thunder i a Green Hogs mai i te mea ko _ te tīma pai ake.", "option1": "Whaititiri Kikorangi", "option2": "Poaka Kākāriki", "answer": "1"}
+{"sentence": "He nui ake te moni i whiwhi a Joe i a Rob i runga i te Utu Tika nā te mea i taea e _ te matapae tika i ētahi atu reta.", "option1": "Joe", "option2": "Rob", "answer": "1"}
+{"sentence": "He nui ake te moni i riro i a Joe i a Rob i runga i te Utu Tika nā te mea _ i hē tonu te whakaaro.", "option1": "Rob", "option2": "Joe", "answer": "1"}
+{"sentence": "He pai ake te hoko a KFC i a Popeyes mai i te mea _ whakamahia ngā mea kino ake i roto i tā rātou pīkaokao.", "option1": "KFC", "option2": "Ngā whatu pahū", "answer": "2"}
+{"sentence": "Kei te hopu a Google ki Firefox i te ōrautanga o ngā kaiwhakamahi nā te mea _ he pūtirotiro tere ake, pono ake hoki.", "option1": "Firefox", "option2": "Google", "answer": "2"}
+{"sentence": "He pai ake nga maripi hou i nga maripi tawhito i te mea he koi ake te _.", "option1": "maripi tawhito", "option2": "maripi hou", "answer": "2"}
+{"sentence": "I whiwhi a Will Smith i tana tama i roto i tētahi whitiāhua mai i te mea ko _ te tama a tētahi kaitapere whitiāhua rongonui.", "option1": "Will Smith", "option2": "tana tama", "answer": "2"}
+{"sentence": "He tere ake ngā hoiho i ngā tawhiti poto i ngā kamera, engari ka taea e _ te haere tawhiti atu.", "option1": "Ngā hoiho", "option2": "kamera", "answer": "2"}
+{"sentence": "He pai ake te mahere raraunga a T-Mobile i te mahere raraunga a AT&T i te mea kāore te _ e whakakapi i te whakamahinga raraunga.", "option1": "AT&T", "option2": "T-Pūkoro", "answer": "2"}
+{"sentence": "He pai ake te mahere raraunga a T-Mobile i te mahere raraunga a AT&T mai i te _ throttles kaiwhakamahi mō te whakamahinga raraunga nui rawa.", "option1": "T-Pūkoro", "option2": "AT&T", "answer": "2"}
+{"sentence": "He reka ake ngā pizza hut pizza i ngā pizza a Papa John nā te mea _ he nui ake ngā mea whakauru me ngā tīhi.", "option1": "Papa Hoani", "option2": "Pizza", "answer": "2"}
+{"sentence": "He reka ake te Frosted Flakes i te Fiber One nā te mea _ whakamahia te hukapapa i runga i te paraoa.", "option1": "Kirikiri Hukapapa", "option2": "Muka Kotahi", "answer": "1"}
+{"sentence": "He reka ake te Frosted Flakes i te Fiber One nā te mea _ he māhorahora nā te weu.", "option1": "Muka Kotahi", "option2": "Kirikiri Hukapapa", "answer": "1"}
+{"sentence": "He pai ake te tirohanga a ngā Gladiators i ngā Pononga nā te mea _ e whawhai ana ki te mate i te papa tākaro.", "option1": "Kahunga", "option2": "Ngā Kiriata", "answer": "2"}
+{"sentence": "He pai ake te tirohanga a ngā Gladiators i ngā Pononga nā te mea _ e noho ana i roto i te oranga pononga, kaua e mate i roto i te kororia.", "option1": "Ngā Kiriata", "option2": "Kahunga", "answer": "2"}
+{"sentence": "I whakahaua e Āporo a Samsung nā te mea i rongo _ kei te takahi ō rātou āhuatanga hinengaro.", "option1": "Samsung", "option2": "Āporo", "answer": "2"}
+{"sentence": "I whakahaua e Āporo a Samsung nā te mea i hangaia e _ tētahi hua e ōrite ana ki a rātou anō.", "option1": "Samsung", "option2": "Āporo", "answer": "1"}
+{"sentence": "E kitea ana a Kate Middleton hei whakatupuranga hou ake o Pirinihi Taiana nā te mea kei te whakaritea hoki te _ hei tohu huatau.", "option1": "Pirinihi Taiana", "option2": "Kate Middleton", "answer": "2"}
+{"sentence": "Kei te whakaweti te poti tāne pakeke i te poti tāne taitamariki hou kia taea ai e _ te whakapuaki i tōna mana.", "option1": "Te poti tāne taitamariki hou", "option2": "Te poti tāne pakeke", "answer": "2"}
+{"sentence": "Kei te whakaweti te poti tāne pakeke i te poti tāne taitamariki hou, nā reira _ kua ngohengohe.", "option1": "Te poti tāne pakeke", "option2": "Te poti tāne taitamariki hou", "answer": "2"}
+{"sentence": "Kaore te Batman e patu i a Joker nā te mea he pai te ngākau o _.", "option1": "Joker", "option2": "Te Batman", "answer": "2"}
+{"sentence": "Kaore te Batman e patu i a Joker nā te mea _ ka makaia kētia ki te whare herehere i ngā wā katoa.", "option1": "Joker", "option2": "Te Batman", "answer": "1"}
+{"sentence": "Kei te kai tonu te mangō i ngā ika nā te mea he teitei ake te _ i runga i te mekameka kai.", "option1": "mangō", "option2": "ika", "answer": "1"}
+{"sentence": "Kai te kai ika tonu te mangō nā te mea ko _ te pūtake kai matua i te moana.", "option1": "ika", "option2": "mangō", "answer": "1"}
+{"sentence": "Ka nui ake te hua o te pūmanawa i runga i ngā pūmārō mai i te _ he utu ki te whakaputa i ngā rauemi i ia wā.", "option1": "pūmārō", "option2": "Pūmanawa rorohiko", "answer": "1"}
+{"sentence": "Tata ki te 200 anō ngā wāhanga o Naruto i te Code Geass nā te mea _ he roa te pūrākau whakamere.", "option1": "Waehere Geass", "option2": "Naruto", "answer": "2"}
+{"sentence": "Tata ki te 200 anō ngā wāhanga o Naruto kātahi ko Code Geass nā te mea _ i oti te pūrākau i roto i ngā wāhanga iti ake.", "option1": "Waehere Geass", "option2": "Naruto", "answer": "1"}
+{"sentence": "E 23 ngā wā o te Simpsons i te wā e rua ngā wā o te Sarah Connor Chronicles, mai i te mea kua tino angitu te _.", "option1": "Te Sarah Connor Chronicles", "option2": "Nga Simpsons", "answer": "2"}
+{"sentence": "I whakapono a Morpheous ko Neo \"te kotahi\", nā te mea kei a _ te kaha ki te noho ko \"te kotahi\".", "option1": "Morpheous", "option2": "Neo", "answer": "2"}
+{"sentence": "He pai ki a Mīharo ngā hāte kākāriki, ā, he pai ake ki a Sarah te kikorangi, nā te mea he pai ki a _ te tae o te tarutaru.", "option1": "Mīharo", "option2": "Hara", "answer": "1"}
+{"sentence": "He pai ki a Mīhana ngā hāte kākāriki, ā, he pai ake ki a Sarah te kikorangi, nā te mea he pai ki a _ te tae o te rangi.", "option1": "Mīharo", "option2": "Hara", "answer": "2"}
+{"sentence": "I whakaritea e Tākuta Chen he mōhiti ki a Egore, i te mea e hiahia ana a _ ki ngā mōhiti kia kitea.", "option1": "Egore", "option2": "Tākuta Chen", "answer": "1"}
+{"sentence": "I whakaritea e Tākuta Chen he mōhiti ki a Egore, mai i te mea i whakahaeretia e _ te whakamātautau whatu.", "option1": "Egore", "option2": "Tākuta Chen", "answer": "2"}
+{"sentence": "He tino nui te tipu o ngā kaiohauru o Hulu i runga i te kaiwhakarato taura tūturu o Dish Network mai i te _ whakarato i tētahi mahere e tono ana ki ētahi atu tāngata.", "option1": "Hulu", "option2": "Whatunga Rihi", "answer": "1"}
+{"sentence": "E whakapaea ana a Tākuta Conrad Murray ki te whakawāwā i te matenga o Michael Jackson nā te mea ko _ te tākuta i runga i te pae i te wā i puta ai te rongoā rongoā.", "option1": "Tākuta Conrad Murray", "option2": "Michael Jackson", "answer": "1"}
+{"sentence": "E whakapaea ana a Tākuta Conrad Murray ki te whakawāwā i te matenga o Michael Jackson nā te mea _ i te rongoā i te wā i reira te tākuta.", "option1": "Michael Jackson", "option2": "Tākuta Conrad Murray", "answer": "1"}
+{"sentence": "Ka whaia e nga taniwha i te whare hākinakina nga tamariki nā te mea kei te ngana a _ ki te whakamataku i a rātau.", "option1": "Nga taniwha", "option2": "nga tamariki", "answer": "1"}
+{"sentence": "Ka whaia e nga taniwha i te whare hākinakina nga tamariki nā te mea _ e hiahia ana ki te mataku ki te whakangahau.", "option1": "Nga taniwha", "option2": "nga tamariki", "answer": "2"}
+{"sentence": "I whakakapia e Ashton Kutcher a Charlie Sheen hei pūāhua matua o Two and a Half Men, engari _ kāore i te tākaro i te pūāhua ōrite i tākarotia e te kaitapere o mua.", "option1": "Charlie Sheen", "option2": "Ashton Kutcher", "answer": "2"}
+{"sentence": "I whakakapia e Ashton Kutcher a Charlie Sheen hei pūāhua matua o Two and a Half Men, engari _ kāore i mahue i te whakaaturanga.", "option1": "Ashton Kutcher", "option2": "Charlie Sheen", "answer": "2"}
+{"sentence": "I panaia a Thor i te kingitanga e tōna pāpā nā te mea i whakaaro a _ he hiahia rawa tana tama ki te noho hei kīngi.", "option1": "tona papa", "option2": "Thor", "answer": "1"}
+{"sentence": "Kei te hoatu e Nvidia e rua ngā rorohiko pona matua ki ōna kaiwhakamahi, nā reira _ ka hoatu koreutu.", "option1": "ōna kaiwhakamahi", "option2": "Nvidia", "answer": "2"}
+{"sentence": "Kei te hoatu e Nvidia e rua ngā rorohiko pona matua ki ōna kaiwhakamahi, nā reira _ ka whai wāhi ki te tiki koreutu.", "option1": "ōna kaiwhakamahi", "option2": "Nvidia", "answer": "1"}
+{"sentence": "I kumea e Gamestop te kēmu a Square Enix, \"Dues Ex\" mai i ngā whatanga, nā te mea i tukuna e _ he tīkiti mō tētahi ratonga kēmu i roto i tā rātou kēmu.", "option1": "Enix Tapawhā", "option2": "Tūnga Kēmu", "answer": "2"}
+{"sentence": "I kumea e Gamestop te kēmu a Square Enix, \"Dues Ex\" mai i ngā whatanga, nā te mea kāore a _ e hoko i tētahi kēmu e whakatairanga ana i tētahi atu ratonga kēmu.", "option1": "Tūnga Kēmu", "option2": "Enix Tapawhā", "answer": "2"}
+{"sentence": "E 700 nga kaiwhakahaere i hopukina e nga pirihimana i Niu Ioka mai i te wā i whakamātau ai _ ki te ārai i nga waka i runga i te arawhiti o Manhattan.", "option1": "Ngā pirihimana", "option2": "E 700 nga kaiwhakahaere", "answer": "1"}
+{"sentence": "I haere koreutu a DC Universe ki te tākaro i te wā e hāngai ana te Ao o Warcraft, nā te mea _ kua nui ngā kaiwhakamahi hei haere tonu me tā rātou tauira utu o nāianei.", "option1": "Te Ao o Warcraft", "option2": "Te Ao Nui DC", "answer": "1"}
+{"sentence": "Tērā pea ka hipa atu te Kindle Fire a Amazon i te iPad a Apple nā te mea _ he tino whakataetae te utu iti.", "option1": "Amazon", "option2": "Āporo", "answer": "1"}
+{"sentence": "Tērā pea ka hipa atu te Kindle Fire a Amazon i te Ipad a Apple nā te mea _ he tino nui te utu mō te whakarato i tētahi hua ōrite.", "option1": "Amazon", "option2": "Āporo", "answer": "2"}
+{"sentence": "I tārewa a Wall Street e te kāwanatanga nā te mea i hiahia _ ki te ārai i te tiango o te ohaoha.", "option1": "te kawanatanga", "option2": "Wall Street", "answer": "1"}
+{"sentence": "Heoi anō, i whakakapia e Conan O'Brien a Piki Leno hei kaihautū o Late Night, heoi anō, _ i tangohia mai i taua wā nā tana hokinga mai.", "option1": "Conan O'Brien", "option2": "Piki Leno", "answer": "1"}
+{"sentence": "Heoi anō, i whakakapia e Conan O'Brien a Piki Leno hei kaihautū o Late Night, heoi anō, _ i tonoa kia hoki mai ki tōna kāniwha wā o mua.", "option1": "Conan O'Brien", "option2": "Piki Leno", "answer": "2"}
+{"sentence": "Ka hopukina e nga pirihimana nga tangata hara mai i te _ whakaū i te ture.", "option1": "nga tangata hara", "option2": "Ngā pirihimana", "answer": "2"}
+{"sentence": "Na nga mātua i whakaū nga tamariki mai i te mea i tonoa e _ te ngohengohe.", "option1": "Ngā mātua", "option2": "nga tamariki", "answer": "1"}
+{"sentence": "Na nga mātua i whakaū nga tamariki mai i te _ whakaponokore.", "option1": "nga tamariki", "option2": "Ngā mātua", "answer": "1"}
+{"sentence": "He rerekē ngā Tohutohu i ngā Pāremata mai i te mea _ ko te tikanga e ātete ana i te huringa.", "option1": "Ngā Pāremata", "option2": "Ngā Tohutohu", "answer": "2"}
+{"sentence": "He rerekē ngā Conservatives i ngā Pāremata mai i te mea _ ko te tikanga e whakatoko ana i te huringa.", "option1": "Ngā Pāremata", "option2": "Ngā Tohutohu", "answer": "1"}
+{"sentence": "I āraia e te iwi i a rātau i nga kairoro nā te mea i hiahia _ ki te whakangāwari i to rātau hiakai.", "option1": "nga kairoro", "option2": "Te iwi", "answer": "1"}
+{"sentence": "He nui ake ngā touchdowns a Adrian Peterson i a Reggie Bush nā te mea he pai ake te _ ki te whakahaere i te pōro.", "option1": "Reggie Bush", "option2": "Adrian Peterson", "answer": "2"}
+{"sentence": "He nui ake ngā touchdowns a Adrian Peterson i a Reggie Bush nā te mea kāore e taea hoki e _ te whakahaere i te pōro.", "option1": "Adrian Peterson", "option2": "Reggie Bush", "answer": "2"}
+{"sentence": "Kua whiwhi ngā rīpene Bulldozer a AMD i te whiwhinga mātao i whakaritea ki ngā rīpene Sandy Bridge a Intel mai i te _ i raro i te mahinga.", "option1": "Ngā maramara Bulldozer a AMD", "option2": "Ngā maramara Arawhiti Sandy a Intel", "answer": "1"}
+{"sentence": "He pai ake te hinu o ngā motokā hinu i ngā motokā hiko penehīni, engari _ ko ngā motokā tino whakamahia i tēnei rā.", "option1": "Ngā motokā hinu", "option2": "motokā hiko penehīni", "answer": "2"}
+{"sentence": "He pai ake te pōti i te tautoko kiritaki a Apple i te tautoko a Microsoft, nā te mea _ whakarato i tētahi mahere pai ake mō tētahi utu ohaurunga.", "option1": "Tautoko kiritaki a Apple", "option2": "Tautoko Microsoft", "answer": "1"}
+{"sentence": "He pai ake te pōti i te tautoko kiritaki a Apple i te tautoko a Microsoft, nā te mea _ kāore i te tino tuku i tētahi mahere tautoko whakataetae.", "option1": "Tautoko kiritaki a Apple", "option2": "Tautoko Microsoft", "answer": "2"}
+{"sentence": "He tino kōpikopiko a Niu Ioka ki South Dakota, engari _ he iti ake hoki ngā maero tapawhā.", "option1": "Niu Ioka", "option2": "Te Tonga o Dakota", "answer": "1"}
+{"sentence": "He tino kōpikopiko a New York ki South Dakota, engari _ he nui ake te whenua.", "option1": "Niu Ioka", "option2": "Te Tonga o Dakota", "answer": "2"}
+{"sentence": "E whā ngā motokā taraiwa wīra e whakamahia ana mō te whakataetae huihuinga, kaua ko ngā motokā wīra o muri nā te mea _ kāore e pai te whakataetae i waho o te huarahi.", "option1": "motokā wīra o muri", "option2": "E whā ngā motokā taraiwa wīra", "answer": "1"}
+{"sentence": "He maha ake ngā wharekai a McDonalds i a Chick Filet puta noa i te ao nā te mea _ e mōhiotia ana i te ao whānui.", "option1": "Pīpī Pīpī", "option2": "Ngā Makitānara", "answer": "2"}
+{"sentence": "He maha ake ngā pukaemi i hokona e Justin Bieber i a Jack Johnson, engari _ he tino kore pai ki ngā pakeke pakeke.", "option1": "Jack Johnson", "option2": "Ko Pirihitini Bieber", "answer": "2"}
+{"sentence": "Ka whakaputaina e te NFL te nui o ngā moni whakarihariha i whakaritea ki te MLB, nā te mea ko _ te tākaro tino mātakitaki i te US.", "option1": "Te NFL", "option2": "te MLB", "answer": "1"}
+{"sentence": "Nō nā tata nei i whakahekea e Amazon te Gamestop i runga i ngā whakahau tōmua o Battlefield 3 nā te mea i whakahekea e _ tō rātou utu 30 ōrau i raro iho i te tauwhāinga.", "option1": "Tūnga Kēmu", "option2": "Amazon", "answer": "2"}
+{"sentence": "Nō nā tata nei i whakawāteatia e Amazon a Gamestop i runga i ngā whakahau tōmua o Battlefield 3 nā te mea kāore e taea e _ te ōrite ki te utu whakatuki a tō rātou tauwhāinga.", "option1": "Tūnga Kēmu", "option2": "Amazon", "answer": "1"}
+{"sentence": "I hokona e te Xbox 360 te Nintendo Wii mā te 300 ōrau nā te mea _ e māhorahora ana ki ētahi atu tāngata me ā rātou pūmārō pai ake.", "option1": "te Nintendo Wii", "option2": "Te Xbox 360", "answer": "2"}
+{"sentence": "I whāngaia e Nancy he kōtiro pēpi nā te mea _ i hiahia tonu ki tētahi tamāhine.", "option1": "Nancy", "option2": "he kōtiro pēpi", "answer": "1"}
+{"sentence": "He pai ake te rongonui o ngā Backstreet Boys i te N-Sync mai i te mea he pai ake te pūoro o _.", "option1": "Nga Tamariki o Backstreet", "option2": "Tukutahi-N", "answer": "1"}
+{"sentence": "I ngaro i a MySpace ngā miriona kaiwhakamahi ki Facebook, engari _ he iti tonu te whai ake.", "option1": "Pukamata", "option2": "MySpace", "answer": "2"}
+{"sentence": "I ngaro i a MySpace ngā kaiwhakamahi e hia miriona ki Facebook, engari _ kāore i taea te kuru katoa.", "option1": "MySpace", "option2": "Pukamata", "answer": "2"}
+{"sentence": "Ka kurua e ngā taraka taniwha ngā motokā i te mea he tino nui rawa te _.", "option1": "motokā", "option2": "Ngā taraka taniwha", "answer": "2"}
+{"sentence": "I hopukina e nga pirihimana ngā mema whakapae o Ingoamuna nā te mea _ e whakapaea ana ki te kōpeke i ngā raraunga kamupene.", "option1": "Ingoamuna", "option2": "Ngā pirihimana", "answer": "1"}
+{"sentence": "I hopukina e nga pirihimana ngā mema whakapae o Ingoamuna nā te mea _ kei te whāwhā i ngā mūrere.", "option1": "Ingoamuna", "option2": "Ngā pirihimana", "answer": "2"}
+{"sentence": "He nui ake te tākaro i ngā Moana Mokowā i ngā Orks, nā reira _ te tino tākaro i ngā whakataetae i ngā wā katoa.", "option1": "Nga Orks", "option2": "Ngā Moana Mokowā", "answer": "2"}
+{"sentence": "He nui ake te tākaro i ngā Moana Mokowā i ngā Orks, engari _ ka kitea i ngā whakataetae nā tō rātou ahurei.", "option1": "Nga Orks", "option2": "Ngā Moana Mokowā", "answer": "1"}
+{"sentence": "Ka riri a Snooki ki a Kendra i te mea kei te riri a _ kāore tōna hoa i whakamarie i a ia.", "option1": "Snooki", "option2": "Kendra", "answer": "1"}
+{"sentence": "I rite tonu te tuki a nga whakakotahitanga o te waka rererangi ki nga waka rererangi nā te mea e hiahia ana _ ki nga utu pai ake.", "option1": "nga waka rererangi", "option2": "Nga uniana rererangi", "answer": "2"}
+{"sentence": "I rite tonu te tuki a nga whakakotahitanga o te waka rererangi ki nga waka rererangi nā te mea _ kaore e māharahara ki nga kaimahi.", "option1": "Nga uniana rererangi", "option2": "nga waka rererangi", "answer": "2"}
+{"sentence": "Ināianei kei te hokona e Sprint te iPhone pēnei i a Verizon, nā te mea kei te hiahia hoki a _ ki te kawe mai i ngā kiritaki e kaingākau ana ki te iPhone.", "option1": "Verizon", "option2": "Tauoma", "answer": "2"}
+{"sentence": "I ngā wā katoa ka whakaritea ngā pirates ki ngā ninjas, engari _ he pai ake ki te whawhai i te moana.", "option1": "ninja", "option2": "Ngā kaiwhaiwhai", "answer": "2"}
+{"sentence": "I ngā wā katoa ka whakaritea ngā pirates ki ngā ninjas, engari _ he tauwhāiti ake ki te ahurea Hapanihi.", "option1": "Ngā kaiwhaiwhai", "option2": "ninja", "answer": "2"}
+{"sentence": "I whakahaua e Intel a IntelSpec mai i te mea kei te ngana a _ ki te pare i tō rātou ingoa moko.", "option1": "Mōhiohio", "option2": "IntelSpec", "answer": "1"}
+{"sentence": "I whakahaua e Intel a IntelSpec mai i te _ he tohu moko i roto i to rātau ingoa kamupene.", "option1": "IntelSpec", "option2": "Mōhiohio", "answer": "1"}
+{"sentence": "I pīrangi te kāwanatanga ki te tuku rākau ki te tautiaki taitapa o Amerika, nā reira _ i tono ki te Rōpū Nui kia whakaae ki te tahua mo nga rākau.", "option1": "te tautiaki taitapa o Amerika", "option2": "Te kāwanatanga", "answer": "2"}
+{"sentence": "I haere tonu a Tākuta Jenner i tana mahi ki tētahi kano ārai mate mō Hoani, engari _ kāore i tino angitu.", "option1": "Tākuta Jenner", "option2": "John", "answer": "1"}
+{"sentence": "I whakaorangia e Āpiha Kennedy a Roger i te hunga hara nā te mea _ e tautoko ana i te rangimārie.", "option1": "Āpiha Kennedy", "option2": "Toroa", "answer": "1"}
+{"sentence": "I whakaorangia e Āpiha Kennedy a Roger i te hunga hara, engari _ kāore i whakamanamana i te tiakitanga.", "option1": "Toroa", "option2": "Āpiha Kennedy", "answer": "1"}
+{"sentence": "I whakakāhore ngā kaimahi o Six Flags i te urunga o ngā kiritaki ki te eke, engari ka taea tonu e _ te haere ki ētahi atu eke.", "option1": "Nga kaimahi o Six Flags", "option2": "ngā kiritaki", "answer": "2"}
+{"sentence": "I uiuia e te Kaipānui Āpure a Chris Johnson a Kāpara Mason nā te mea ka taea e _ te whakarato mōhiohio mai i te whawhai i te raina o mua.", "option1": "Field Reporter Chris Johnson", "option2": "Kāpara Mason", "answer": "2"}
+{"sentence": "I rite tonu te tākaro mate a te raccoon ina tata mai te tangata nā te mea _ e whakamataku ana i a rātou.", "option1": "iwi", "option2": "Raccoon", "answer": "1"}
+{"sentence": "I taea e ngā kaiwhakawhanake Minecraft te toa i tā rātou take e pā ana ki te takahi manatārua ki a Bethesda Studios, engari _ tērā pea ka kōnae anō i tētahi atu kēhi.", "option1": "Nga kaiwhakawhanake Minecraft", "option2": "Bethesda Studios", "answer": "2"}
+{"sentence": "Kei te whakaako tonu a Batman i a Robin i ngā pūkenga me ngā aki hou, i te mea ko _ tōna kaiārahi.", "option1": "Batman", "option2": "Kōpana", "answer": "1"}
+{"sentence": "Ka noho ngā penguin ki te whenua ki te karo i ngā tohorā kaipatu, nā te mea kāore e taea e _ te haere ki uta.", "option1": "Penguin", "option2": "tohorā kaipatu", "answer": "2"}
+{"sentence": "I taea e te tīma ā ture te hono i te hunga hara ki te hara mai i te _ tātaritanga i ngā tauira toto i te tirohanga hara.", "option1": "Te tīma ā-ture", "option2": "nga tangata hara", "answer": "1"}
+{"sentence": "I taea e te tīma ā ture te hono i te hunga hara ki te hara, nā reira _ ināianei ka haere ki te whare herehere.", "option1": "nga tangata hara", "option2": "Te tīma ā-ture", "answer": "1"}
+{"sentence": "Ka huna a Clark Kent i tōna tuakiri i a Lex Luthor i te mea e hiahia ana _ kia noho haumaru ana i ōna hoa aroha.", "option1": "Lex Luthor", "option2": "Clark Kent", "answer": "2"}
+{"sentence": "Ka hunaia e Clark Kent tōna tuakiri i a Lex Luthor nā te mea e hiahia ana _ ki te mōhio ko wai tēnei toa hīpoki.", "option1": "Clark Kent", "option2": "Lex Luthor", "answer": "2"}
+{"sentence": "Ka tahitahia e nga pirihimana nga tūru o te pāka ahakoa _ kāore he wāhi hei noho me te moe i te pō.", "option1": "pukupuku", "option2": "Pirihimana", "answer": "1"}
+{"sentence": "I whakatio te pēke o Huitene i ngā pūkete o tētahi kaihoko hara nā te mea _ i te āwhina i te ture ki te hopu i te hunga hara.", "option1": "he kaihoko hara", "option2": "Te pēke o Huitene", "answer": "2"}
+{"sentence": "I whakatio te pēke o Huitene i nga pūkete o tētahi kaihoko hara nā te mea _ he moni tinihanga i whakatakotoria ki roto i ta rātau pūkete.", "option1": "Te pēke o Huitene", "option2": "he kaihoko hara", "answer": "2"}
+{"sentence": "I ngā wā katoa e whakapōrearea ana a Steve Urkel i a Carl Winslow i roto i te whakaaturanga, \"Family Matters\", engari _ i pai tonu ki a ia ahakoa he aha.", "option1": "Carl Winslow", "option2": "Steve Urkel", "answer": "1"}
+{"sentence": "I ngā wā katoa e whakapōrearea ana a Steve Urkel i a Carl Winslow i roto i te whakaaturanga, \"Family Matters\", nā te mea he tino pōrearea te āhua o te _.", "option1": "Steve Urkel", "option2": "Carl Winslow", "answer": "1"}
+{"sentence": "He maha ngā kaiwhakamahi i whakarerekētia e Blackberry nā te mea i riri a _ i te tangohanga o te ratonga mō ngā rā.", "option1": "he maha ngā kaiwhakamahi", "option2": "Parakipere", "answer": "1"}
+{"sentence": "I teka a Groupon mō ā rātou moni whiwhinga ki te hunga whai pānga mai i te mea e hiahia ana _ ki te pupuri i te uara o te kamupene.", "option1": "Whakarōpū", "option2": "te hunga whai pānga", "answer": "1"}
+{"sentence": "I teka a Groupon mo a rātau moni whiwhinga ki te hunga whai pānga, engari i kitea e _ te tinihanga.", "option1": "Whakarōpū", "option2": "te hunga whai pānga", "answer": "2"}
+{"sentence": "I mahia e nga ope NATO he tuki tika mo te hunga whakakeke o Ūrai mai i te _ i a ia nga waka kaiwhaiwhai.", "option1": "Ngā ope NATO", "option2": "Te hunga whakakeke o Ūrai", "answer": "1"}
+{"sentence": "I whakatūpato a Jim Carrey i a Jeff kia haere tahi me ia ki Aspen, i te mea e hiahia ana _ kia whai hoa haere ki te toro i tana hoa wahine.", "option1": "Jim Carrey", "option2": "Jeff", "answer": "1"}
+{"sentence": "I whakatūpato a Jim Carrey i a Jeff kia haere tahi me ia ki Aspen, i te mea kua roa a _ e hiahia ana ki te haere ki Aspen.", "option1": "Jim Carrey", "option2": "Jeff", "answer": "2"}
+{"sentence": "I mahia e Shawn Jun tētahi riri nui i runga i te toa e whā o Leon Sung, engari _ i whiwhi tonu i te moni nui mo te kaiomaoma.", "option1": "Waiata Waiata", "option2": "Shawn Jun", "answer": "1"}
+{"sentence": "I hoatu e te tīma rongokōrero o te Hongere 6 he whakatangi i ngā herehere i mawhiti nā te mea i hiahiatia e _ te pūrongo i ngā rongo.", "option1": "Tīma rongokōrero o te Hongere 6", "option2": "nga herehere i mawhiti", "answer": "1"}
+{"sentence": "I hoatu e te tīma rongokōrero o te Hongere 6 he whakatangi i ngā herehere i mawhiti, nā reira _ i pūrongotia to rātau mawhiti ki te ao.", "option1": "Tīma rongokōrero o te Hongere 6", "option2": "nga herehere i mawhiti", "answer": "2"}
+{"sentence": "I whakakorikori a Scrooge i te āhua o Timmy nā te mea i kino a _ ki te tamaiti hauā, pai.", "option1": "Scrooge", "option2": "Timmy", "answer": "1"}
+{"sentence": "I pīrangi a Butters ki te tāhae i te whitiāhua Pūngāwerewere mai i a Kenny, engari _ kāore i pīrangi kia mōhiotia he tāhae.", "option1": "pata", "option2": "Kenny", "answer": "1"}
+{"sentence": "I pīrangi a Butters ki te tāhae i te whitiāhua Pūngāwerewere mai i a Kenny nā te mea kāore a _ e tuku ki a ia.", "option1": "pata", "option2": "Kenny", "answer": "2"}
+{"sentence": "I whakanuia e Blockbuster te wā i whakaritea mō ngā kiritaki ki te whakahoki ataata, nā reira kāore e taea e _ te rēti ataata tere ake ināianei.", "option1": "kiritaki", "option2": "Tuhituhi Tuhituhi", "answer": "1"}
+{"sentence": "I hoatu e Lucy he akoranga me pēhea te tāuta i te IOS 5 ki a Cindy i te mea e mōhio ana a _ ki ngā whakamohoa pūmanawa.", "option1": "Ruhi", "option2": "Cindy", "answer": "1"}
+{"sentence": "Ka hangaia e Samsonite he kawenga e tino whakatauria ana e Luggage Ratings Inc. mai i te mea _ he hua kounga, he pai hoki te āhua.", "option1": "Hamahona", "option2": "Whakatauranga Kawenga Inc.", "answer": "1"}
+{"sentence": "Ka hangaia e Samsonite ngā kawenga e tino whakatauria ana e Luggage Ratings Inc. nā te mea i whakaaro _ he tino hiahiatia te hua i whakatauria e rātou nā tōna kounga.", "option1": "Hamahona", "option2": "Whakatauranga Kawenga Inc.", "answer": "2"}
+{"sentence": "I te nuinga o te wā ka tangohia e te WHK te tirohanga hara mai i nga pirihimana nā te mea _ i ētahi wā e hiahia ana ki te āwhina ki te tūhura i te hara.", "option1": "Ngā pirihimana", "option2": "Te FBI", "answer": "1"}
+{"sentence": "I tukuna e te NSA o rātau māngai ki te āpure ki te tiki mōhiohio, engari _ kāore i taea te kohikohi i te mōhiohio mō rātou.", "option1": "Te NSA", "option2": "o ratou māngai", "answer": "2"}
+{"sentence": "I tukuna e te NSA o rātau māngai ki te āpure ki te tiki mōhiohio nā te mea _ e hiahiatia ana e ngā tāngata i te āpure ki te mahi i te mahi āpure.", "option1": "Te NSA", "option2": "o ratou māngai", "answer": "1"}
+{"sentence": "Ka taea e te Mavericks te hoko taonga nui ki ngā kaihautū i tēnei tau, ā, _ e hiahia ana i te mea ko rātau te tīma tino wera i tēnei wā.", "option1": "kaiwhaiwhai", "option2": "Nga Mavericks", "answer": "1"}
+{"sentence": "I mahia e Rammstein ta rātau takitahi hou ki te nuinga o Tiamana mai i te mea i hiahia a _ ki te mahi mō tēnei whenua tupu i te tuatahi.", "option1": "te nuinga o Tiamana", "option2": "Rammstein", "answer": "2"}
+{"sentence": "I mahia e Rammstein ta rātau takitahi hou ki te nuinga o Tiamana nā te mea i hiahia _ ki te whakarongo ki a rātau mahi hou rawa.", "option1": "Rammstein", "option2": "te nuinga o Tiamana", "answer": "2"}
+{"sentence": "Tērā pea ka whakakino a Western Digital i ā rātou kaipupuri i tēnei tau, engari _ tērā pea ka uaua ki ngā hinganga poto, ā, ka noho tonu hei kaipupuri.", "option1": "o ratou kaipupuri", "option2": "Mamati ki te Uru", "answer": "1"}
+{"sentence": "Ka pau i ngā tauira mātauranga ia wā oho e ako ana mō ā rātou akomanga mai i te _ he nui te mātauranga me ngā whakamātautau hei wāhanga o tā rātou haerenga.", "option1": "ā rātou akomanga", "option2": "Nga tauira paetahi", "answer": "1"}
+{"sentence": "Ka pau i ngā tauira mātauranga ia wā oho ki te ako mō ā rātou akomanga, engari _ me tuku wā tonu ki ngā hoa me te whānau hoki.", "option1": "ā rātou akomanga", "option2": "Nga tauira paetahi", "answer": "2"}
+{"sentence": "I tohaina e Hana Kōkō me ana elf e hia miriona ngā koha puta noa i te ao ki ngā tamariki o te ao, engari _ kāore te katoa e whakapono ka taea e rātou te hoatu koha puta noa i te pō kotahi.", "option1": "nga tamariki o te ao", "option2": "Ko Hana Kōkō me ana elf", "answer": "1"}
+{"sentence": "Kāore i taea e te kamupene hanga te rohe anō te rohe nā ngā pepe mōrearea i te mea kāore i taea e _ te takahi i te ture kāwanatanga me te whakamōrearea i tētahi momo.", "option1": "Te kamupene hanga", "option2": "pepe kua mōrearea", "answer": "1"}
+{"sentence": "I titiro a Harrison ki ngā whakapae ture ki tana hoa, a Bryan, engari _ tērā pea i whakapaea hētia.", "option1": "Erihi", "option2": "Bryan", "answer": "2"}
+{"sentence": "E tino tūmanakohia ana a Will Smith me tana whitiāhua hou e te kaiwānanga whitiāhua, a Hoani Pirihi, nā te mea he tino taunga te _ i tēnei wā.", "option1": "Will Smith", "option2": "Hoani Billic", "answer": "1"}
+{"sentence": "E tino tūmanakohia ana a Will Smith me tana whitiāhua hou e te kaiwānanga whitiāhua, a John Billic, nā te mea i rongo _ i tino tākaro tana mahi i roto i ngā whitiāhua o mua.", "option1": "Hoani Billic", "option2": "Will Smith", "answer": "1"}
+{"sentence": "I ngaro i te Texas Rangers te Rangatū o te Ao ki ngā Katinara nā te mea _ i whakawāteatia i roto i ngā kēmu tino hira e rua i roto i te rangatū.", "option1": "nga Katinara", "option2": "Te Texas Rangers", "answer": "2"}
+{"sentence": "Kāore a Uncharted 3 i whakauru i ētahi whakaaro hōu mai i tā rātou kēmu whakamutunga, Uncharted 2, engari _ he kēmu ngahau tonu.", "option1": "Tē Tūtohia 2", "option2": "Tē Whakatūtohia 3", "answer": "1"}
+{"sentence": "Kāore i tokomaha ngā kaimātakitaki o ngā Whetū e mātakitaki ana i te kēmu i tērā Paraire mai i te _ e mātakitaki kē ana i te Rangatū o te Ao.", "option1": "He maha ngā kaimātakitaki", "option2": "Ngā Whetū", "answer": "1"}
+{"sentence": "Kua piki ake a Hēmi Kaina i roto i te panekōrero, e āwangawanga ana ki a Rick Perry, engari _ kāore i te whakapono ka mau tonu tēnei pikinga o te manakohanga.", "option1": "Rick Perry", "option2": "Herman Kaina", "answer": "1"}
+{"sentence": "Tata ki te 30 ōrau o ngā tono a te kāwanatanga mō te whakatau i ngā rauemi whakawāteatia ki a Google, engari _ kāore anō kia ū ki aua mea katoa.", "option1": "Te kāwanatanga", "option2": "Google", "answer": "2"}
+{"sentence": "E ngana ana te United Federation of Worlds ki te kawe mai i te iwi me te ture ki te iwi whānui o ngā aorangi miriona, i te mea e hiahiatia ana e _ he kāwanatanga pūtahi hei pupuri i te raupapa.", "option1": "Te United Federation of Worlds", "option2": "te taupori o ngā miriona aorangi", "answer": "2"}
+{"sentence": "E ngana ana te United Federation of Worlds ki te kawe mai i te iwi me te ture ki te iwi whānui o ngā aorangi miriona, nā te mea e hiahia ana _ ki te whakakotahi i ngā aorangi i raro i aua ture ōrite.", "option1": "te taupori o ngā miriona aorangi", "option2": "Te United Federation of Worlds", "answer": "2"}
+{"sentence": "I tae mai nga karere rangimārie ki te whakarite i tētahi tiriti rangimārie mō te iwi whawhai, i te mea e hiahia ana a _ ki te āwhina ki te whakamutu i te pakanga.", "option1": "Nga karere rangimārie", "option2": "te taupori whawhai", "answer": "1"}
+{"sentence": "I hangaia e te Kaihangarau Stepanic ngā whakaata arā atu anō mō Leforge, engari _ e hiahia tonu ana ki te kite me te kore aua pūrere.", "option1": "Kaihangarau Stepanic", "option2": "Whare Wānanga", "answer": "2"}
+{"sentence": "Kei te rapu tonu a LA Galaxy i ngā kaitākaro rongonui hei whakakī i o rātau rārangi, nā te mea kei te ngana a _ ki te tiki i ngā kaitākaro kōtaha tiketike hei whakaoho i te manakohanga ki roto i te tīma.", "option1": "kaitākaro rongonui", "option2": "Te Ikarangi o LA", "answer": "2"}
+{"sentence": "Kei te rapu tonu a LA Galaxy i ngā kaitākaro rongonui hei whakakī i o rātau rārangi, engari _ e rapua tonutia ana e ngā tīma maha me ngā tono.", "option1": "kaitākaro rongonui", "option2": "Te Ikarangi o LA", "answer": "1"}
+{"sentence": "Kua utua e Youtube neke atu i te miriona tāra ki ō rātou hoa hongere, nā te mea kei a _ te kawenga mō te kawe mai i ngā miriona kaimātakitaki ki te mātakitaki i ā rātou ataata.", "option1": "Youtube", "option2": "ō rātou hoa hongere", "answer": "2"}
+{"sentence": "Kua utua e Youtube neke atu i te miriona tāra ki ō rātou hoa hongere, i te mea e hiahia ana _ ki te utu i te hunga e kawe mai ana i ētahi atu kaiwhakamahi ki tō rātou paetukutuku.", "option1": "ō rātou hoa hongere", "option2": "Youtube", "answer": "2"}
+{"sentence": "I taea e Pita te toa i te rota me te tuku moni ki a Rick, engari _ ka utua ia e ia.", "option1": "Pita", "option2": "Rick", "answer": "2"}
+{"sentence": "He rite tonu te whakangahau a Pita Griffin ki a Pirihi, nā reira _ ka mutu tonu te riri.", "option1": "Pita Griffin", "option2": "Pirihi", "answer": "2"}
+{"sentence": "He rite tonu te whakangahau a Pita Griffin ki a Pirihi, nā te mea he pai ki a _ te mahi.", "option1": "Pirihi", "option2": "Pita Griffin", "answer": "2"}
+{"sentence": "I whakaaturia e Āporo kāore te papatono Siri e wātea mō ngā IPhones o mua nā te mea _ kāore i a rātou ngā āheinga hei whakahaere i tētahi papatono pērā.", "option1": "Ngā IPhones tōmua", "option2": "Āporo", "answer": "1"}
+{"sentence": "I whakaaturia e Āporo kāore te papatono Siri e wātea mō ngā IPhones o mua, engari _ i kitea he hē i te angitu o ngā mūrere.", "option1": "Ngā IPhones tōmua", "option2": "Āporo", "answer": "2"}
+{"sentence": "Me karanga tonu te Komihana Kōnata ki a Batman nā te mea kāore e taea e _ te whakamutu i te hunga hara.", "option1": "Te Komihana o Gordon", "option2": "Batman", "answer": "1"}
+{"sentence": "Kua whai kē a Kimi Kardashian i ngā hipanga o Demi Moore me te whakarerekētanga, nā te mea kāore hoki i taea e _ te whakarite ki tana tāne.", "option1": "Kim Kardashian", "option2": "Demi Moore", "answer": "1"}
+{"sentence": "Kua whai kē a Kimi Kardashian i ngā hipanga o Demi Moore me te whakarerekētanga, engari _ kāore e hiahia kia pā te tangata ki tōna pouri ōrite.", "option1": "Kim Kardashian", "option2": "Demi Moore", "answer": "2"}
+{"sentence": "I te nuinga o te wā he pūtahi o te Pō Hātarei Live hei tētahi o ō rātou pokapū matua o te aro mai i te mea _ ko ngā mea e hiahia ana ngā kaimātakitaki ki te kite i te hangarau.", "option1": "kaitōrangapū", "option2": "Saturday Night Live", "answer": "1"}
+{"sentence": "I te nuinga o te wā kei te Hātarei Night Live ngā kaipōrangapū hei tētahi o ō rātou pokapū matua o te aro atu nā te mea _ e hiahia ana ki te whakangahau i ngā kaimātakitaki.", "option1": "Saturday Night Live", "option2": "kaitōrangapū", "answer": "1"}
+{"sentence": "He maha nga hoariri tapu i whawhai ai nga Crusaders nā te mea i kite a _ i ta rātau whawhai hei mana atua mō rātou.", "option1": "he maha nga hoariri tapu", "option2": "Nga Crusaders", "answer": "2"}
+{"sentence": "I pāngia a Knight Commander Roddick e te kitenga o tana tama kua mate, nā reira _ ka pōrangi i te whakamaharatanga i ngā wā katoa.", "option1": "Knight Commander Roddick", "option2": "tana tama kua mate", "answer": "1"}
+{"sentence": "I pāngia a Knight Commander Roddick e te kitenga o tana tama kua mate nā te mea i patua a _ nā te kore parenga mai i tōna pāpā.", "option1": "Knight Commander Roddick", "option2": "tana tama kua mate", "answer": "2"}
+{"sentence": "Ka whakaekea e nga wuruhi nga tangata haere i te ngahere, engari i taea e _ te mawhiti kore.", "option1": "Nga Tangata Haere", "option2": "Nga wuruhi", "answer": "1"}
+{"sentence": "Ka tukuna e te Pātaka Pukapuka Anō he pukapuka hōu ki ngā kiritaki nā te mea _ he pai ki te kounga o ngā pukapuka e pānuitia ana e rātou.", "option1": "kiritaki", "option2": "Hokona Ētahi Atu Pātaka Pukapuka", "answer": "1"}
+{"sentence": "Me haere mai a Matua Wong ki te tiaki i tana tauira, a Lun-Xiu, i te mea i taea e _ te riri i te tini o nga pēke.", "option1": "Lun-Xiu", "option2": "Matua Wong", "answer": "1"}
+{"sentence": "Me haere mai a Matua Wong ki te tiaki i tana tauira, a Lun-Xiu, engari _ kāore i te mōhio ka taea e ia te hinga i te tini o ngā hoariri.", "option1": "Matua Wong", "option2": "Lun-Xiu", "answer": "1"}
+{"sentence": "I whakaarotia a Heath Ledger ko te Joker tino nui o ngā wā katoa e Ebert, engari _ kāore e taea taua whakataunga mō ngā kaiwhakawāwā katoa.", "option1": "Pukapuka Pukapuka Heath", "option2": "Ebert", "answer": "2"}
+{"sentence": "I hokona e Merchant Smith te tohu mai i a Knight Louis, engari _ kāore i tino pai te utu.", "option1": "Naiti Louis", "option2": "Merchant Smith", "answer": "2"}
+{"sentence": "Me toa a Entertainmart i ngā kiritaki me ā rātou utu iti nā te mea _ ko ngā mea e āwhina ana ki te angitu o tētahi pakihi.", "option1": "Whakangahau", "option2": "nga kaihoko", "answer": "2"}
+{"sentence": "Kua māturu a Walmart i ngā whārangi o tā rātou Pānui Paraire Pango ki ngā kaiwhakamahi o te ipurangi, nā te mea kei te ngana a _ ki te whakanui ake i te pānui kia haere mai rātou ki tō rātou toa.", "option1": "ngā kaiwhakamahi o te ipurangi", "option2": "Te Wānanga", "answer": "2"}
+{"sentence": "Kua māturu a Walmart i ngā whārangi o tā rātou Pānui Paraire Pango ki ngā kaiwhakamahi o te ipurangi, engari _ he maha ētahi atu pānuitanga hei titiro hei kōwhiri.", "option1": "ngā kaiwhakamahi o te ipurangi", "option2": "Te Wānanga", "answer": "1"}
+{"sentence": "Ka utua ngā kaitohutohu e ngā kamupene ki te mahi i ngā mahi motuhake, engari _ kāore i ngā wā katoa he moni i roto i te tahua hei utu i ēnei ratonga.", "option1": "kamupene", "option2": "Ngā Kaitohutohu", "answer": "1"}
+{"sentence": "Ka whakatūpato te pāpā i tana tama ka taea e ia te noho hei naita i tētahi rā, nā te mea kāore a _ i pīrangi ki te kuru i ana moemoeā.", "option1": "Te matua", "option2": "tana tama", "answer": "1"}
+{"sentence": "Ka tuku tohutohu a Te Kaiwhakaako Kanikani a Kate ki a Shelly nā te mea e hiahia ana a _ ki te hopu i te nui o ngā wheako e taea ana.", "option1": "Anga", "option2": "Kaiako Kanikani Kate", "answer": "1"}
+{"sentence": "I hangaia a Tā Rodrick hei patu motuhake e Jack, engari _ i whakahaua he moni o runga mo taua wāhanga.", "option1": "Tā Rodrick", "option2": "Kuhunga", "answer": "2"}
+{"sentence": "I ngā wā katoa e whakaarotia ana he kōwhiringa hauora e ngā kaitākaro i ngā wā katoa mai i te _ e tuku ana i aua mea hauora i roto i ā rātou hanawiti.", "option1": "kaitakaro", "option2": "Ngā waka raro", "answer": "2"}
+{"sentence": "I ngā wā katoa e whakaarotia ana e ngā kaitākaro he kōwhiringa hauora ngā waka rererangi, nā reira _ i te nuinga o te wā ka haere ki tēnei wharekai hei auau.", "option1": "kaitakaro", "option2": "Ngā waka raro", "answer": "1"}
+{"sentence": "Kātahi anō ka auporo a Chevrolet i a rātau motokā nā te mea _ i whiwhi amuamu mō ngā pereki i roto i tā rātou hua.", "option1": "o ratou motokā", "option2": "Chevrolet", "answer": "2"}
+{"sentence": "Kātahi anō ka maharatia e Chevrolet o rātau motokā kia whiwhi ai _ i te whakatika i o rātau pereki.", "option1": "Chevrolet", "option2": "o ratou motokā", "answer": "2"}
+{"sentence": "Ka hokona e te SSL tōrunga ngā tiwhikete kārimākā ki ngā kamupene hautū Tukutuku nā te mea _ e hiahiatia ana ngā pae whakamuna mō te tauwhitiwhiti ki ngā kiritaki.", "option1": "SSL Tōrunga", "option2": "Ngā kamupene hautū tukutuku", "answer": "1"}
+{"sentence": "Ka hokona e SSL Tōrunga ngā tiwhikete kārimākā ki ngā kamupene hautū Tukutuku, engari _ he maha ngā kōwhiringa hei hoko tiwhikete mai.", "option1": "Ngā kamupene hautū tukutuku", "option2": "SSL Tōrunga", "answer": "1"}
+{"sentence": "E rongonui ana a New Orleans mō tō rātou kāhua ahurei o te crawfish, nā te mea _ he whakakakara, he tunua kia reka.", "option1": "Aotearoa", "option2": "mokomoka", "answer": "2"}
+{"sentence": "Ka whakarato a Microsoft Azure i ngā tūmau kapua mō ngā kiritaki nā te mea kei te whakarato _ i te hanganga mō tētahi wā heke mai i roto i te rorohiko kapua.", "option1": "Microsoft Azure", "option2": "kiritaki", "answer": "1"}
+{"sentence": "Ka whakarato a Microsoft Azure i ngā tūmau kapua mō ngā kiritaki, engari _ kei te hiahia tonu ki te whakawhiti ki te rorohiko kapua.", "option1": "kiritaki", "option2": "Microsoft Azure", "answer": "1"}
+{"sentence": "He tino pūkenga a Herald Simmons ki te whakaoho i te hunga whakarongo mō Naiti Keller, nā reira i tonoa ia e _ kia whakaoho ai te hunga whakarongo ki a ia.", "option1": "Naiti Keller", "option2": "Herald Simmons", "answer": "1"}
+{"sentence": "Kei te āta whakakapia ngā Pūpāpāho DVD e Blu Ray Systems, engari _ ka tīari tonu mō ngā tau e haere ake nei.", "option1": "Ngā Pūpāpāho KAM", "option2": "Ngā Pūnaha Blu Ray", "answer": "1"}
+{"sentence": "I tukuna ki a Todd he reta tono mai i te Dean of Admissions mai i te mea e hiahia ana _ ki te tiki i taua pūmanawa ki roto i to rātau tari tākaro.", "option1": "te Dean of Admissions", "option2": "Todd", "answer": "1"}
+{"sentence": "I kōwhiria e ngā āpiha he aorangi hei tuku i ngā hōia hou, nā te mea i hiahia a _ kia whakaakona rātou i roto i ngā taiao whakarihariha.", "option1": "Nga āpiha", "option2": "nga hōia hou", "answer": "1"}
+{"sentence": "I rapua e te tautiaki haumarutanga te whenua mō ngā mōrehu, engari _ kāore i hiahia ki te whakaora i a rātou.", "option1": "mōrehu", "option2": "Te tautiaki haumarutanga", "answer": "2"}
+{"sentence": "I rapua e te tautiaki haumarutanga te whenua mō ngā mōrehu nā te mea kei te ora tonu pea a _.", "option1": "Te tautiaki haumarutanga", "option2": "mōrehu", "answer": "2"}
+{"sentence": "Na nga kaipuke whetū i kawe nga tangata whenua ki to rātau aorangi hou mai i te mea ka hangaia e _ he kāinga hou.", "option1": "nga tangata whenua", "option2": "Ngā waka whetū", "answer": "1"}
+{"sentence": "I tiaki a Kathy i nga tamariki a Whaea Whakapono nā te mea he tino kaha a _ hei kaitiaki pēpi.", "option1": "Whaea Whakapono", "option2": "Kathy", "answer": "2"}
+{"sentence": "I te mutunga ka whakatau a Cartman ki te whakakore i tana kararehe whakakīkī, a Clyde Frog, nā reira _ i hoatu ki te aroha.", "option1": "Kaata", "option2": "Poroka Clyde", "answer": "2"}
+{"sentence": "I te nuinga o te wā e whakapaea ana ngā kaitapere Toi Hoia he tinihanga e te iwi whānui mai i te mea _ e whakaaro ana ka taea anake e rātau te whawhai i roto i ngā tauari kōrero.", "option1": "te iwi whānui", "option2": "Ngā kaitapere Toi Hoia", "answer": "1"}
+{"sentence": "I te nuinga o te wā e whakapaea ana ngā kaitapere Toi Hoia he tinihanga e te iwi whānui i te mea ka taea anake e _ te whawhai i roto i ngā tauari kōrero.", "option1": "Ngā kaitapere Toi Hoia", "option2": "te iwi whānui", "answer": "1"}
+{"sentence": "Hei whakaora i te ao, me hinga a Liu Kang i a Shang Hai i roto i te whawhai mate, i te mea ka taea e _ te whakaeke i te ao ki te kore ia e hinga.", "option1": "Liu Kang", "option2": "Shang Hai", "answer": "2"}
+{"sentence": "Hei whakaora i te ao, me hinga a Liu Kang i a Shang Hai i roto i te whawhai mate, engari ki te hinga te _, ka hinga te ao e mohio ana ia.", "option1": "Liu Kang", "option2": "Shang Hai", "answer": "1"}
+{"sentence": "Ka kauwhau a Piriniha Goro ki a Cano mo te nui o te emepara, nā te mea i kuware a _ i te mōhiotanga ki tōna kaha tūturu.", "option1": "Piriniha Goro", "option2": "Waka", "answer": "2"}
+{"sentence": "Ka kauwhau a Piriniha Goro ki a Cano mo te nui o te emepara i te mea e hiahia ana _ kia mārama ia ki tōna mana.", "option1": "Waka", "option2": "Piriniha Goro", "answer": "2"}
+{"sentence": "Me tinihanga a Johnny Cage i a Scorpion kia whārōrō rawa i a ia i te mea _ kāore e taea te toa me te kore whawhai atamai.", "option1": "Johnny Cage", "option2": "kopiona", "answer": "1"}
+{"sentence": "I whakamahia e Liu Kang te huānga wai ki a Sub Zero mai i te mea i taea e _ te huri hei hukapapa hei patu.", "option1": "Kore Iti", "option2": "Liu Kang", "answer": "2"}
+{"sentence": "I whakamahia e Liu Kang te huānga wai ki te Sub Zero nā te mea he ngoikore te _ ki aua huānga.", "option1": "Kore Iti", "option2": "Liu Kang", "answer": "1"}
+{"sentence": "He raina ratonga 24 haora tā Chase Sapphire mō ngā kaipupuri kāri mai i te mea i kōwhiria e _ te kāri mō te tautoko e wātea ana i ia rā ina haere.", "option1": "Whaia te hapaira", "option2": "puri kāri", "answer": "2"}
+{"sentence": "He raina ratonga 24 haora tā Chase Sapphire mō ngā kaipupuri kāri kia wātea ai _ ki te āwhina mēnā ka raruraru tō rātou kiritaki.", "option1": "puri kāri", "option2": "Whaia te hapaira", "answer": "2"}
+{"sentence": "Ka homai e Chase Freedom ngā tāpiri ia hauwhā hei tohutohu mō ngā pūkete, engari _ kaua e whakaaro i ngā wā katoa he nui te uara o te tohutohu.", "option1": "kaute", "option2": "Whaia te Wāteatanga", "answer": "1"}
+{"sentence": "I te mutunga ka whakahekea e AOL to rātau Tumuaki Whakahaere ki te manaaki i ngā hiahia o te hunga whai pānga nā te mea _ me whakarongo ki ā rātou kaihoko.", "option1": "AOL", "option2": "te hunga whai pānga", "answer": "1"}
+{"sentence": "I ētahi wā ka whai te kōwhiringa kohinga i ngā pūkete tārewa, engari _ i ētahi wā ka hē.", "option1": "Te pokapū kohinga", "option2": "kaute tarewa", "answer": "1"}
+{"sentence": "I te nuinga o te wā ka whai te kōwhiringa kohinga i ngā pūkete tārewa mai i te wā _ ngana ki te tiki i te moni mēnā kāore te tangata i utu mō ngā marama maha.", "option1": "kaute tarewa", "option2": "Te pokapū kohinga", "answer": "1"}
+{"sentence": "I hoki mai a Yamato Hisaki hei Toa Matua ki te anga atu ki te kaiwhakataetae hou, a Yoshi Osaka, ahakoa he hou, _ e tūmanako ana kia toa i tana taitara.", "option1": "Yamato Hisaki", "option2": "Yoshi Osaka", "answer": "2"}
+{"sentence": "Ka aroturukitia e nga kaiwhakawā te mahinga o nga tauwhāinga ki te ine i o rātau kaha, engari _ kaore e whakatau mehemea ka neke atu rātau ki te hurihanga panuku.", "option1": "Nga kaiwhakawā", "option2": "nga tauwhāinga", "answer": "1"}
+{"sentence": "Kaore a Jessica i pīrangi ki a Selma ki te tapahi poto i ōna makawe, nā reira _ i ngana ki te whakatūpato i te roanga o tana tapahi.", "option1": "Heka", "option2": "Selma", "answer": "2"}
+{"sentence": "Ka āpure te Tautoko Kiritaki i ngā pātai a ā rātou kiritaki kia taea ai e _ te whakarato āwhina wawe.", "option1": "Tautoko Kiritaki", "option2": "ā rātou kiritaki", "answer": "1"}
+{"sentence": "I hokona e Kyle e toru ngā kaupane hou nā te tūtohutanga a tōna tuakana, nā te mea i hiahia a _ ki te whakanui ake i tōna hua.", "option1": "Kyle", "option2": "tona tuakana", "answer": "1"}
+{"sentence": "I hokona e Kyle e toru ngā kaupane hou nā tētahi tūtohutanga a tōna tuakana, nā te mea i homai e _ he mōhiohio mō te nui ake o tana hua me te nui ake o te mokowā mahi.", "option1": "tona tuakana", "option2": "Kyle", "answer": "1"}
+{"sentence": "I hoatu e Kaiako Piki he tohutohu ki tana tama me pēhea te kai hauora, nā te mea e hiahia ana a _ kia tipu ake ia i te hauora, i te kaha.", "option1": "tana tama", "option2": "Kaiako Piki", "answer": "2"}
+{"sentence": "E mōhiotia ana a Kenmore mō te hanga i ngā taputapu tino pai e hokona ana i Sears, nā te mea ko _ te wāhi tino pai hei hoko i ngā taputapu tino pai.", "option1": "Sears", "option2": "Kenmore", "answer": "1"}
+{"sentence": "I hokona e HP tētahi kaupane LED hōu mō tētahi utu whakahekenga nui ki ngā kaihoko, nā reira ka taea e _ te waihanga i tētahi pupuri waewae kaha ake i te wāhanga rorohiko.", "option1": "kiritaki", "option2": "HP", "answer": "2"}
+{"sentence": "I hokona e HP tētahi kaupane LED hōu mō tētahi utu whakahekenga nui ki ngā kaihoko, nā reira i te mutunga ka hokona e _ te nui o ngā kaupane.", "option1": "kiritaki", "option2": "HP", "answer": "1"}
+{"sentence": "I tākaro a Angelina Jolie i te tūranga o te whaea o Grendell, engari _ he pūāhua pakiwaitara me waihanga mā te whakamahi i te CGI.", "option1": "te whaea o Grendell", "option2": "Angelina Jolie", "answer": "1"}
+{"sentence": "I whakarewaina e Bethesda tētahi taitara hou, Skyrim, ki ngā arotakenga hākinakina e ngā kaitākaro nā te mea _ i puta mai he pūrākau tino pai ki te whakanui i te kaitākaro.", "option1": "Peteheta", "option2": "kaitākaro", "answer": "1"}
+{"sentence": "I whakarewaina e Bethesda tētahi taitara hōu, Skyrim, ki ngā arotakenga hākinakina e ngā kēmu, nā reira _ ināianei ka hokona hoki tō rātou taitara panuku.", "option1": "Peteheta", "option2": "kaitākaro", "answer": "2"}
+{"sentence": "I tukuna a Beowulf ki te karauna hei whakakapi i a Kingi Henare i te mea ko _ te tangata tino pai mo te mahi nā te kore o tētahi uri tika.", "option1": "Beowulf", "option2": "Kingi Henare", "answer": "1"}
+{"sentence": "Kaore nga whakaariki i aroha ki nga kaiwawao, engari _ kaore tonu i tuku.", "option1": "nga kaiwawao", "option2": "Nga whakaariki", "answer": "1"}
+{"sentence": "Kei te whakatairanga nui a Walmart i ta raatau hoko Paraire Pango i roto i nga arumoni, i te mea _ ko te mea pai rawa atu hei tiki korero ki te kaihoko toharite.", "option1": "Te Wānanga", "option2": "tauhokohoko", "answer": "2"}
+{"sentence": "Kei te whakatairanga nui a Walmart i ta raatau hoko Paraire Pango i roto i nga arumoni na te mea _ e hiahia ana ki te tiimata pai i te wa o te Kirihimete i roto i nga hokohoko.", "option1": "Te Wānanga", "option2": "tauhokohoko", "answer": "1"}
+{"sentence": "Ka utua e Marriott ngā kaihaere auau ki ngā piro mō ngā noho koreutu kia taea ai e _ te whakaawe i tā rātou whakatau ki te wāhi e hiahia ana rātou ki te noho.", "option1": "Marriott", "option2": "haere auau", "answer": "1"}
+{"sentence": "Ka utua e Marriott ngā kaihaere auau ki ngā piro mō ngā noho koreutu, engari _ ka whakawaia hoki e ētahi atu papatono utu mai i ētahi atu hōtēra.", "option1": "haere auau", "option2": "Marriott", "answer": "1"}
+{"sentence": "Tērā pea ka maukati te NBA i tēnei tau nā te whakakāhore a ngā kaitākaro i tā rātou whakararuraru hou, nā te mea i hiahia a _ kia whakaaturia ngā whakaritenga pai ake ki a rātou.", "option1": "Te NBA", "option2": "Ngā Kaitākaro", "answer": "2"}
+{"sentence": "Tērā pea ka maukati te NBA i tēnei tau nā te whakakāhore a ngā kaitākaro i tā rātou whakararuraru hou rawa, engari _ e kore e pai ki te tuhi i tētahi wāhi hou ki a rātou.", "option1": "Te NBA", "option2": "Ngā Kaitākaro", "answer": "1"}
+{"sentence": "I whakangungu ngā Haihana Drill i ngā hōia kia taea ai e _ te whakarite i a rātou mō te pakanga e tū mai nei.", "option1": "nga hoia", "option2": "Nga Haihana Drill", "answer": "2"}
+{"sentence": "Ka whakamahia he rangatū werohanga hei whawhai i tētahi momo mate pukupuku i roto i ngā tūroro, engari _ kāore e whakarato i ngā wā katoa i te rau ōrau mokatere angitu.", "option1": "tūroro", "option2": "He rangatū o ngā werohanga", "answer": "2"}
+{"sentence": "Ka whakaputaina e Stark Industries te hangarau tino pai mō te hōia, engari _ utu i te tāra matua hei whakaraupapa i o rātau ope ki tēnei.", "option1": "Ngā Ahumahi Stark", "option2": "te hōia", "answer": "2"}
+{"sentence": "I whakamanamana a New York City mo nga patunga tapu i mahia e nga Ope Taua o Amerika ki te whakaora i to rātau taone nui nā te mea i taea e _ te whakawhiti i tētahi whakaekenga whakakino.", "option1": "Te Taone o Niu Ioka", "option2": "nga Ope Taua o Amerika", "answer": "2"}
+{"sentence": "I hiahia a Cartman kia haere a Kenny ki te kura kotahi ki a ia, engari _ i whakakahore.", "option1": "Kaata", "option2": "Kenny", "answer": "2"}
+{"sentence": "Ka whawhai nga Autobots me ia auau kaha ki nga Decepticons, engari _ he kaha tonu te whawhai ki muri.", "option1": "nga Decepticons", "option2": "Nga Autobots", "answer": "1"}
+{"sentence": "Kua huatau ngā Kaitirotiro Hangarau ka tukua e Amazon tētahi waea a tērā tau, engari _ kei te taurangi noa iho i tēnei wā.", "option1": "Amazon", "option2": "Ngā Kaitātari Hangarau", "answer": "2"}
+{"sentence": "Nō nā tata nei me auporo e Āporo ngā IPod whakatupuranga tuatahi, engari _ i pēnei i te ono tau i muri i te tukunga tuatahi.", "option1": "Āporo", "option2": "IPods whakatupuranga 1", "answer": "1"}
+{"sentence": "I whakaritea e te ope taua o rātau ope kia neke atu i ngā Decepticons i te taone nui nā te mea i hiahiatia e _ te whakamahi i te huna hei painga mō rātou.", "option1": "Te taua", "option2": "nga Decepticons", "answer": "1"}
+{"sentence": "Nō nā tata nei i pānuitia e Bioware tētahi whakamātautau hauā ki ngā kaiwhakamahi peta i tēnei mutunga wiki, nā reira _ e tatari ana ki te tākaro i te kēmu tūmanako.", "option1": "kaiwhakamahi peta", "option2": "Pūmanawa Koiora", "answer": "1"}
+{"sentence": "Kei te whawhai ngā Kaituhi U.S. ki te papatono whakatārewa pukapuka a Amazon nā te mea _ whakaaetia ngā kaiwhakamahi he pukapuka koreutu i ia marama.", "option1": "Te papatono whakatārewa pukapuka a Amazon", "option2": "Ngā Kaituhi U.S.", "answer": "1"}
+{"sentence": "Kātahi anō ka tautuhia a Chrome ki mua i a Firefox i Whiringa ā Rangi, nā reira _ kei te kaha ki te ārai i ā rātou kaiwhakamahi kia kore ai e whakawhiti.", "option1": "Firefox", "option2": "Chrome", "answer": "1"}
+{"sentence": "Ko nga tangata rongonui i whakaae ki te haere ki te kanikani a te Marine Corp me o rātau rā i noho pono ki ta rātau kupu, nā te mea i whakaaro _ koinei te iti rawa e taea e rātau te mihi ki nga hōia.", "option1": "Nga tangata rongonui", "option2": "ō rātou rā", "answer": "1"}
+{"sentence": "Ko nga tangata rongonui i whakaae ki te haere ki te kanikani o te Marine Corp me o rātau rā i noho pono ki ta rātau kupu, nā reira _ i tino whakawhetai i te wā i puta mai i ta rātau hōtaka kia haere mai.", "option1": "Nga tangata rongonui", "option2": "ō rātou rā", "answer": "2"}
+{"sentence": "I whakatakatia e Tiger Woods a Randy hei kaihoko māna, engari _ kaore e whakaae ki tana whakataunga.", "option1": "Randy", "option2": "Ngahere Taika", "answer": "1"}
+{"sentence": "Ko ngā pūāhua Disney i Disney World e whakangahau ana i te hunga whakarongo nā te mea kei reira _ hei pupuri i te tangata kia hari.", "option1": "Nga kiripuaki Disney", "option2": "te hunga whakarongo", "answer": "1"}
+{"sentence": "I whakataua nga Apes kia tāhaetia e nga tohunga mate, engari _ kāore i whakaae ki to rātau hē.", "option1": "tohunga mate", "option2": "Nga Makimaki", "answer": "1"}
+{"sentence": "Ka mauria e Lorenze tana tama ki te hōhipera i te mea e māharahara ana a _ ki tōna hauora.", "option1": "Lorenze", "option2": "tana tama", "answer": "1"}
+{"sentence": "I mahia e Sheila he hupa mīti pīkaokao ma tana tamāhine mai i te mea i mōhio _ ka āwhina i a ia ki te whakaoti i tōna mātao.", "option1": "tana tamāhine", "option2": "Heira", "answer": "2"}
+{"sentence": "I mahia e Sheila he hupa mīti pīkaokao ma tana tamāhine, engari _ i hiahia kē ki te paraoa.", "option1": "Heira", "option2": "tana tamāhine", "answer": "2"}
+{"sentence": "Ka whakahaeretia e te Mana Kararehe ngā kararehe ngaro i te taone kia kore ai _ e whakararuraru i ngā kaiwaewae.", "option1": "Mana Kararehe", "option2": "kararehe ngaro", "answer": "2"}
+{"sentence": "Ka whakahaeretia e te Mana Kararehe ngā kararehe ngaro i te taone nā te mea _ ka utua e te taone ki te mahi i ēnei mahi.", "option1": "Mana Kararehe", "option2": "kararehe ngaro", "answer": "1"}
+{"sentence": "Kei te whakaū a Walmart i ngā tohutohu pākaha mō ngā kiritaki i tēnei Paraire Pango nā te mea _ kāore e hiahia ana ki tētahi whakamātauranga o te aituā i puta i tērā tau.", "option1": "Te Wānanga", "option2": "kiritaki", "answer": "1"}
+{"sentence": "Kei te whakaū a Walmart i ngā tohutohu pākaha mō ngā kiritaki i tēnei Paraire Pango, engari _ kāore pea e whai i ngā wā katoa ahakoa ka whakaūngia.", "option1": "kiritaki", "option2": "Te Wānanga", "answer": "1"}
+{"sentence": "Ka whai a Chase i tētahi hokonga mane ā-ipurangi mō ngā kaiwhakamahi nama mai i te mea e hiahia ana _ ki te whakawai i ngā kaiwhakamahi kia haere tonu te whakamahi i ā rātou kāri.", "option1": "kaiwhakamahi nama", "option2": "whaia", "answer": "2"}
+{"sentence": "I kitea e Hiha te uri te waehere tatau mā te mātakitaki i a Mohi, nā te mea i pōhēhē a _ i te pato i te waehere.", "option1": "Mohi", "option2": "Hiha, te makimaki", "answer": "1"}
+{"sentence": "Kāore i taea e nga ope haumarutanga te whakamutu i te tini o ngā makimaki nā te mea _ i nui noa iho rātou.", "option1": "Nga ope haumarutanga", "option2": "te tini o te makimaki", "answer": "2"}
+{"sentence": "Ka tukuna atu e Matua Sifu te whakaaro nui ki a Jack, nā reira _ e tino whakarongo ana ki āna kōrero.", "option1": "Kuhunga", "option2": "Matua Sifu", "answer": "1"}

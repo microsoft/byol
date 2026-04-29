@@ -1,0 +1,16 @@
+task: xcopa_mri
+dataset_path: json
+dataset_kwargs:
+  data_files:
+    validation: data/mri/eval/copa_validation_english2mri_microsoft_translated.jsonl
+    test: data/mri/eval/copa_test_english2mri_microsoft_translated.jsonl
+output_type: multiple_choice
+validation_split: validation
+test_split: test
+doc_to_text: !function utils.doc_to_text_mri
+doc_to_target: label
+doc_to_choice: !function utils.doc_to_choice
+metric_list:
+  - metric: acc
+metadata:
+  version: 1.0

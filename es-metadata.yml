@@ -1,0 +1,12 @@
+schemaVersion: 1.0.0
+providers:
+- provider: InventoryAsCode
+  version: 1.0.0
+  metadata:
+    isProduction: false
+    accountableOwners:
+      service: a5911ea0-7a60-4e1d-ae60-31c147a90c77
+    routing:
+      defaultAreaPath:
+        org: onecela
+        path: AI For Good Lab

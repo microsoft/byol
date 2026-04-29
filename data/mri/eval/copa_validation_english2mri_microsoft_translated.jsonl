@@ -1,0 +1,100 @@
+{"premise": "Ka whakakāngia e te tangata te kōrere.", "choice1": "Kī tonu te wharepaku i te wai.", "choice2": "Ka rere mai te wai i te kōrere.", "question": "effect", "label": 1, "idx": 0}
+{"premise": "I kitea e te kōtiro he iro i roto i tana kaiwaiata.", "choice1": "Ka ringihia e ia te miraka ki roto i te peihana.", "choice2": "I ngaro tōna hiahia.", "question": "effect", "label": 1, "idx": 1}
+{"premise": "Ka haere te wahine.", "choice1": "I whiwhi a ia i tana penihana.", "choice2": "I utua e ia tana mōkete.", "question": "effect", "label": 0, "idx": 2}
+{"premise": "I hiahia ahau ki te penapena pūngao.", "choice1": "Ka tahitahia e au te papa i roto i te rūma noho kore.", "choice2": "Ka whakawetohia e au te rama i roto i te rūma noho kore.", "question": "effect", "label": 1, "idx": 3}
+{"premise": "Ka parauri te mīti hamburger.", "choice1": "Na te tunu kai i whakatio.", "choice2": "Ka tunua e te tunu.", "question": "cause", "label": 1, "idx": 4}
+{"premise": "I rangirua ahau ki te rōnaki a te kaihoko.", "choice1": "I whakakāhoretia e au tana tono.", "choice2": "Nāna ahau i whakapati kia hokona te hua.", "question": "effect", "label": 0, "idx": 5}
+{"premise": "I whakatau ahau kia noho ki te kāinga mo te pō.", "choice1": "I karangatia e te matapae he āwhā.", "choice2": "Na ōku hoa ahau i tohe kia haere ki waho.", "question": "cause", "label": 0, "idx": 6}
+{"premise": "Ka whero, ka pupuhi aku whatu.", "choice1": "I te tangi ahau.", "choice2": "I te kata ahau.", "question": "cause", "label": 0, "idx": 7}
+{"premise": "Ka tineia te mura o te kānara.", "choice1": "I pupuhi ahau i runga i te waha.", "choice2": "I purua e au he māti ki te wick.", "question": "cause", "label": 0, "idx": 8}
+{"premise": "He nui te inu a te tangata i te hākari.", "choice1": "A tērā rā ka ānini a ia.", "choice2": "A tērā rā ka rere tōna ihu.", "question": "effect", "label": 0, "idx": 9}
+{"premise": "Ka tukitukia e te pōro peihana nga pine peihana.", "choice1": "Ka hurihia e te tangata te pōro peihana ki raro i te ara.", "choice2": "Ka whakatakatia e te tangata te pōro peihana ki runga i tōna waewae.", "question": "cause", "label": 0, "idx": 10}
+{"premise": "I mōhio te iwi ki te matenga o taua tangata.", "choice1": "I tanumia ia e tōna whānau ki te urupa.", "choice2": "I puta tana pānuitanga mate i roto i te nūpepa.", "question": "cause", "label": 1, "idx": 11}
+{"premise": "I hinga taku rorohiko.", "choice1": "I tāutatia e au ngā tukuoro hōu.", "choice2": "I ngaro katoa aku raraunga.", "question": "effect", "label": 1, "idx": 12}
+{"premise": "Ka whakarerea e te wahine tana mahi.", "choice1": "I hiahia a ia ki te pupuri i tētahi tūnga rangatira i roto i te umanga.", "choice2": "I whakapono a ia e mahi ana ōna rangatira i te mahi tika.", "question": "cause", "label": 1, "idx": 13}
+{"premise": "I mau te pōro i te kaitākaro.", "choice1": "Ka whiua e tana hoa tākaro ki a ia.", "choice2": "I whakamātau tana hoariri ki te haukoti.", "question": "cause", "label": 0, "idx": 14}
+{"premise": "Ka patua e te tiati te kape.", "choice1": "Ka ngangau te rūma kōti.", "choice2": "Ka pānuitia e te hūri tana whakataunga.", "question": "cause", "label": 0, "idx": 15}
+{"premise": "Ka panaia e te wahine nga tamariki i tōna pānga.", "choice1": "Ka patua e nga tamariki he pōro ki roto i tōna marae.", "choice2": "Ka takahi nga tamariki i tana kāri.", "question": "cause", "label": 1, "idx": 16}
+{"premise": "Ka tukua e nga kaikahaki te taumaha.", "choice1": "I whakaae rātau ki te moni utu.", "choice2": "I mawhiti rātau i te whare herehere.", "question": "cause", "label": 0, "idx": 17}
+{"premise": "Ka whakawai nga whatu o te tunu.", "choice1": "Ka pau tana riki.", "choice2": "Ka tapahia e ia he riki.", "question": "cause", "label": 1, "idx": 18}
+{"premise": "Ka rere te wahine i tōna matimati ki raro i te wai mātao.", "choice1": "Ka tahuna e ia tana matimati ki runga i te tunu tu", "choice2": "Ka purua e ia he mowhiti taimana ki runga i tōna matimati.", "question": "cause", "label": 0, "idx": 19}
+{"premise": "I hē te takikupu a te tauira i te kupu.", "choice1": "Ka whakatikaina ia e te kaiako.", "choice2": "Ka panaia ia e te kaiako.", "question": "effect", "label": 0, "idx": 20}
+{"premise": "Na taku riri i whakangāwari anō ai ahau.", "choice1": "Ka patupatu tōku ngākau.", "choice2": "Ka hā hōhonu ahau.", "question": "cause", "label": 1, "idx": 21}
+{"premise": "Ka purua e au ōku ringa ki raro i te kōrere e rere ana.", "choice1": "Ka horoia e te hopi aku ringa.", "choice2": "Ka tārewa te wai ki tōku kanohi.", "question": "effect", "label": 0, "idx": 22}
+{"premise": "I kākahu te tangata i tōna hūtu tino pai.", "choice1": "I whakaritea e ia he hui ki tētahi kiritaki hira.", "choice2": "Ka hokona mai e tana wahine he here hou māna.", "question": "cause", "label": 0, "idx": 23}
+{"premise": "Ka whāki te tangata i tōna aroha ki te wahine.", "choice1": "Ka whakakāhore te wahine i a ia.", "choice2": "Ka hae te wahine ki a ia.", "question": "effect", "label": 0, "idx": 24}
+{"premise": "Ka papatahi te taea o te atekōkiri.", "choice1": "I hipa atu a ia i te tepe tere.", "choice2": "Ka oma a ia ki runga i te nēra.", "question": "cause", "label": 1, "idx": 25}
+{"premise": "I āraia taku tirohanga ki te mata whitiāhua.", "choice1": "E kōhimuhimu ana te tokorua i muri i a au.", "choice2": "E noho ana tētahi tangata roa i mua i a au.", "question": "cause", "label": 1, "idx": 26}
+{"premise": "Ka whakakāngia e te atekōkiri nga rama o te motokā.", "choice1": "Ka rongo a ia i te whatitiri.", "choice2": "Ka tō te rā.", "question": "cause", "label": 1, "idx": 27}
+{"premise": "Kaore te kōtiro i pai ki te kai i ana manga.", "choice1": "Ka kī atu tōna pāpā ki a ia kia inu i tana miraka.", "choice2": "Ka tangohia e tōna pāpā tana purini.", "question": "effect", "label": 1, "idx": 28}
+{"premise": "Ka taupokina e te wahine tōna waha ki tōna ringa.", "choice1": "Ka whakahā a ia.", "choice2": "Ka tihe a ia.", "question": "cause", "label": 1, "idx": 29}
+{"premise": "Na te hēkeretari i puritia te kaiwaea.", "choice1": "I ngaro te whiwhinga o te waea a te kaiwaea.", "choice2": "Ka tatari te kaiwaea i runga i te raina.", "question": "effect", "label": 1, "idx": 30}
+{"premise": "Ka haere te wahine me te tokotoko.", "choice1": "Ka heua e ia ōna waewae.", "choice2": "I whati i a ia tōna waewae.", "question": "cause", "label": 1, "idx": 31}
+{"premise": "Ka mare ahau.", "choice1": "Ka ngongo ahau i te paowa.", "choice2": "Ka whakahekea e au tōku reo.", "question": "cause", "label": 0, "idx": 32}
+{"premise": "Ka tangi te karaka.", "choice1": "Ko te tihi o te haora.", "choice2": "Te āhua nei kua tōroa te haora.", "question": "cause", "label": 0, "idx": 33}
+{"premise": "Ka patua e te kaitao te hēki ki te taha o te peihana.", "choice1": "Ka whati te hēki.", "choice2": "Ka pirau te hēki.", "question": "effect", "label": 0, "idx": 34}
+{"premise": "Ka rapua e nga pirihimana te motokā o te hunga hara.", "choice1": "E ngana ana rātau ki te whāki.", "choice2": "E kimi ana rātau i ngā rongoā ture.", "question": "cause", "label": 1, "idx": 35}
+{"premise": "I haere te tokorua ki te tonga mo te hōtoke.", "choice1": "I whakatāngia rātau.", "choice2": "I wehea rāua.", "question": "cause", "label": 0, "idx": 36}
+{"premise": "I whakaaro te tangata e herea ana kia haere ki te takahanga.", "choice1": "Ka whakakāhoretia e ia te tono a tōna hoa kia haere.", "choice2": "Ka kī taurangi a ia ki tōna hoa ka haere a ia.", "question": "cause", "label": 1, "idx": 37}
+{"premise": "Ka mātao nga waewae o te wahine marena hou i mua i te mārena.", "choice1": "Ka mauria mai e nga manuhiri mārena he koha.", "choice2": "Ka karangatia e ia te mārena.", "question": "effect", "label": 1, "idx": 38}
+{"premise": "Ka koroheke te tangata.", "choice1": "Ka hina ōna makawe.", "choice2": "I hokona e ia ana taonga.", "question": "effect", "label": 0, "idx": 39}
+{"premise": "Ka whakatau nga hoa ki te tiritiri i te hamburger.", "choice1": "Ka tapahia e rātau te hamburger kia haurua.", "choice2": "I tonoa e rātau he parai me te hamburger.", "question": "effect", "label": 0, "idx": 40}
+{"premise": "Ka hurihia e au te pōtae o te pounamu soda.", "choice1": "Ka kōpikopiko te soda.", "choice2": "Ka māturu atu te waipiro.", "question": "effect", "label": 0, "idx": 41}
+{"premise": "Na te kaiako i āta tirotiro nga tauira tokorua.", "choice1": "I whiwhi ngā tauira i ngā kōeke tino pai.", "choice2": "He ōrite a rātau urupare mo te mahi.", "question": "cause", "label": 1, "idx": 42}
+{"premise": "I te tere te tauira ki te tae ki te kura i te wā tika.", "choice1": "I mahue i a ia tana mahi i te kāinga.", "choice2": "Ka mauria mai e ia tana tina ki te kura.", "question": "effect", "label": 0, "idx": 43}
+{"premise": "I tuhia e te kairīpoata he haurongo mo te oranga o te tangata atawhai.", "choice1": "He uaua ki te kairīpoata te uiui i te atawhai.", "choice2": "I whakamīharo te kairīpoata ki te mahi a te kaituhituhi.", "question": "cause", "label": 1, "idx": 44}
+{"premise": "Ka whakapoke te tangata i nga mana o te whare karakia.", "choice1": "I hoatu e ia he moni ki te whare karakia.", "choice2": "I whakakorea ia i te whare karakia.", "question": "effect", "label": 1, "idx": 45}
+{"premise": "Ka taka nga makawe o te wahine ki tōna kanohi.", "choice1": "Ka kumea e ia ōna makawe ki muri ma te topenga.", "choice2": "Ka purua e ia he makawe ki roto i ōna makawe.", "question": "effect", "label": 0, "idx": 46}
+{"premise": "Ka mau te rīngi o taku matimati.", "choice1": "Ka pupuhi taku matimati.", "choice2": "Ka werohia e au taku maikuku.", "question": "cause", "label": 0, "idx": 47}
+{"premise": "Ka kumea e au te pēne inarapa", "choice1": "Ka rere puta noa i te rūma.", "choice2": "Ka whārōrō.", "question": "effect", "label": 1, "idx": 48}
+{"premise": "Ka pēhia e au taku ringa ki roto i te raima mākū.", "choice1": "Ka maroke taku ringa ki te raima.", "choice2": "Ka puta mai he whāwhā i roto i te raima.", "question": "effect", "label": 0, "idx": 49}
+{"premise": "Ka pakaru taku kiri ki te ruānuku.", "choice1": "I paraihe ahau ki te ivy paitini i roto i taku marae.", "choice2": "I haepapatia e au te ivy paitini i taku marae.", "question": "cause", "label": 0, "idx": 50}
+{"premise": "Kua pau taku ohaurunga ki te pukapuka.", "choice1": "I whiua e au te take hou.", "choice2": "I mutu taku whiwhi i ngā take hōu.", "question": "effect", "label": 1, "idx": 51}
+{"premise": "I whakaaturia e te kaitirotiro tētahi āhuatanga i roto i te kēhi.", "choice1": "I whakaotia e ia tana ariā.", "choice2": "I tangohia e ia tana ariā.", "question": "effect", "label": 1, "idx": 52}
+{"premise": "Ka riri te tama.", "choice1": "Ka tangohia e tōna tuakana ana taonga tākaro i a ia.", "choice2": "I tiria e ia ana taonga tākaro ki tōna tuakana.", "question": "cause", "label": 0, "idx": 53}
+{"premise": "I ako te tamaiti ki te pānui.", "choice1": "Ka tīmata a ia ki te haere ki te kura.", "choice2": "I tīpoka a ia i tētahi kōeke i te kura.", "question": "cause", "label": 0, "idx": 54}
+{"premise": "Ka tīpoka te tama i te hapa.", "choice1": "Na tōna whaea i tunu tana kai makau.", "choice2": "He tina nui tana kai.", "question": "cause", "label": 1, "idx": 55}
+{"premise": "Ka whakapati te wahine i tana hoa.", "choice1": "I pīrangi a ia ki te tono manaaki i tōna hoa.", "choice2": "Ka māngere a ia i te auē a tōna hoa.", "question": "cause", "label": 0, "idx": 56}
+{"premise": "I ngaro te kī i roto i taku pēke tarau.", "choice1": "He puare to te pēke.", "choice2": "He hou te tarau.", "question": "cause", "label": 0, "idx": 57}
+{"premise": "Ka ngoikore te tangata.", "choice1": "Ka moe a ia.", "choice2": "I oma a ia i te omaoma.", "question": "cause", "label": 1, "idx": 58}
+{"premise": "I hinga te tangata i te whakataetae.", "choice1": "I whakawāteatia te whakataetae.", "choice2": "I whakamataku a ia i ana tauwhāinga.", "question": "cause", "label": 0, "idx": 59}
+{"premise": "Ka karangatia e te whaea he waka tūroro.", "choice1": "I ngaro tana poti i tana tama.", "choice2": "Ka hinga tana tama i tōna moenga.", "question": "cause", "label": 1, "idx": 60}
+{"premise": "Ka rarautia e te atekōkiri ana pereki.", "choice1": "Ka puta mai he tia i runga i te huarahi.", "choice2": "Ka weto te reo irirangi motokā.", "question": "cause", "label": 0, "idx": 61}
+{"premise": "Ka tuwhera te raka.", "choice1": "Ka hurihia e au te kī o te raka.", "choice2": "I tāruatia e au te kī.", "question": "cause", "label": 0, "idx": 62}
+{"premise": "I purua e au he karapu inarapa ki runga.", "choice1": "E takatū ana ahau ki te horoi i ōku ringa.", "choice2": "E takatū ana ahau ki te horoi i te whare kaukau.", "question": "cause", "label": 1, "idx": 63}
+{"premise": "Ka mōrearea te momo kararehe.", "choice1": "I ngaro to rātau wāhi noho.", "choice2": "I ngaro a rātau kaiwhaiwhai.", "question": "cause", "label": 0, "idx": 64}
+{"premise": "Ka kite te tangata he rerekē te āhua o te wahine.", "choice1": "Ka tapahia e te wahine ōna makawe.", "choice2": "I mau poroporo te wahine.", "question": "cause", "label": 0, "idx": 65}
+{"premise": "I wareware te tauira ki te mahi i tana mahi.", "choice1": "Ka waihangatia e ia he takunga hai kōrero ki te kaiako.", "choice2": "Na te kaiako a ia i whakatairangatia ki te kōeke panuku.", "question": "effect", "label": 0, "idx": 66}
+{"premise": "Ka auau te kurī.", "choice1": "Ka noho te poti i runga i te hōpa.", "choice2": "Ka tangi te patoto i te tatau.", "question": "cause", "label": 1, "idx": 67}
+{"premise": "I pānuitia ngā mahere hei whakakapi i tētahi pāka paetata ki tētahi toa hokohoko.", "choice1": "I tīmataria e nga kaitiaki taiao he petihana.", "choice2": "I hangaia e nga kaitiaki taiao he pakipūmeka.", "question": "effect", "label": 0, "idx": 68}
+{"premise": "I hari te tokorua ki te kite i a rāua anō.", "choice1": "Ka kihi rāua.", "choice2": "Ka okioki rātau.", "question": "effect", "label": 0, "idx": 69}
+{"premise": "Ka tono te wahine ki te tangata kia haere.", "choice1": "Ka muhani a ia e ia.", "choice2": "Ka mihi a ia ki a ia.", "question": "cause", "label": 0, "idx": 70}
+{"premise": "Ka tau te peka rākau ki te awa.", "choice1": "Ka neke whakararo te peka.", "choice2": "Ka kaha haere te au o te awa.", "question": "effect", "label": 0, "idx": 71}
+{"premise": "Ka hoatu e te kaiako nga mahi kāinga ki nga tauira.", "choice1": "Ka puta tuhipoka nga tauira.", "choice2": "Ka auē nga tauira.", "question": "effect", "label": 1, "idx": 72}
+{"premise": "Ka rerekē nga tau mai i te raumati ki te ngahuru.", "choice1": "Ka whakakorea e te iwi o rātau kāinga.", "choice2": "Ka taka nga rau i nga rākau.", "question": "effect", "label": 1, "idx": 73}
+{"premise": "I whakawāteatia te pāremata mo te tinihanga.", "choice1": "I whakahauhau a ia mo te pōtitanga anō.", "choice2": "I tangohia a ia i te tari.", "question": "effect", "label": 1, "idx": 74}
+{"premise": "Ka panaia e au te kaata.", "choice1": "Ka taka nga taonga o roto i te kaata.", "choice2": "Ka hurihuri whakamua nga wīra o te kaata.", "question": "effect", "label": 1, "idx": 75}
+{"premise": "Ka whakapati te kaipānui i te rōpū whakahaere kia tautoko i te pire.", "choice1": "Na te perehitini i whakahē te pire.", "choice2": "Na te rōpū ture i whakamana te pire.", "question": "effect", "label": 1, "idx": 76}
+{"premise": "He paruparu taku kōpae.", "choice1": "I whakaritea e au.", "choice2": "I rākaitia e au.", "question": "effect", "label": 0, "idx": 77}
+{"premise": "I noho tōmuri ahau.", "choice1": "I mārama aku moemoeā i taua pō.", "choice2": "I ngenge ahau i te ata.", "question": "effect", "label": 1, "idx": 78}
+{"premise": "I a ia e haere ana, ka tangi te pūkoro o te tangata.", "choice1": "Kī tonu tana pēke i te moni.", "choice2": "Ka tuia e ia te puare i roto i tana pēke.", "question": "cause", "label": 0, "idx": 79}
+{"premise": "Ka huri te katoa o te akomanga ki te titiro atu ki te tauira.", "choice1": "Ka tangi te waea a te ākonga.", "choice2": "Ka tuhi tuhipoka te ākonga.", "question": "cause", "label": 0, "idx": 80}
+{"premise": "Ka tukituki te hoiho.", "choice1": "Na te rango i ngau te hoiho.", "choice2": "Ka mirimiri te kaieke i te hoiho.", "question": "cause", "label": 0, "idx": 81}
+{"premise": "I mau nga tāhae taonga.", "choice1": "Ka whakahokia nga taonga i tāhaetia ki ōna rangatira.", "choice2": "I tātaitia te utu o nga taonga i tāhaetia.", "question": "effect", "label": 0, "idx": 82}
+{"premise": "Ka pakaru te tutu tōrangapū i roto i te iwi.", "choice1": "He tokomaha nga tangata i neke ki te pūmatua.", "choice2": "He tokomaha nga tangata whenua i whakaruru ki ētahi atu rohe.", "question": "effect", "label": 1, "idx": 83}
+{"premise": "I hopukina te wahine.", "choice1": "I taki a ia ki te whakaora.", "choice2": "I whakaekea e ia.", "question": "cause", "label": 1, "idx": 84}
+{"premise": "Ka pānui te wahine i te nūpepa.", "choice1": "I kitea e ia te hua o te pōti.", "choice2": "I pōtitia e ia te pōti.", "question": "effect", "label": 0, "idx": 85}
+{"premise": "Ka mare te tamaiti māuiui ki tōna hoa.", "choice1": "I mate tana hoa.", "choice2": "Ka tihe tana hoa.", "question": "effect", "label": 0, "idx": 86}
+{"premise": "Ka taumau te tokorua.", "choice1": "I whakaritea e rātau he mārena.", "choice2": "He wā wehe rāua.", "question": "effect", "label": 0, "idx": 87}
+{"premise": "Ka whakapā atu te wahine ki te māngai whenua.", "choice1": "Ka whakaaro te wahine ki te hoko i tētahi condo.", "choice2": "Me horoi te wahine i tōna whare.", "question": "cause", "label": 0, "idx": 88}
+{"premise": "I toa te tangata i te rota.", "choice1": "Ka whai taonga a ia.", "choice2": "E nama moni ana ia.", "question": "effect", "label": 0, "idx": 89}
+{"premise": "Ka tahuna e au te kānara.", "choice1": "Ka maturuturu mai te kānara i te kānara.", "choice2": "Ka whakapakeketia te kānara i runga i te kānara.", "question": "effect", "label": 0, "idx": 90}
+{"premise": "I pau te rā i te hōpua.", "choice1": "Ka takoha taku raparapa.", "choice2": "I wera taku kanohi.", "question": "effect", "label": 1, "idx": 91}
+{"premise": "I whiwhi te tangata i tētahi tīkiti tūranga.", "choice1": "Ka whakatū whakarara a ia i te tiriti.", "choice2": "Kua pau te ine tūranga.", "question": "cause", "label": 1, "idx": 92}
+{"premise": "Ka rongonui te wahine.", "choice1": "I whai mai ngā kaiwhakaahua i a ia.", "choice2": "Ka karohia ia e tōna whānau.", "question": "effect", "label": 0, "idx": 93}
+{"premise": "I pīrangi te kōtiro ki te mau whakakai.", "choice1": "Ka werohia ōna taringa.", "choice2": "I whiwhi moko a ia.", "question": "effect", "label": 0, "idx": 94}
+{"premise": "I te tangi aku taringa.", "choice1": "I haere ahau ki te whare taonga.", "choice2": "I haere ahau ki tētahi konohete.", "question": "cause", "label": 1, "idx": 95}
+{"premise": "I whakapai ake ahau i taku whare.", "choice1": "I pokea ahau e te mahi.", "choice2": "I te tatari ahau ki te kamupene.", "question": "cause", "label": 1, "idx": 96}
+{"premise": "I hē te mahi a te waka rererangi i aku kawenga.", "choice1": "I tukuna mai e rātau he utu ki a au.", "choice2": "I whakakorea e rātau taku rerenga.", "question": "effect", "label": 0, "idx": 97}
+{"premise": "He nui te utu o te rorohiko ki te whakatika.", "choice1": "I tapia e au.", "choice2": "I hokona mai e au he mea hou.", "question": "effect", "label": 1, "idx": 98}
+{"premise": "I te ngākau kino te wahine.", "choice1": "Ka kōrero iti a ia ki tōna hoa.", "choice2": "Ka kī atu a ia ki tōna hoa kia waiho ko ia anake.", "question": "effect", "label": 1, "idx": 99}

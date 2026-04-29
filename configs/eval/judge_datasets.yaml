@@ -1,0 +1,49 @@
+# Dataset Configuration File
+# Defines datasets, prompt templates, and judge evaluation templates
+
+datasets:
+  # Multi-wiki-qa dataset configuration
+  multi-wiki-qa:
+    enabled: true  # Set to true to enable multi-wiki-qa evaluation
+    name: alexandrainst/multi-wiki-qa
+    subset: ny  #mi
+    split: train
+    limit: 1000
+
+    task_type: qa
+    prompt_template: |
+      Context: {context}
+      
+      Question: {question}
+      
+      Please provide a clear and detailed answer in {language} language for the above question:
+    judge_prompt_template: |
+      You are an expert evaluator of language model outputs.
+      Task: Select the better answer for the given question in {language}.
+      
+      Evaluation criteria:
+      1) Language correctness: The answer MUST be in {language}
+      2) Instruction following: The answer should address what was asked
+      3) Factual accuracy and semantic comprehension
+      4) Grammar and fluency in {language}
+      
+      Context: {context}
+      Question: {question}
+      
+      Reference answer: {answers}
+
+      Answer (A): {completion_1}
+      
+      Answer (B): {completion_2}
+      
+      Please evaluate both answers and provide:
+      1. A comparison explaining which answer is better and why in English
+      2. Your preference: Answer (A) or Answer (B)
+      3. A rating for each answer based on the evaluation criteria on a scale of 0-5
+
+      Format your response as:
+      Comparison: <your comparison>
+      Preferred: <"Answer (A)" or "Answer (B)">
+      Rating_A: [0-5]
+      Rating_B: [0-5]
+

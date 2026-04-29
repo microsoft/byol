@@ -1,0 +1,935 @@
+{"sentence": "The city councilmen refused the demonstrators a permit because _ feared violence.", "option1": "the demonstrators", "option2": "The city councilmen", "answer": "2"}
+{"sentence": "The city councilmen refused the demonstrators a permit because _ advocated violence.", "option1": "The city councilmen", "option2": "the demonstrators", "answer": "2"}
+{"sentence": "The trophy doesn't fit into the brown suitcase because _ is too large.", "option1": "The trophy", "option2": "suitcase", "answer": "1"}
+{"sentence": "The trophy doesn't fit into the brown suitcase because _ is too small.", "option1": "suitcase", "option2": "The trophy", "answer": "1"}
+{"sentence": "Paul tried to call George on the phone, but _ wasn't successful.", "option1": "Paul", "option2": "George", "answer": "1"}
+{"sentence": "Paul tried to call George on the phone, but _ wasn't available.", "option1": "George", "option2": "Paul", "answer": "1"}
+{"sentence": "The lawyer asked the witness a question, but _ was reluctant to repeat it.", "option1": "The lawyer", "option2": "the witness", "answer": "1"}
+{"sentence": "The lawyer asked the witness a question, but _ was reluctant to answer it.", "option1": "The lawyer", "option2": "the witness", "answer": "2"}
+{"sentence": "Frank felt vindicated when his longtime rival Bill revealed that _ was the winner of the competition.", "option1": "Frank", "option2": "Bill", "answer": "1"}
+{"sentence": "Frank felt crushed when his longtime rival Bill revealed that _ was the winner of the competition.", "option1": "Bill", "option2": "Frank", "answer": "1"}
+{"sentence": "The man couldn't lift his son because _ was so weak.", "option1": "The man", "option2": "son", "answer": "1"}
+{"sentence": "The man couldn't lift his son because _ was so heavy.", "option1": "The man", "option2": "son", "answer": "2"}
+{"sentence": "John couldn't see the stage with Billy in front of him because _ is so short.", "option1": "Billy", "option2": "John", "answer": "2"}
+{"sentence": "John couldn't see the stage with Billy in front of him because _ is so tall.", "option1": "Billy", "option2": "John", "answer": "1"}
+{"sentence": "Although they ran at about the same speed, Sue beat Sally because _ had such a good start.", "option1": "Sally", "option2": "Sue", "answer": "2"}
+{"sentence": "The sculpture rolled off the shelf because _ wasn't anchored.", "option1": "The sculpture", "option2": "the shelf", "answer": "1"}
+{"sentence": "Sam's drawing was hung just above Tina's and _ did look much better with another one below it.", "option1": "Sam's drawing", "option2": "Tina's", "answer": "1"}
+{"sentence": "Sam's drawing was hung just above Tina's and _ did look much better with another one above it.", "option1": "Sam's drawing", "option2": "Tina's", "answer": "2"}
+{"sentence": "The firemen arrived after the police because _ were coming from so far away.", "option1": "The firemen", "option2": "the police", "answer": "1"}
+{"sentence": "Frank was upset with Tom because the toaster _ had bought from him didn't work.", "option1": "Tom", "option2": "Frank", "answer": "2"}
+{"sentence": "Frank was upset with Tom because the toaster _ had sold him didn't work.", "option1": "Tom", "option2": "Frank", "answer": "1"}
+{"sentence": "The older students were bullying the younger ones, so we punished _.", "option1": "The older students", "option2": "the younger ones", "answer": "1"}
+{"sentence": "The older students were bullying the younger ones, so we rescued _.", "option1": "The older students", "option2": "the younger ones", "answer": "2"}
+{"sentence": "I poured water from the bottle into the cup until _ was empty.", "option1": "the cup", "option2": "the bottle", "answer": "2"}
+{"sentence": "Sid explained his theory to Mark but _ couldn't convince him.", "option1": "Mark", "option2": "Sid", "answer": "2"}
+{"sentence": "Sid explained his theory to Mark but _ couldn't understand him.", "option1": "Mark", "option2": "Sid", "answer": "1"}
+{"sentence": "The painting in Mark's living room shows an oak tree. _ is to the right of the bookcase.", "option1": "The painting", "option2": "oak tree", "answer": "1"}
+{"sentence": "The painting in Mark's living room shows an oak tree. _ is to the right of a house.", "option1": "The painting", "option2": "oak tree", "answer": "2"}
+{"sentence": "There is a gap in the wall. You can see the garden through _.", "option1": "the wall", "option2": "gap", "answer": "2"}
+{"sentence": "There is a gap in the wall. You can see the garden behind _.", "option1": "gap", "option2": "the wall", "answer": "2"}
+{"sentence": "My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, _ was short, so it worked out.", "option1": "the train", "option2": "meeting", "answer": "2"}
+{"sentence": "My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, _ was delayed, so it worked out.", "option1": "the train", "option2": "meeting", "answer": "1"}
+{"sentence": "There is a pillar between me and the stage, and I can't see around _.", "option1": "pillar", "option2": "the stage", "answer": "1"}
+{"sentence": "There is a pillar between me and the stage, and I can't see _.", "option1": "pillar", "option2": "the stage", "answer": "2"}
+{"sentence": "They broadcast an announcement, but a subway came into the station and I couldn't hear _.", "option1": "announcement", "option2": "subway", "answer": "1"}
+{"sentence": "They broadcast an announcement, but a subway came into the station and I couldn't hear over _.", "option1": "announcement", "option2": "subway", "answer": "2"}
+{"sentence": "In the middle of the outdoor concert, the rain started falling, but _ continued until 10.", "option1": "the rain", "option2": "concert", "answer": "2"}
+{"sentence": "I used an old rag to clean the knife, and then I put _ in the trash.", "option1": "rag", "option2": "the knife", "answer": "1"}
+{"sentence": "I used an old rag to clean the knife, and then I put _ in the drawer.", "option1": "rag", "option2": "the knife", "answer": "2"}
+{"sentence": "Ann asked Mary what time the library closes, because _ had forgotten.", "option1": "Ann", "option2": "Mary", "answer": "1"}
+{"sentence": "I took the water bottle out of the backpack so that _ would be handy.", "option1": "the backpack", "option2": "the water bottle", "answer": "2"}
+{"sentence": "I couldn't put the pot on the shelf because _ was too tall.", "option1": "the shelf", "option2": "the pot", "answer": "2"}
+{"sentence": "I couldn't put the pot on the shelf because _ was too high.", "option1": "the shelf", "option2": "the pot", "answer": "1"}
+{"sentence": "I'm sure that my map will show this building; _ is very good.", "option1": "map", "option2": "building", "answer": "1"}
+{"sentence": "Bob paid for Charlie's college education. _ is very generous.", "option1": "Charlie", "option2": "Bob", "answer": "2"}
+{"sentence": "Bob paid for Charlie's college education. _ is very grateful.", "option1": "Charlie", "option2": "Bob", "answer": "1"}
+{"sentence": "Bob paid for Charlie's college education, but now Charlie acts as though it never happened. _ is very hurt.", "option1": "Bob", "option2": "Charlie", "answer": "1"}
+{"sentence": "Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, _ would have won.", "option1": "Bob", "option2": "Adam", "answer": "1"}
+{"sentence": "Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, _ would have lost.", "option1": "Bob", "option2": "Adam", "answer": "2"}
+{"sentence": "Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, _ would be gone by this time.", "option1": "Adam", "option2": "Bob", "answer": "1"}
+{"sentence": "Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, _ would be here by this time.", "option1": "Bob", "option2": "Adam", "answer": "1"}
+{"sentence": "The cat was lying by the mouse hole waiting for the mouse, but _ was too impatient.", "option1": "The cat", "option2": "the mouse", "answer": "1"}
+{"sentence": "The cat was lying by the mouse hole waiting for the mouse, but _ was too cautious.", "option1": "the mouse", "option2": "The cat", "answer": "1"}
+{"sentence": "The fish ate the worm. _ was hungry.", "option1": "The fish", "option2": "the worm", "answer": "1"}
+{"sentence": "The fish ate the worm. _ was tasty.", "option1": "the worm", "option2": "The fish", "answer": "1"}
+{"sentence": "The dog chased the cat, which ran up a tree. _ waited at the bottom.", "option1": "the cat", "option2": "The dog", "answer": "2"}
+{"sentence": "The dog chased the cat, which ran up a tree. _ waited at the top.", "option1": "The dog", "option2": "the cat", "answer": "2"}
+{"sentence": "The customer walked into the bank and stabbed one of the tellers. _ was immediately taken to the police station.", "option1": "The customer", "option2": "one of the tellers", "answer": "1"}
+{"sentence": "The customer walked into the bank and stabbed one of the tellers. _ was immediately taken to the hospital.", "option1": "one of the tellers", "option2": "The customer", "answer": "1"}
+{"sentence": "John was doing research in the library when he heard a man humming and whistling. _ was very annoyed.", "option1": "John", "option2": "man", "answer": "1"}
+{"sentence": "John was doing research in the library when he heard a man humming and whistling. _ was very annoying.", "option1": "John", "option2": "man", "answer": "2"}
+{"sentence": "John was jogging through the park when he saw a man juggling watermelons. _ was very impressed.", "option1": "a man", "option2": "John", "answer": "2"}
+{"sentence": "John was jogging through the park when he saw a man juggling watermelons. _ was very impressive.", "option1": "John", "option2": "a man", "answer": "2"}
+{"sentence": "Bob collapsed on the sidewalk. Soon he saw Carl coming to help. _ was very ill.", "option1": "Bob", "option2": "Carl", "answer": "1"}
+{"sentence": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because _ are snobs.", "option1": "Sam and Amy", "option2": "Amy's parents", "answer": "2"}
+{"sentence": "Mark told Pete many lies about himself, which Pete included in his book. _ should have been more truthful.", "option1": "Mark", "option2": "Pete", "answer": "1"}
+{"sentence": "Joe has sold his house and bought a new one a few miles away. He will be moving out of _ on Thursday.", "option1": "his house", "option2": "a new one", "answer": "1"}
+{"sentence": "Joe has sold his house and bought a new one a few miles away. He will be moving into _ on Thursday.", "option1": "a new one", "option2": "his house", "answer": "1"}
+{"sentence": "Many people start to read Paul's books and can't put them down. _ are gripped because Paul writes so well.", "option1": "people", "option2": "Paul's books", "answer": "1"}
+{"sentence": "Many people start to read Paul's books and can't put them down. _ are popular because Paul writes so well.", "option1": "Paul's books", "option2": "people", "answer": "1"}
+{"sentence": "Mary took out her flute and played one of her favorite pieces. She has had _ since she was a child.", "option1": "her flute", "option2": "one of her favorite pieces", "answer": "1"}
+{"sentence": "Sam pulled up a chair to the piano, but _ was broken, so he had to stand instead.", "option1": "chair", "option2": "the piano", "answer": "1"}
+{"sentence": "Sam pulled up a chair to the piano, but _ was broken, so he had to sing instead.", "option1": "chair", "option2": "the piano", "answer": "2"}
+{"sentence": "Jane knocked on Susan's door, but there was no answer. _ was disappointed.", "option1": "Susan", "option2": "Jane", "answer": "2"}
+{"sentence": "Jane knocked on Susan's door, but there was no answer. _ was out.", "option1": "Jane", "option2": "Susan", "answer": "2"}
+{"sentence": "Jane knocked on the door, and Susan answered it. _ invited her to come out.", "option1": "Jane", "option2": "Susan", "answer": "1"}
+{"sentence": "Jane knocked on the door, and Susan answered it. _ invited her to come in.", "option1": "Jane", "option2": "Susan", "answer": "2"}
+{"sentence": "Sam took French classes from Adam, because _ was eager to speak it fluently.", "option1": "Adam", "option2": "Sam", "answer": "2"}
+{"sentence": "Sam took French classes from Adam, because _ was known to speak it fluently.", "option1": "Sam", "option2": "Adam", "answer": "2"}
+{"sentence": "The path to the lake was blocked, so we couldn't use _.", "option1": "the lake", "option2": "The path", "answer": "2"}
+{"sentence": "The path to the lake was blocked, so we couldn't reach _.", "option1": "the lake", "option2": "The path", "answer": "1"}
+{"sentence": "The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, _ was out.", "option1": "cloud", "option2": "The sun", "answer": "2"}
+{"sentence": "The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, _ was gone.", "option1": "cloud", "option2": "The sun", "answer": "1"}
+{"sentence": "Mary tucked her daughter Anne into bed, so that _ could work.", "option1": "her daughter Anne", "option2": "Mary", "answer": "2"}
+{"sentence": "Fred and Alice had very warm down coats, but _ were not prepared for the cold in Alaska.", "option1": "coats", "option2": "Fred and Alice", "answer": "2"}
+{"sentence": "Fred and Alice had very warm down coats, but _ were not enough for the cold in Alaska.", "option1": "Fred and Alice", "option2": "coats", "answer": "2"}
+{"sentence": "Thomson visited Cooper's grave in 1765. At that date _ had been travelling for five years.", "option1": "Cooper", "option2": "Thomson", "answer": "2"}
+{"sentence": "Thomson visited Cooper's grave in 1765. At that date _ had been dead for five years.", "option1": "Thomson", "option2": "Cooper", "answer": "2"}
+{"sentence": "Jackson was greatly influenced by Arnold, though _ lived two centuries later.", "option1": "Arnold", "option2": "Jackson", "answer": "2"}
+{"sentence": "I can't cut that tree down with that axe; _ is too thick.", "option1": "axe", "option2": "tree", "answer": "2"}
+{"sentence": "I can't cut that tree down with that axe; _ is too small.", "option1": "axe", "option2": "tree", "answer": "1"}
+{"sentence": "The foxes are getting in at night and attacking the chickens. I shall have to kill _.", "option1": "the chickens", "option2": "The foxes", "answer": "2"}
+{"sentence": "The foxes are getting in at night and attacking the chickens. I shall have to guard _.", "option1": "The foxes", "option2": "the chickens", "answer": "2"}
+{"sentence": "The foxes are getting in at night and attacking the chickens. _ have gotten very bold.", "option1": "the chickens", "option2": "The foxes", "answer": "2"}
+{"sentence": "The foxes are getting in at night and attacking the chickens. _ have gotten very nervous.", "option1": "The foxes", "option2": "the chickens", "answer": "2"}
+{"sentence": "Fred covered his eyes with his hands, because the wind was blowing sand around. He opened _ when the wind stopped.", "option1": "his hands", "option2": "his eyes", "answer": "2"}
+{"sentence": "Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered _ when the wind stopped.", "option1": "his hands", "option2": "his eyes", "answer": "1"}
+{"sentence": "The actress used to be named Terpsichore, but she changed _ to Tina a few years ago, because she figured it was too hard to pronounce.", "option1": "Terpsichore", "option2": "Tina", "answer": "1"}
+{"sentence": "The actress used to be named Terpsichore, but she changed _ to Tina a few years ago, because she figured it was easier to pronounce.", "option1": "Tina", "option2": "Terpsichore", "answer": "1"}
+{"sentence": "Fred watched TV while George went out to buy groceries. After an hour _ got up.", "option1": "George", "option2": "Fred", "answer": "2"}
+{"sentence": "Fred watched TV while George went out to buy groceries. After an hour _ got back.", "option1": "Fred", "option2": "George", "answer": "2"}
+{"sentence": "Fred is the only man still alive who remembers my great-grandfather. _ is a remarkable man.", "option1": "Fred", "option2": "my great-grandfather", "answer": "1"}
+{"sentence": "Fred is the only man still alive who remembers my great-grandfather. _ was a remarkable man.", "option1": "my great-grandfather", "option2": "Fred", "answer": "1"}
+{"sentence": "In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, _ were defeated within weeks.", "option1": "Kamtchatka", "option2": "Yakutsk", "answer": "1"}
+{"sentence": "In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, _ were victorious within weeks.", "option1": "Yakutsk", "option2": "Kamtchatka", "answer": "1"}
+{"sentence": "Look! There is a minnow swimming right below that duck! _ had better get away to safety fast!", "option1": "minnow", "option2": "duck", "answer": "1"}
+{"sentence": "Look! There is a shark swimming right below that duck! _ had better get away to safety fast!", "option1": "duck", "option2": "shark", "answer": "1"}
+{"sentence": "Archaeologists have concluded that humans lived in Laputa 20,000 years ago. _ hunted for evidence on the river banks.", "option1": "humans", "option2": "Archaeologists", "answer": "2"}
+{"sentence": "Archaeologists have concluded that humans lived in Laputa 20,000 years ago. _ hunted for deer on the river banks.", "option1": "humans", "option2": "Archaeologists", "answer": "1"}
+{"sentence": "The scientists are studying three species of fish that have recently been found living in the Indian Ocean. _ began two years ago.", "option1": "fish", "option2": "The scientists", "answer": "2"}
+{"sentence": "The scientists are studying three species of fish that have recently been found living in the Indian Ocean. _ appeared two years ago.", "option1": "fish", "option2": "The scientists", "answer": "1"}
+{"sentence": "The journalists interviewed the stars of the new movie. _ were very persistent, so the interview lasted for a long time.", "option1": "the stars", "option2": "The journalists", "answer": "2"}
+{"sentence": "The journalists interviewed the stars of the new movie. _ were very cooperative, so the interview lasted for a long time.", "option1": "the stars", "option2": "The journalists", "answer": "1"}
+{"sentence": "The police arrested all of the gang members. _ were trying to stop the drug trade in the neighborhood.", "option1": "the gang members", "option2": "The police", "answer": "2"}
+{"sentence": "The police arrested all of the gang members. _ were trying to run the drug trade in the neighborhood.", "option1": "The police", "option2": "the gang members", "answer": "2"}
+{"sentence": "Sam broke both his ankles and he's walking with crutches. But a month or so from now _ should be better.", "option1": "ankles", "option2": "crutches", "answer": "1"}
+{"sentence": "Sam broke both his ankles and he's walking with crutches. But a month or so from now _ should be unnecessary.", "option1": "ankles", "option2": "crutches", "answer": "2"}
+{"sentence": "When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. _ were very much in the minority.", "option1": "opponents", "option2": "the sponsors", "answer": "2"}
+{"sentence": "When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. _ were very much in the majority.", "option1": "the sponsors", "option2": "opponents", "answer": "2"}
+{"sentence": "Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make more of _.", "option1": "the oatmeal cookies", "option2": "the chocolate chip cookies", "answer": "1"}
+{"sentence": "Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of _.", "option1": "the oatmeal cookies", "option2": "the chocolate chip cookies", "answer": "2"}
+{"sentence": "We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of _ .", "option1": "copies of our newsletter", "option2": "the chairs", "answer": "1"}
+{"sentence": "We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of _ .", "option1": "the chairs", "option2": "copies of our newsletter", "answer": "1"}
+{"sentence": "I stuck a pin through a carrot. When I pulled the pin out, _ left a hole.", "option1": "carrot", "option2": "the pin", "answer": "2"}
+{"sentence": "I stuck a pin through a carrot. When I pulled the pin out, _ had a hole.", "option1": "carrot", "option2": "the pin", "answer": "1"}
+{"sentence": "I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because _ got full of ink.", "option1": "coffee", "option2": "pen", "answer": "1"}
+{"sentence": "Steve follows Fred's example in everything. _ admires him hugely.", "option1": "Fred", "option2": "Steve", "answer": "2"}
+{"sentence": "Steve follows Fred's example in everything. _ influences him hugely.", "option1": "Steve", "option2": "Fred", "answer": "2"}
+{"sentence": "The table won't fit through the doorway because _ is too wide.", "option1": "the doorway", "option2": "The table", "answer": "2"}
+{"sentence": "The table won't fit through the doorway because _ is too narrow.", "option1": "The table", "option2": "the doorway", "answer": "2"}
+{"sentence": "Grace was happy to trade me her sweater for my jacket. She thinks _ looks dowdy on her.", "option1": "jacket", "option2": "sweater", "answer": "2"}
+{"sentence": "Grace was happy to trade me her sweater for my jacket. She thinks _ looks great on her.", "option1": "sweater", "option2": "jacket", "answer": "2"}
+{"sentence": "John hired Bill to take care of _ .", "option1": "John", "option2": "Bill", "answer": "1"}
+{"sentence": "John hired himself out to Bill to take care of _ .", "option1": "John", "option2": "Bill", "answer": "2"}
+{"sentence": "Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties _ faced in his research.", "option1": "Goodman", "option2": "Xenophanes", "answer": "1"}
+{"sentence": "Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties _ faced in his childhood.", "option1": "Goodman", "option2": "Xenophanes", "answer": "2"}
+{"sentence": "Jane knocked on Susan's door but _ did not answer.", "option1": "Susan", "option2": "Jane", "answer": "1"}
+{"sentence": "Beth didn't get angry with Sally, who had cut her off, because _ stopped and counted to ten.", "option1": "Beth", "option2": "Sally", "answer": "1"}
+{"sentence": "Jim signaled the barman and gestured toward _ empty glass", "option1": "the barman", "option2": "Jim", "answer": "2"}
+{"sentence": "Dan took the rear seat while Bill claimed the front because _ \"Dibs!\" was slow.", "option1": "Dan", "option2": "Bill", "answer": "1"}
+{"sentence": "Tom said \"Check\" to Ralph as he moved _ bishop.", "option1": "Ralph", "option2": "Tom", "answer": "2"}
+{"sentence": "As Andrea in the crop duster passed over Susan, _ could see the landing strip.", "option1": "Susan", "option2": "Andrea", "answer": "2"}
+{"sentence": "As Andrea in the crop duster passed over Susan, _ could see the landing gear.", "option1": "Andrea", "option2": "Susan", "answer": "2"}
+{"sentence": "Bill passed the half-empty plate to John because _ was full.", "option1": "John", "option2": "Bill", "answer": "2"}
+{"sentence": "Bill passed the half-empty plate to John because _ was hungry.", "option1": "Bill", "option2": "John", "answer": "2"}
+{"sentence": "Bill passed the gameboy to John because _ turn was next.", "option1": "Bill", "option2": "John", "answer": "2"}
+{"sentence": "As Ollie carried Tommy up the long winding steps, _ legs ached.", "option1": "Ollie", "option2": "Tommy", "answer": "1"}
+{"sentence": "As Ollie carried Tommy up the long winding steps, _ legs dangled.", "option1": "Ollie", "option2": "Tommy", "answer": "2"}
+{"sentence": "The father carried the sleeping boy in _ arms", "option1": "The father", "option2": "boy", "answer": "1"}
+{"sentence": "The woman held the girl against _ chest", "option1": "The woman", "option2": "the girl", "answer": "1"}
+{"sentence": "The woman held the girl against _ will.", "option1": "the girl", "option2": "The woman", "answer": "1"}
+{"sentence": "Dr. Adams informed Kate that _ had retired and presented several options for future treatment.", "option1": "Kate", "option2": "Dr. Adams", "answer": "2"}
+{"sentence": "Dan had to stop Bill from toying with the injured bird. _ is very compassionate.", "option1": "Dan", "option2": "Bill", "answer": "1"}
+{"sentence": "Dan had to stop Bill from toying with the injured bird. _ is very cruel.", "option1": "Dan", "option2": "Bill", "answer": "2"}
+{"sentence": "George got free tickets to the play, but _ gave them to Eric, even though he was particularly eager to see it.", "option1": "Eric", "option2": "George", "answer": "2"}
+{"sentence": "George got free tickets to the play, but _ gave them to Eric, because he was particularly eager to see it.", "option1": "George", "option2": "Eric", "answer": "2"}
+{"sentence": "George got free tickets to the play, but _ gave them to Eric, because he was not particularly eager to see it.", "option1": "Eric", "option2": "George", "answer": "2"}
+{"sentence": "Jane gave Joan candy because _ wasn't hungry.", "option1": "Jane", "option2": "Joan", "answer": "1"}
+{"sentence": "Jane gave Joan candy because _ was hungry.", "option1": "Joan", "option2": "Jane", "answer": "1"}
+{"sentence": "I tried to paint a picture of an orchard, with lemons in the lemon trees, but _ came out looking more like light bulbs.", "option1": "lemon trees", "option2": "lemons", "answer": "2"}
+{"sentence": "I tried to paint a picture of an orchard, with lemons in the lemon trees, but _ came out looking more like telephone poles.", "option1": "lemon trees", "option2": "lemons", "answer": "1"}
+{"sentence": "James asked Robert for a favor but _ refused.", "option1": "Robert", "option2": "James", "answer": "1"}
+{"sentence": "Emma did not pass the ball to Janie although _ was open.", "option1": "Janie", "option2": "Emma", "answer": "1"}
+{"sentence": "I put the butterfly wing on the table and _ broke.", "option1": "the butterfly wing", "option2": "the table", "answer": "1"}
+{"sentence": "I put the heavy book on the table and _ broke.", "option1": "the table", "option2": "the heavy book", "answer": "1"}
+{"sentence": "Madonna fired her trainer because _ couldn't stand her boyfriend.", "option1": "Madonna", "option2": "trainer", "answer": "1"}
+{"sentence": "Carol believed that Rebecca suspected that _ had stolen the watch.", "option1": "Carol", "option2": "Rebecca", "answer": "1"}
+{"sentence": "Alice looked for her friend Jade in the crowd. Since _ always has good luck, Alice spotted her quickly.", "option1": "Alice", "option2": "Jade", "answer": "1"}
+{"sentence": "During a game of tag, Ethan chased Luke because _ was \"it\".", "option1": "Ethan", "option2": "Luke", "answer": "1"}
+{"sentence": "During a game of tag, Ethan ran from Luke because _ was \"it\".", "option1": "Luke", "option2": "Ethan", "answer": "1"}
+{"sentence": "At the Loebner competition the judges couldn't figure out which respondents were the chatbots because _ were so stupid.", "option1": "the chatbots", "option2": "the judges", "answer": "2"}
+{"sentence": "At the Loebner competition the judges couldn't figure out which respondents were the chatbots because _ were so advanced.", "option1": "the judges", "option2": "the chatbots", "answer": "2"}
+{"sentence": "The mothers of Arthur and Celeste have come to the town to fetch _. They are very happy to have them back, but they scold them just the same because they ran away.", "option1": "mothers", "option2": "Arthur and Celeste", "answer": "2"}
+{"sentence": "Mark was close to Mr. Singer 's heels. _ heard him calling for the captain, promising him, in the jargon everyone talked that night, that not one thing should be damaged on the ship except only the ammunition, but the captain and all his crew had best stay in the cabin until the work was over", "option1": "Mark", "option2": "Mr. Singer", "answer": "1"}
+{"sentence": "The pony behaved well, sir, and showed no vice; but at last he just threw up his heels and tipped the young gentleman into the thorn hedge. _ wanted me to help him out, but I hope you will excuse me, sir, I did not feel inclined to do so.", "option1": "pony", "option2": "young gentleman", "answer": "2"}
+{"sentence": "Sam Goodman 's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties _ faced in his childhood.", "option1": "Goodman", "option2": "Xenophanes", "answer": "2"}
+{"sentence": "Bob paid for Charlie 's college education, but now Charlie acts as though it never happened. _ is very hurt.", "option1": "Charlie", "option2": "Bob", "answer": "2"}
+{"sentence": "Sam took French classes from Adam , because _ was eager to speak it fluently.", "option1": "Adam", "option2": "Sam", "answer": "2"}
+{"sentence": "The fish ate the worm . _ was tasty.", "option1": "The fish", "option2": "the worm", "answer": "2"}
+{"sentence": "Babar wonders how _ can get new clothing. Luckily, a very rich old man who has always been fond of little elephants understands right away that he is longing for a fine suit. As he likes to make people happy, he gives him his wallet.", "option1": "old man", "option2": "Babar", "answer": "1"}
+{"sentence": "The actress used to be named Terpsichore , but she changed _ to Tina a few years ago, because she figured it was easier to pronounce.", "option1": "Tina", "option2": "Terpsichore", "answer": "1"}
+{"sentence": "Fred covered his eyes with his hands , because the wind was blowing sand around. He lowered _ when the wind stopped.", "option1": "his eyes", "option2": "his hands", "answer": "2"}
+{"sentence": "As Andrea in the crop duster passed over Susan , _ could see the landing strip.", "option1": "Susan", "option2": "Andrea", "answer": "2"}
+{"sentence": "The cat was lying by the mouse hole waiting for the mouse , but _ was too cautious.", "option1": "the mouse", "option2": "The cat", "answer": "1"}
+{"sentence": "Lionel is holding captive a scientist, Dr. Vardi , who has invented a device that turns animals invisible; Lionel plans to use it on Geoffrey and send _ to steal nuclear material from an army vault.", "option1": "Lionel", "option2": "Geoffrey", "answer": "2"}
+{"sentence": "Lionel is holding captive a scientist, Dr. Vardi , who has invented a device that turns animals invisible; Lionel plans to use it on Geoffrey and send _ to steal nuclear material from an army vault.", "option1": "Dr. Vardi", "option2": "Geoffrey", "answer": "2"}
+{"sentence": "Bob paid for Charlie 's college education. _ is very generous.", "option1": "Charlie", "option2": "Bob", "answer": "2"}
+{"sentence": "All the buttons up the back of Dora 's plaid dress were buttoned outside-in. Maude should have thought to button her up; but no, _ had left poor little Dora to do the best she could, alone.", "option1": "Dora", "option2": "Maude", "answer": "1"}
+{"sentence": "Of one thing Mark was sure. Harry knew much less than _ did.", "option1": "Harry", "option2": "Mark", "answer": "2"}
+{"sentence": "I sallied out for a bit of food , more to pass the time than because I wanted _ .", "option1": "time", "option2": "food", "answer": "2"}
+{"sentence": "Fred is the only man still alive who remembers my great-grandfather . _ was a remarkable man.", "option1": "Fred", "option2": "my great-grandfather", "answer": "2"}
+{"sentence": "My master and mistress decided to pay a visit to some friends who lived about forty-six miles from our home, and James was to drive _ .", "option1": "some friends", "option2": "master and mistress", "answer": "2"}
+{"sentence": "Jane knocked on Susan 's door but _ did not answer.", "option1": "Jane", "option2": "Susan", "answer": "2"}
+{"sentence": "The foxes are getting in at night and attacking the chickens . _ have gotten very bold.", "option1": "the chickens", "option2": "The foxes", "answer": "2"}
+{"sentence": "Fred is the only man still alive who remembers my great-grandfather . _ is a remarkable man.", "option1": "Fred", "option2": "my great-grandfather", "answer": "1"}
+{"sentence": "Sir Clifford wants me to find him a new groom , about twenty or twenty-one, who knows his business. _ old coachman is getting feeble, and he wants a man to work with him and get into his ways, who would be able, when the old man was pensioned off, to step into his place.", "option1": "Sir Clifford", "option2": "new groom", "answer": "1"}
+{"sentence": "Thomson visited Cooper 's grave in 1765. At that date _ had been travelling for five years.", "option1": "Thomson", "option2": "Cooper", "answer": "1"}
+{"sentence": "Mark heard Steve 's feet going down the ladder. The door of the shop closed after _ . He ran to look out the window.", "option1": "Mark", "option2": "Steve", "answer": "2"}
+{"sentence": "George got free tickets to the play, but _ gave them to Eric , because he was particularly eager to see it.", "option1": "Eric", "option2": "George", "answer": "1"}
+{"sentence": "Jane knocked on Susan 's door, but there was no answer. _ was disappointed.", "option1": "Jane", "option2": "Susan", "answer": "1"}
+{"sentence": "Thomson visited Cooper 's grave in 1765. At that date _ had been dead for five years.", "option1": "Cooper", "option2": "Thomson", "answer": "1"}
+{"sentence": "Babar wonders how he can get new clothing. Luckily, a very rich old man who has always been fond of little elephants understands right away that he is longing for a fine suit. As he likes to make people happy, he gives him _ wallet.", "option1": "old man", "option2": "Babar", "answer": "1"}
+{"sentence": "We went to the lake , because a shark had been seen at the ocean beach , so _ was a safer place to swim.", "option1": "the lake", "option2": "the ocean beach", "answer": "1"}
+{"sentence": "Sergeant Holmes asked the girls to describe the intruder . Nancy not only provided the policeman with an excellent description of the heavyset thirty-year-old prowler, but drew a rough sketch of _ face.", "option1": "Sergeant Holmes", "option2": "the intruder", "answer": "2"}
+{"sentence": "The foxes are getting in at night and attacking the chickens . _ have gotten very nervous.", "option1": "The foxes", "option2": "the chickens", "answer": "2"}
+{"sentence": "The mothers of Arthur and Celeste have come to the town to fetch them. _ are very happy to have them back, but they scold them just the same because they ran away.", "option1": "Arthur and Celeste", "option2": "mothers", "answer": "2"}
+{"sentence": "Stretching _ back, the woman smiled at the girl .", "option1": "the woman", "option2": "the girl", "answer": "1"}
+{"sentence": "Sam Goodman 's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties _ faced in his research.", "option1": "Xenophanes", "option2": "Goodman", "answer": "2"}
+{"sentence": "When Tatyana reached the cabin, her mother was sleeping. _ was careful not to disturb her, undressing and climbing back into her berth.", "option1": "mother", "option2": "Tatyana", "answer": "2"}
+{"sentence": "Susan knew that Ann 's son had been in a car accident, because _ told her about it.", "option1": "Susan", "option2": "Ann", "answer": "2"}
+{"sentence": "The mothers of Arthur and Celeste have come to the town to fetch them. They are very happy to have them back, but _ scold them just the same because they ran away.", "option1": "mothers", "option2": "Arthur and Celeste", "answer": "2"}
+{"sentence": "Do you suppose that Peter is responsible for the captain ’s illness? Maybe _ bribed the cook to put something in his food.", "option1": "Peter", "option2": "the captain", "answer": "1"}
+{"sentence": "The police arrested all of the gang members . _ were trying to stop the drug trade in the neighborhood.", "option1": "The police", "option2": "the gang members", "answer": "1"}
+{"sentence": "Sam took French classes from Adam , because _ was known to speak it fluently.", "option1": "Adam", "option2": "Sam", "answer": "1"}
+{"sentence": "The mothers of Arthur and Celeste have come to the town to fetch _ . They are very happy to have them back, but they scold them just the same because they ran away. them .", "option1": "Arthur and Celeste", "option2": "mothers", "answer": "1"}
+{"sentence": "I asked Dave to get me my sweater from the other side of the yacht . While he was gone, I rested my arm on the rail over there and suddenly _ gave way.", "option1": "rail", "option2": "yacht", "answer": "1"}
+{"sentence": "I asked Dave to get me my sweater from the other side of the yacht . While he was gone, I rested my arm on the rail over there and suddenly _ gave way.", "option1": "rail", "option2": "sweater", "answer": "1"}
+{"sentence": "I asked Dave to get me my sweater from the other side of the yacht . While he was gone, I rested my arm on the rail over there and suddenly _ gave way.", "option1": "rail", "option2": "arm", "answer": "1"}
+{"sentence": "Fred and Alice had very warm down coats , but _ were not enough for the cold in Alaska.", "option1": "Fred and Alice", "option2": "coats", "answer": "2"}
+{"sentence": "Even before they reached town , they could hear a sound like corn popping. Dora asked what _ was, and Dad said it was firecrackers.", "option1": "town", "option2": "sound", "answer": "2"}
+{"sentence": "Even before they reached town , they could hear a sound like corn popping. Dora asked what _ was, and Dad said it was firecrackers.", "option1": "corn", "option2": "sound", "answer": "2"}
+{"sentence": "Steve follows Fred 's example in everything. _ influences him hugely.", "option1": "Steve", "option2": "Fred", "answer": "2"}
+{"sentence": "The actress used to be named Terpsichore , but she changed _ to Tina a few years ago, because she figured it was too hard to pronounce.", "option1": "Terpsichore", "option2": "Tina", "answer": "1"}
+{"sentence": "George got free tickets to the play, but _ gave them to Eric , even though he was particularly eager to see it.", "option1": "Eric", "option2": "George", "answer": "2"}
+{"sentence": "The politicians far away in Washington could not know the settlers so they must make rules to regulate _ .", "option1": "settlers", "option2": "politicians", "answer": "1"}
+{"sentence": "The fish ate the worm . _ was hungry.", "option1": "the worm", "option2": "The fish", "answer": "2"}
+{"sentence": "After a somewhat lengthy conversation, Nancy convinced the housekeeper that there was no immediate cause for alarm. _ did not mention the incident at the Hamilton bus station, knowing it would only add to Mrs. Gruen’s uneasiness.", "option1": "Nancy", "option2": "the housekeeper", "answer": "1"}
+{"sentence": "The dog chased the cat , which ran up a tree. _ waited at the bottom.", "option1": "The dog", "option2": "the cat", "answer": "1"}
+{"sentence": "The cat was lying by the mouse hole waiting for the mouse , but _ was too impatient.", "option1": "the mouse", "option2": "The cat", "answer": "2"}
+{"sentence": "It is not easy to space buttonholes exactly the same distance apart, and _ is very difficult to cut them precisely the right size . The tiniest slip of the scissors will make the hole too large, and even one thread uncut will leave it too small.", "option1": "slip", "option2": "the hole", "answer": "2"}
+{"sentence": "It is not easy to space buttonholes exactly the same distance apart, and _ is very difficult to cut them precisely the right size . The tiniest slip of the scissors will make the hole too large, and even one thread uncut will leave it too small.", "option1": "the hole", "option2": "the scissors", "answer": "1"}
+{"sentence": "It is not easy to space buttonholes exactly the same distance apart, and _ is very difficult to cut them precisely the right size . The tiniest slip of the scissors will make the hole too large, and even one thread uncut will leave it too small.", "option1": "the hole", "option2": "the right size", "answer": "1"}
+{"sentence": "We went to the lake , because a shark had been seen at the ocean beach , so _ was a dangerous place to swim.", "option1": "the ocean beach", "option2": "the lake", "answer": "1"}
+{"sentence": "Jane knocked on Susan 's door, but there was no answer. _ was out.", "option1": "Susan", "option2": "Jane", "answer": "1"}
+{"sentence": "Susan knew that Ann's son had been in a car accident, so _ told her about it.", "option1": "Susan", "option2": "Ann", "answer": "1"}
+{"sentence": "If the con artist has succeeded in fooling Sam , _ would have lost a lot of money.", "option1": "Sam", "option2": "the con artist", "answer": "1"}
+{"sentence": "Fred and Alice had very warm down coats , but _ were not prepared for the cold in Alaska.", "option1": "Fred and Alice", "option2": "coats", "answer": "1"}
+{"sentence": "Steve follows Fred 's example in everything. _ admires him hugely.", "option1": "Steve", "option2": "Fred", "answer": "1"}
+{"sentence": "The foxes are getting in at night and attacking the chickens . I shall have to kill _ .", "option1": "The foxes", "option2": "the chickens", "answer": "1"}
+{"sentence": "Mark heard Steve 's feet going down the ladder. The door of the shop closed after him. _ ran to look out the window.", "option1": "Mark", "option2": "Steve", "answer": "1"}
+{"sentence": "As Andrea in the crop duster passed over Susan , _ could see the landing gear.", "option1": "Susan", "option2": "Andrea", "answer": "1"}
+{"sentence": "The foxes are getting in at night and attacking the chickens . I shall have to guard _ .", "option1": "the chickens", "option2": "The foxes", "answer": "1"}
+{"sentence": "I sat there feeling rather like a chappie I'd once read about in a book , who murdered another cove and hid the body under the dining-room table , and then had to be the life and soul of a dinner party, with _ there all the time.", "option1": "book", "option2": "body", "answer": "2"}
+{"sentence": "I sat there feeling rather like a chappie I'd once read about in a book , who murdered another cove and hid the body under the dining-room table , and then had to be the life and soul of a dinner party, with _ there all the time.", "option1": "body", "option2": "table", "answer": "1"}
+{"sentence": "I sat there feeling rather like a chappie I'd once read about in a book , who murdered another cove and hid the body under the dining-room table , and then had to be the life and soul of a dinner party, with _ there all the time.", "option1": "body", "option2": "life and soul", "answer": "1"}
+{"sentence": "The dog chased the cat , which ran up a tree. _ waited at the top.", "option1": "The dog", "option2": "the cat", "answer": "2"}
+{"sentence": "The first place that I can well remember was a large pleasant meadow with a pond of clear water in _ . Some shady trees leaned over", "option1": "pond", "option2": "meadow", "answer": "1"}
+{"sentence": "Always before, Larry had helped Dad with _ work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.", "option1": "Dad", "option2": "Larry", "answer": "1"}
+{"sentence": "The path to the lake was blocked, so we couldn't use _ .", "option1": "the lake", "option2": "The path", "answer": "2"}
+{"sentence": "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen _ and come back quickly to tell the news.", "option1": "their mothers", "option2": "Arthur and Celeste", "answer": "2"}
+{"sentence": "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen _ and come back quickly to tell the news.", "option1": "the elephants", "option2": "Arthur and Celeste", "answer": "2"}
+{"sentence": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening _ .", "option1": "album", "option2": "chair", "answer": "1"}
+{"sentence": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening _ .", "option1": "living room", "option2": "album", "answer": "2"}
+{"sentence": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening _ .", "option1": "album", "option2": "button", "answer": "1"}
+{"sentence": "Since Chester was dependent on Uncle Vernon , _ couldn't very well marry without his approval", "option1": "Uncle Vernon", "option2": "Chester", "answer": "2"}
+{"sentence": "Always before, Larry had helped Dad with his work. But _ could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.", "option1": "Larry", "option2": "Dad", "answer": "1"}
+{"sentence": "Always before, Larry had helped Dad with his work. But he could not help _ now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.", "option1": "Larry", "option2": "Dad", "answer": "2"}
+{"sentence": "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make more of _ .", "option1": "the oatmeal cookies", "option2": "the chocolate chip cookies", "answer": "1"}
+{"sentence": "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish _ work, because his work was beautiful", "option1": "Mark", "option2": "Mr. Schmidt", "answer": "2"}
+{"sentence": "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford _ .", "option1": "faces", "option2": "things", "answer": "2"}
+{"sentence": "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford _ .", "option1": "things", "option2": "children", "answer": "1"}
+{"sentence": "The path to the lake was blocked, so we couldn't reach _ .", "option1": "the lake", "option2": "The path", "answer": "1"}
+{"sentence": "Bernard , who had not told the government official that _ was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.", "option1": "the government official", "option2": "Bernard", "answer": "2"}
+{"sentence": "One day Dick was teasing the colts, and did not know that the master was in the next field; but _ was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.", "option1": "Dick", "option2": "the master", "answer": "2"}
+{"sentence": "The storekeepers stayed in town to run their stores and lived in the rooms behind _ .", "option1": "rooms", "option2": "stores", "answer": "2"}
+{"sentence": "The storekeepers stayed in town to run their stores and lived in the rooms behind _ .", "option1": "stores", "option2": "storekeepers", "answer": "1"}
+{"sentence": "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. _ needed to get him to finish his work, because his work was beautiful", "option1": "Mark", "option2": "Mr. Schmidt", "answer": "1"}
+{"sentence": "The bee landed on the flower because _ wanted pollen.", "option1": "the flower", "option2": "The bee", "answer": "2"}
+{"sentence": "The bus driver yelled at a kid after _ broke a window.", "option1": "a kid", "option2": "The bus driver", "answer": "1"}
+{"sentence": "Jimbo was running from Bobbert because _ smelled awful.", "option1": "Bobbert", "option2": "Jimbo", "answer": "1"}
+{"sentence": "Jimbo was running from Bobbert because _ wanted to get to the car first.", "option1": "Bobbert", "option2": "Jimbo", "answer": "2"}
+{"sentence": "Jimbo attacked Bobbert because _ could not control his rage.", "option1": "Bobbert", "option2": "Jimbo", "answer": "2"}
+{"sentence": "Jimbo was afraid of Bobbert because _ gets scared around new people.", "option1": "Bobbert", "option2": "Jimbo", "answer": "2"}
+{"sentence": "Jimbo was afraid of Bobbert because _ was running around with a bloody spear.", "option1": "Bobbert", "option2": "Jimbo", "answer": "1"}
+{"sentence": "The bird ate the pie and _ was ruined.", "option1": "the pie", "option2": "The bird", "answer": "1"}
+{"sentence": "Mary cleaned Susan's room and _ was thankful.", "option1": "Susan", "option2": "Mary", "answer": "1"}
+{"sentence": "Lions eat zebras because _ are predators.", "option1": "zebras", "option2": "Lions", "answer": "2"}
+{"sentence": "Lions eat zebras because _ are meaty.", "option1": "zebras", "option2": "Lions", "answer": "1"}
+{"sentence": "The coach criticized the player because _ did not adhere to the team's formation.", "option1": "The coach", "option2": "the player", "answer": "2"}
+{"sentence": "The coach criticized the player because _ explicitly told everyone not to break the team's formation.", "option1": "the player", "option2": "The coach", "answer": "2"}
+{"sentence": "James asked Robert for a favor, but _ refused.", "option1": "James", "option2": "Robert", "answer": "2"}
+{"sentence": "James asked Robert for a favor, but _ was refused.", "option1": "Robert", "option2": "James", "answer": "2"}
+{"sentence": "The teacher did not recommend William because _ was not a good student.", "option1": "The teacher", "option2": "William", "answer": "2"}
+{"sentence": "The teacher did not recommend William because _ had high standards.", "option1": "The teacher", "option2": "William", "answer": "1"}
+{"sentence": "The professor grading the student's paper said that _ was stupid.", "option1": "the student", "option2": "The professor", "answer": "1"}
+{"sentence": "The professor grading the student's paper said that _ loved it.", "option1": "the student", "option2": "The professor", "answer": "2"}
+{"sentence": "Jeremy annoyed Justin so _ can leave the room.", "option1": "Justin", "option2": "Jeremy", "answer": "1"}
+{"sentence": "Jeremy annoyed Justin so _ can have the room.", "option1": "Justin", "option2": "Jeremy", "answer": "2"}
+{"sentence": "Rocky lost to Clubber Lang because _ was ready for the fight.", "option1": "Clubber Lang", "option2": "Rocky", "answer": "1"}
+{"sentence": "Aaron kissed Dan because _ wanted to.", "option1": "Aaron", "option2": "Dan", "answer": "1"}
+{"sentence": "Aaron kissed Dan because _ wanted him to.", "option1": "Dan", "option2": "Aaron", "answer": "1"}
+{"sentence": "The students fell asleep during the professor's lectures because _ were boring.", "option1": "the professor's lectures", "option2": "The students", "answer": "1"}
+{"sentence": "The students fell asleep during the professor's lectures because _ were bored.", "option1": "The students", "option2": "the professor's lectures", "answer": "1"}
+{"sentence": "Derrick begged his boss for a raise but _ did not get one.", "option1": "Derrick", "option2": "his boss", "answer": "1"}
+{"sentence": "Derrick begged his boss for a raise but _ did not give one.", "option1": "Derrick", "option2": "his boss", "answer": "2"}
+{"sentence": "The jurors deliberated on the defendants' fate for hours, but _ did not reach a verdict.", "option1": "The jurors", "option2": "the defendants", "answer": "1"}
+{"sentence": "The jurors deliberated on the defendants' fate for hours, but _ didn't receive the death penalty.", "option1": "the defendants", "option2": "The jurors", "answer": "1"}
+{"sentence": "The orchestra was booed by the audience because _ had expected a rock band.", "option1": "The orchestra", "option2": "the audience", "answer": "2"}
+{"sentence": "Jacob gave William money because _ needed some.", "option1": "Jacob", "option2": "William", "answer": "2"}
+{"sentence": "Jacob gave William money because _ sold the car.", "option1": "Jacob", "option2": "William", "answer": "1"}
+{"sentence": "Olivia tried to counsel Emily, but _ was not interested.", "option1": "Olivia", "option2": "Emily", "answer": "2"}
+{"sentence": "Olivia tried to counsel Emily, but _ was rejected.", "option1": "Olivia", "option2": "Emily", "answer": "1"}
+{"sentence": "James went to Sully's arcade but _ refused to let him in.", "option1": "James", "option2": "Sully", "answer": "2"}
+{"sentence": "Bill was robbed by John, so the officer arrested _.", "option1": "John", "option2": "Bill", "answer": "1"}
+{"sentence": "Bill was robbed by John, so the officer helped _.", "option1": "John", "option2": "Bill", "answer": "2"}
+{"sentence": "He put snow on the smiley face because _ was wet.", "option1": "the smiley face", "option2": "snow", "answer": "2"}
+{"sentence": "He put snow on the smiley face because _ was dry.", "option1": "snow", "option2": "the smiley face", "answer": "2"}
+{"sentence": "The kitten played with the yarn because _ was fun.", "option1": "The kitten", "option2": "the yarn", "answer": "2"}
+{"sentence": "The kitten played with the yarn because _ was bored.", "option1": "The kitten", "option2": "the yarn", "answer": "1"}
+{"sentence": "I chopped down the tree with my axe because _ was tall.", "option1": "my axe", "option2": "the tree", "answer": "2"}
+{"sentence": "I chopped down the tree with my axe because _ was sharp.", "option1": "the tree", "option2": "my axe", "answer": "2"}
+{"sentence": "Spiderman defeated Magnito because _ is a good guy.", "option1": "Magnito", "option2": "Spiderman", "answer": "2"}
+{"sentence": "Spiderman defeated Magnito because _ is a bad guy.", "option1": "Spiderman", "option2": "Magnito", "answer": "2"}
+{"sentence": "The citizens rebelled against the government because _ were being repressed.", "option1": "The citizens", "option2": "the government", "answer": "1"}
+{"sentence": "The citizens rebelled against the government because _ were being mean.", "option1": "The citizens", "option2": "the government", "answer": "2"}
+{"sentence": "Cats are smarter than dogs because _ always land on their feet.", "option1": "dogs", "option2": "Cats", "answer": "2"}
+{"sentence": "Cats are smarter than dogs because _ bark for no reason.", "option1": "Cats", "option2": "dogs", "answer": "2"}
+{"sentence": "The ball hit the window and Bill repaired _.", "option1": "The ball", "option2": "the window", "answer": "2"}
+{"sentence": "The ball hit the window and Bill caught _.", "option1": "the window", "option2": "The ball", "answer": "2"}
+{"sentence": "Robert fired Chris because _ couldn't do the job.", "option1": "Chris", "option2": "Robert", "answer": "1"}
+{"sentence": "Robert fired Chris because _ no longer needed workers.", "option1": "Chris", "option2": "Robert", "answer": "2"}
+{"sentence": "Steve scratched Johnny because _ was angry.", "option1": "Johnny", "option2": "Steve", "answer": "2"}
+{"sentence": "Steve scratched Johnny so _ became angry.", "option1": "Steve", "option2": "Johnny", "answer": "2"}
+{"sentence": "The youth outran the old man because _ was in shape.", "option1": "The youth", "option2": "the old man", "answer": "1"}
+{"sentence": "Video games are outselling movies because _ are an old medium.", "option1": "movies", "option2": "Video games", "answer": "1"}
+{"sentence": "Google bought Motorola because _ want its customer base.", "option1": "Motorola", "option2": "Google", "answer": "2"}
+{"sentence": "Sam cheated Sally but _ did not cry.", "option1": "Sally", "option2": "Sam", "answer": "1"}
+{"sentence": "Sam cheated Sally but _ did not repent.", "option1": "Sally", "option2": "Sam", "answer": "2"}
+{"sentence": "Keith fired Blaine even though _ is diligent.", "option1": "Keith", "option2": "Blaine", "answer": "2"}
+{"sentence": "The storm delayed the flight as _ was going over the ocean.", "option1": "the flight", "option2": "The storm", "answer": "1"}
+{"sentence": "John flicked Bill because _ saw a fly on his shirt.", "option1": "John", "option2": "Bill", "answer": "1"}
+{"sentence": "The zombies chased the survivors because _ were hungry.", "option1": "The zombies", "option2": "the survivors", "answer": "1"}
+{"sentence": "The zombies chased the survivors because _ were tasty.", "option1": "The zombies", "option2": "the survivors", "answer": "2"}
+{"sentence": "Medvedev will cede the presidency to Putin because _ is more popular.", "option1": "Medvedev", "option2": "Putin", "answer": "2"}
+{"sentence": "The cat broke the glass because _ was fragile.", "option1": "The cat", "option2": "the glass", "answer": "2"}
+{"sentence": "The cat broke the glass because _ was clumsy.", "option1": "the glass", "option2": "The cat", "answer": "2"}
+{"sentence": "Bill returned Jim twenty dollars because _ borrowed money.", "option1": "Bill", "option2": "Jim", "answer": "1"}
+{"sentence": "Bill returned Jim twenty dollars because _ lent money.", "option1": "Jim", "option2": "Bill", "answer": "1"}
+{"sentence": "The red team defeated the blue team because _ made the last penalty kick.", "option1": "The red team", "option2": "the blue team", "answer": "1"}
+{"sentence": "The red team defeated the blue team because _ missed the last penalty kick.", "option1": "The red team", "option2": "the blue team", "answer": "2"}
+{"sentence": "Jack pushed John up the hill because _ was in a wheelbarrow.", "option1": "Jack", "option2": "John", "answer": "2"}
+{"sentence": "The bespeckled old man slowly waved at the passing trolley passenger because _ waves at everybody.", "option1": "the passing trolley passenger", "option2": "The bespeckled old man", "answer": "2"}
+{"sentence": "The bespeckled old man slowly waved at the passing trolley passenger because _ waved at him.", "option1": "the passing trolley passenger", "option2": "The bespeckled old man", "answer": "1"}
+{"sentence": "The boy ran from the cop because _ committed the crime.", "option1": "the cop", "option2": "The boy", "answer": "2"}
+{"sentence": "The boy ran from the cop because _ saw the crime.", "option1": "the cop", "option2": "The boy", "answer": "1"}
+{"sentence": "The cap fell off the bottle because _ was pressurized.", "option1": "The cap", "option2": "the bottle", "answer": "2"}
+{"sentence": "The boy tried to address his friend, but _ could not speak.", "option1": "his friend", "option2": "The boy", "answer": "2"}
+{"sentence": "The boy tried to address his friend, but _ could not hear.", "option1": "his friend", "option2": "The boy", "answer": "1"}
+{"sentence": "The car hop brought the man his tray, but _ forgot his french fries.", "option1": "The car hop", "option2": "the man", "answer": "1"}
+{"sentence": "The car hop brought the man his tray, but _ was not in the car.", "option1": "The car hop", "option2": "the man", "answer": "2"}
+{"sentence": "The environmentalists were angry at the corporation because _ had ignored their proposal.", "option1": "The environmentalists", "option2": "the corporation", "answer": "2"}
+{"sentence": "Steve threw the bowling ball down the lane when _ was clear.", "option1": "the bowling ball", "option2": "the lane", "answer": "2"}
+{"sentence": "When the preschoolers visited the senior citizens, _ were surprisingly well behaved.", "option1": "the preschoolers", "option2": "the senior citizens", "answer": "1"}
+{"sentence": "When the preschoolers visited the senior citizens, _ were very hospitable.", "option1": "the preschoolers", "option2": "the senior citizens", "answer": "2"}
+{"sentence": "The junior football team likes the Dallas Cowboys because _ get to watch quality football.", "option1": "The junior football team", "option2": "the Dallas Cowboys", "answer": "1"}
+{"sentence": "Jimbo eats more than Bobbert because _ is on a diet.", "option1": "Jimbo", "option2": "Bobbert", "answer": "2"}
+{"sentence": "Jimbo eats more than Bobbert because _ is not on a diet.", "option1": "Jimbo", "option2": "Bobbert", "answer": "1"}
+{"sentence": "David hit Bill because Mary really liked _.", "option1": "David", "option2": "Bill", "answer": "2"}
+{"sentence": "David hit Bill because Mary asked _ to.", "option1": "Bill", "option2": "David", "answer": "2"}
+{"sentence": "England won the bid over Spain because _ prepared better.", "option1": "Spain", "option2": "England", "answer": "2"}
+{"sentence": "England won the bid over Spain because _ did not prepare thoroughly.", "option1": "England", "option2": "Spain", "answer": "2"}
+{"sentence": "Caroline quickly defeated Sue because _ regained her confidence.", "option1": "Caroline", "option2": "Sue", "answer": "1"}
+{"sentence": "Firefox is used more than Internet Explorer because _ is more stable.", "option1": "Firefox", "option2": "Internet Explorer", "answer": "1"}
+{"sentence": "Firefox is used more than Internet Explorer because _ is less stable.", "option1": "Firefox", "option2": "Internet Explorer", "answer": "2"}
+{"sentence": "Students hate exams because _ are lazy.", "option1": "exams", "option2": "Students", "answer": "2"}
+{"sentence": "Gary envied Bill because _ was rich.", "option1": "Gary", "option2": "Bill", "answer": "2"}
+{"sentence": "Gary envied Bill because _ was poor.", "option1": "Gary", "option2": "Bill", "answer": "1"}
+{"sentence": "The company accepted the resolution because _ was well-written.", "option1": "the resolution", "option2": "The company", "answer": "1"}
+{"sentence": "The company accepted the resolution because _ was desperate.", "option1": "the resolution", "option2": "The company", "answer": "2"}
+{"sentence": "Paper beats rock, but _ is beaten by scissors.", "option1": "Paper", "option2": "rock", "answer": "1"}
+{"sentence": "Paper beats rock, but _ is able to beat scissors.", "option1": "Paper", "option2": "rock", "answer": "2"}
+{"sentence": "The teacher told the student that _ expected something better from him.", "option1": "the student", "option2": "The teacher", "answer": "2"}
+{"sentence": "The coach told the captain that _ was proud of him.", "option1": "The coach", "option2": "the captain", "answer": "1"}
+{"sentence": "The coach told the captain that _ was fired.", "option1": "the captain", "option2": "The coach", "answer": "1"}
+{"sentence": "Luigi rescued Mario because _ was the only one who can.", "option1": "Luigi", "option2": "Mario", "answer": "1"}
+{"sentence": "Planet Express was bought out by Mom's Friendly Delivery Service so _ can eliminate the competition.", "option1": "Mom's Friendly Delivery Service", "option2": "Planet Express", "answer": "1"}
+{"sentence": "The jocks did not like the nerds because _ were bullies.", "option1": "The jocks", "option2": "the nerds", "answer": "1"}
+{"sentence": "The jocks did not like the nerds because _ were losers.", "option1": "The jocks", "option2": "the nerds", "answer": "2"}
+{"sentence": "The spider ate the fly because _ was hungry.", "option1": "the fly", "option2": "The spider", "answer": "2"}
+{"sentence": "The nurse gave the girl a lollypop because _ had too many.", "option1": "the girl", "option2": "The nurse", "answer": "2"}
+{"sentence": "The police officer chased the thief because _ was protecting the bank.", "option1": "the thief", "option2": "The police officer", "answer": "2"}
+{"sentence": "The Emancipation Proclamation made slavery illegal, but _ was still practiced.", "option1": "slavery", "option2": "The Emancipation Proclamation", "answer": "1"}
+{"sentence": "The Emancipation Proclamation made slavery illegal, but _ did not actually cause many slaves to be freed.", "option1": "slavery", "option2": "The Emancipation Proclamation", "answer": "2"}
+{"sentence": "It annoyed Chris when Sebastian jangled his keys because _ wanted to make fun.", "option1": "Chris", "option2": "Sebastian", "answer": "2"}
+{"sentence": "Sam helped Davey fortify their bunker because _ thought the Mexicans were invading.", "option1": "Sam", "option2": "Davey", "answer": "2"}
+{"sentence": "Fred drove to Mack's tire shop, and _ bought a tire.", "option1": "Fred", "option2": "Mack", "answer": "1"}
+{"sentence": "Bob cooked omelets for Jack, because _ knew how.", "option1": "Bob", "option2": "Jack", "answer": "1"}
+{"sentence": "Bob cooked omelets for Jack, because _ was hungry.", "option1": "Bob", "option2": "Jack", "answer": "2"}
+{"sentence": "John bought a beer for Bill because _ is cool.", "option1": "John", "option2": "Bill", "answer": "2"}
+{"sentence": "Gartok defeated Grognak because _ was the stronger man.", "option1": "Grognak", "option2": "Gartok", "answer": "2"}
+{"sentence": "Shawn hit Joe but _ did not scream.", "option1": "Shawn", "option2": "Joe", "answer": "2"}
+{"sentence": "Shawn hit Joe but _ did not apologize.", "option1": "Joe", "option2": "Shawn", "answer": "2"}
+{"sentence": "Katie accused Jane but _ was not found guilty.", "option1": "Jane", "option2": "Katie", "answer": "1"}
+{"sentence": "Katie accused Jane but _ felt badly about it.", "option1": "Katie", "option2": "Jane", "answer": "1"}
+{"sentence": "Sherry called Karla but _ did not answer.", "option1": "Sherry", "option2": "Karla", "answer": "2"}
+{"sentence": "Steven assassinated the president because _ was a too liberal.", "option1": "Steven", "option2": "the president", "answer": "2"}
+{"sentence": "Steven assassinated the president because _ was paid to do it.", "option1": "Steven", "option2": "the president", "answer": "1"}
+{"sentence": "The wolves ate the cows because _ were hungry.", "option1": "The wolves", "option2": "the cows", "answer": "1"}
+{"sentence": "Michael backed Bill because John really liked _.", "option1": "Michael", "option2": "Bill", "answer": "2"}
+{"sentence": "Michael backed Bill because John asked _ to.", "option1": "Bill", "option2": "Michael", "answer": "2"}
+{"sentence": "Johnson wanted to make friendship with David, because _ is well connected.", "option1": "Johnson", "option2": "David", "answer": "2"}
+{"sentence": "Johnson wanted to make friendship with David, because _ wanted help.", "option1": "Johnson", "option2": "David", "answer": "1"}
+{"sentence": "The school denied parents parking permits because _ did not want the parking lots to be over crowded with cars.", "option1": "The school", "option2": "parents", "answer": "1"}
+{"sentence": "The school denied parents parking permits because _ violated parking rules.", "option1": "parents", "option2": "The school", "answer": "1"}
+{"sentence": "Joe slapped Jose in the face because _ cussed him out.", "option1": "Joe", "option2": "Jose", "answer": "2"}
+{"sentence": "Joe slapped Jose in the face because _ was angry.", "option1": "Jose", "option2": "Joe", "answer": "2"}
+{"sentence": "Stephanie gave Brandy flowers because _ was sick.", "option1": "Brandy", "option2": "Stephanie", "answer": "1"}
+{"sentence": "The team decided to cancel their relations with AT&T Corporate because _ are arrogant.", "option1": "AT&T Corporate", "option2": "The team", "answer": "1"}
+{"sentence": "John chose Bill because _ was the best choice.", "option1": "John", "option2": "Bill", "answer": "2"}
+{"sentence": "John disliked Bill, but _ did not know.", "option1": "Bill", "option2": "John", "answer": "1"}
+{"sentence": "Godzilla will stomp all over Tokyo if _ does not build better defenses.", "option1": "Godzilla", "option2": "Tokyo", "answer": "2"}
+{"sentence": "The grandmother threw her granddaughter to her death because _ felt jealous.", "option1": "her granddaughter", "option2": "The grandmother", "answer": "2"}
+{"sentence": "The grandmother threw her granddaughter to her death because _ would not stop screaming.", "option1": "her granddaughter", "option2": "The grandmother", "answer": "1"}
+{"sentence": "Bob Marley shot the sheriff, but _ swears it was in self-defense.", "option1": "Bob Marley", "option2": "the sheriff", "answer": "1"}
+{"sentence": "Bob Marley shot the sheriff, but _ survived.", "option1": "Bob Marley", "option2": "the sheriff", "answer": "2"}
+{"sentence": "The mother punishes the daughter because _ was disobedient.", "option1": "the daughter", "option2": "The mother", "answer": "1"}
+{"sentence": "The mother punished the daughter because _ was provoked.", "option1": "the daughter", "option2": "The mother", "answer": "2"}
+{"sentence": "The teachers failed the students because _ answered the test incorrectly.", "option1": "The teachers", "option2": "the students", "answer": "2"}
+{"sentence": "The river destroyed the bridge because _ was high.", "option1": "the bridge", "option2": "The river", "answer": "2"}
+{"sentence": "The river destroyed the bridge because _ was low.", "option1": "The river", "option2": "the bridge", "answer": "2"}
+{"sentence": "The army crossed the river because _ was shallow.", "option1": "the river", "option2": "The army", "answer": "1"}
+{"sentence": "The army crossed the river because _ was retreating.", "option1": "the river", "option2": "The army", "answer": "2"}
+{"sentence": "The young up-and-comer destroyed the old veteran Star in the shootout, so _ got benched for the rest of the season.", "option1": "The young up-and-comer", "option2": "the old veteran Star", "answer": "2"}
+{"sentence": "Monkeys hate lions because _ eat them.", "option1": "lions", "option2": "Monkeys", "answer": "2"}
+{"sentence": "Monkeys hate lions because _ are scary.", "option1": "lions", "option2": "Monkeys", "answer": "1"}
+{"sentence": "In last week's tennis match, Djokovic imitated Roddick's serve because _ was the better player.", "option1": "Roddick", "option2": "Djokovic", "answer": "1"}
+{"sentence": "In last week's tennis match, Djokovic imitated Roddick's serve because _ was funny.", "option1": "Roddick", "option2": "Djokovic", "answer": "2"}
+{"sentence": "The infection spread throughout the building because _ was airborne.", "option1": "the building", "option2": "The infection", "answer": "2"}
+{"sentence": "The infection spread throughout the building because _ was ventilated.", "option1": "the building", "option2": "The infection", "answer": "1"}
+{"sentence": "The museum curator looked at the patron and said _ should leave.", "option1": "The museum curator", "option2": "the patron", "answer": "2"}
+{"sentence": "The museum curator looked at the patron and _ saw him squirm.", "option1": "The museum curator", "option2": "the patron", "answer": "1"}
+{"sentence": "Our professor told the TA that _ needed his help.", "option1": "the TA", "option2": "Our professor", "answer": "2"}
+{"sentence": "Our professor told the TA that _ could have the day off.", "option1": "the TA", "option2": "Our professor", "answer": "1"}
+{"sentence": "Jack shouted at Bill because _ crashed the car.", "option1": "Jack", "option2": "Bill", "answer": "2"}
+{"sentence": "Jack shouted at Bill because _ was angry.", "option1": "Jack", "option2": "Bill", "answer": "1"}
+{"sentence": "The golfers waved on the players because _ were waiting.", "option1": "The golfers", "option2": "the players", "answer": "2"}
+{"sentence": "The golfers waved on the players because _ were holding them up.", "option1": "the players", "option2": "The golfers", "answer": "2"}
+{"sentence": "Allen laughed at Jimmy because _ told a funny joke.", "option1": "Jimmy", "option2": "Allen", "answer": "1"}
+{"sentence": "Allen laughed at Jimmy because _ was making fun of him.", "option1": "Allen", "option2": "Jimmy", "answer": "1"}
+{"sentence": "Sally was really happy that Beth finally got a job because _ is a concerned friend.", "option1": "Beth", "option2": "Sally", "answer": "2"}
+{"sentence": "The painting was at the museum because _ was on display.", "option1": "The painting", "option2": "the museum", "answer": "1"}
+{"sentence": "Jill was writing on a pad for Jane because _ wanted to leave her address.", "option1": "Jill", "option2": "Jane", "answer": "1"}
+{"sentence": "The military prepared to go to battle with an Amish colony because _ felt threatened.", "option1": "The military", "option2": "an Amish colony", "answer": "1"}
+{"sentence": "The group grew tired of making these sentences because _ are tedious.", "option1": "these sentences", "option2": "The group", "answer": "1"}
+{"sentence": "The group grew tired of making these sentences because _ are lazy.", "option1": "The group", "option2": "these sentences", "answer": "1"}
+{"sentence": "The mysterious creature is drinking whiskey because _ tastes good.", "option1": "whiskey", "option2": "The mysterious creature", "answer": "1"}
+{"sentence": "The mysterious creature is drinking whiskey because _ still has more of these sentences to write.", "option1": "The mysterious creature", "option2": "whiskey", "answer": "1"}
+{"sentence": "The band loves their fans because _ come to every show.", "option1": "their fans", "option2": "The band", "answer": "1"}
+{"sentence": "The band loves their fans because _ cannot exist without support.", "option1": "their fans", "option2": "The band", "answer": "2"}
+{"sentence": "Jimbo ate the fish that Bobbert prepared because _ was hungry.", "option1": "Bobbert", "option2": "Jimbo", "answer": "2"}
+{"sentence": "The cow ran into the fence and _ broke.", "option1": "The cow", "option2": "the fence", "answer": "2"}
+{"sentence": "The cow ran into the fence and _ got hurt.", "option1": "The cow", "option2": "the fence", "answer": "1"}
+{"sentence": "The gardener watered the owner's rose because _ was doing his job.", "option1": "the owner", "option2": "The gardener", "answer": "2"}
+{"sentence": "The gardener watered the owner's rose because _ paid him for that.", "option1": "The gardener", "option2": "the owner", "answer": "2"}
+{"sentence": "Zidane headbutted Zambrotta because _ could not control his anger.", "option1": "Zidane", "option2": "Zambrotta", "answer": "1"}
+{"sentence": "The man gave the beggar some money because _ was very generous.", "option1": "the beggar", "option2": "The man", "answer": "2"}
+{"sentence": "The manager fired the intern because _ was upset.", "option1": "the intern", "option2": "The manager", "answer": "2"}
+{"sentence": "The government officials publicly apologized to the people because _ demanded an apology.", "option1": "the people", "option2": "The government officials", "answer": "1"}
+{"sentence": "The police officer shot the protester because _ tried to attack the governor.", "option1": "the protester", "option2": "The police officer", "answer": "1"}
+{"sentence": "James always gives orders to Owen because _ is very obedient.", "option1": "Owen", "option2": "James", "answer": "1"}
+{"sentence": "Chelsea hate Manchester United because _ always come in second.", "option1": "Chelsea", "option2": "Manchester United", "answer": "1"}
+{"sentence": "Chelsea hate Manchester United because _ are too cocky.", "option1": "Manchester United", "option2": "Chelsea", "answer": "1"}
+{"sentence": "The professor highly recommends the student because _ appreciates an inquisitive mind.", "option1": "the student", "option2": "The professor", "answer": "2"}
+{"sentence": "The music player did not open the file because _ did not play that format.", "option1": "the file", "option2": "The music player", "answer": "2"}
+{"sentence": "The students protested against the new policies because _ were too strict.", "option1": "the new policies", "option2": "The students", "answer": "1"}
+{"sentence": "The students protested against the new policies because _ were angry.", "option1": "the new policies", "option2": "The students", "answer": "2"}
+{"sentence": "The food in the refrigerator went bad because _ was not plugged in.", "option1": "the refrigerator", "option2": "The food", "answer": "1"}
+{"sentence": "The ball broke the window because _ was fragile.", "option1": "The ball", "option2": "the window", "answer": "2"}
+{"sentence": "The ball broke the window because _ was hard.", "option1": "The ball", "option2": "the window", "answer": "1"}
+{"sentence": "The employer let John have the assignment even though _ wanted it.", "option1": "John", "option2": "The employer", "answer": "2"}
+{"sentence": "The computer rejected the password because _ was incorrect.", "option1": "The computer", "option2": "the password", "answer": "2"}
+{"sentence": "The computer rejected the password because _ was malfunctioning.", "option1": "The computer", "option2": "the password", "answer": "1"}
+{"sentence": "The kids asked their neighbors if _ could have candy on Halloween.", "option1": "their neighbors", "option2": "The kids", "answer": "2"}
+{"sentence": "The glass told the toaster that _ was fat.", "option1": "the toaster", "option2": "The glass", "answer": "1"}
+{"sentence": "The glass told the toaster that _ liked chocolate.", "option1": "the toaster", "option2": "The glass", "answer": "2"}
+{"sentence": "Jack pushed Tim down the stairs because _ was mad.", "option1": "Tim", "option2": "Jack", "answer": "2"}
+{"sentence": "John asked the scientist what _ was working on.", "option1": "the scientist", "option2": "John", "answer": "1"}
+{"sentence": "Knights preferred dragons over horses because _ could fly.", "option1": "dragons", "option2": "horses", "answer": "1"}
+{"sentence": "Knights preferred dragons over horses because _ could not fly.", "option1": "horses", "option2": "dragons", "answer": "1"}
+{"sentence": "The artist told the model that _ needed to stand up straighter.", "option1": "The artist", "option2": "the model", "answer": "2"}
+{"sentence": "Misty was replaced by May because _ had to go back home.", "option1": "May", "option2": "Misty", "answer": "2"}
+{"sentence": "Misty was replaced by May because _ was the only one available.", "option1": "Misty", "option2": "May", "answer": "2"}
+{"sentence": "Shigeru Miyamoto was the mentor of Satoshi Tajiri, so _ taught many things.", "option1": "Shigeru Miyamoto", "option2": "Satoshi Tajiri", "answer": "1"}
+{"sentence": "Brock understood the material better than Tracy because _ was paying attention.", "option1": "Brock", "option2": "Tracy", "answer": "1"}
+{"sentence": "Brock understood the material better than Tracy because _ was not paying attention.", "option1": "Brock", "option2": "Tracy", "answer": "2"}
+{"sentence": "John wanted to vote for Doe, but _ did not seem like the right candidate.", "option1": "John", "option2": "Doe", "answer": "2"}
+{"sentence": "Yuji was a fan of Michael Jackson because _ enjoyed \"Thriller\".", "option1": "Yuji", "option2": "Michael Jackson", "answer": "1"}
+{"sentence": "Yuji was a fan of Michael Jackson because _ was famous.", "option1": "Yuji", "option2": "Michael Jackson", "answer": "2"}
+{"sentence": "The space marines killed the aliens because _ were a threat.", "option1": "the aliens", "option2": "The space marines", "answer": "1"}
+{"sentence": "The space marines killed the aliens because _ were ordered to.", "option1": "the aliens", "option2": "The space marines", "answer": "2"}
+{"sentence": "Rocky beat Drago because the crowd was supporting _.", "option1": "Rocky", "option2": "Drago", "answer": "1"}
+{"sentence": "Rocky beat Drago because the crowd was not supporting _.", "option1": "Drago", "option2": "Rocky", "answer": "1"}
+{"sentence": "Lucas is younger than Claus because _ was born last.", "option1": "Lucas", "option2": "Claus", "answer": "1"}
+{"sentence": "Lucas is younger than Claus because _ was born first.", "option1": "Lucas", "option2": "Claus", "answer": "2"}
+{"sentence": "Bill punched Larry because _ was angry.", "option1": "Bill", "option2": "Larry", "answer": "1"}
+{"sentence": "The man asked Mark the question again because _ was curious.", "option1": "Mark", "option2": "The man", "answer": "2"}
+{"sentence": "The man asked Mark the question again because _ was being evasive.", "option1": "The man", "option2": "Mark", "answer": "2"}
+{"sentence": "Joe tried to get Tom to wake up, but _ couldn't.", "option1": "Joe", "option2": "Tom", "answer": "1"}
+{"sentence": "The other student corrected Robert because _ better understood the problem.", "option1": "Robert", "option2": "The other student", "answer": "2"}
+{"sentence": "The other student corrected Robert because _ had misunderstood the problem.", "option1": "The other student", "option2": "Robert", "answer": "2"}
+{"sentence": "The train conductor admonished the man standing in the doorway because _ was enforcing the rules.", "option1": "The train conductor", "option2": "the man standing in the doorway", "answer": "1"}
+{"sentence": "The train conductor admonished the man standing in the doorway because _ was not following the rules.", "option1": "the man standing in the doorway", "option2": "The train conductor", "answer": "1"}
+{"sentence": "Emma did not pass the ball to Janie, although _ was open.", "option1": "Emma", "option2": "Janie", "answer": "2"}
+{"sentence": "The boy gave his friend a cookie because _ was hungry.", "option1": "The boy", "option2": "his friend", "answer": "2"}
+{"sentence": "The boy gave his friend a cookie because _ had an extra.", "option1": "The boy", "option2": "his friend", "answer": "1"}
+{"sentence": "The government placed a tax on the product so _ could profit from sales.", "option1": "The government", "option2": "the product", "answer": "1"}
+{"sentence": "The chef made breakfast for the captain because _ was required to.", "option1": "The chef", "option2": "the captain", "answer": "1"}
+{"sentence": "The chef made breakfast for the captain because _ required food.", "option1": "The chef", "option2": "the captain", "answer": "2"}
+{"sentence": "Bill was able to steal the banana from Ken because _ was quick.", "option1": "Bill", "option2": "Ken", "answer": "1"}
+{"sentence": "Bill was able to steal the banana from Ken because _ was slow.", "option1": "Bill", "option2": "Ken", "answer": "2"}
+{"sentence": "Allen chased the leprechaun because _ wanted a pot of gold.", "option1": "Allen", "option2": "the leprechaun", "answer": "1"}
+{"sentence": "The judge was fond of the contestant so _ received the gold medal.", "option1": "the contestant", "option2": "The judge", "answer": "1"}
+{"sentence": "The judge was fond of the contestant so _ voted favorably.", "option1": "The judge", "option2": "the contestant", "answer": "1"}
+{"sentence": "Malachi's program would not run on the computer because _ was full of bugs.", "option1": "the computer", "option2": "Malachi's program", "answer": "2"}
+{"sentence": "Malachi's program would not run on the computer because _ had a faulty hard drive.", "option1": "Malachi's program", "option2": "the computer", "answer": "2"}
+{"sentence": "Management gave the workers a raise because _ had threatened to strike.", "option1": "the workers", "option2": "Management", "answer": "1"}
+{"sentence": "The Roman legion attacked the Persians because _ felt threatened.", "option1": "the Persians", "option2": "The Roman legion", "answer": "2"}
+{"sentence": "The Roman legion attacked the Persians because _ had invaded.", "option1": "the Persians", "option2": "The Roman legion", "answer": "1"}
+{"sentence": "The brown fox jumped over the dog because _ was quick.", "option1": "The brown fox", "option2": "the dog", "answer": "1"}
+{"sentence": "The brown fox jumped over the dog because _ was lazy.", "option1": "the dog", "option2": "The brown fox", "answer": "1"}
+{"sentence": "Alice helped Gwen move because _ was nice.", "option1": "Alice", "option2": "Gwen", "answer": "1"}
+{"sentence": "Alice helped Gwen move because _ could not handle the job alone.", "option1": "Gwen", "option2": "Alice", "answer": "1"}
+{"sentence": "Mark tackled the quarterback, but _ managed to complete the pass.", "option1": "Mark", "option2": "the quarterback", "answer": "2"}
+{"sentence": "Mark tackled the quarterback, but _ was penalized.", "option1": "the quarterback", "option2": "Mark", "answer": "2"}
+{"sentence": "Kyle beat Mark in the race because _ was the fastest kid in school.", "option1": "Kyle", "option2": "Mark", "answer": "1"}
+{"sentence": "The striker scored on the goalie because _ outran the defenders.", "option1": "the goalie", "option2": "The striker", "answer": "2"}
+{"sentence": "The striker scored on the goalie because _ was caught off guard.", "option1": "The striker", "option2": "the goalie", "answer": "2"}
+{"sentence": "Michael asked Jacob to dance because _ was lonely.", "option1": "Jacob", "option2": "Michael", "answer": "1"}
+{"sentence": "The government wants to prohibit the people from playing chess on Monday because _ have to work.", "option1": "the people", "option2": "The government", "answer": "1"}
+{"sentence": "The government wants to prohibit the people from playing chess on Monday because _ want Mondays to be more productive.", "option1": "The government", "option2": "the people", "answer": "1"}
+{"sentence": "The government tried to free the journalists from North Korea, but _ were unsuccessful.", "option1": "the journalists", "option2": "The government", "answer": "2"}
+{"sentence": "The government tried to free the journalists from North Korea, but _ were held captive.", "option1": "the journalists", "option2": "The government", "answer": "1"}
+{"sentence": "Tim bought Eric a gecko, but _ did not like it.", "option1": "Tim", "option2": "Eric", "answer": "2"}
+{"sentence": "Dan modified Harry's car because _ had the tools.", "option1": "Dan", "option2": "Harry", "answer": "1"}
+{"sentence": "Sarah went to Kelly's house because _ was leaving from work.", "option1": "Sarah", "option2": "Kelly", "answer": "1"}
+{"sentence": "Sarah went to Kelly's house because _ was home.", "option1": "Kelly", "option2": "Sarah", "answer": "1"}
+{"sentence": "Ken scanned photos for Neil since _ needed to save his documents.", "option1": "Ken", "option2": "Neil", "answer": "2"}
+{"sentence": "James cheated off Henry's test, and the Teacher told _.", "option1": "James", "option2": "Henry", "answer": "2"}
+{"sentence": "James cheated off Henry's test, and the Teacher failed _.", "option1": "James", "option2": "Henry", "answer": "1"}
+{"sentence": "Jim went to Hal's house, and walked _ dog.", "option1": "Hal", "option2": "Jim", "answer": "1"}
+{"sentence": "Burt installed Joey's software, and _ installed his hardware too.", "option1": "Joey", "option2": "Burt", "answer": "2"}
+{"sentence": "Adam defeated Brandon in a fight because _ was stronger.", "option1": "Brandon", "option2": "Adam", "answer": "2"}
+{"sentence": "Adam defeated Brandon in a fight because _ was weaker.", "option1": "Adam", "option2": "Brandon", "answer": "2"}
+{"sentence": "Lemuel painted Jim a piece of art since _ requested it.", "option1": "Lemuel", "option2": "Jim", "answer": "2"}
+{"sentence": "The dog hunted the fox because _ was red.", "option1": "The dog", "option2": "the fox", "answer": "2"}
+{"sentence": "The dog hunted the fox because _ was hungry.", "option1": "the fox", "option2": "The dog", "answer": "2"}
+{"sentence": "The Secretary and the President met about _ being elected.", "option1": "the President", "option2": "The Secretary", "answer": "1"}
+{"sentence": "The Secretary and the President met about _ being appointed.", "option1": "the President", "option2": "The Secretary", "answer": "2"}
+{"sentence": "A monkey ate a lizard and _ screamed in pain.", "option1": "A monkey", "option2": "a lizard", "answer": "2"}
+{"sentence": "Jim pooped on Jack and _ vomited.", "option1": "Jim", "option2": "Jack", "answer": "2"}
+{"sentence": "Jim pooped on Jack and _ laughed.", "option1": "Jim", "option2": "Jack", "answer": "1"}
+{"sentence": "The sheep chased the pig because _ was fat.", "option1": "The sheep", "option2": "the pig", "answer": "2"}
+{"sentence": "The sheep chased the pig because _ was insulted.", "option1": "The sheep", "option2": "the pig", "answer": "1"}
+{"sentence": "The rock melted in the lava because _ was pushed.", "option1": "the lava", "option2": "The rock", "answer": "2"}
+{"sentence": "The rock melted in the lava because _ was hot.", "option1": "the lava", "option2": "The rock", "answer": "1"}
+{"sentence": "Jill loves Jamie and _ bought her a ring.", "option1": "Jamie", "option2": "Jill", "answer": "2"}
+{"sentence": "A dog chewed a bone and _ barked.", "option1": "a bone", "option2": "A dog", "answer": "2"}
+{"sentence": "A dog chewed a bone and _ became wet.", "option1": "a bone", "option2": "A dog", "answer": "1"}
+{"sentence": "John hit Carl and _ did not like it.", "option1": "Carl", "option2": "John", "answer": "1"}
+{"sentence": "John hit Carl and _ hit back.", "option1": "John", "option2": "Carl", "answer": "1"}
+{"sentence": "Katy cried for Susan since _ was sad.", "option1": "Susan", "option2": "Katy", "answer": "2"}
+{"sentence": "Katy cried for Susan since _ died.", "option1": "Susan", "option2": "Katy", "answer": "1"}
+{"sentence": "Taco needs hot sauce because _ improves the flavor.", "option1": "Taco", "option2": "hot sauce", "answer": "2"}
+{"sentence": "Tobias is upset with William because _ would not pay.", "option1": "Tobias", "option2": "William", "answer": "1"}
+{"sentence": "Tobias is upset with William because _ was mean.", "option1": "Tobias", "option2": "William", "answer": "2"}
+{"sentence": "Jean is making fun of Kyle because _ won.", "option1": "Jean", "option2": "Kyle", "answer": "1"}
+{"sentence": "Jean is making fun of Kyle because _ lost.", "option1": "Kyle", "option2": "Jean", "answer": "1"}
+{"sentence": "Cheesecake is better than fruitcake because _ is gross.", "option1": "fruitcake", "option2": "Cheesecake", "answer": "1"}
+{"sentence": "The townspeople ate the unicorns because _ were hungry.", "option1": "The townspeople", "option2": "the unicorns", "answer": "1"}
+{"sentence": "The townspeople ate the unicorns because _ were delicious.", "option1": "The townspeople", "option2": "the unicorns", "answer": "2"}
+{"sentence": "The separatists launched a surprise attack against the empire so _ could turn the tide of battle.", "option1": "the empire", "option2": "The separatists", "answer": "2"}
+{"sentence": "The separatists launched a surprise attack against the empire so _ could be caught off guard.", "option1": "the empire", "option2": "The separatists", "answer": "1"}
+{"sentence": "Pat tried to talk to Jill but _ was ignored.", "option1": "Pat", "option2": "Jill", "answer": "1"}
+{"sentence": "Pat tried to talk to Jill but _ did not seem to hear it.", "option1": "Jill", "option2": "Pat", "answer": "1"}
+{"sentence": "Gold is more popular than black because _ is shiny.", "option1": "Gold", "option2": "black", "answer": "1"}
+{"sentence": "Gold is more popular than black because _ does not sparkle.", "option1": "Gold", "option2": "black", "answer": "2"}
+{"sentence": "Mike tried to follow Tom but _ was hard to see.", "option1": "Mike", "option2": "Tom", "answer": "2"}
+{"sentence": "George talked to Bill because _ was nervous.", "option1": "Bill", "option2": "George", "answer": "2"}
+{"sentence": "Rosie beat Mary in Scrabble because _ was bad at word games.", "option1": "Mary", "option2": "Rosie", "answer": "1"}
+{"sentence": "Bush beat Gore because _ rigged the election.", "option1": "Gore", "option2": "Bush", "answer": "2"}
+{"sentence": "The knife cut through the fence because _ was sharp.", "option1": "The knife", "option2": "the fence", "answer": "1"}
+{"sentence": "The knife cut through the fence because _ was rusty.", "option1": "The knife", "option2": "the fence", "answer": "2"}
+{"sentence": "Bob killed Vincent because _ wanted to kill someone.", "option1": "Bob", "option2": "Vincent", "answer": "1"}
+{"sentence": "Iphones are selling more than androids because _ are trendy.", "option1": "androids", "option2": "Iphones", "answer": "2"}
+{"sentence": "Iphones are selling more than androids because _ are hard to use.", "option1": "androids", "option2": "Iphones", "answer": "1"}
+{"sentence": "The University declared holiday to students because _ requested them.", "option1": "students", "option2": "The University", "answer": "1"}
+{"sentence": "Hill joined Obama because Bill suggested _.", "option1": "Hill", "option2": "Obama", "answer": "1"}
+{"sentence": "Hill joined Obama because Bill trusted _.", "option1": "Hill", "option2": "Obama", "answer": "2"}
+{"sentence": "Hitler conquered Alex in the war because everybody supported _.", "option1": "Hitler", "option2": "Alex", "answer": "1"}
+{"sentence": "Hitler conquered Alex in the war because nobody supported _.", "option1": "Alex", "option2": "Hitler", "answer": "1"}
+{"sentence": "Clinton wanted Obama to run for president because _ would win.", "option1": "Clinton", "option2": "Obama", "answer": "2"}
+{"sentence": "Clinton wanted Obama to run for president because _ could not win.", "option1": "Clinton", "option2": "Obama", "answer": "1"}
+{"sentence": "Gates is richer than Jobs, so _ is not richest person.", "option1": "Jobs", "option2": "Gates", "answer": "1"}
+{"sentence": "Seth is a smarter than Sai, and consequently _ did worse in the job interview.", "option1": "Seth", "option2": "Sai", "answer": "2"}
+{"sentence": "Jacob misled Amen so David helped _.", "option1": "Amen", "option2": "Jacob", "answer": "1"}
+{"sentence": "Jacob misled Amen so David fired _.", "option1": "Jacob", "option2": "Amen", "answer": "1"}
+{"sentence": "Right after work Angelina took Sandy to the park because _ knew the place.", "option1": "Angelina", "option2": "Sandy", "answer": "1"}
+{"sentence": "Claudia lost all her money to Valarie because _ is really smart.", "option1": "Valarie", "option2": "Claudia", "answer": "1"}
+{"sentence": "Claudia lost all her money to Valarie because _ is stupid.", "option1": "Claudia", "option2": "Valarie", "answer": "1"}
+{"sentence": "Mike helped Jack with his assignment because _ felt like doing so.", "option1": "Jack", "option2": "Mike", "answer": "2"}
+{"sentence": "Dad yelled at Sam because _ was mad.", "option1": "Sam", "option2": "Dad", "answer": "2"}
+{"sentence": "Janice bought Kenda a car because _ has money to spend.", "option1": "Janice", "option2": "Kenda", "answer": "1"}
+{"sentence": "The mouse ran from the cat all the way to the kitchen because _ was scared.", "option1": "The mouse", "option2": "the cat", "answer": "1"}
+{"sentence": "The mouse ran from the cat all the way to the kitchen because _ chased him.", "option1": "The mouse", "option2": "the cat", "answer": "2"}
+{"sentence": "John picked Bill because _ was in need of talent.", "option1": "John", "option2": "Bill", "answer": "1"}
+{"sentence": "John nicked Bill because _ needed money.", "option1": "John", "option2": "Bill", "answer": "1"}
+{"sentence": "John gave a large sum of money to Bill because _ had extra.", "option1": "John", "option2": "Bill", "answer": "1"}
+{"sentence": "John kicked Bill because _ was angry.", "option1": "John", "option2": "Bill", "answer": "1"}
+{"sentence": "The couple took the car to the shop on Tuesday, but _ will not charge until next week.", "option1": "the shop", "option2": "The couple", "answer": "1"}
+{"sentence": "The couple took the car to the shop on Tuesday, but _ will not have to pay until next week.", "option1": "The couple", "option2": "the shop", "answer": "1"}
+{"sentence": "I think the referee treats Vick like a running back because _ does not understand the game.", "option1": "Vick", "option2": "the referee", "answer": "2"}
+{"sentence": "The kidnapper will not return Trent Reznor until _ agrees to a private performance.", "option1": "Trent Reznor", "option2": "The kidnapper", "answer": "1"}
+{"sentence": "The authorities detained the hikers because _ were trespassing.", "option1": "The authorities", "option2": "the hikers", "answer": "2"}
+{"sentence": "The authorities detained the hikers because _ were prejudiced.", "option1": "the hikers", "option2": "The authorities", "answer": "2"}
+{"sentence": "Sarah tried to ignore the elephant in the room, but _ could not bear the awkwardness.", "option1": "Sarah", "option2": "the elephant in the room", "answer": "1"}
+{"sentence": "Sarah tried to ignore the elephant in the room, but _ would not stop trumpeting.", "option1": "the elephant in the room", "option2": "Sarah", "answer": "1"}
+{"sentence": "Mark almost made a deal with Slimy Jack, but backed down when the _ was caught embezzling.", "option1": "Mark", "option2": "Slimy Jack", "answer": "2"}
+{"sentence": "Mark almost made a deal with Slimy Jack, but backed down when the _ thought of his reputation for honesty.", "option1": "Mark", "option2": "Slimy Jack", "answer": "1"}
+{"sentence": "Jesus appeared to Thomas in order to show that _ had risen.", "option1": "Thomas", "option2": "Jesus", "answer": "2"}
+{"sentence": "The employees crushed the boxes because _ were working.", "option1": "the boxes", "option2": "The employees", "answer": "2"}
+{"sentence": "The employees crushed the boxes because _ were empty.", "option1": "the boxes", "option2": "The employees", "answer": "1"}
+{"sentence": "The wine busted the cask because _ was too small.", "option1": "The wine", "option2": "the cask", "answer": "2"}
+{"sentence": "Tom gave James a coat because _ was cold.", "option1": "Tom", "option2": "James", "answer": "2"}
+{"sentence": "Tom gave James a coat because _ was generous.", "option1": "James", "option2": "Tom", "answer": "2"}
+{"sentence": "The sailors fell off the boats because _ were capsizing.", "option1": "The sailors", "option2": "the boats", "answer": "2"}
+{"sentence": "The children played games because _ were bored.", "option1": "games", "option2": "The children", "answer": "2"}
+{"sentence": "The police arrested the rioters because _ were preventing trouble.", "option1": "The police", "option2": "the rioters", "answer": "1"}
+{"sentence": "The students read the books because _ were learning.", "option1": "The students", "option2": "the books", "answer": "1"}
+{"sentence": "The listener did not complain about the singer because _ was autotuned.", "option1": "The listener", "option2": "the singer", "answer": "2"}
+{"sentence": "The musicians performed at two venues because neither of _ paid much.", "option1": "two venues", "option2": "The musicians", "answer": "1"}
+{"sentence": "The musicians performed at two venues because neither of _ got paid much.", "option1": "The musicians", "option2": "two venues", "answer": "1"}
+{"sentence": "The product fair showed Office 365, and _ showed off with a game.", "option1": "The product fair", "option2": "Office 365", "answer": "2"}
+{"sentence": "Stephen King called Spielberg so that _ could ask for some money.", "option1": "Spielberg", "option2": "Stephen King", "answer": "2"}
+{"sentence": "Lions love gazelles because _ eat them.", "option1": "Lions", "option2": "gazelles", "answer": "1"}
+{"sentence": "Steve Ballmer took over as CEO of Microsoft after Bill Gates because _ retired.", "option1": "Steve Ballmer", "option2": "Bill Gates", "answer": "2"}
+{"sentence": "Steve Ballmer took over as CEO of Microsoft after Bill Gates because _ was a unicorn.", "option1": "Bill Gates", "option2": "Steve Ballmer", "answer": "2"}
+{"sentence": "Windows is worse than Linux because _ is open source.", "option1": "Linux", "option2": "Windows", "answer": "1"}
+{"sentence": "The boy lent his friend a pencil because the teacher told _ to share.", "option1": "his friend", "option2": "The boy", "answer": "2"}
+{"sentence": "The boy lent his friend a pencil because the teacher told _ to write.", "option1": "his friend", "option2": "The boy", "answer": "1"}
+{"sentence": "The boy laughed at his friend because _ heard the joke.", "option1": "The boy", "option2": "his friend", "answer": "1"}
+{"sentence": "The boy laughed at his friend because _ made the joke.", "option1": "his friend", "option2": "The boy", "answer": "1"}
+{"sentence": "The cops maced the protesters because _ blindly follow orders.", "option1": "the protesters", "option2": "The cops", "answer": "2"}
+{"sentence": "The cops maced the protesters because _ do not blindly follow orders.", "option1": "The cops", "option2": "the protesters", "answer": "2"}
+{"sentence": "The gun owner fired at the burglar because _ stole items.", "option1": "the burglar", "option2": "The gun owner", "answer": "1"}
+{"sentence": "The gun owner fired at the burglar because _ saw a shadow.", "option1": "The gun owner", "option2": "the burglar", "answer": "1"}
+{"sentence": "Jerrica saw the guard as _ marched past.", "option1": "the guard", "option2": "Jerrica", "answer": "1"}
+{"sentence": "The home team lost to the Giants because _ were unable to pass.", "option1": "The home team", "option2": "the Giants", "answer": "1"}
+{"sentence": "My parents gave the neighbors tickets to Six Flags since _ had extras.", "option1": "My parents", "option2": "the neighbors", "answer": "1"}
+{"sentence": "The advisor told the President that _ should declare war.", "option1": "the President", "option2": "The advisor", "answer": "1"}
+{"sentence": "The advisor told the President that _ was resigning.", "option1": "the President", "option2": "The advisor", "answer": "2"}
+{"sentence": "The model frowned at her manager because _ was sad.", "option1": "The model", "option2": "her manager", "answer": "1"}
+{"sentence": "William enforced a mandatory choir practice for Ryan since _ is a mean teacher.", "option1": "William", "option2": "Ryan", "answer": "1"}
+{"sentence": "The counselor gave the student advice because _ is on the wrong track in life.", "option1": "The counselor", "option2": "the student", "answer": "2"}
+{"sentence": "The counselor gave the student advice because _ feels obligated to help him.", "option1": "The counselor", "option2": "the student", "answer": "1"}
+{"sentence": "The mother encouraged her daughter to sing a difficult song so _ would be challenged.", "option1": "her daughter", "option2": "The mother", "answer": "1"}
+{"sentence": "The pilots saved the passengers because _ had a civic duty.", "option1": "The pilots", "option2": "the passengers", "answer": "1"}
+{"sentence": "Kurt sang to Jon since _ was the judge.", "option1": "Jon", "option2": "Kurt", "answer": "1"}
+{"sentence": "Stacy lied about partying to her mom, but _ found out.", "option1": "Stacy", "option2": "her mom", "answer": "2"}
+{"sentence": "Janet Jackson is more popular than Latoya Jackson since _ is the better performer.", "option1": "Latoya Jackson", "option2": "Janet Jackson", "answer": "2"}
+{"sentence": "Rick Davis campaigned for John McCain since _ was the best man for office.", "option1": "Rick Davis", "option2": "John McCain", "answer": "2"}
+{"sentence": "Simon Cowell makes fun of Ryan Seacrest since _ feels superior.", "option1": "Simon Cowell", "option2": "Ryan Seacrest", "answer": "1"}
+{"sentence": "The poor steal from the rich because _ need more money.", "option1": "the rich", "option2": "The poor", "answer": "2"}
+{"sentence": "The salesman sold a hot tub to the customer because _ was looking for something to use and soak in.", "option1": "the customer", "option2": "The salesman", "answer": "1"}
+{"sentence": "The salesman sold a hot tub to the customer because _ was trying to sell his products.", "option1": "the customer", "option2": "The salesman", "answer": "2"}
+{"sentence": "Jennifer Aniston does not like Angelina Jolie because _ stole her boyfriend.", "option1": "Angelina Jolie", "option2": "Jennifer Aniston", "answer": "1"}
+{"sentence": "Jennifer Aniston does not like Angelina Jolie because _ is jealous of her relationship.", "option1": "Jennifer Aniston", "option2": "Angelina Jolie", "answer": "1"}
+{"sentence": "The US army fought the Taliban because _ are trying to prevent terrorism.", "option1": "the Taliban", "option2": "The US army", "answer": "2"}
+{"sentence": "The US army fought the Taliban because _ are the root of much terrorism.", "option1": "The US army", "option2": "the Taliban", "answer": "2"}
+{"sentence": "The Philadelphia Eagles lost to the St. Louis Rams, but it was because _ had the home field advantage.", "option1": "St. Louis Rams", "option2": "Philadelphia Eagles", "answer": "1"}
+{"sentence": "The Philadelphia Eagles lost to the St. Louis Rams, but it was because _ were tired from traveling to the game.", "option1": "St. Louis Rams", "option2": "Philadelphia Eagles", "answer": "2"}
+{"sentence": "The AirForce is more appealing than the Army, but _ require higher qualifications.", "option1": "the Army", "option2": "The AirForce", "answer": "2"}
+{"sentence": "The AirForce is more appealing than the Army, but _ are just as important.", "option1": "The AirForce", "option2": "the Army", "answer": "2"}
+{"sentence": "Dogs are friendlier than cats since _ would rather be alone.", "option1": "cats", "option2": "Dogs", "answer": "1"}
+{"sentence": "Hybrid cars produce less pollution than diesel trucks because _ use pure gasoline.", "option1": "Hybrid cars", "option2": "diesel trucks", "answer": "2"}
+{"sentence": "Ryan has much less hair than Gary, so _ does not go out in public without a hat.", "option1": "Gary", "option2": "Ryan", "answer": "2"}
+{"sentence": "Blue Thunder scored more goals than Green Hogs since _ are the better team.", "option1": "Blue Thunder", "option2": "Green Hogs", "answer": "1"}
+{"sentence": "Joe earned more money than Rob on the Price is Right because _ was able to guess more letters correctly.", "option1": "Joe", "option2": "Rob", "answer": "1"}
+{"sentence": "Joe earned more money than Rob on the Price is Right because _ kept guessing wrong.", "option1": "Rob", "option2": "Joe", "answer": "1"}
+{"sentence": "KFC sells better than Popeyes since _ use worse ingredients in their chicken.", "option1": "KFC", "option2": "Popeyes", "answer": "2"}
+{"sentence": "Google is catching up to Firefox in the percentage of users because _ have a faster and more reliable browser.", "option1": "Firefox", "option2": "Google", "answer": "2"}
+{"sentence": "The new knives are better than the old knives since _ are much sharper.", "option1": "old knives", "option2": "new knives", "answer": "2"}
+{"sentence": "Will Smith got his son in a movie since _ is the son of a famous movie actor.", "option1": "Will Smith", "option2": "his son", "answer": "2"}
+{"sentence": "Horses are faster at short distances than camels, but _ can travel much further distances.", "option1": "Horses", "option2": "camels", "answer": "2"}
+{"sentence": "T-Mobile's data plan is better than AT&T's data plan since _ does not cap data usage.", "option1": "AT&T", "option2": "T-Mobile", "answer": "2"}
+{"sentence": "T-Mobile's data plan is better than AT&T's data plan since _ throttles user for excessive data usage.", "option1": "T-Mobile", "option2": "AT&T", "answer": "2"}
+{"sentence": "Pizza hut pizzas are tastier than Papa John pizzas because _ give more ingredients and cheeses.", "option1": "Papa John", "option2": "Pizza", "answer": "2"}
+{"sentence": "Frosted Flakes is tastier than Fiber One because _ use frosting on the cereal.", "option1": "Frosted Flakes", "option2": "Fiber One", "answer": "1"}
+{"sentence": "Frosted Flakes is tastier than Fiber One because _ taste bland due to the fiber.", "option1": "Fiber One", "option2": "Frosted Flakes", "answer": "1"}
+{"sentence": "Gladiators are viewed better than Slaves because _ fight to the death in the arena.", "option1": "Slaves", "option2": "Gladiators", "answer": "2"}
+{"sentence": "Gladiators are viewed better than Slaves because _ live in a life of servitude instead of dying in glory.", "option1": "Gladiators", "option2": "Slaves", "answer": "2"}
+{"sentence": "Apple sued Samsung because _ felt their intellectual properties were being infringed upon.", "option1": "Samsung", "option2": "Apple", "answer": "2"}
+{"sentence": "Apple sued Samsung because _ made a product that has similarities with their own.", "option1": "Samsung", "option2": "Apple", "answer": "1"}
+{"sentence": "Kate Middleton is viewed as a newer generation Princess Diana because _ is also being compared as a fashion symbol.", "option1": "Princess Diana", "option2": "Kate Middleton", "answer": "2"}
+{"sentence": "The older male cat is bullying the new younger male cat so that _ can assert his dominance.", "option1": "the new younger male cat", "option2": "The older male cat", "answer": "2"}
+{"sentence": "The older male cat is bullying the new younger male cat so _ has been submissive.", "option1": "The older male cat", "option2": "the new younger male cat", "answer": "2"}
+{"sentence": "The Batman does not kill Joker because _ is good at heart.", "option1": "Joker", "option2": "The Batman", "answer": "2"}
+{"sentence": "The Batman does not kill Joker because _ is always thrown in jail instead.", "option1": "Joker", "option2": "The Batman", "answer": "1"}
+{"sentence": "Sharks are constantly eating fishes because _ are higher on the food chain.", "option1": "Sharks", "option2": "fishes", "answer": "1"}
+{"sentence": "Sharks are constantly eating fishes because _ are the main source of food in the ocean.", "option1": "fishes", "option2": "Sharks", "answer": "1"}
+{"sentence": "Software gives more profit over hardware since _ are costs with producing the materials each time.", "option1": "hardware", "option2": "Software", "answer": "1"}
+{"sentence": "Naruto has about 200 more episodes than Code Geass because _ have a long interesting storyline.", "option1": "Code Geass", "option2": "Naruto", "answer": "2"}
+{"sentence": "Naruto has about 200 more episodes then Code Geass because _ finished the story in much fewer episodes.", "option1": "Code Geass", "option2": "Naruto", "answer": "1"}
+{"sentence": "The Simpsons have lasted 23 seasons while The Sarah Connor Chronicles lasted two seasons, since _ have been wildly successful.", "option1": "The Sarah Connor Chronicles", "option2": "The Simpsons", "answer": "2"}
+{"sentence": "Morpheous believed Neo was \"the one\", because _ had the potential to be \"the one\".", "option1": "Morpheous", "option2": "Neo", "answer": "2"}
+{"sentence": "Michelle likes green shirts while Sarah prefers blue, because _ likes the color of grass.", "option1": "Michelle", "option2": "Sarah", "answer": "1"}
+{"sentence": "Michelle likes green shirts while Sarah prefers blue, because _ likes the color of the sky.", "option1": "Michelle", "option2": "Sarah", "answer": "2"}
+{"sentence": "Doctor Chen prescribed glasses to Egore, since _ needs glasses to see.", "option1": "Egore", "option2": "Doctor Chen", "answer": "1"}
+{"sentence": "Doctor Chen prescribed glasses to Egore, since _ conducted the eye exam.", "option1": "Egore", "option2": "Doctor Chen", "answer": "2"}
+{"sentence": "Hulu has had tremendous growth of subscribers over traditional cable provider Dish Network since _ provide a plan that appeals to more people.", "option1": "Hulu", "option2": "Dish Network", "answer": "1"}
+{"sentence": "Doctor Conrad Murray is accused of negligence in Michael Jackson's death because _ was the doctor on site when the drug overdose took place.", "option1": "Doctor Conrad Murray", "option2": "Michael Jackson", "answer": "1"}
+{"sentence": "Doctor Conrad Murray is accused of negligence in Michael Jackson's death because _ overdosed on drugs when the doctor was present.", "option1": "Michael Jackson", "option2": "Doctor Conrad Murray", "answer": "1"}
+{"sentence": "The monsters at the haunted house chased the children because _ are trying to scare them.", "option1": "The monsters", "option2": "the children", "answer": "1"}
+{"sentence": "The monsters at the haunted house chased the children because _ want to be scared for entertainment.", "option1": "The monsters", "option2": "the children", "answer": "2"}
+{"sentence": "Ashton Kutcher replaced Charlie Sheen as the main character of Two and a Half Men, but _ does not play the same character the previous actor played.", "option1": "Charlie Sheen", "option2": "Ashton Kutcher", "answer": "2"}
+{"sentence": "Ashton Kutcher replaced Charlie Sheen as the main character of Two and a Half Men, but _ did not leave the show willingly.", "option1": "Ashton Kutcher", "option2": "Charlie Sheen", "answer": "2"}
+{"sentence": "Thor was banished from the kingdom by his father because _ felt his son was too eager to become king.", "option1": "his father", "option2": "Thor", "answer": "1"}
+{"sentence": "Nvidia is giving away two top of the line laptops to its users, so _ will be giving them away for free.", "option1": "its users", "option2": "Nvidia", "answer": "2"}
+{"sentence": "Nvidia is giving away two top of the line laptops to its users, so _ have a chance to get them for free.", "option1": "its users", "option2": "Nvidia", "answer": "1"}
+{"sentence": "Gamestop pulled Square Enix's game, \"Dues Ex\" from the shelves, because _ offered a coupon for a game service in their game.", "option1": "Square Enix", "option2": "Gamestop", "answer": "2"}
+{"sentence": "Gamestop pulled Square Enix's game, \"Dues Ex\" from the shelves, because _ would not sell a game that promoted another game service.", "option1": "Gamestop", "option2": "Square Enix", "answer": "2"}
+{"sentence": "The police arrested 700 protesters in New York since _ tried to block traffic on the Manhattan bridge.", "option1": "The police", "option2": "700 protesters", "answer": "1"}
+{"sentence": "DC Universe went free to play while World of Warcraft is subscription based, because _ have maintained enough users to continue with their current payment model.", "option1": "World of Warcraft", "option2": "DC Universe", "answer": "1"}
+{"sentence": "Amazon's Kindle Fire may surpass Apple's IPad because _ offer a very competitive low price.", "option1": "Amazon", "option2": "Apple", "answer": "1"}
+{"sentence": "Amazon's Kindle Fire may surpass Apple's Ipad because _ are quite expensive for providing a similar product.", "option1": "Amazon", "option2": "Apple", "answer": "2"}
+{"sentence": "Wall Street was bailed out by the government because _ wanted to prevent an economic collapse.", "option1": "the government", "option2": "Wall Street", "answer": "1"}
+{"sentence": "Conan O'Brien replaced Jay Leno as host of Late Night, however, _ was soon removed from that timeslot due to him coming back.", "option1": "Conan O'Brien", "option2": "Jay Leno", "answer": "1"}
+{"sentence": "Conan O'Brien replaced Jay Leno as host of Late Night, however, _ was soon asked to come back and have his previous time slot.", "option1": "Conan O'Brien", "option2": "Jay Leno", "answer": "2"}
+{"sentence": "The police arrested the criminals since _ enforce the law.", "option1": "the criminals", "option2": "The police", "answer": "2"}
+{"sentence": "The parents grounded the children since _ demanded obedience.", "option1": "The parents", "option2": "the children", "answer": "1"}
+{"sentence": "The parents grounded the children since _ were disobedient.", "option1": "the children", "option2": "The parents", "answer": "1"}
+{"sentence": "Conservatives differ from Democrats since _ normally resist change.", "option1": "Democrats", "option2": "Conservatives", "answer": "2"}
+{"sentence": "Conservatives differ from Democrats since _ normally promote change.", "option1": "Democrats", "option2": "Conservatives", "answer": "1"}
+{"sentence": "The people barricaded themselves from the zombies because _ wanted to ease their hunger.", "option1": "the zombies", "option2": "The people", "answer": "1"}
+{"sentence": "Adrian Peterson has more touchdowns than Reggie Bush because _ is better at running the ball.", "option1": "Reggie Bush", "option2": "Adrian Peterson", "answer": "2"}
+{"sentence": "Adrian Peterson has more touchdowns than Reggie Bush because _ cannot run the ball as well.", "option1": "Adrian Peterson", "option2": "Reggie Bush", "answer": "2"}
+{"sentence": "AMD's Bulldozer chips have received lukewarm reception compared to Intel's Sandy Bridge chips since _ were subpar in performance.", "option1": "AMD's Bulldozer chips", "option2": "Intel's Sandy Bridge chips", "answer": "1"}
+{"sentence": "Hybrid cars are much more fuel efficient than gasoline powered cars, but _ are still the most used cars today.", "option1": "Hybrid cars", "option2": "gasoline powered cars", "answer": "2"}
+{"sentence": "Apple customer support is constantly voted better than Microsoft support, because _ provide a much better plan for a subscription price.", "option1": "Apple customer support", "option2": "Microsoft support", "answer": "1"}
+{"sentence": "Apple customer support is constantly voted better than Microsoft support, because _ do not really offer a competitive support plan.", "option1": "Apple customer support", "option2": "Microsoft support", "answer": "2"}
+{"sentence": "New York is very crowded compared to South Dakota, but _ are also much smaller in square miles.", "option1": "New York", "option2": "South Dakota", "answer": "1"}
+{"sentence": "New York is very crowded compared to South Dakota, but _ have much more land instead.", "option1": "New York", "option2": "South Dakota", "answer": "2"}
+{"sentence": "Four wheel drive cars are used for rally racing instead of rear wheel cars because _ do not race well off road.", "option1": "rear wheel cars", "option2": "Four wheel drive cars", "answer": "1"}
+{"sentence": "McDonalds has many more restaurants than Chick Filet worldwide because _ are a globally known.", "option1": "Chick Filet", "option2": "McDonalds", "answer": "2"}
+{"sentence": "Justin Bieber sold many more albums than Jack Johnson, but _ is also very unpopular among older adults.", "option1": "Jack Johnson", "option2": "Justin Bieber", "answer": "2"}
+{"sentence": "The NFL generates obscene amounts of revenue compared to the MLB, because _ are the most watched sport in the US.", "option1": "The NFL", "option2": "the MLB", "answer": "1"}
+{"sentence": "Amazon recently upstaged Gamestop on Battlefield 3 pre-orders because _ lowered their price 30 percent below the competitor.", "option1": "Gamestop", "option2": "Amazon", "answer": "2"}
+{"sentence": "Amazon recently upstaged Gamestop on Battlefield 3 pre-orders because _ are not able to match their competitor's aggressive pricing.", "option1": "Gamestop", "option2": "Amazon", "answer": "1"}
+{"sentence": "The Xbox 360 outsold the Nintendo Wii by 300 percent because _ are appealing to more people with their better hardware.", "option1": "the Nintendo Wii", "option2": "The Xbox 360", "answer": "2"}
+{"sentence": "Nancy adopted a baby girl because _ always wanted a daughter.", "option1": "Nancy", "option2": "a baby girl", "answer": "1"}
+{"sentence": "The Backstreet Boys were much more popular than N-Sync since _ had the better music.", "option1": "The Backstreet Boys", "option2": "N-Sync", "answer": "1"}
+{"sentence": "MySpace lost millions of users to Facebook, but _ still have a small following.", "option1": "Facebook", "option2": "MySpace", "answer": "2"}
+{"sentence": "MySpace lost millions of users to Facebook, but _ were not able to crush them completely.", "option1": "MySpace", "option2": "Facebook", "answer": "2"}
+{"sentence": "Monster trucks would crush cars since _ are so massive.", "option1": "cars", "option2": "Monster trucks", "answer": "2"}
+{"sentence": "The police arrested suspected members of Anonymous because _ are accused of hacking company data.", "option1": "Anonymous", "option2": "The police", "answer": "1"}
+{"sentence": "The police arrested suspected members of Anonymous because _ are cracking down on hackers.", "option1": "Anonymous", "option2": "The police", "answer": "2"}
+{"sentence": "Space Marines are played more often than Orks, so _ are always the most played at tournaments.", "option1": "Orks", "option2": "Space Marines", "answer": "2"}
+{"sentence": "Space Marines are played more often than Orks, but _ are noticed more often at tournaments due to their uniqueness.", "option1": "Orks", "option2": "Space Marines", "answer": "1"}
+{"sentence": "Snooki got angry at Kendra since _ is upset that her friend would not comfort her.", "option1": "Snooki", "option2": "Kendra", "answer": "1"}
+{"sentence": "The airline unions constantly go on strike against the airlines because _ want better salaries.", "option1": "the airlines", "option2": "The airline unions", "answer": "2"}
+{"sentence": "The airline unions constantly go on strike against the airlines because _ do not care for the employees.", "option1": "The airline unions", "option2": "the airlines", "answer": "2"}
+{"sentence": "Sprint is now selling the IPhone just like Verizon, because _ want to also attract customers who are fans of the IPhone.", "option1": "Verizon", "option2": "Sprint", "answer": "2"}
+{"sentence": "Pirates are always compared to ninjas, but _ prefer to fight at sea.", "option1": "ninjas", "option2": "Pirates", "answer": "2"}
+{"sentence": "Pirates are always compared to ninjas, but _ are more specific to Japanese culture.", "option1": "Pirates", "option2": "ninjas", "answer": "2"}
+{"sentence": "Intel sued IntelSpec since _ are trying to protect their trademark name.", "option1": "Intel", "option2": "IntelSpec", "answer": "1"}
+{"sentence": "Intel sued IntelSpec since _ happen to have a trademarked brand in their company name.", "option1": "IntelSpec", "option2": "Intel", "answer": "1"}
+{"sentence": "The government wanted to issue weapons to the US border patrol, so _ asked the Congress to approve the budget on weapons.", "option1": "the US border patrol", "option2": "The government", "answer": "2"}
+{"sentence": "Doctor Jenner continued his work on a vaccine for John, but _ is not have much success.", "option1": "Doctor Jenner", "option2": "John", "answer": "1"}
+{"sentence": "Officer Kennedy saved Roger from the criminals because _ upholds the peace.", "option1": "Officer Kennedy", "option2": "Roger", "answer": "1"}
+{"sentence": "Officer Kennedy saved Roger from the criminals, but _ was not grateful for being saved.", "option1": "Roger", "option2": "Officer Kennedy", "answer": "1"}
+{"sentence": "The employees of Six Flags denied the customers access to the ride, but _ can still go on other rides.", "option1": "The employees of Six Flags", "option2": "the customers", "answer": "2"}
+{"sentence": "Field Reporter Chris Johnson interviewed Corporal Mason because _ can provide information from fighting on the front line.", "option1": "Field Reporter Chris Johnson", "option2": "Corporal Mason", "answer": "2"}
+{"sentence": "Raccoons constantly play dead when people come near because _ frighten them.", "option1": "people", "option2": "Raccoons", "answer": "1"}
+{"sentence": "The Minecraft developers managed to win their case regarding copyright infringement against Bethesda Studios, but _ will probably file another lawsuit again.", "option1": "The Minecraft developers", "option2": "Bethesda Studios", "answer": "2"}
+{"sentence": "Batman is always teaching Robin new techniques and tips, since _ is his mentor.", "option1": "Batman", "option2": "Robin", "answer": "1"}
+{"sentence": "Penguins tend to stay on land to avoid killer whales, because _ cannot go on land.", "option1": "Penguins", "option2": "killer whales", "answer": "2"}
+{"sentence": "The forensic team managed to link the criminals to the crime since _ analyzed the blood samples at the crime scene.", "option1": "The forensic team", "option2": "the criminals", "answer": "1"}
+{"sentence": "The forensic team managed to link the criminals to the crime, so _ are now going to go to prison.", "option1": "the criminals", "option2": "The forensic team", "answer": "1"}
+{"sentence": "Clark Kent hides his identity from Lex Luthor since _ wishes to keep his loved ones safe.", "option1": "Lex Luthor", "option2": "Clark Kent", "answer": "2"}
+{"sentence": "Clark Kent hides his identity from Lex Luthor because _ wants to find out who this masked hero is.", "option1": "Clark Kent", "option2": "Lex Luthor", "answer": "2"}
+{"sentence": "Police sweep bums off the benches of the park although _ do not have a place to stay and sleep at night.", "option1": "bums", "option2": "Police", "answer": "1"}
+{"sentence": "The Swiss bank freezed the accounts of a crime syndicate because _ were helping law enforcement catch the criminals.", "option1": "a crime syndicate", "option2": "The Swiss bank", "answer": "2"}
+{"sentence": "The Swiss bank freezed the accounts of a crime syndicate because _ had fraudulent money deposited in their account.", "option1": "The Swiss bank", "option2": "a crime syndicate", "answer": "2"}
+{"sentence": "Steve Urkel was always annoying Carl Winslow in the show, \"Family Matters\", but _ still liked him regardless.", "option1": "Carl Winslow", "option2": "Steve Urkel", "answer": "1"}
+{"sentence": "Steve Urkel was always annoying Carl Winslow in the show, \"Family Matters\", because _ is quite annoying by nature.", "option1": "Steve Urkel", "option2": "Carl Winslow", "answer": "1"}
+{"sentence": "Blackberry alienated a lot of users because _ were angered by the service being taken down for days.", "option1": "a lot of users", "option2": "Blackberry", "answer": "1"}
+{"sentence": "Groupon lied about their earnings to the stakeholders since _ wanted to keep the value of the company high.", "option1": "Groupon", "option2": "the stakeholders", "answer": "1"}
+{"sentence": "Groupon lied about their earnings to the stakeholders, but _ found out about the deception.", "option1": "Groupon", "option2": "the stakeholders", "answer": "2"}
+{"sentence": "NATO forces did precision predator strikes for the Libyan rebels since _ had the predator vehicles.", "option1": "NATO forces", "option2": "Libyan rebels", "answer": "1"}
+{"sentence": "Jim Carrey convinced Jeff to travel with him to Aspen, since _ wanted to have a travel buddy to visit his girlfriend.", "option1": "Jim Carrey", "option2": "Jeff", "answer": "1"}
+{"sentence": "Jim Carrey convinced Jeff to travel with him to Aspen, since _ had wanted to travel to Aspen for a long time.", "option1": "Jim Carrey", "option2": "Jeff", "answer": "2"}
+{"sentence": "Shawn Jun performed a huge upset over four time champion Leon Sung but _ still received a large sum of money for being a runner up.", "option1": "Leon Sung", "option2": "Shawn Jun", "answer": "1"}
+{"sentence": "Channel 6 news team gave a play by play coverage of the escaped convicts because _ needed to report the news.", "option1": "Channel 6 news team", "option2": "the escaped convicts", "answer": "1"}
+{"sentence": "Channel 6 news team gave a play by play coverage of the escaped convicts, so _ had their escape reported to the world.", "option1": "Channel 6 news team", "option2": "the escaped convicts", "answer": "2"}
+{"sentence": "Scrooge was moved by the appearance of Timmy because _ felt bad for the crippled, nice boy.", "option1": "Scrooge", "option2": "Timmy", "answer": "1"}
+{"sentence": "Butters wanted to steal the movie Spiderman from Kenny, but _ did not want to be perceived as a thief.", "option1": "Butters", "option2": "Kenny", "answer": "1"}
+{"sentence": "Butters wanted to steal the movie Spiderman from Kenny because _ would not lend it to him.", "option1": "Butters", "option2": "Kenny", "answer": "2"}
+{"sentence": "Blockbuster increased the time allotted for customers to return videos, so _ would not be able to rent videos out quicker now.", "option1": "customers", "option2": "Blockbuster", "answer": "1"}
+{"sentence": "Lucy gave a tutorial on how to install IOS 5 to Cindy since _ is familiar with software upgrades.", "option1": "Lucy", "option2": "Cindy", "answer": "1"}
+{"sentence": "Samsonite makes luggage which is highly rated by Luggage Ratings Inc. since _ make a quality and good looking product.", "option1": "Samsonite", "option2": "Luggage Ratings Inc.", "answer": "1"}
+{"sentence": "Samsonite makes luggage which is highly rated by Luggage Ratings Inc. because _ thought the product they rated was highly desirable due to its quality.", "option1": "Samsonite", "option2": "Luggage Ratings Inc.", "answer": "2"}
+{"sentence": "The FBI usually take over the crime scene from the police because _ sometimes need help to investigate the crime.", "option1": "the police", "option2": "The FBI", "answer": "1"}
+{"sentence": "The NSA sent their agents in the field to retrieve intelligence, but _ were not able to gather the intelligence for them.", "option1": "The NSA", "option2": "their agents", "answer": "2"}
+{"sentence": "The NSA sent their agents in the field to retrieve intelligence because _ need people in the field to do the field work.", "option1": "The NSA", "option2": "their agents", "answer": "1"}
+{"sentence": "The Mavericks are able to sell much merchandise to fans this season, and _ just want it since they are the hottest team at the moment.", "option1": "fans", "option2": "The Mavericks", "answer": "1"}
+{"sentence": "Rammstein performed their latest hit single to the masses of Germany since _ wanted to perform for this native country first.", "option1": "the masses of Germany", "option2": "Rammstein", "answer": "2"}
+{"sentence": "Rammstein performed their latest hit single to the masses of Germany because _ wanted to hear their newest masterpieces.", "option1": "Rammstein", "option2": "the masses of Germany", "answer": "2"}
+{"sentence": "Western Digital may disappoint their shareholders this season, but _ will probably tough out the momentary losses and remain shareholders.", "option1": "their shareholders", "option2": "Western Digital", "answer": "1"}
+{"sentence": "The graduate students spend every waking moment studying for their classes since _ offer much knowledge and tests as part of their itinerary.", "option1": "their classes", "option2": "The graduate students", "answer": "1"}
+{"sentence": "The graduate students spend every waking moment studying for their classes, but _ still need to devote time to friends and family as well.", "option1": "their classes", "option2": "The graduate students", "answer": "2"}
+{"sentence": "Santa Claus and his elves distributed millions of presents worldwide to the children of the world, but _ do not all believe in them being able to give presents worldwide in a night.", "option1": "the children of the world", "option2": "Santa Claus and his elves", "answer": "1"}
+{"sentence": "The construction company could not rezone the area due to endangered butterflies since _ could not violate state law and endanger a species.", "option1": "The construction company", "option2": "endangered butterflies", "answer": "1"}
+{"sentence": "Harrison looked into illegal accusations against his partner, Bryan, but _ may of been falsely accused.", "option1": "Harrison", "option2": "Bryan", "answer": "2"}
+{"sentence": "Will Smith and his new movie is highly anticipated by movie critic, John Billic, because _ has thus far been a huge hit.", "option1": "Will Smith", "option2": "John Billic", "answer": "1"}
+{"sentence": "Will Smith and his new movie is highly anticipated by movie critic, John Billic, because _ felt his role was well played in the previous movies.", "option1": "John Billic", "option2": "Will Smith", "answer": "1"}
+{"sentence": "The Texas Rangers lost the World Series to the Cardinals because _ were outplayed in two of the most important games in the series.", "option1": "the Cardinals", "option2": "The Texas Rangers", "answer": "2"}
+{"sentence": "Uncharted 3 did not introduce any new ideas since their last game, Uncharted 2, but _ is still going to be a fun game.", "option1": "Uncharted 2", "option2": "Uncharted 3", "answer": "1"}
+{"sentence": "The Stars did not have many viewers watching the game last Friday since _ were all watching the World Series instead.", "option1": "many viewers", "option2": "The Stars", "answer": "1"}
+{"sentence": "Herman Cain has been rising in the polls, causing concern for Rick Perry, but _ does not believe this rise in popularity will sustain.", "option1": "Rick Perry", "option2": "Herman Cain", "answer": "1"}
+{"sentence": "The government has made about 30 percent of the requests for censoring classified materials to Google, but _ have not complied with all of them.", "option1": "The government", "option2": "Google", "answer": "2"}
+{"sentence": "The United Federation of Worlds attempts to bring civilization and rule to the population of millions of planets, since _ need a centralized government to maintain order.", "option1": "The United Federation of Worlds", "option2": "the population of millions of planets", "answer": "2"}
+{"sentence": "The United Federation of Worlds attempts to bring civilization and rule to the population of millions of planets, because _ want to unite the planets under the same rules.", "option1": "the population of millions of planets", "option2": "The United Federation of Worlds", "answer": "2"}
+{"sentence": "The peace emissaries arrived to negotiate a peace treaty for the warring population, since _ wish to assist in ending the war.", "option1": "The peace emissaries", "option2": "the warring population", "answer": "1"}
+{"sentence": "Technician Stepanic crafted advanced opticals for Leforge, but _ would still prefer to see without such devices.", "option1": "Technician Stepanic", "option2": "Leforge", "answer": "2"}
+{"sentence": "LA Galaxy is constantly seeking famous players to fill their ranks, because _ are trying to obtain high profile players to incite popularity into the team.", "option1": "famous players", "option2": "LA Galaxy", "answer": "2"}
+{"sentence": "LA Galaxy is constantly seeking famous players to fill their ranks, but _ are constantly sought after by many teams with offers.", "option1": "famous players", "option2": "LA Galaxy", "answer": "1"}
+{"sentence": "Youtube has paid out over a million dollars to their channel partners, because _ are responsible for bringing millions of viewers to watch their videos.", "option1": "Youtube", "option2": "their channel partners", "answer": "2"}
+{"sentence": "Youtube has paid out over a million dollars to their channel partners, since _ want to reward those who bring more users to their website.", "option1": "their channel partners", "option2": "Youtube", "answer": "2"}
+{"sentence": "Peter managed to win the lottery and loaned money to Rick, but _ will pay him back.", "option1": "Peter", "option2": "Rick", "answer": "2"}
+{"sentence": "Peter Griffin often pokes fun at Chris, so _ always ends up being angry.", "option1": "Peter Griffin", "option2": "Chris", "answer": "2"}
+{"sentence": "Peter Griffin often pokes fun at Chris, because _ enjoys doing it.", "option1": "Chris", "option2": "Peter Griffin", "answer": "2"}
+{"sentence": "Apple indicated that the Siri program would not be available for previous IPhones because _ do not have the capabilities to run such a program.", "option1": "previous IPhones", "option2": "Apple", "answer": "1"}
+{"sentence": "Apple indicated that the Siri program would not be available for previous IPhones, but _ were proven wrong when hackers were successful.", "option1": "previous IPhones", "option2": "Apple", "answer": "2"}
+{"sentence": "Commissioner Gordon has to constantly call upon Batman because _ is not able to stop the criminals himself.", "option1": "Commissioner Gordon", "option2": "Batman", "answer": "1"}
+{"sentence": "Kim Kardashian has already followed in the steps of Demi Moore and getting divorced, because _ also could not come to terms with her husband.", "option1": "Kim Kardashian", "option2": "Demi Moore", "answer": "1"}
+{"sentence": "Kim Kardashian has already followed in the steps of Demi Moore and getting divorced, but _ would not want people to experience her same sadness.", "option1": "Kim Kardashian", "option2": "Demi Moore", "answer": "2"}
+{"sentence": "Saturday Night Live often has politicians as one of their main centers of attention since _ are what viewers want to see joked about.", "option1": "politicians", "option2": "Saturday Night Live", "answer": "1"}
+{"sentence": "Saturday Night Live often has politicians as one of their main centers of attention because _ want to keep viewers entertained.", "option1": "Saturday Night Live", "option2": "politicians", "answer": "1"}
+{"sentence": "The Crusaders fought many unholy enemies because _ viewed their crusade as their divine right.", "option1": "many unholy enemies", "option2": "The Crusaders", "answer": "2"}
+{"sentence": "Knight Commander Roddick was plagued by a vision of his dead son, so _ became crazy from being reminded constantly.", "option1": "Knight Commander Roddick", "option2": "his dead son", "answer": "1"}
+{"sentence": "Knight Commander Roddick was plagued by a vision of his dead son because _ was killed due to a lack of protection from his father.", "option1": "Knight Commander Roddick", "option2": "his dead son", "answer": "2"}
+{"sentence": "The wolves attacked the travelers in the forest, but _ managed to escape unscathed.", "option1": "the travelers", "option2": "The wolves", "answer": "1"}
+{"sentence": "Buy More Book Store sends brand new books to customers because _ like quality in the books they read.", "option1": "customers", "option2": "Buy More Book Store", "answer": "1"}
+{"sentence": "Master Wong had to come to the defense of his pupil, Lun-Xiu, since _ managed to anger numerous thugs.", "option1": "Lun-Xiu", "option2": "Master Wong", "answer": "1"}
+{"sentence": "Master Wong had to come to the defense of his pupil, Lun-Xiu, but _ is not confident he can defeat so many opponents.", "option1": "Master Wong", "option2": "Lun-Xiu", "answer": "1"}
+{"sentence": "Heath Ledger was considered the greatest Joker of all time by Ebert, but _ cannot make that decision for all critics.", "option1": "Heath Ledger", "option2": "Ebert", "answer": "2"}
+{"sentence": "Merchant Smith purchased the trophy from Knight Louis, but _ did not pay very well for it.", "option1": "Knight Louis", "option2": "Merchant Smith", "answer": "2"}
+{"sentence": "Entertainmart has to win over the consumers with their low prices because _ are the ones that contribute to making a business successful.", "option1": "Entertainmart", "option2": "the consumers", "answer": "2"}
+{"sentence": "Walmart has leaked pages of their Black Friday Ad to the users of the internet, because _ are trying to increase hype for them to come to their store.", "option1": "the users of the internet", "option2": "Walmart", "answer": "2"}
+{"sentence": "Walmart has leaked pages of their Black Friday Ad to the users of the internet, but _ will have many other ads to look at to choose from.", "option1": "the users of the internet", "option2": "Walmart", "answer": "1"}
+{"sentence": "Consultants are hired by companies to perform specialized tasks, but _ do not always have money in the budget to hire these services.", "option1": "companies", "option2": "Consultants", "answer": "1"}
+{"sentence": "The father convinced his son that it is possible for him to one day become a knight, because _ did not want to crush his dreams.", "option1": "The father", "option2": "his son", "answer": "1"}
+{"sentence": "Dance Instructor Kate offers advice to Shelly because _ is eager to soak up as much experience as possible.", "option1": "Shelly", "option2": "Dance Instructor Kate", "answer": "1"}
+{"sentence": "Sir Rodrick was made specialized fitted armor by Jack, but _ charged top coin for such a piece.", "option1": "Sir Rodrick", "option2": "Jack", "answer": "2"}
+{"sentence": "Subways has always been considered a healthy choice by athletes since _ offer such healthy ingredients in their sandwiches.", "option1": "athletes", "option2": "Subways", "answer": "2"}
+{"sentence": "Subways has always been considered a healthy choice by athletes, so _ often visit this restaurant as regulars.", "option1": "athletes", "option2": "Subways", "answer": "1"}
+{"sentence": "Chevrolet had to recently recall their cars because _ received complaints about the brakes in their product.", "option1": "their cars", "option2": "Chevrolet", "answer": "2"}
+{"sentence": "Chevrolet had to recently recall their cars so _ could receive a repair in their brakes.", "option1": "Chevrolet", "option2": "their cars", "answer": "2"}
+{"sentence": "Positive SSL sells wildcard certificates to Web hosting companies because _ require encrypted sites for interaction with customers.", "option1": "Positive SSL", "option2": "Web hosting companies", "answer": "1"}
+{"sentence": "Positive SSL sells wildcard certificates to Web hosting companies, but _ have multiple options to purchase certificates from.", "option1": "Web hosting companies", "option2": "Positive SSL", "answer": "1"}
+{"sentence": "New Orleans is renown for their unique style of crawfish, because _ are flavored and cooked to be delicious.", "option1": "New Orleans", "option2": "crawfish", "answer": "2"}
+{"sentence": "Microsoft Azure provides cloud servers for consumers because _ are providing the infrastructure for a future in cloud computing.", "option1": "Microsoft Azure", "option2": "consumers", "answer": "1"}
+{"sentence": "Microsoft Azure provides cloud servers for consumers, but _ are still hesitant to switch to cloud computing.", "option1": "consumers", "option2": "Microsoft Azure", "answer": "1"}
+{"sentence": "Herald Simmons has tremendous skill in rousing up the audience for Knight Keller, so _ recruited him solely to get the audience riled up for him.", "option1": "Knight Keller", "option2": "Herald Simmons", "answer": "1"}
+{"sentence": "DVD Players are slowly being replaced by Blu Ray Systems, but _ will still exist for years to come.", "option1": "DVD Players", "option2": "Blu Ray Systems", "answer": "1"}
+{"sentence": "Todd was offered a recruitment letter from the Dean of Admissions himself since _ wanted to recruit such talent into their athletics department.", "option1": "the Dean of Admissions", "option2": "Todd", "answer": "1"}
+{"sentence": "The officers chose a planet to send the new soldiers, because _ wanted them to be trained in hostile environments.", "option1": "The officers", "option2": "the new soldiers", "answer": "1"}
+{"sentence": "The security patrol searched the land for survivors, but _ were not interested in saving them.", "option1": "survivors", "option2": "The security patrol", "answer": "2"}
+{"sentence": "The security patrol searched the land for survivors because _ might still be alive.", "option1": "The security patrol", "option2": "survivors", "answer": "2"}
+{"sentence": "The starships transported the colonists to their new planet since _ will be creating a new settlement.", "option1": "the colonists", "option2": "The starships", "answer": "1"}
+{"sentence": "Kathy looked after the children of Mrs. Faith because _ is quite capable as a baby sitter.", "option1": "Mrs. Faith", "option2": "Kathy", "answer": "2"}
+{"sentence": "Cartman finally decided to get rid of his stuffed animal, Clyde Frog, so _ was donated to charity.", "option1": "Cartman", "option2": "Clyde Frog", "answer": "2"}
+{"sentence": "Martial Arts actors are often accused as being frauds by the public since _ think they can only fight in fake scenarios.", "option1": "the public", "option2": "Martial Arts actors", "answer": "1"}
+{"sentence": "Martial Arts actors are often accused as being frauds by the public since _ can only fight in fake scenarios.", "option1": "Martial Arts actors", "option2": "the public", "answer": "1"}
+{"sentence": "To save the world, Liu Kang must defeat Shang Hai in mortal combat, since _ would be able to invade the world if he is not defeated.", "option1": "Liu Kang", "option2": "Shang Hai", "answer": "2"}
+{"sentence": "To save the world, Liu Kang must defeat Shang Hai in mortal combat, but if _ fails, then the world as he knows it will fall.", "option1": "Liu Kang", "option2": "Shang Hai", "answer": "1"}
+{"sentence": "Prince Goro lectured Cano about the greatness of the emperor, because _ was ignorant on realizing how powerful he really was.", "option1": "Prince Goro", "option2": "Cano", "answer": "2"}
+{"sentence": "Prince Goro lectured Cano about the greatness of the emperor since _ wanted to make him understand his power.", "option1": "Cano", "option2": "Prince Goro", "answer": "2"}
+{"sentence": "Johnny Cage had to trick Scorpion into stretching himself out too thin since _ could not win without fighting smart.", "option1": "Johnny Cage", "option2": "Scorpion", "answer": "1"}
+{"sentence": "Liu Kang used the element of water against Sub Zero since _ was able to turn it into ice as a weapon.", "option1": "Sub Zero", "option2": "Liu Kang", "answer": "2"}
+{"sentence": "Liu Kang used the element of water against Sub Zero because _ is weak against such elements.", "option1": "Sub Zero", "option2": "Liu Kang", "answer": "1"}
+{"sentence": "Chase Sapphire has a 24 hour service line for card holders since _ chose the card for everyday available support when traveling.", "option1": "Chase Sapphire", "option2": "card holders", "answer": "2"}
+{"sentence": "Chase Sapphire has a 24 hour service line for card holders so _ would be available to help if their customer encounters trouble.", "option1": "card holders", "option2": "Chase Sapphire", "answer": "2"}
+{"sentence": "Chase Freedom provides quarterly bonuses as incentives for accounts but _ do not always consider the incentive as much value.", "option1": "accounts", "option2": "Chase Freedom", "answer": "1"}
+{"sentence": "AOL finally had their CEO step down to respect the wishes of the stakeholders because _ needed to listen to their investors.", "option1": "AOL", "option2": "the stakeholders", "answer": "1"}
+{"sentence": "The collections agency often goes after delinquent accounts, but _ sometimes make mistakes.", "option1": "The collections agency", "option2": "delinquent accounts", "answer": "1"}
+{"sentence": "The collections agency often goes after delinquent accounts since _ try and get the money owed if a person did not pay for several months.", "option1": "delinquent accounts", "option2": "The collections agency", "answer": "1"}
+{"sentence": "Yamato Hisaki returned as the Grand Champion to face new challenger, Yoshi Osaka, and despite being new, _ hopes to win his title.", "option1": "Yamato Hisaki", "option2": "Yoshi Osaka", "answer": "2"}
+{"sentence": "The judges monitor the performance of the competitors to measure their abilities, but _ do not decide if they move on to the next round.", "option1": "The judges", "option2": "the competitors", "answer": "1"}
+{"sentence": "Jessica did not like Selma cutting her hair short, so _ tried to be conservative in the length she cut it.", "option1": "Jessica", "option2": "Selma", "answer": "2"}
+{"sentence": "Customer Support fields the questions of their customers so _ could provide immediate assistance.", "option1": "Customer Support", "option2": "their customers", "answer": "1"}
+{"sentence": "Kyle purchased three new monitors due to a recommendation by his brother, because _ wanted to increase his productivity.", "option1": "Kyle", "option2": "his brother", "answer": "1"}
+{"sentence": "Kyle purchased three new monitors due to a recommendation by his brother, because _ provided information on how his productivity increased with more working space.", "option1": "his brother", "option2": "Kyle", "answer": "1"}
+{"sentence": "Coach Jay provided instruction to his son on how to eat healthy, because _ wants him to grow up being fit and strong.", "option1": "his son", "option2": "Coach Jay", "answer": "2"}
+{"sentence": "Kenmore is known for making superb appliances which is sold at Sears, because _ are the best place to sell top brand appliances.", "option1": "Sears", "option2": "Kenmore", "answer": "1"}
+{"sentence": "HP sold a new LED monitor for a heavily discounted price to consumers, so _ could create a stronger foot hold in the computer sector.", "option1": "consumers", "option2": "HP", "answer": "2"}
+{"sentence": "HP sold a new LED monitor for a heavily discounted price to consumers, so _ ended up buying mass amounts of monitors.", "option1": "consumers", "option2": "HP", "answer": "1"}
+{"sentence": "Angelina Jolie played the role of the mother of Grendell, but _ is a fictional character which would have to be created using CGI.", "option1": "the mother of Grendell", "option2": "Angelina Jolie", "answer": "1"}
+{"sentence": "Bethesda launched a new title, Skyrim, to raving reviews by gamers because _ produced an excellent story to immense the player.", "option1": "Bethesda", "option2": "gamers", "answer": "1"}
+{"sentence": "Bethesda launched a new title, Skyrim, to raving reviews by gamers so _ will now most likely buy their next title as well.", "option1": "Bethesda", "option2": "gamers", "answer": "2"}
+{"sentence": "Beowulf was granted the crown to succeed King Henry since _ was the best man for the job due to a lack of a rightful heir.", "option1": "Beowulf", "option2": "King Henry", "answer": "1"}
+{"sentence": "The invaders showed no mercy to the defenders, but _ would not surrender anyway.", "option1": "the defenders", "option2": "The invaders", "answer": "1"}
+{"sentence": "Walmart is promoting their Black Friday sale heavily in commercials, since _ are the best medium to get information out to the average consumer.", "option1": "Walmart", "option2": "commercials", "answer": "2"}
+{"sentence": "Walmart is promoting their Black Friday sale heavily in commercials because _ want to start off the Christmas season successfully in sales.", "option1": "Walmart", "option2": "commercials", "answer": "1"}
+{"sentence": "Marriott rewards frequent travelers with points for free stays so _ can influence their decision on where they would like to stay.", "option1": "Marriott", "option2": "frequent travelers", "answer": "1"}
+{"sentence": "Marriott rewards frequent travelers with points for free stays, but _ are also enticed by other reward programs from other hotels.", "option1": "frequent travelers", "option2": "Marriott", "answer": "1"}
+{"sentence": "The NBA will most likely have a lockout this year due to players rejecting their latest compromise, because _ wanted better terms to be presented to them.", "option1": "The NBA", "option2": "players", "answer": "2"}
+{"sentence": "The NBA will most likely have a lockout this year due to players rejecting their latest compromise, but _ refuse to write up a new compromise with them.", "option1": "The NBA", "option2": "players", "answer": "1"}
+{"sentence": "The Drill Sergeants trained the troops aggressively so _ could prepare them for the impending war.", "option1": "the troops", "option2": "The Drill Sergeants", "answer": "2"}
+{"sentence": "A series of injections are used to battle a type of cancer in patients, but _ do not always provide a hundred percent success rate.", "option1": "patients", "option2": "A series of injections", "answer": "2"}
+{"sentence": "Stark Industries produces the best technology for the military, but _ pay top dollar to equip their forces with this.", "option1": "Stark Industries", "option2": "the military", "answer": "2"}
+{"sentence": "New York City was grateful for the sacrifices the American Armed Forces did to save their city because _ managed to divert a devastating attack.", "option1": "New York City", "option2": "the American Armed Forces", "answer": "2"}
+{"sentence": "Cartman wanted Kenny to go to the same school as him, but _ refused.", "option1": "Cartman", "option2": "Kenny", "answer": "2"}
+{"sentence": "The Autobots fight with every ounce of strength against the Decepticons, but _ fight back just as hard.", "option1": "the Decepticons", "option2": "The Autobots", "answer": "1"}
+{"sentence": "Tech Analysts have speculated that Amazon will be releasing a phone next year, but _ are only speculating at this point.", "option1": "Amazon", "option2": "Tech Analysts", "answer": "2"}
+{"sentence": "Apple recently had to recall 1st generation IPods, but _ did so six years after it was initially released.", "option1": "Apple", "option2": "1st generation IPods", "answer": "1"}
+{"sentence": "The army organized their forces to sneak past the Decepticons in the city because _ needed to use stealth to their advantage.", "option1": "The army", "option2": "the Decepticons", "answer": "1"}
+{"sentence": "Bioware recently announced a stress test to beta users this weekend so _ are eagerly awaiting to play the much anticipated game.", "option1": "beta users", "option2": "Bioware", "answer": "1"}
+{"sentence": "U.S. Authors are fighting against Amazon's book lending program because _ allow users a free book every month.", "option1": "Amazon's book lending program", "option2": "U.S. Authors", "answer": "1"}
+{"sentence": "Chrome is finally set to pull ahead of Firefox in November so _ are trying hard to prevent their users from switching.", "option1": "Firefox", "option2": "Chrome", "answer": "1"}
+{"sentence": "The celebrities who agreed to go to the Marine Corp dance with their dates stayed true to their word, because _ felt that this was the least they could do to thank the troops.", "option1": "The celebrities", "option2": "their dates", "answer": "1"}
+{"sentence": "The celebrities who agreed to go to the Marine Corp dance with their dates stayed true to their word, so _ were extremely thankful that they took time out of their schedule to come.", "option1": "The celebrities", "option2": "their dates", "answer": "2"}
+{"sentence": "Tiger Woods dropped Randy as his caddy, but _ does not agree with his decision.", "option1": "Randy", "option2": "Tiger Woods", "answer": "1"}
+{"sentence": "The Disney characters at Disney World entertain the audience because _ are there to keep people happy.", "option1": "The Disney characters", "option2": "the audience", "answer": "1"}
+{"sentence": "The Apes were determined to be contaminated by disease specialists, but _ refused to admit their fault.", "option1": "disease specialists", "option2": "The Apes", "answer": "1"}
+{"sentence": "Lorenze took his son to the hospital since _ was concerned for his health.", "option1": "Lorenze", "option2": "his son", "answer": "1"}
+{"sentence": "Sheila made chicken noodle soup for her daughter since _ knew it would help her get over her cold.", "option1": "her daughter", "option2": "Sheila", "answer": "2"}
+{"sentence": "Sheila made chicken noodle soup for her daughter, but _ wanted cereal instead.", "option1": "Sheila", "option2": "her daughter", "answer": "2"}
+{"sentence": "Animal Control takes control of lost animals in the city so _ will not pose any threats to the pedestrians.", "option1": "Animal Control", "option2": "lost animals", "answer": "2"}
+{"sentence": "Animal Control takes control of lost animals in the city because _ are hired by the city to perform these duties.", "option1": "Animal Control", "option2": "lost animals", "answer": "1"}
+{"sentence": "Walmart is enforcing strict guidelines for customers this Black Friday because _ do not want a recap of the disaster that occurred the previous year.", "option1": "Walmart", "option2": "customers", "answer": "1"}
+{"sentence": "Walmart is enforcing strict guidelines for customers this Black Friday, but _ may not always follow them even if they are enforced.", "option1": "customers", "option2": "Walmart", "answer": "1"}
+{"sentence": "Chase will have a cyber monday sale for credit users since _ want to entice users to continue using their cards.", "option1": "credit users", "option2": "Chase", "answer": "2"}
+{"sentence": "Caesar the ape found out the door code by watching Morris, because _ was careless when typing in the code.", "option1": "Morris", "option2": "Caesar the ape", "answer": "1"}
+{"sentence": "The security forces were not able to stop the mass of apes because _ simply had them outnumbered.", "option1": "The security forces", "option2": "the mass of apes", "answer": "2"}
+{"sentence": "Master Sifu passes wisdom on to Jack so _ listens very intently to what he has to say.", "option1": "Jack", "option2": "Master Sifu", "answer": "1"}

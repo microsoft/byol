@@ -1,0 +1,8 @@
+include: arc_common_yaml
+task: arc_easy_mri
+dataset_name: mri
+dataset_kwargs:
+  data_files:
+    validation: data/mri/eval/ai2_arc_easy_validation_english2mri_microsoft_translated.jsonl
+    test: data/mri/eval/ai2_arc_easy_test_english2mri_microsoft_translated.jsonl
+doc_to_text: "Pātai: {{question}}\nWhakautu:"

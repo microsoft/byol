@@ -1,0 +1,74 @@
+# Base Model Evaluation - Chichewa (nya)
+# Few-shot evaluation (no chat template)
+
+evaluation:
+  results_dir: "results/eval"
+  gpus: "0"
+  batch_size: auto:4
+
+models:
+  - name: "model"
+    path: "google/gemma-3-4b-pt"
+    dtype: "bfloat16"
+    trust_remote_code: true
+
+lm_eval:
+  include_path: "tasks"
+  log_samples: false
+
+tasks:
+  - name: "global_mmlu_nya"
+    num_fewshot: 5
+    enabled: true
+
+  - name: "xwinograd_nya"
+    num_fewshot: 0
+    enabled: true
+
+  - name: "xcopa_nya"
+    num_fewshot: 5
+    enabled: true
+
+  - name: "xnli_nya"
+    num_fewshot: 5
+    enabled: true
+    batch_size: auto:2
+
+  - name: "mgsm_direct_nya"
+    num_fewshot: 8
+    enabled: true
+
+  - name: "hellaswag_nya"
+    num_fewshot: 0
+    enabled: true
+
+  - name: "arc_challenge_nya"
+    num_fewshot: 25
+    enabled: true
+    batch_size: auto:2
+
+  - name: "arc_easy_nya"
+    num_fewshot: 0
+    enabled: true
+
+  - name: "piqa_nya"
+    num_fewshot: 0
+    enabled: true
+
+  - name: "xstorycloze_nya"
+    num_fewshot: 5
+    enabled: true
+    batch_size: auto:1
+
+  - name: "flores_en_nya"
+    num_fewshot: 1
+    enabled: true
+
+  - name: "flores_nya_en"
+    num_fewshot: 1
+    enabled: true
+
+  - name: "truthfulqa-multi_mc1_nya,truthfulqa-multi_mc2_nya,truthfulqa-multi_gen_nya"
+    num_fewshot: 6
+    enabled: true
+

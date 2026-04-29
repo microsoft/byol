@@ -1,0 +1,44 @@
+dataset_path: json
+test_split: test
+fewshot_split: null
+dataset_kwargs:
+  data_files:
+    test: data/mri/eval/mmlu_lite_test_english2mri_gpt5_translated.jsonl
+output_type: generate_until
+description: "Your response should be concise, and you should end with \"The answer is (X)\", where X is the correct letter choice.\n\n"
+num_fewshot: 0
+doc_to_text: |-
+  Question: {{ question | trim }}
+  Choices:
+  (A) {{ option_a | trim }}
+  (B) {{ option_b | trim }}
+  (C) {{ option_c | trim }}
+  (D) {{ option_d | trim }}
+  Answer:
+doc_to_target: answer
+filter_list:
+  - name: "extract-answer"
+    filter:
+      - function: "ordered_regex"
+        regex_patterns:
+          - '[Tt]he answer is\s+\(?([A-D])\)?\b'
+          - '[Tt]he answer is:\s+\(?([A-D])\)?\b'
+          - '[Tt]he final answer is\s+\(?([A-D])\)?\b'
+          - 'answer is\s+\(?([A-D])\)?\b'
+          - '[Tt]he final answer:\s+\(?([A-D])\)?\b'
+          - '\(([A-D])\)'
+          - "([A-D])"
+        group_select: -1
+      - function: "take_first"
+generation_kwargs:
+  until:
+    - "</s>"
+    - "Question:"
+    - "<|im_end|>"
+  temperature: 0.0
+metric_list:
+  - metric: exact_match
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1.0

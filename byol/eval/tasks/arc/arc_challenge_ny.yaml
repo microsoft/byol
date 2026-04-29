@@ -1,0 +1,8 @@
+include: arc_common_yaml
+task: arc_challenge_ny
+dataset_name: ny
+dataset_kwargs:
+  data_files:
+    validation: data/nya/eval/ai2_arc_hard_validation_english2chichewa_microsoft_translated.jsonl
+    test: data/nya/eval/ai2_arc_hard_test_english2chichewa_microsoft_translated.jsonl
+doc_to_text: "Funso: {{question}}\nYankho:"

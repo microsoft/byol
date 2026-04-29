@@ -1,0 +1,7 @@
+include: xstorycloze_common_yaml
+task: xstorycloze_ny
+dataset_name: ny
+dataset_kwargs:
+  data_files:
+    train: data/nya/eval/xstory_cloze_train_english2chichewa_microsoft_translated.jsonl
+    eval:  data/nya/eval/xstory_cloze_eval_english2chichewa_microsoft_translated.jsonl

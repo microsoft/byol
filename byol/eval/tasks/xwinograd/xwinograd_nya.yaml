@@ -1,0 +1,6 @@
+dataset_name: nya
+include: xwinograd_common_yaml
+task: xwinograd_nya
+dataset_kwargs:
+  data_files:
+    test: data/nya/eval/xwinograd_aligned_nya_1000.jsonl

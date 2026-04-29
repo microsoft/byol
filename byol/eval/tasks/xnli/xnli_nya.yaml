@@ -1,0 +1,10 @@
+dataset_name: nya
+dataset_kwargs:
+  data_files:
+    train: data/nya/eval/xnli_validation_english2nya_microsoft_translated.jsonl
+    validation: data/nya/eval/xnli_test_english2nya_microsoft_translated.jsonl
+doc_to_choice: '{{[premise+", zabwino? Inde, "+hypothesis,premise+", kapena? Komanso, "+hypothesis,premise+",\
+  \ zabwino? ayi, "+hypothesis]}}'
+doc_to_text: ''
+include: xnli_common_yaml
+task: xnli_nya

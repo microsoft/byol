@@ -1,0 +1,52 @@
+### Model Merging Configuration ###
+# Configuration for merging LoRA adapters with base models
+
+### Base Model Configuration ###
+model_name_or_path: google/gemma-3-4b-pt  # Base model to merge with
+adapter_name_or_path: outputs/gemma-3-4b-fineweb2-maori-pretrain-lora-64-epochs-4  # LoRA adapter path
+
+### Merging Configuration ###
+template: gemma  # Chat template for the model (gemma, llama3, etc.)
+finetuning_type: lora  # Type of fine-tuning to merge
+export_dir: outputs/gemma-3-4b-maori-merged  # Output directory for merged model
+export_size: 1  # Number of shards for the exported model
+export_device: auto  # Device for merging (auto, cpu, cuda)
+
+### LoRA Configuration ###
+# Should match the training configuration
+lora_rank: 64
+lora_alpha: 128
+lora_dropout: 0.1
+lora_target: all  # Target modules for LoRA
+
+### Export Settings ###
+export_legacy_format: false  # Use new format by default
+export_hub_model_id: null  # Optional: push to HuggingFace Hub
+export_quantization_bit: null  # Optional: quantize during export (4, 8)
+export_quantization_dataset: null  # Dataset for quantization calibration
+
+### Memory Optimization ###
+low_cpu_mem_usage: true  # Use less CPU memory during merging
+torch_dtype: auto  # Automatic dtype selection
+
+### Validation Settings ###
+val_size: 0.1  # Validation set size for quality checks
+val_dataset: null  # Optional validation dataset
+
+### Output Format ###
+safe_serialization: true  # Use safetensors format
+split_size: "5GB"  # Maximum size per shard
+
+### Examples ###
+# Example 1: Basic merge
+# model_name_or_path: google/gemma-3-4b-pt
+# adapter_name_or_path: outputs/gemma-3-4b-swahili-lora
+# export_dir: outputs/gemma-3-4b-swahili-merged
+
+# Example 2: Merge with quantization
+# export_quantization_bit: 4
+# export_quantization_dataset: alpaca_gpt4_en
+
+# Example 3: Push to Hub after merging
+# export_hub_model_id: username/gemma-3-4b-swahili
+# hub_token: your_token_here

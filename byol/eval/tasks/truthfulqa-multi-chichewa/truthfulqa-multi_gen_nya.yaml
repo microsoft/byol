@@ -1,0 +1,2 @@
+include: truthfulqa-multi_gen_common_nya.yaml
+task: truthfulqa-multi_gen_nya

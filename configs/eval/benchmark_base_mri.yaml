@@ -1,0 +1,74 @@
+# Base Model Evaluation - Māori (mri)
+# Few-shot evaluation (no chat template)
+
+evaluation:
+  results_dir: "results/eval"
+  gpus: "0"
+  batch_size: auto:4
+
+models:
+  - name: "model"
+    path: "google/gemma-3-4b-pt"
+    dtype: "bfloat16"
+    trust_remote_code: true
+
+lm_eval:
+  include_path: "tasks"
+  log_samples: false
+
+tasks:
+  - name: "global_mmlu_mri"
+    num_fewshot: 5
+    enabled: true
+
+  - name: "xwinograd_mri"
+    num_fewshot: 0
+    enabled: true
+
+  - name: "xcopa_mri"
+    num_fewshot: 5
+    enabled: true
+
+  - name: "xnli_mri"
+    num_fewshot: 5
+    enabled: true
+    batch_size: auto:2
+
+  - name: "mgsm_direct_mri"
+    num_fewshot: 8
+    enabled: true
+
+  - name: "hellaswag_mri"
+    num_fewshot: 0
+    enabled: true
+
+  - name: "arc_challenge_mri"
+    num_fewshot: 25
+    enabled: true
+    batch_size: auto:2
+
+  - name: "arc_easy_mri"
+    num_fewshot: 0
+    enabled: true
+
+  - name: "piqa_mri"
+    num_fewshot: 0
+    enabled: true
+
+  - name: "xstorycloze_mri"
+    num_fewshot: 5
+    enabled: true
+    batch_size: auto:1
+
+  - name: "flores_en_mri"
+    num_fewshot: 1
+    enabled: true
+
+  - name: "flores_mri_en"
+    num_fewshot: 1
+    enabled: true
+
+  - name: "truthfulqa-multi_mc1_mri,truthfulqa-multi_mc2_mri,truthfulqa-multi_gen_mri"
+    num_fewshot: 6
+    enabled: true
+

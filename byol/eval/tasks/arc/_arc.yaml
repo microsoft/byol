@@ -1,0 +1,14 @@
+group: arc
+task:
+  - arc_easy_ny
+  - arc_challenge_ny
+  - arc_challenge_chat_ny
+aggregate_metric_list:
+  - metric: acc
+    aggregation: mean
+    weight_by_size: true
+  - metric: acc_norm
+    aggregation: mean
+    weight_by_size: true
+metadata:
+  version: 1.0

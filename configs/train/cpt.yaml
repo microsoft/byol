@@ -1,0 +1,68 @@
+# =============================================================================
+# BYOL CPT (Continual Pre-Training) Configuration
+# =============================================================================
+# Available datasets: chichewa_english_cpt, maori_english_cpt
+# Available models: google/gemma-2-2b, google/gemma-2-9b, google/gemma-3-1b-pt, google/gemma-3-4b-pt
+# =============================================================================
+
+### Model Configuration ###
+model_name_or_path: google/gemma-3-4b-pt
+
+### Training Stage ###
+# LlamaFactory stage: pt (pre-training)
+stage: pt
+do_train: true
+do_eval: false
+
+### Dataset Configuration ###
+dataset: chichewa_english_cpt
+dataset_dir: ~/byol-data/train
+cutoff_len: 4096
+packing: true
+train_on_prompt: false
+
+### Output Configuration ###
+output_dir: results/train/cpt
+
+### Training Hyperparameters ###
+per_device_train_batch_size: 2
+per_device_eval_batch_size: 2
+gradient_accumulation_steps: 256
+learning_rate: 1.0e-5
+num_train_epochs: 3
+lr_scheduler_type: cosine
+warmup_ratio: 0.03
+max_grad_norm: 1.0
+weight_decay: 0.01
+
+### DeepSpeed Configuration (optional) ###
+deepspeed: byol/train/examples/deepspeed/ds_z2_config.json
+
+### Precision and Optimization ###
+bf16: true
+gradient_checkpointing: true
+
+### Logging and Saving ###
+logging_steps: 10
+save_steps: 500
+save_total_limit: 3
+
+### Other Settings ###
+seed: 42
+trust_remote_code: true
+dataloader_num_workers: 4
+overwrite_output_dir: true
+
+### Optional: Weights & Biases ###
+# report_to: wandb
+# run_name: gemma-4b-cpt-chichewa
+
+### Optional: Resume Training ###
+# resume_from_checkpoint: outputs/cpt/checkpoint-1000
+
+### Optional: LoRA (uncomment to enable) ###
+# finetuning_type: lora
+# lora_rank: 64
+# lora_alpha: 128
+# lora_dropout: 0.05
+# lora_target: all

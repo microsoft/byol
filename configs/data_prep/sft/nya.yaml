@@ -1,0 +1,25 @@
+# BYOL SFT Data Preparation — Chichewa (nya)
+tgt_lang_code: nya
+tgt_lang_name: Chichewa
+output_dir: ~/byol-data
+overwrite: false
+steps:
+  download_smoltalk2: true
+  translate_smoltalk2: true
+  download_aya: true
+  translate_aya: true
+translate_smoltalk2_config:
+  model_name: gpt-5
+  reasoning_effort: low
+  batch_size: 8
+  concurrency: 64
+  checkpoint_every: 50
+  token_budget_per_item: 2048
+translate_aya_config:
+  model_name: gpt-5
+  reasoning_effort: low
+  batch_size: 8
+  concurrency: 64
+  checkpoint_every: 50
+  token_budget_per_item: 2048
+seed: 42

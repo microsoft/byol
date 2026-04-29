@@ -1,0 +1,95 @@
+### Model Configuration ###
+model_name_or_path: google/gemma-3-4b-pt  # HuggingFace repo or local path to your CPT checkpoint
+
+### Training Configuration ###
+stage: sft
+train_on_prompt: false
+packing: false  # Usually false for SFT to maintain conversation structure
+
+### Template Configuration ###
+template: gemma  # Conversation template
+
+### Dataset Configuration ###
+dataset: chichewa_english_sft  # Override via CLI: --dataset <name>
+eval_dataset: chichewa_sft_test  # Override via CLI: --eval-dataset <name>
+dataset_dir: ~/byol-data/train
+cutoff_len: 4096  # Shorter for instruction tuning
+
+### Optional Dataset Mixing (uncomment when needed) ###
+# For multiple datasets with custom ratios:
+# dataset: "alpaca_gpt4_en,belle_2m,guanaco"
+# mix_strategy: "interleave_over"  # Options: concat, interleave_under, interleave_over
+# interleave_probs: "0.5,0.3,0.2"  # Must sum to 1.0 and match number of datasets
+# seed: 42  # For reproducible mixing
+
+### Output Configuration ###
+output_dir: results/train/sft
+
+### Training Hyperparameters ###
+#batch_size: 512  # Effective batch size per GPU (gradient_accumulation_steps = batch_size / per_device_train_batch_size)
+per_device_train_batch_size: 4
+per_device_eval_batch_size: 4
+gradient_accumulation_steps: 64
+learning_rate: 1.0e-5  # Higher LR for SFT
+lr_scheduler_type: cosine_with_min_lr
+lr_scheduler_kwargs:
+  min_lr_rate: 0.1
+warmup_ratio: 0.03  # 
+num_train_epochs: 2
+
+### DeepSpeed Configuration ###
+deepspeed: byol/train/examples/deepspeed/ds_z2_config.json
+
+### Precision and Optimization ###
+bf16: true
+#tf32: true
+gradient_checkpointing: true
+
+### Logging and Saving ###
+plot_loss: true
+eval_strategy: steps
+save_strategy: steps
+logging_steps: 5
+eval_steps: 100
+save_steps: 500
+save_total_limit: 10
+logging_first_step: true
+logging_nan_inf_filter: false
+
+### Model Selection ###
+load_best_model_at_end: true
+metric_for_best_model: eval_loss
+greater_is_better: false
+
+### Training Control ###
+do_train: true
+do_eval: true
+resume_from_checkpoint: false
+overwrite_output_dir: true
+
+### Generation Settings (for evaluation) ###
+#do_predict: false
+#predict_with_generate: true
+#generation_max_length: 512
+#generation_num_beams: 1
+
+### Other Settings ###
+trust_remote_code: true
+dataloader_num_workers: 4
+dataloader_pin_memory: true
+remove_unused_columns: false  # Important for SFT
+max_samples: null  # Set to null for streaming (no limit)
+preprocessing_num_workers: 4  # Number of processes for data preprocessing
+
+### Reporting ###
+#report_to: wandb
+#run_name: gemma-3-4b-cpt-maori
+
+### Optional Settings (uncommented when needed) ###
+seed: 42  # Uncomment for reproducible training and dataset mixing
+# fp16: false  # Use bf16 instead
+# push_to_hub: false
+# hub_model_id: username/model-name
+# hub_strategy: every_save
+# hub_token: your_token_here
+# val_size: 0.1  # If dataset doesn't have predefined splits

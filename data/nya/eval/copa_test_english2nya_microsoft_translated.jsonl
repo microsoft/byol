@@ -1,0 +1,500 @@
+{"premise": "Chinthucho chinaikidwa mu bubble wrap.", "choice1": "Zinali zosalimba.", "choice2": "Zinali zazing'ono.", "question": "cause", "label": 0, "idx": 0}
+{"premise": "Ndinachotsa matumba anga.", "choice1": "Ndinabwezeretsa tikiti.", "choice2": "Ndinapeza chida.", "question": "effect", "label": 0, "idx": 1}
+{"premise": "Chiswe chinalowa mnyumbamo.", "choice1": "Chiswe chinazimiririka mnyumbamo.", "choice2": "Chiswe chinadya nkhuni m'nyumbamo.", "question": "effect", "label": 1, "idx": 2}
+{"premise": "Apaulendowo adafika kumalire.", "choice1": "Mtumiki woyang'anira adayang'ana mapasipoti awo.", "choice2": "Mtumiki woyang'anira adawaimba mlandu wozembetsa.", "question": "effect", "label": 0, "idx": 3}
+{"premise": "Ofesiyo inatsekedwa.", "choice1": "Inali tchuthi.", "choice2": "Inali chilimwe.", "question": "cause", "label": 0, "idx": 4}
+{"premise": "Mtsikanayo anatha mphamvu.", "choice1": "Adasewera ma checkers.", "choice2": "Anadumpha chingwe.", "question": "cause", "label": 1, "idx": 5}
+{"premise": "Mkaziyo anataya malo ake pamzere.", "choice1": "Anthu ambiri adalowa mu mzere.", "choice2": "Anatuluka pamzere.", "question": "cause", "label": 1, "idx": 6}
+{"premise": "Mtsikanayo adapindika mphuno yake.", "choice1": "Mwanayo anagwedezeka pa bib yake.", "choice2": "Mwanayo adaipitsa diaper yake.", "question": "cause", "label": 1, "idx": 7}
+{"premise": "Gululi lidasewera nyimbo yawo yotchuka.", "choice1": "Omvera adawomba m'manja limodzi ndi nyimbo.", "choice2": "Omvera anamvetsera mwaulemu mwakachetechete.", "question": "effect", "label": 0, "idx": 8}
+{"premise": "Mtsikanayo ankafuna kuthokoza mphunzitsi wake wa masamu.", "choice1": "Mtsikanayo adakhala pambuyo pa sukulu kuti akasungidwe.", "choice2": "Mtsikanayo anabweretsa apulo.", "question": "effect", "label": 1, "idx": 9}
+{"premise": "Achinyamata okhala m'misasa adachita mantha.", "choice1": "Mlangizi wawo wamsasa adawauza nkhani yamizimu.", "choice2": "Iwo anaphika marshmallows pamoto.", "question": "cause", "label": 0, "idx": 10}
+{"premise": "Mwamunayo adagunda mutu wake.", "choice1": "Anasochera m'malingaliro.", "choice2": "Anadwala kugwedezeka.", "question": "effect", "label": 1, "idx": 11}
+{"premise": "Cheke chomwe ndidalemba chidabwera.", "choice1": "Akaunti yanga yakubanki inali yopanda kanthu.", "choice2": "Ndinapeza malipiro okweza.", "question": "cause", "label": 0, "idx": 12}
+{"premise": "Bokosi lolowera la imelo la mwamunayo linali lodzaza ndi sipamu.", "choice1": "Anachotsa sipamu.", "choice2": "Anatumiza imelo yambiri.", "question": "effect", "label": 0, "idx": 13}
+{"premise": "Woyendetsa sitimayo adakhazikitsidwa kwaokha.", "choice1": "Anapezeka ndi matendawa.", "choice2": "Anachira matendawa.", "question": "cause", "label": 0, "idx": 14}
+{"premise": "Mtsikanayo adaloweza code.", "choice1": "Anadziwerengera yekha.", "choice2": "Anaiwala kulemba.", "question": "cause", "label": 0, "idx": 15}
+{"premise": "Ndinatsanulira madziwo mu galasi.", "choice1": "Madziwo anathetsa ludzu langa.", "choice2": "Galasi linadzaza.", "question": "effect", "label": 1, "idx": 16}
+{"premise": "Mwamunayo adakhala chete pamene bwenzi lake linamaliza kulankhula.", "choice1": "Iye anafuna kupereka thandizo kwa bwenzi lake.", "choice2": "Anali kuganiza za mawu a bwenzi lake.", "question": "cause", "label": 1, "idx": 17}
+{"premise": "Ngoziyo inali vuto langa.", "choice1": "Ndinadzimva wolakwa.", "choice2": "Ndinakakamiza milandu.", "question": "effect", "label": 0, "idx": 18}
+{"premise": "Unyolo unasiyana.", "choice1": "Unyolo unakulungidwa mozungulira tayala.", "choice2": "Panali ulalo wosweka mu unyolo.", "question": "cause", "label": 1, "idx": 19}
+{"premise": "Banjali linaganiza zovomereza.", "choice1": "Iwo anatopa ndi kukangana.", "choice2": "Iwo anapeŵa kukambirana za vutoli.", "question": "cause", "label": 0, "idx": 20}
+{"premise": "Mkaziyo anaganiza zopita ku udindo wa boma.", "choice1": "Adalemba ntchito woyang'anira kampeni.", "choice2": "Anachitira umboni kukhoti.", "question": "effect", "label": 0, "idx": 21}
+{"premise": "Mwamunayo ankayembekezera nyengo yozizira paulendo wake.", "choice1": "Ananyamula zovala zofunda mu sutikesi yake.", "choice2": "Anayenda ndi sutikesi yayikulu.", "question": "effect", "label": 0, "idx": 22}
+{"premise": "Wophunzirayo adadziwa yankho la funsoli.", "choice1": "Anakweza dzanja lake.", "choice2": "Iye anachoka.", "question": "effect", "label": 0, "idx": 23}
+{"premise": "Maso a mwamunayo anathirira madzi.", "choice1": "Fumbi lidalowa m'maso mwake.", "choice2": "Anaika magalasi m'maso mwake.", "question": "cause", "label": 0, "idx": 24}
+{"premise": "Wosewerayo adapambana masewera asanu motsatizana.", "choice1": "Wotsutsa wake adamuimba mlandu wachinyengo.", "choice2": "Mdani wake adamumvera chisoni.", "question": "effect", "label": 0, "idx": 25}
+{"premise": "Mphunzitsiyo anang'amba mayeso a wophunzirayo.", "choice1": "Anagwira wophunzirayo akubera.", "choice2": "Mayankho a wophunzirayo anali olakwika.", "question": "cause", "label": 0, "idx": 26}
+{"premise": "Ndinaima kaye kuti ndisiye kulankhula.", "choice1": "Ndinataya mawu anga.", "choice2": "Ndinatha mpweya.", "question": "cause", "label": 1, "idx": 27}
+{"premise": "Chakudya chozizira chinasungunuka.", "choice1": "Ndinayiyika mu microwave.", "choice2": "Ndinaphimba ndi pulasitiki.", "question": "cause", "label": 0, "idx": 28}
+{"premise": "Wogwira ntchitoyo adanamizira kudwala.", "choice1": "Anali ndi kupweteka kwa m'mimba.", "choice2": "Ankafuna tsiku lopuma.", "question": "cause", "label": 1, "idx": 29}
+{"premise": "Mtsikanayo adatera m'dziwe.", "choice1": "Anathamangira pa dziwe.", "choice2": "Anadumpha kuchokera pa bolodi lodumphira.", "question": "cause", "label": 1, "idx": 30}
+{"premise": "Matikiti a kanema adagulitsidwa.", "choice1": "Linali tsiku lotsegulira kanemayo.", "choice2": "Kanemayo adalandira ndemanga zoipa.", "question": "cause", "label": 0, "idx": 31}
+{"premise": "Mwamunayo anataya thupi.", "choice1": "Anthu adamuleka.", "choice2": "Anthu adamuyamikira.", "question": "effect", "label": 1, "idx": 32}
+{"premise": "Manja a mtsikanayo adakhala otunda.", "choice1": "Adalemba kalata.", "choice2": "Anakwera chingwe.", "question": "cause", "label": 1, "idx": 33}
+{"premise": "Wochita masewera a circus adasewera pomwe adakwera njinga yokha.", "choice1": "Omvera adachemerera modabwa.", "choice2": "Acrobat adagwedezeka kuchokera ku trapeze.", "question": "effect", "label": 0, "idx": 34}
+{"premise": "Ndinataya kuleza mtima kwanga.", "choice1": "Mnzanga adandisunga ndikudikirira.", "choice2": "Mnzanga anafika pa nthawi yake.", "question": "cause", "label": 0, "idx": 35}
+{"premise": "Maiko omenyera nkhondo ankafuna mtendere.", "choice1": "Iwo anapanga zida za nyukiliya.", "choice2": "Iwo anakambirana pangano.", "question": "effect", "label": 1, "idx": 36}
+{"premise": "Mwamunayo adamwa mankhwala ogona.", "choice1": "Anakhala wogona.", "choice2": "Anathamanga malungo.", "question": "effect", "label": 0, "idx": 37}
+{"premise": "Mkaziyo adagunda pa sofa.", "choice1": "Mwendo wa sofa unatuluka momasuka.", "choice2": "Anaphwanya bondo lake.", "question": "effect", "label": 1, "idx": 38}
+{"premise": "Mnyamatayo adafinya baluni.", "choice1": "Chibaluni chinatuluka.", "choice2": "Chibaluni chinauluka.", "question": "effect", "label": 0, "idx": 39}
+{"premise": "Iwo apaulendo adalowa m'chipinda chawo cha hotelo.", "choice1": "Anatulutsa masutikesi awo.", "choice2": "Anapita ku eyapoti.", "question": "effect", "label": 0, "idx": 40}
+{"premise": "Ndinaluma pichesi.", "choice1": "Pichesi idavulala.", "choice2": "Madzi adatsanulira.", "question": "effect", "label": 1, "idx": 41}
+{"premise": "Manja anga adakhala omata.", "choice1": "Ndinadya donut.", "choice2": "Ndinali ndi dzino lokoma.", "question": "cause", "label": 0, "idx": 42}
+{"premise": "Ndinakankhira chitseko.", "choice1": "Chitseko chinatsegulidwa.", "choice2": "Chitseko chinatsekedwa.", "question": "effect", "label": 0, "idx": 43}
+{"premise": "Ogwira ntchito adatsutsa zinthuzo.", "choice1": "Zogulitsazo zinayesedwa kuti zitsimikizidwe ndi khalidwe.", "choice2": "Zogulitsazo zinapangidwa pogwiritsa ntchito ana.", "question": "cause", "label": 1, "idx": 44}
+{"premise": "Ndinaboola dzenje pakhoma.", "choice1": "Mbewa inatuluka m'dzenje.", "choice2": "Fumbi linatuluka m'dzenje.", "question": "effect", "label": 1, "idx": 45}
+{"premise": "Mkaziyo anachitira nsanje mlongo wake.", "choice1": "Mlongo wake anali wokondwa.", "choice2": "Mlongo wake adasudzulana.", "question": "cause", "label": 0, "idx": 46}
+{"premise": "Ndinatsanulira vinyo pa malaya anga.", "choice1": "Ndinavala apron.", "choice2": "Ndinasintha malaya anga.", "question": "effect", "label": 1, "idx": 47}
+{"premise": "Wosunga ndalama adatsegula kaundula wa ndalama.", "choice1": "Kasitomala adafufuza chikwama chake.", "choice2": "Kasitomala adamupatsa ndalama.", "question": "cause", "label": 1, "idx": 48}
+{"premise": "Woimba mumsewu adakopa khamu la anthu.", "choice1": "Anthu adamupatsa kusintha.", "choice2": "Anatumiza khamulo.", "question": "effect", "label": 0, "idx": 49}
+{"premise": "Mnyamatayo analira kwa womuyang'anira ana.", "choice1": "Anasowa makolo ake.", "choice2": "Inali nthawi ya chakudya chochepa.", "question": "cause", "label": 0, "idx": 50}
+{"premise": "Radar ya woyendetsa ndegeyo idazindikira mphepo yamkuntho.", "choice1": "Woyendetsa ndegeyo adayenda kutali ndi mphepo yamkuntho.", "choice2": "Woyendetsa ndegeyo adauluka kupyola mphepo yamkuntho.", "question": "effect", "label": 0, "idx": 51}
+{"premise": "Mtengowo udataya masamba ake.", "choice1": "Masambawo adasanduka mitundu.", "choice2": "Masamba adadziunjikira pansi.", "question": "effect", "label": 1, "idx": 52}
+{"premise": "Mnyamatayo anali mumkhalidwe woyipa.", "choice1": "Anaganiza zosewerera masewera a makadi ndi mlongo wake.", "choice2": "Anaganiza zosewerera nthabwala zothandiza pa mlongo wake.", "question": "effect", "label": 1, "idx": 53}
+{"premise": "Mwanayo anadandaula kuti ayenera kupita kuchimbudzi.", "choice1": "Bambo ake anam'patsa soda kuti amwe.", "choice2": "Bambo ake anaimitsa galimotoyo pa malo ogulitsira mafuta.", "question": "effect", "label": 1, "idx": 54}
+{"premise": "Mwanayo adawaza chakudya cha nsomba mu thanki.", "choice1": "Nsombazo zinadumpha kuchokera mu thanki.", "choice2": "Nsombazo zinasambira kulinga ku chakudya.", "question": "effect", "label": 1, "idx": 55}
+{"premise": "Malingaliro andale a mkaziyo adasintha.", "choice1": "Anasintha chipani chake.", "choice2": "Anachita nawo zionetsero.", "question": "effect", "label": 0, "idx": 56}
+{"premise": "Chipinda chosambira chinali chotsekedwa.", "choice1": "Ndinatsegula faucet.", "choice2": "Ndinatsanulira chotsukira chotsukira mmenemo.", "question": "effect", "label": 1, "idx": 57}
+{"premise": "Apaulendo adatsika sitimayo.", "choice1": "Sitimayo idafika pa siteshoni.", "choice2": "Sitimayo idalira kulira kwake.", "question": "cause", "label": 0, "idx": 58}
+{"premise": "Mwamunayo adakanikiza pansi pa chikhomo chonyowa cha envulopu.", "choice1": "Anaika chidindo pa envulopu.", "choice2": "Anatseka envulopu.", "question": "effect", "label": 1, "idx": 59}
+{"premise": "Abwenziwo anataya kukhudzana.", "choice1": "Anasangalala kucheza wina ndi mnzake.", "choice2": "Anasamukira kumizinda yosiyanasiyana.", "question": "cause", "label": 1, "idx": 60}
+{"premise": "Woyang'anira akaunti sanasamalire bwino ndalama za kampaniyo.", "choice1": "Anachotsedwa ntchito paudindo wake.", "choice2": "Anapita kutchuthi cha amayi.", "question": "effect", "label": 0, "idx": 61}
+{"premise": "Ndinayang'ana koloko.", "choice1": "Ndinamva wotchi ikugunda.", "choice2": "Ndinkafuna kuyang'ana nthawi.", "question": "cause", "label": 1, "idx": 62}
+{"premise": "Dzanja langa linapanikizika.", "choice1": "Ndinalemba nkhaniyo pamanja.", "choice2": "Ine ndi mkazi wanga tinagwirana manja.", "question": "cause", "label": 0, "idx": 63}
+{"premise": "Bolt idalimbitsa.", "choice1": "Ndinasintha bolt.", "choice2": "Ndinakhotakhota wrench.", "question": "cause", "label": 1, "idx": 64}
+{"premise": "Banjali linasaina pangano la pangano la nyumba.", "choice1": "Banjali linasamukira m'nyumbayo.", "choice2": "Mzindawu udatsutsa nyumbayo.", "question": "effect", "label": 0, "idx": 65}
+{"premise": "Mkaziyo adakhala panja pa khonde.", "choice1": "Ankafuna kuyang'ana kuloŵa kwa dzuwa.", "choice2": "Anaganiza kuti akuwona mphezi.", "question": "cause", "label": 0, "idx": 66}
+{"premise": "Mwamunayo adavala jekete lopulumutsa moyo m'madzi.", "choice1": "Sankatha kusambira.", "choice2": "Madziwo anali osaya.", "question": "cause", "label": 0, "idx": 67}
+{"premise": "Mkaziyo adapanga typo mu purosesa ya mawu.", "choice1": "Anachotsa chikalatacho.", "choice2": "Anagunda kiyi wa backspace.", "question": "effect", "label": 1, "idx": 68}
+{"premise": "Mtsikanayo adadzitamandira kwa abwenzi ake.", "choice1": "Anapeza kalasi yoipa.", "choice2": "Anapambana mpikisano.", "question": "cause", "label": 1, "idx": 69}
+{"premise": "Udzu unali wamatope.", "choice1": "Inatsanulira usiku wonse.", "choice2": "Inali yodzaza ndi namsongole.", "question": "cause", "label": 0, "idx": 70}
+{"premise": "Mkaziyo anagona mopitirira muyeso.", "choice1": "Anagona mu hotelo.", "choice2": "Anaiwala kukhazikitsa wotchi yake ya alamu.", "question": "cause", "label": 1, "idx": 71}
+{"premise": "Mwamunayo adavala dzuwa.", "choice1": "Anakhala mumthunzi.", "choice2": "Anapita ku gombe.", "question": "cause", "label": 1, "idx": 72}
+{"premise": "Ofufuzawo adatsimikizira chiphunzitsocho.", "choice1": "Ofufuzawo adachotsa chiphunzitsocho.", "choice2": "Anthu anavomereza chiphunzitsocho.", "question": "effect", "label": 1, "idx": 73}
+{"premise": "Mafani pamasewerawa adawomba.", "choice1": "Masewerawa adalowa nthawi yowonjezera.", "choice2": "Woweruzayo adayitana zoyipa.", "question": "cause", "label": 1, "idx": 74}
+{"premise": "Ndinalowa kuphatikiza kwanga pa loko.", "choice1": "Ndinatseka loko.", "choice2": "Loko idatsegulidwa.", "question": "effect", "label": 1, "idx": 75}
+{"premise": "Khamulo linakula.", "choice1": "Bamboyo anapatsa mwana wake ndalama.", "choice2": "Bamboyo adagwira dzanja la mwana wake.", "question": "effect", "label": 1, "idx": 76}
+{"premise": "Chipale chofewa chinali kutseka msewu.", "choice1": "Ndinasonkhanitsa chipale chofewa kukhala chipale chofewa.", "choice2": "Ndinachotsa chipale chofewa m'njira.", "question": "effect", "label": 1, "idx": 77}
+{"premise": "Kayakers adapalasa mabwato awo.", "choice1": "Kayak idafika kumtunda.", "choice2": "Kayak idagunda mafunde.", "question": "effect", "label": 0, "idx": 78}
+{"premise": "Mtsikanayo adalephera kuyendetsa njinga yake.", "choice1": "Anasiya zogwirira.", "choice2": "Anagwera mu mpanda.", "question": "effect", "label": 1, "idx": 79}
+{"premise": "Ndinayatsa fani.", "choice1": "Madzi anawaza pakhungu langa.", "choice2": "Ndinamva mpweya wozizira ukudutsa pa ine.", "question": "effect", "label": 1, "idx": 80}
+{"premise": "Ma surfers adabwerera ku gombe.", "choice1": "Iwo anali onyowa.", "choice2": "Iwo anaona shaki.", "question": "cause", "label": 1, "idx": 81}
+{"premise": "Ndinakoka pulagi yotulutsa madzi m'bafa.", "choice1": "Madzi adatuluka m'bafa.", "choice2": "Madziwo anamwaza pansi.", "question": "effect", "label": 0, "idx": 82}
+{"premise": "Mwamunayo anadzimva wolakwa chifukwa chonyenga mkazi wake.", "choice1": "Anamuimba mlandu wa kusakhulupirika.", "choice2": "Iye anavomereza kusakhulupirika kwake kwa iye.", "question": "effect", "label": 1, "idx": 83}
+{"premise": "Inki yomwe ili pa chikwangwanicho idawaza.", "choice1": "Ndinadikirira kuti inki iume.", "choice2": "Ndinatsanulira madzi pa chikwangwanicho.", "question": "cause", "label": 1, "idx": 84}
+{"premise": "Mwanayo adadzuka akufuula.", "choice1": "Anali ndi maloto owopsa.", "choice2": "Ananyowetsa bedi.", "question": "cause", "label": 0, "idx": 85}
+{"premise": "Mnyamatayo adakweza mapazi ake patebulo.", "choice1": "Abambo ake adakhala pansi patebulo.", "choice2": "Abambo ake adamuphunzitsa.", "question": "effect", "label": 1, "idx": 86}
+{"premise": "Mnzanga anatembenuza mutu wake kumbali yanga.", "choice1": "Ndinafuula dzina lake.", "choice2": "Ndinagwedeza manja anga.", "question": "cause", "label": 0, "idx": 87}
+{"premise": "Boma linapondereza nzika zake.", "choice1": "Nzikazo zinapanga chipanduko.", "choice2": "Nzika zinalembetsa kuvota.", "question": "effect", "label": 0, "idx": 88}
+{"premise": "Mnyamatayo adasochera m'nkhalango.", "choice1": "Anaponya hema.", "choice2": "Anafuula kuti athandizidwe.", "question": "effect", "label": 1, "idx": 89}
+{"premise": "Mkaziyo adapita kunja.", "choice1": "Ankafuna kuphunzira kujambula.", "choice2": "Ankafuna kuphunzira za zikhalidwe zina.", "question": "cause", "label": 1, "idx": 90}
+{"premise": "Mwamunayo anali ndi nsanje ndi mnzake wakuntchito.", "choice1": "Mnzake wogwira naye ntchito adakwezedwa.", "choice2": "Mnzake wogwira naye ntchito ankagwira ntchito mochedwa.", "question": "cause", "label": 0, "idx": 91}
+{"premise": "Mwamunayo adachitira umboni alendo.", "choice1": "Anali masomphenya.", "choice2": "Anali kusinkhasinkha.", "question": "cause", "label": 0, "idx": 92}
+{"premise": "Tsitsi la mwamunayo linasanduka lofiirira.", "choice1": "Anaika bleach mmenemo.", "choice2": "Anaika shampu mmenemo.", "question": "cause", "label": 0, "idx": 93}
+{"premise": "Wojambulayo adapanga ntchito yatsopano.", "choice1": "Anatsutsa ntchito yake yam'mbuyomu.", "choice2": "Anamva kudzoza.", "question": "cause", "label": 1, "idx": 94}
+{"premise": "Mwanayo adachoka panyumba.", "choice1": "Anachotsedwa usilikali.", "choice2": "Anali kupita ku koleji.", "question": "cause", "label": 1, "idx": 95}
+{"premise": "Mabuku adagwa m'buku.", "choice1": "Mashelufu anali ataphimbidwa ndi fumbi.", "choice2": "Chivomezi chinagwedeza shelefu ya mabuku.", "question": "cause", "label": 1, "idx": 96}
+{"premise": "Magetsi m'nyumba mwanga adatseka.", "choice1": "Ndinayatsa kuwala.", "choice2": "Ndimabwezeretsanso wodula dera.", "question": "effect", "label": 1, "idx": 97}
+{"premise": "Tinakwera roller coaster.", "choice1": "Zinkawoneka zowopsa.", "choice2": "Zinkawoneka zosangalatsa.", "question": "cause", "label": 1, "idx": 98}
+{"premise": "Thumba la popcorn linayamba kutuluka.", "choice1": "Ndinatsanulira batala m'thumba.", "choice2": "Ndinatentha mu microwave.", "question": "cause", "label": 1, "idx": 99}
+{"premise": "Mtengo unagwera pa chingwe chamagetsi.", "choice1": "Magetsi m'dera lomwelo adazima.", "choice2": "Kuneneratu kunaneneratu za mphepo yamphamvu.", "question": "effect", "label": 0, "idx": 100}
+{"premise": "Wokamba nkhaniyo anapereka ndemanga zolakwika pa ndale.", "choice1": "Anatopetsa omvera.", "choice2": "Anakhumudwitsa omvera.", "question": "effect", "label": 1, "idx": 101}
+{"premise": "Ndinadzibaya ndekha ndi pini.", "choice1": "Mkanda wa thukuta unadontha kumaso kwanga.", "choice2": "Dontho la magazi linapangidwa pa chala changa.", "question": "effect", "label": 1, "idx": 102}
+{"premise": "Nsombazo zinayandama pamwamba pa thanki.", "choice1": "Anali ndi njala.", "choice2": "Inali yakufa.", "question": "cause", "label": 1, "idx": 103}
+{"premise": "Mawu a mwamunayo adamveka phokoso.", "choice1": "Anali ndi chimfine.", "choice2": "Anasiya kusuta.", "question": "cause", "label": 0, "idx": 104}
+{"premise": "Zitseko za chikepe zinatsegulidwa.", "choice1": "Chikepecho chinafika pansi pa malo osankhidwa.", "choice2": "Chikepecho chinamangidwa pakati pa pansi.", "question": "cause", "label": 0, "idx": 105}
+{"premise": "Mnyamatayo adabisala kunja kwa nyumba.", "choice1": "Ananamiza makolo ake.", "choice2": "Makolo ake adamugwetsa.", "question": "cause", "label": 1, "idx": 106}
+{"premise": "Chipinda chosambira chinasefukira.", "choice1": "Chimbudzi chinasefukira.", "choice2": "Chotenthetsera madzi chinasweka.", "question": "cause", "label": 0, "idx": 107}
+{"premise": "Galaluyo adakhala pafupi ndi mwini wake.", "choice1": "Mwiniwakeyo adayika kolala pa galuyo.", "choice2": "Mwiniwakeyo adasunga galuyo pa leash.", "question": "cause", "label": 1, "idx": 108}
+{"premise": "Mwamunayo adagwira malingaliro ake.", "choice1": "Anaima pansi pa mtengo wotambalala.", "choice2": "Anayimirira pamwamba pa nyanja yabata.", "question": "cause", "label": 1, "idx": 109}
+{"premise": "Ndinaphonya foni ya bwenzi langa.", "choice1": "Ndinamuimbira foni.", "choice2": "Ndinakumana naye kuti ndidye chakudya chamadzulo.", "question": "effect", "label": 0, "idx": 110}
+{"premise": "Banjali linafufuza m'dera lomwelo.", "choice1": "Galu wawo adathawa kunyumba.", "choice2": "Zodzikongoletsera zamtengo wapatali zinasowa kunyumba kwawo.", "question": "cause", "label": 0, "idx": 111}
+{"premise": "Ndinawona mpweya wanga pamene ndinapuma.", "choice1": "Nyengo inali yozizira.", "choice2": "Chifuwa changa chinamveka cholimba.", "question": "cause", "label": 0, "idx": 112}
+{"premise": "Ogwira ntchito adapanga mgwirizano.", "choice1": "Iwo ankafuna ntchito yabwino.", "choice2": "Abwana awo adakweza malipiro awo.", "question": "cause", "label": 0, "idx": 113}
+{"premise": "Ndinaphika pie ya apulo.", "choice1": "Fungo lovunda linadzaza khitchini.", "choice2": "Kununkhira kotentha kunadzaza khitchini.", "question": "effect", "label": 1, "idx": 114}
+{"premise": "Mkaziyo adavutika kuyenda.", "choice1": "Anavala nsapato zazitali.", "choice2": "Anavula nsapato zake.", "question": "cause", "label": 0, "idx": 115}
+{"premise": "Nthunzi idakwera mumphika wamadzi.", "choice1": "Madzi adaphika.", "choice2": "Ndinaphimba mphika.", "question": "cause", "label": 0, "idx": 116}
+{"premise": "Masokosi anga onse anali m'malo ochapira.", "choice1": "Ndinkavala nsapato.", "choice2": "Ndinavala nsapato.", "question": "effect", "label": 0, "idx": 117}
+{"premise": "Mfundo ya wandale idawonedwa kuti ndi yopanda pake.", "choice1": "Anataya chithandizo cha ovota.", "choice2": "Anaimbidwa mlandu wa ziphuphu.", "question": "effect", "label": 0, "idx": 118}
+{"premise": "Aliyense sanavomereze chibwenzi cha banjali.", "choice1": "Okwatiranawo adakhala ndi pakati.", "choice2": "Banjali linathawa.", "question": "effect", "label": 1, "idx": 119}
+{"premise": "Nyumbayi idaperekedwa kwa mamiliyoni.", "choice1": "Mamilionea ankafuna kuti nyumbayo igwetsedwe.", "choice2": "Mamilionea adapereka ndalama zomangira.", "question": "cause", "label": 1, "idx": 120}
+{"premise": "Wogulitsa mnzake adaimba mlandu mtsikanayo wakuba.", "choice1": "Wogulitsa malonda adawona mtsikanayo akuyika malonda m'chikwama chake.", "choice2": "Wogulitsa malonda anathandiza mtsikanayo kupeza chikwama chimene ankakonda.", "question": "cause", "label": 0, "idx": 121}
+{"premise": "Dzikoli linalengeza nkhondo kudera loyandikana nalo.", "choice1": "Asilikali anatumizidwa kukamenyana.", "choice2": "Asilikali adagwirizananso ndi mabanja awo.", "question": "effect", "label": 0, "idx": 122}
+{"premise": "Khotili linagwirizana ndi chigamulo chotsutsana.", "choice1": "Chipolowe chinabuka kutsogolo kwa khothi.", "choice2": "Okwatirana adasinthana malumbiro kutsogolo kwa khothi.", "question": "effect", "label": 0, "idx": 123}
+{"premise": "Mtsikanayo anamva fungo la chinachake choyaka.", "choice1": "Anatulutsa makeke mumtsuko.", "choice2": "Anasiya makeke mu uvuni.", "question": "cause", "label": 1, "idx": 124}
+{"premise": "Mvula inali kugwa.", "choice1": "Mphepo yamkuntho idakula kwambiri.", "choice2": "Ndinathamangira kuti ndilowe mkati.", "question": "effect", "label": 1, "idx": 125}
+{"premise": "Nyumbayi idachotsedwa.", "choice1": "Chikepe chinasiya kugwira ntchito.", "choice2": "Alamu yamoto idalira.", "question": "cause", "label": 1, "idx": 126}
+{"premise": "Bamboyo adakwiya ndi uchidakwa wa mwana wake.", "choice1": "Bamboyo adagulira mwana wake mowa.", "choice2": "Bamboyo adathamangitsa mwana wake wamwamuna kunja kwa nyumba.", "question": "effect", "label": 1, "idx": 127}
+{"premise": "Loyayo adakwera masitepe kupita ku ofesi yake.", "choice1": "Mlembiyo anapita kunyumba tsikulo.", "choice2": "Chikepe chinali kunja kwa dongosolo.", "question": "cause", "label": 1, "idx": 128}
+{"premise": "Mwamunayo anakwiya ndi bwenzi lake.", "choice1": "Mnzakeyo adamudodometsa.", "choice2": "Mnzakeyo adamugulira chakudya chamasana.", "question": "cause", "label": 0, "idx": 129}
+{"premise": "Mtsikanayo anapereka ndalama zake kwa wosunga ndalama.", "choice1": "Wosunga ndalama adapatsa mtsikanayo kusintha kwake.", "choice2": "Wosunga ndalama adayiwala kupatsa mtsikanayo chiphaso.", "question": "effect", "label": 0, "idx": 130}
+{"premise": "Mkaziyo anaikidwa pa njinga ya olumala.", "choice1": "Iye anafa ziwalo pangozi.", "choice2": "Analowa m'chipatala ali ndi mtanda.", "question": "cause", "label": 0, "idx": 131}
+{"premise": "Nzika zinapachika mbendera ya dziko kunja kwa nyumba zawo.", "choice1": "Dzikoli linali kukumbukira ufulu wake.", "choice2": "Dzikoli linali kukumana ndi mavuto azachuma.", "question": "cause", "label": 0, "idx": 132}
+{"premise": "Timuyi idataya mpikisanowu.", "choice1": "Anakhumudwitsa mafani awo.", "choice2": "Analimbikitsa mafani awo.", "question": "effect", "label": 0, "idx": 133}
+{"premise": "Mnzanga anandiuza kuti ndinali ndi chakudya chomangidwa m'mano anga.", "choice1": "Ndinachita manyazi.", "choice2": "Ndinamva kunyada.", "question": "effect", "label": 0, "idx": 134}
+{"premise": "Mnyamatayo adalephera mayeso ake a mbiri yakale.", "choice1": "Anamvetsera mkalasi.", "choice2": "Anaiwala kuphunzira.", "question": "cause", "label": 1, "idx": 135}
+{"premise": "Nyumba ya mtawuniyi idagwa.", "choice1": "Chivomezi chinagunda mzindawo.", "choice2": "Kuchuluka kwa upandu mumzindawu kunawonjezeka.", "question": "cause", "label": 0, "idx": 136}
+{"premise": "Chibwenzi cha mwamunayo chinasiyana naye.", "choice1": "Anamupempha kuti amutengerenso.", "choice2": "Anamudziwitsa makolo ake.", "question": "effect", "label": 0, "idx": 137}
+{"premise": "Ana awiriwa nthawi yomweyo adafika pansi kuti atenge mpira.", "choice1": "Mpira unagubuduza.", "choice2": "Mitu yawo inagundana.", "question": "effect", "label": 1, "idx": 138}
+{"premise": "Raccoon idasakaza zinyalala.", "choice1": "Panali makatoni mu zinyalala.", "choice2": "Chivundikirocho chinali kuchoka pa zinyalala.", "question": "cause", "label": 1, "idx": 139}
+{"premise": "Mnyamatayo adanola pensulo.", "choice1": "Zinali zotsika mtengo.", "choice2": "Zinali zotopetsa.", "question": "cause", "label": 1, "idx": 140}
+{"premise": "Wosunga ndalama adakana mkaziyo kubwezeredwa chovalacho.", "choice1": "Anataya chiphaso chake.", "choice2": "Chovalacho sichinagwirizane.", "question": "cause", "label": 0, "idx": 141}
+{"premise": "Chikwapu pakhungu langa chinali chakuya.", "choice1": "Zinachira mwachangu.", "choice2": "Zinasiya chilonda.", "question": "effect", "label": 1, "idx": 142}
+{"premise": "Mwamunayo analandira mawonekedwe achilendo kuchokera kwa okwera sitimayo.", "choice1": "Anali kuyang'anitsitsa pansi.", "choice2": "Anali kulankhula yekha.", "question": "cause", "label": 1, "idx": 143}
+{"premise": "Mwanayo anasiya zidutswa pansi.", "choice1": "Nyerere zinakwawa ku zidutswa.", "choice2": "Mwanayo anaika mkate.", "question": "effect", "label": 0, "idx": 144}
+{"premise": "Mkaziyo anapatsa mlongo wake nsalu.", "choice1": "Mlongo wa mkaziyo adapinda manja ake.", "choice2": "Mlongo wa mkaziyo anayamba kulira.", "question": "cause", "label": 1, "idx": 145}
+{"premise": "Mwamunayo anatenga mint.", "choice1": "Milomo yake inali yosweka.", "choice2": "Adada nkhawa ndi fungo loipa.", "question": "cause", "label": 1, "idx": 146}
+{"premise": "Okwatiranawo adachoka msanga kupita kuwonetsero.", "choice1": "Iwo ankayembekezera magalimoto ozungulira bwalo lamasewero.", "choice2": "Iwo anapeza njira zopita ku zisudzo.", "question": "cause", "label": 0, "idx": 147}
+{"premise": "Mkaziyo adakhala kunyumba kuchokera kuntchito.", "choice1": "Abwana ake adamuyamikira.", "choice2": "Mnzake wantchito adamuphimba.", "question": "effect", "label": 1, "idx": 148}
+{"premise": "Mwamunayo adasaina pempho la omenyera ufulu.", "choice1": "Anathandizira cholinga chawo.", "choice2": "Anawadzudzula kuti ndi openga.", "question": "cause", "label": 0, "idx": 149}
+{"premise": "Mtima wa wosewerayo unali kugwedezeka asanayambe kuchita.", "choice1": "Anali ndi mantha a siteji.", "choice2": "Analoweza mizere yake.", "question": "cause", "label": 0, "idx": 150}
+{"premise": "Ndinasochera.", "choice1": "Ndinawerengera ndalama zanga.", "choice2": "Ndinatsegula mapu.", "question": "effect", "label": 1, "idx": 151}
+{"premise": "Zipatso zokhwima zinakhalabe padzuwa.", "choice1": "Anadyedwa.", "choice2": "Inafota.", "question": "effect", "label": 1, "idx": 152}
+{"premise": "Galimotoyo idasweka.", "choice1": "Ndinatembenuza kuyatsa.", "choice2": "Injini idatentha kwambiri.", "question": "cause", "label": 1, "idx": 153}
+{"premise": "Mwamunayo anavulala msana wake.", "choice1": "Anapita kukaonana ndi dokotala wa zamaganizo.", "choice2": "Anakhala pabedi kwa masiku angapo.", "question": "effect", "label": 1, "idx": 154}
+{"premise": "Ndinayatsa moto pamoto.", "choice1": "Ndinali nditasowa nkhuni.", "choice2": "M'nyumbamo munali kuzizira.", "question": "cause", "label": 1, "idx": 155}
+{"premise": "Mkaziyo anasiya kuthamanga.", "choice1": "Anapeza chilonda m'mbali mwake.", "choice2": "Anapeza mphepo yachiwiri.", "question": "cause", "label": 0, "idx": 156}
+{"premise": "Ndinagogoda pakhomo la mnansi wanga.", "choice1": "Mnansi wanga anandiitanira mkati.", "choice2": "Mnansi wanga adachoka kunyumba kwake.", "question": "effect", "label": 0, "idx": 157}
+{"premise": "Mkaziyo anausa moyo ndi kukhumudwa.", "choice1": "Mwamuna wake sanamvetse nkhawa zake.", "choice2": "Mwamuna wake adamupsompsona.", "question": "cause", "label": 0, "idx": 158}
+{"premise": "Mphunzitsiyo anayamikira wophunzirayo.", "choice1": "Wophunzirayo adayankha funsoli molondola.", "choice2": "Wophunzirayo adazengereza kuyankha funsoli.", "question": "cause", "label": 0, "idx": 159}
+{"premise": "Mkaziyo anatha mazira.", "choice1": "Anapita ku famu.", "choice2": "Anapita ku supamaketi.", "question": "effect", "label": 1, "idx": 160}
+{"premise": "Ndinakumana ndi mnzanga wakale.", "choice1": "Ndinamuululira chinsinsi.", "choice2": "Ndinamukumbatira.", "question": "effect", "label": 1, "idx": 161}
+{"premise": "Mkaziyo adapewa kupita kunyanja.", "choice1": "Anagwira nsomba.", "choice2": "Zinkawoneka zoipitsidwa.", "question": "cause", "label": 1, "idx": 162}
+{"premise": "Wophunzirayo adafika ku kalasi atanyowa.", "choice1": "Ambulera yake idasweka.", "choice2": "Njinga yake idabedwa.", "question": "cause", "label": 0, "idx": 163}
+{"premise": "Cholozera pakompyuta chinasunthira.", "choice1": "Wogwiritsa ntchitoyo adadina mbewa.", "choice2": "Wogwiritsa ntchito adasunthira mbewa.", "question": "cause", "label": 1, "idx": 164}
+{"premise": "Woyendetsa galimotoyo adapatuka.", "choice1": "Ngozi inachitika pamsewu waukulu.", "choice2": "Anatsatira galimoto yomwe inali patsogolo pake.", "question": "cause", "label": 0, "idx": 165}
+{"premise": "Ndinapachika nsalu yonyowa pa chingwe cha zovala zakunja.", "choice1": "Nsalu zinauma.", "choice2": "Nsalu yodetsedwa.", "question": "effect", "label": 0, "idx": 166}
+{"premise": "Mkaziyo adavala mithunzi yake.", "choice1": "Kuwala kwa dzuwa kunali kowala.", "choice2": "Anayamikira taxi.", "question": "cause", "label": 0, "idx": 167}
+{"premise": "Mwamunayo adayang'ana kumwamba usiku.", "choice1": "Analakalaka kuti chikhale chilimwe.", "choice2": "Anaganiza kuti zinali zokongola.", "question": "cause", "label": 1, "idx": 168}
+{"premise": "Ndinamva kutopa.", "choice1": "Ndinagona msanga.", "choice2": "Ndinagona usiku wonse.", "question": "effect", "label": 0, "idx": 169}
+{"premise": "Mwamunayo anapita kwa wometa.", "choice1": "Anali kukula tsitsi lake.", "choice2": "Tsitsi lake linali kutalika.", "question": "cause", "label": 1, "idx": 170}
+{"premise": "Mnyamatayo adasewera machenjerero oipa kwa mnzake watsopano wa m'kalasi.", "choice1": "Mnyamatayo adalandira mnzake watsopanoyo wa m'kalasi.", "choice2": "Mnyamatayo sanakonde mnzake watsopanoyo.", "question": "cause", "label": 1, "idx": 171}
+{"premise": "Ndinalakalaka galasi la mkaka.", "choice1": "Ndinali kudya makeke.", "choice2": "Ndinali kuphika mkate.", "question": "cause", "label": 0, "idx": 172}
+{"premise": "Mvula inayamba kugwa.", "choice1": "Woyendetsa galimotoyo adayatsa magetsi.", "choice2": "Woyendetsa galimotoyo adasunthira galimotoyo kumbuyo.", "question": "effect", "label": 0, "idx": 173}
+{"premise": "Malo oimikapo magalimoto a nyumbayo anali opanda kanthu.", "choice1": "Ndinaimika magalimoto tsidya lina la msewu.", "choice2": "Ndinaimika pafupi ndi khomo.", "question": "effect", "label": 1, "idx": 174}
+{"premise": "Wolembayo adaphonya nthawi yake yomaliza yoperekera chikalatacho.", "choice1": "Anali ndi chipika cholemba.", "choice2": "Anakonza chikalatacho.", "question": "cause", "label": 0, "idx": 175}
+{"premise": "Mnzanga anandipachika foni.", "choice1": "Ndinapempha kuti ndilankhule ndi woyang'anira.", "choice2": "Ndinapereka nambala yanga yozindikiritsa.", "question": "cause", "label": 0, "idx": 176}
+{"premise": "Mphepo inawomba pawindo lotseguka.", "choice1": "Belu la pakhomo linalira.", "choice2": "Nsalu zotchinga zinanjenjemera.", "question": "effect", "label": 1, "idx": 177}
+{"premise": "Magetsi m'nyumba mwanga adatseka.", "choice1": "Ndinachotsa nyali.", "choice2": "Ndinaphulitsa fuyusi.", "question": "cause", "label": 1, "idx": 178}
+{"premise": "Wonyamula zolemera adadandaula.", "choice1": "Anagwedeza minofu yake pagalasi.", "choice2": "Anakweza bala pamutu pake.", "question": "cause", "label": 1, "idx": 179}
+{"premise": "Wophunzirayo anayesa kuchita masamu m'mutu mwake.", "choice1": "Anatulutsa calculator.", "choice2": "Anasokonezeka.", "question": "effect", "label": 1, "idx": 180}
+{"premise": "Mwanayo anagona.", "choice1": "Bamboyo adasintha diaper ya mwanayo.", "choice2": "Bamboyo anagwedeza mwanayo mofatsa.", "question": "cause", "label": 1, "idx": 181}
+{"premise": "Mtsikanayo adaponya chibaluni cha madzi kwa mnyamatayo.", "choice1": "Mnyamatayo adadwala kugwedezeka.", "choice2": "Mnyamatayo adanyowa.", "question": "effect", "label": 1, "idx": 182}
+{"premise": "Wojambula zithunzi adayiwala kugwiritsa ntchito kung'anima pa kamera.", "choice1": "Zithunzizo zinakhala zosaoneka bwino.", "choice2": "Aliyense pazithunzizo anakana kumwetulira.", "question": "effect", "label": 0, "idx": 183}
+{"premise": "Ndinakana kuitanidwa ku phwando la tsiku lobadwa.", "choice1": "Ndinali wosungulumwa.", "choice2": "Ndinali kunja kwa tawuni.", "question": "cause", "label": 1, "idx": 184}
+{"premise": "Ndinachita masewera olimbitsa thupi.", "choice1": "Ndinamva mphamvu.", "choice2": "Ndinali ndi mantha.", "question": "cause", "label": 0, "idx": 185}
+{"premise": "Ndinafinya siponji yonyowa.", "choice1": "Inanyowetsa madzi.", "choice2": "Madzi adatuluka mmenemo.", "question": "effect", "label": 1, "idx": 186}
+{"premise": "Oyendayenda adakwera bwato kupita kumalo ochezera.", "choice1": "Malowa adasungidwa.", "choice2": "Malowa anali pachilumbachi.", "question": "cause", "label": 1, "idx": 187}
+{"premise": "Mnyamatayo adapeza tattoo.", "choice1": "Ankaopa singano.", "choice2": "Anafuna kupanduka.", "question": "cause", "label": 1, "idx": 188}
+{"premise": "Galimoto yosadziwika idaimikidwa kunja kwa nyumba yanga.", "choice1": "Ndinayamba kukayikira.", "choice2": "Ndinaitana apolisi.", "question": "effect", "label": 0, "idx": 189}
+{"premise": "Chigawenga chidadzipereka yekha.", "choice1": "Umboniwo unamukhudza.", "choice2": " Panalibe umboni wotsutsana naye.", "question": "cause", "label": 0, "idx": 190}
+{"premise": "Munthu wolemera adaganiza zochepetsera thupi.", "choice1": "Anadula maswiti.", "choice2": "Anapewa kumwa khofi.", "question": "effect", "label": 0, "idx": 191}
+{"premise": "Mtsikanayo adaponda pa ayezi.", "choice1": "Anatsetsereka.", "choice2": "Iye ananjenjemera.", "question": "effect", "label": 0, "idx": 192}
+{"premise": "Mkaziyo anali ndi mphete pansi pa maso ake.", "choice1": "Anakhala usiku wonse.", "choice2": "Anagoneka mwana wake wamwamuna.", "question": "cause", "label": 0, "idx": 193}
+{"premise": "Phulusa linayenda kuchokera ku phirilo.", "choice1": "Phirilo linaphulika.", "choice2": "Phirilo linali logona.", "question": "cause", "label": 0, "idx": 194}
+{"premise": "Mkaziyo adavala nsapato zake.", "choice1": "Ankadziwa aliyense paphwando.", "choice2": "Ankafuna kuchoka paphwando.", "question": "cause", "label": 1, "idx": 195}
+{"premise": "Ndinalipira woyang'anira tollbooth.", "choice1": "Anandilola kuti ndidutse m'malo ogulitsira ndalama.", "choice2": "Anandisunga ku tollbooth.", "question": "effect", "label": 0, "idx": 196}
+{"premise": "Mkuluyo adalephera.", "choice1": "Anagulitsa katundu wa kampani yake.", "choice2": "Anawononga chuma chake.", "question": "cause", "label": 1, "idx": 197}
+{"premise": "Mwamunayo anapita kwa dokotala.", "choice1": "Dokotalayo anali pa tchuthi.", "choice2": "Mwamunayo anadwala.", "question": "cause", "label": 1, "idx": 198}
+{"premise": "Ndinatuluka m'chipinda changa chogona kudzera pawindo.", "choice1": "Nyumbayo inali pamoto.", "choice2": "Nyumbayo inali yopanda kanthu.", "question": "cause", "label": 0, "idx": 199}
+{"premise": "Zala za mnyamatayo zinakhala zowonongeka.", "choice1": "Anasamba nthawi yayitali.", "choice2": "Anapukuta manja ake ndi sopo.", "question": "cause", "label": 0, "idx": 200}
+{"premise": "Ndimalavulira mkaka.", "choice1": "Mkaka unali wowawasa.", "choice2": "Pakamwa panga panali youma.", "question": "cause", "label": 0, "idx": 201}
+{"premise": "Ndinaphonya basi.", "choice1": "Ndinali woyambirira kugwira ntchito.", "choice2": "Ndinachedwa kuntchito.", "question": "effect", "label": 1, "idx": 202}
+{"premise": "Galimotoyo idagundana ndi galimotoyo.", "choice1": "Galimotoyo idathamanga.", "choice2": "Galimotoyo idaphwanyidwa.", "question": "effect", "label": 1, "idx": 203}
+{"premise": "Gululi linanyenga mpikisanowu mokomera iwo.", "choice1": "Iwo anapambana.", "choice2": " Iwo anasiya.", "question": "effect", "label": 0, "idx": 204}
+{"premise": "Botolo la soda linalira.", "choice1": "Ndinatembenuza botolo.", "choice2": "Ndinakhotakhota kapu.", "question": "cause", "label": 1, "idx": 205}
+{"premise": "Mnyamatayo adatsekedwa kunja kwa nyumba yake.", "choice1": "Anakwawa pawindo lotseguka.", "choice2": "Anakwera padenga.", "question": "effect", "label": 0, "idx": 206}
+{"premise": "Belu la pakhomo linalira.", "choice1": "Mlendoyo adagogoda wogogoda pakhomo.", "choice2": "Mkaziyo adayang'ana kupyola dzenje la kiyi pakhomo.", "question": "effect", "label": 1, "idx": 207}
+{"premise": "Mwamunayo adadetsa suti yake.", "choice1": "Anaziyeretsa zouma.", "choice2": "Anapachika m'chipinda chake.", "question": "effect", "label": 0, "idx": 208}
+{"premise": "Mtsikanayo adafinya chubu cha mankhwala otsukira mano.", "choice1": "Mankhwala otsukira mano adatuluka mu chubu.", "choice2": "Mtsikanayo adatulutsa mankhwala otsukira mano.", "question": "effect", "label": 0, "idx": 209}
+{"premise": "Imfa za anthu wamba pankhondoyi zinawonjezeka.", "choice1": "Pacifists adachita zionetsero.", "choice2": "Pacifists adachita perete.", "question": "effect", "label": 0, "idx": 210}
+{"premise": "Mtsikanayo adatulutsa riboni m'tsitsi lake.", "choice1": "Anamanga riboni.", "choice2": "Riboni inkawoneka ngati mwana.", "question": "cause", "label": 1, "idx": 211}
+{"premise": "Mwamunayo anachitidwa opaleshoni ya pulasitiki.", "choice1": "Anakalamba.", "choice2": "Anawoneka wamng'ono.", "question": "effect", "label": 1, "idx": 212}
+{"premise": "Mwana wa nkhuku adatuluka mu dzira.", "choice1": "Dzira linabereka.", "choice2": "Ndinaphwanya dzira.", "question": "cause", "label": 0, "idx": 213}
+{"premise": "Mkaidi anafa ndi njala.", "choice1": "Anafa.", "choice2": "Anathawa.", "question": "effect", "label": 0, "idx": 214}
+{"premise": "Mwamunayo anataya kulinganizika kwake pa makwerero.", "choice1": "Anakwera makwerero.", "choice2": "Anagwa kuchokera pa makwerero.", "question": "effect", "label": 1, "idx": 215}
+{"premise": "Mwanayo anaphulika.", "choice1": "Anatenga swig ya soda.", "choice2": "Anatsegula chitini cha soda.", "question": "cause", "label": 0, "idx": 216}
+{"premise": "Chikalata chozizira chinalowa pazenera.", "choice1": "Ndinapuma.", "choice2": "Ndinanjenjemera.", "question": "effect", "label": 1, "idx": 217}
+{"premise": "Wophunzirayo adalandira maphunziro opita ku koleji.", "choice1": "Anzake a m'kalasi ankamulemekeza.", "choice2": "Anapanga magiredi abwino.", "question": "cause", "label": 1, "idx": 218}
+{"premise": "Mtsikanayo adaseka mnyamatayo.", "choice1": "Ankakhala pafupi naye.", "choice2": "Anali ndi chikondi pa iye.", "question": "cause", "label": 1, "idx": 219}
+{"premise": "Woyendayenda wanjala adaba chakudya.", "choice1": "Anamvera chisoni.", "choice2": "Analibe ndalama.", "question": "cause", "label": 1, "idx": 220}
+{"premise": "Ndinaitana mnzanga kuti akambirane.", "choice1": "Ndinkafuna zachinsinsi.", "choice2": "Ndinamva kusungulumwa.", "question": "cause", "label": 1, "idx": 221}
+{"premise": "Mwamunayo anatambasula dzanja lake kwa ine.", "choice1": "Ndinamugwedeza dzanja.", "choice2": "Ndinamumenya mbama.", "question": "effect", "label": 0, "idx": 222}
+{"premise": "Ndinabisa.", "choice1": "Ma fireworks adayambitsidwa mlengalenga.", "choice2": "Frisbee idakwera kumutu kwanga.", "question": "cause", "label": 1, "idx": 223}
+{"premise": "Mtsikanayo adaluma misomali yake.", "choice1": "Anali ndi nkhawa.", "choice2": "Anadabwa.", "question": "cause", "label": 0, "idx": 224}
+{"premise": "Ndinatembenuza tsamba pa kalendala.", "choice1": "Ndinalemba pangano pa kalendala.", "choice2": "Chinali chiyambi cha mwezi watsopano.", "question": "cause", "label": 1, "idx": 225}
+{"premise": "Mwamunayo anapeza kuti mkazi wake anali ndi chibwenzi.", "choice1": "Anachotsa loya wake.", "choice2": "Adalemba chisudzulo.", "question": "effect", "label": 1, "idx": 226}
+{"premise": "Mtsikanayo adaponya mpira wa mphira.", "choice1": "Mpira unabwera.", "choice2": "Mpira unawala.", "question": "effect", "label": 0, "idx": 227}
+{"premise": "Mtsikanayo adalakwitsa mayeso ake.", "choice1": "Anaganiza za yankho.", "choice2": "Anafafaniza yankho lake.", "question": "effect", "label": 1, "idx": 228}
+{"premise": "Wosewerayo adathana ndi mdani wake.", "choice1": "Wotsutsa wake adagwira chiphasocho.", "choice2": "Mdani wake adagunda pansi.", "question": "effect", "label": 1, "idx": 229}
+{"premise": "Ndinatola tomato kuchokera ku mpesa.", "choice1": "Iwo anali okhwima.", "choice2": "Ndinawathirira kuthirira.", "question": "cause", "label": 0, "idx": 230}
+{"premise": "Mwamunayo ankafuna kuchita chikondi.", "choice1": "Anakumana ndi chibwenzi chake chakale kuti adye chakudya chamasana.", "choice2": "Anagulira bwenzi lake chokoleti.", "question": "effect", "label": 1, "idx": 231}
+{"premise": "Mercury mu thermometer idakwera.", "choice1": "Ndinagwetsa thermometer.", "choice2": "Nyengo idatentha.", "question": "cause", "label": 1, "idx": 232}
+{"premise": "Mphepo yamkuntho inabwera mtawuniyi.", "choice1": "Denga la khothi linaphulika.", "choice2": "Msewu waukuluwo unakhala wozizira kwambiri.", "question": "effect", "label": 0, "idx": 233}
+{"premise": "Wophunzirayo adalandira maphunziro.", "choice1": "Magiredi ake adawongolera.", "choice2": "Ananyenga mayeso.", "question": "effect", "label": 0, "idx": 234}
+{"premise": "Ndinamva bwino.", "choice1": "Ndinagwada pansi.", "choice2": "Ndinadzikulunga ndekha mu bulangeti.", "question": "cause", "label": 1, "idx": 235}
+{"premise": "Ndinapukuta mwalawo.", "choice1": "Zinakhala zotsetsereka.", "choice2": "Zinakhala zonyezimira.", "question": "effect", "label": 1, "idx": 236}
+{"premise": "Ndinawonjezera shuga ku khofi.", "choice1": "Khofi anali kununkhiza mwamphamvu.", "choice2": "Khofi anali wokoma.", "question": "effect", "label": 1, "idx": 237}
+{"premise": "Mwamunayo adadutsa mapepalawo.", "choice1": "Anadulidwa pepala.", "choice2": "Anaphwanya mapepalawo.", "question": "effect", "label": 0, "idx": 238}
+{"premise": "Ndinagunda msomali ndi nyundo.", "choice1": "Msomaliwo unamira m'nkhalango.", "choice2": "Msomaliwo unakhala dzimbiri.", "question": "effect", "label": 0, "idx": 239}
+{"premise": "Nsombazo zinaluma mzere.", "choice1": "Msodziyo anagwedeza nsombazo.", "choice2": "Msodziyo adakonzanso mzerewo.", "question": "effect", "label": 0, "idx": 240}
+{"premise": "Mnyamatayo anachita manyazi kupita kusukulu.", "choice1": "Anapeza chiphuphu.", "choice2": "Anachotsa zomangira zake.", "question": "cause", "label": 0, "idx": 241}
+{"premise": "Maonekedwe anga a nkhope anawala.", "choice1": "Ndinalandira uthenga wabwino.", "choice2": "Ndinataya kuleza mtima kwanga.", "question": "cause", "label": 0, "idx": 242}
+{"premise": "Ndinapukuta manja anga ndi thaulo.", "choice1": "Chopukutira chinali chonyowa.", "choice2": "Manja anga anali onyowa.", "question": "cause", "label": 1, "idx": 243}
+{"premise": "Mwamunayo anataya kulinganizika kwake pa mpando.", "choice1": "Mpando unagwedezeka pansi pake.", "choice2": "Anatsanulira utoto pampando.", "question": "cause", "label": 0, "idx": 244}
+{"premise": "Ogwira nawo ntchito adawongolera mlandu wina ndi mnzake.", "choice1": "Anataya masewera awo.", "choice2": "Mphunzitsi wawo adaletsa kuyeseza.", "question": "cause", "label": 0, "idx": 245}
+{"premise": "Ndinapempha chikhululukiro.", "choice1": "Ndinanong'oneza bondo chifukwa cha kulakwitsa kwanga.", "choice2": "Ndinakwaniritsa cholinga changa.", "question": "cause", "label": 0, "idx": 246}
+{"premise": "Mkaziyo anatopa ndi tsiku lake.", "choice1": "Anamufunsa mafunso okhudza iye mwini.", "choice2": "Analankhula mosalekeza za iye mwini.", "question": "cause", "label": 1, "idx": 247}
+{"premise": "Mtsikanayo adamwetulira.", "choice1": "Masaya ake adafiira.", "choice2": "Ma dimples ake adawonetsa.", "question": "effect", "label": 1, "idx": 248}
+{"premise": "Chombo cha adani chinaphulika.", "choice1": "Inadutsa pamgodi.", "choice2": "Idapita ku doko.", "question": "cause", "label": 0, "idx": 249}
+{"premise": "Mwamunayo anaboola phazi lake.", "choice1": "Analowa m'chitsime.", "choice2": "Anaponda pa galasi losweka.", "question": "cause", "label": 1, "idx": 250}
+{"premise": "Akatswiriwo anafufuza malo ochitira umbanda kuti apeze zala.", "choice1": "Iwo anapeza chizindikiritso cha wakuphayo.", "choice2": "Iwo anapeza chidacho pamalo ochitira umbanda.", "question": "effect", "label": 0, "idx": 251}
+{"premise": "Panali magalimoto ambiri pamsewu waukulu.", "choice1": "Ndinatenga njira yopatuka.", "choice2": "Ndinapempha kukwera.", "question": "effect", "label": 0, "idx": 252}
+{"premise": "Chuma cha dzikolo chinatsika.", "choice1": "Anthu ambiri anadwala.", "choice2": "Anthu ambiri anakumana ndi ulova.", "question": "effect", "label": 1, "idx": 253}
+{"premise": "Mlonda wowoloka adawomba chitoliro chake kwa anawo.", "choice1": "Iwo anali pafupi kuyenda m'magalimoto omwe akubwera.", "choice2": "Anawazindikira kuchokera kudera lake.", "question": "cause", "label": 0, "idx": 254}
+{"premise": "Ndinagubuduza maso anga kwa bwenzi langa.", "choice1": "Anandiuza zoona.", "choice2": "Analankhula mawu onyoza.", "question": "cause", "label": 1, "idx": 255}
+{"premise": "Galimotoyo inatha mafuta.", "choice1": "Woyendetsa galimotoyo adakanthidwa pamsewu.", "choice2": "Woyendetsa galimotoyo adatenga hitchhiker.", "question": "effect", "label": 0, "idx": 256}
+{"premise": "Mkaziyo adayamba kubereka.", "choice1": "Mwanayo adabereka.", "choice2": "Mkaziyo anali ndi matenda a m'mawa.", "question": "effect", "label": 0, "idx": 257}
+{"premise": "Chipewa cha mwamunayo chinaphulika.", "choice1": "Anavula chipewa.", "choice2": "Kunja kunali mphepo.", "question": "cause", "label": 1, "idx": 258}
+{"premise": "Mtsikanayo adapita ku phwando lobadwa la mnzake wa m'kalasi.", "choice1": "Analandira pempho.", "choice2": "Anagula mphatso.", "question": "cause", "label": 0, "idx": 259}
+{"premise": "Mphumi ya mnyamatayo inamva kutentha.", "choice1": "Amayi ake adatenga kutentha kwake.", "choice2": "Amayi ake adapita naye ku paki.", "question": "effect", "label": 0, "idx": 260}
+{"premise": "Mwamunayo adadzipopera yekha cologne.", "choice1": "Ankafuna kukondweretsa tsiku lake.", "choice2": "Anaika gel mu tsitsi lake.", "question": "cause", "label": 0, "idx": 261}
+{"premise": "Magetsi mnyumbamo adatseka.", "choice1": "Ndinayang'ana tochi.", "choice2": "Ndinatenga fosholo.", "question": "effect", "label": 0, "idx": 262}
+{"premise": "Banjali linasamukira kunyumba yayikulu.", "choice1": "Mwanayo adamaliza sukulu ya sekondale.", "choice2": "Amayiwo adabereka mapasa.", "question": "cause", "label": 1, "idx": 263}
+{"premise": "Wothamanga adapitilizabe pang'onopang'ono.", "choice1": "Ankafuna kusunga mphamvu zake.", "choice2": "Anawona mzere womaliza.", "question": "cause", "label": 0, "idx": 264}
+{"premise": "Mnyamatayo adaponya makina ogulitsa.", "choice1": "Makinawo adalavulira kusintha.", "choice2": "Thumba la tchipisi linamangika.", "question": "cause", "label": 1, "idx": 265}
+{"premise": "Galu wa mnzanga anamwalira.", "choice1": "Ndinagubuduza maso anga pa iye.", "choice2": "Ndinamukumbatira.", "question": "effect", "label": 1, "idx": 266}
+{"premise": "Khadi la ngongole la wamalonda linakanidwa.", "choice1": "Analemba IOU.", "choice2": "Analipira ndi ndalama.", "question": "effect", "label": 1, "idx": 267}
+{"premise": "Mwamunayo anatemberera.", "choice1": "Anadula misomali yake.", "choice2": "Anagwedeza chala chake.", "question": "cause", "label": 1, "idx": 268}
+{"premise": "Mwamunayo ankanyadira mchimwene wake.", "choice1": "Mchimwene wake adakangana ndi makolo awo.", "choice2": "Mchimwene wake adalandiridwa kusukulu ya zamalamulo.", "question": "cause", "label": 1, "idx": 269}
+{"premise": "Mtsikanayo ankafuna kuphunzira za dongosolo la dzuwa.", "choice1": "Anapita ku laibulale.", "choice2": "Anayang'ana nyenyezi.", "question": "effect", "label": 0, "idx": 270}
+{"premise": "Chikwangwanicho chinamamatira pakhoma.", "choice1": "Ndinayika chikwangwanicho pamwamba pa chitseko.", "choice2": "Ndinayika tepi kumbuyo kwa chikwangwanicho.", "question": "cause", "label": 1, "idx": 271}
+{"premise": "Kasitomala adavomereza mapulani a womanga nyumbayo.", "choice1": "Wopanga mapulani adamanga nyumbayo.", "choice2": "Wopanga mapulani adasintha mapulaniwo.", "question": "effect", "label": 0, "idx": 272}
+{"premise": "Mwamunayo adaponya supuni yake.", "choice1": "Dzanja lake linali kunjenjemera.", "choice2": "Ananyamula supuni.", "question": "cause", "label": 0, "idx": 273}
+{"premise": "Mtsogoleri wamkulu wa kampaniyo adatula pansi udindo.", "choice1": "Bungwe la oyang'anira linathetsa kampaniyo.", "choice2": "Bungwe la oyang'anira linapeza m'malo mwake.", "question": "effect", "label": 1, "idx": 274}
+{"premise": "Ndinafika mochedwa ku nkhaniyo.", "choice1": "Ndinakhala pamzere wakumbuyo.", "choice2": "Ndinayandikira pa podium.", "question": "effect", "label": 0, "idx": 275}
+{"premise": "Mwamunayo adatulutsidwa m'ndende.", "choice1": "Banja lake linalipira chindapusa chake.", "choice2": "Anaukira mkaidi mnzake.", "question": "cause", "label": 0, "idx": 276}
+{"premise": "Banjali linataya katundu wawo yense.", "choice1": "Anagulitsa nyumba yawo.", "choice2": "Nyumba yawo idayaka moto.", "question": "cause", "label": 1, "idx": 277}
+{"premise": "Ndinapondaponda chitini cha aluminiyamu.", "choice1": "Chitini chinabwezeretsedwanso.", "choice2": "Chitini chinaphwanyidwa.", "question": "effect", "label": 1, "idx": 278}
+{"premise": "Mtsikanayo adalumikizana ndi gulu la mkangano.", "choice1": "Anaphunzira kugwiritsa ntchito kompyuta.", "choice2": "Anaphunzira luso la kulankhulana.", "question": "effect", "label": 1, "idx": 279}
+{"premise": "Maganizo anga adawongolera.", "choice1": "Ndinamvera nyimbo.", "choice2": "Ndinachita mbale.", "question": "cause", "label": 0, "idx": 280}
+{"premise": "Bungweli linapanga cholinga chofuna kupeza ndalama.", "choice1": "Anadyetsa anthu opanda pokhala.", "choice2": "Iwo anachita malonda ogulitsa.", "question": "effect", "label": 1, "idx": 281}
+{"premise": "Sitima yodzigudubuza inagwera pansi pa dontho lotsetsereka.", "choice1": "Apaulendo adaseka.", "choice2": "Apaulendo adafuula.", "question": "effect", "label": 1, "idx": 282}
+{"premise": "Ndinakwiya kwambiri.", "choice1": "Ndinayang'ana bokosi la makalata nditachoka panyumba.", "choice2": "Ndinagunda chitseko nditachoka panyumbapo.", "question": "effect", "label": 1, "idx": 283}
+{"premise": "Mwamunayo ankafuna kuyang'ana kutuluka kwa dzuwa.", "choice1": "Anayenda kumpoto.", "choice2": "Anadzuka m'mawa.", "question": "effect", "label": 1, "idx": 284}
+{"premise": "Ndinapinda pepalalo.", "choice1": "Ndinabwezeretsanso pepalalo.", "choice2": "Pepalalo linagwedezeka.", "question": "effect", "label": 1, "idx": 285}
+{"premise": "Mtunduwu unapirira tsoka lachilengedwe.", "choice1": "Atsogoleri a mayiko ena anapanga mgwirizano.", "choice2": "Atsogoleri a mayiko ena anatumiza chithandizo chadzidzidzi.", "question": "effect", "label": 1, "idx": 286}
+{"premise": "Zovala za mnyamatayo zinanyowa.", "choice1": "Anatuluka m'dziwe.", "choice2": "Anagwera m'dziwe.", "question": "cause", "label": 1, "idx": 287}
+{"premise": "Wophunzirayo adathamangira kukamaliza bukuli.", "choice1": "Iyenera kubwezeredwa ku laibulale.", "choice2": "Anabwereka kwa mnzake.", "question": "cause", "label": 0, "idx": 288}
+{"premise": "Chigawenga chinaphedwa.", "choice1": "Anaponyedwa m'ndende.", "choice2": "Anapezeka ndi mlandu wakupha.", "question": "cause", "label": 1, "idx": 289}
+{"premise": "Kuwala kwa dzuwa kunalowa mchipindamo.", "choice1": "Ndinatsegula nsalu zotchinga.", "choice2": "Ndinatsegula chitseko.", "question": "cause", "label": 0, "idx": 290}
+{"premise": "Ndinachotsa tsitsi la wonyengayo.", "choice1": "Wig yake idachoka.", "choice2": "Anakhala ndi tsitsi.", "question": "effect", "label": 0, "idx": 291}
+{"premise": "Mkonzi adakonzanso chiganizo m'malembo apamanja.", "choice1": "Anapeza kuti malembo apamanja ndi okakamiza.", "choice2": "Iye adawona kuti chilangocho sichikudziwika bwino.", "question": "cause", "label": 1, "idx": 292}
+{"premise": "Mkaziyo adachotsa akaunti yake ya kirediti kadi.", "choice1": "Anazindikira kuti khadiyo likusowa.", "choice2": "Anazindikira kuti khadilo latha.", "question": "cause", "label": 0, "idx": 293}
+{"premise": "Mwamunayo ndi mkaziyo anakondana.", "choice1": "Anapita ku koleji.", "choice2": "Iwo anakwatirana.", "question": "effect", "label": 1, "idx": 294}
+{"premise": "Nyimbozo zinali zofooka kwambiri kuti zimve.", "choice1": "Ndinatembenuza voliyumu.", "choice2": "Ndinalemba nyimbo yanga.", "question": "effect", "label": 0, "idx": 295}
+{"premise": "Tsitsi la mnyamatayo linali kumamatira.", "choice1": "Mtsikanayo adazigwedeza.", "choice2": "Mtsikanayo adakoka izo.", "question": "cause", "label": 0, "idx": 296}
+{"premise": "Kachilomboka kadawonongeka.", "choice1": "Ndinadzipopera ndekha ndi mankhwala othamangitsa tizilombo.", "choice2": "Ndinaponda kachilomboka.", "question": "cause", "label": 1, "idx": 297}
+{"premise": "Ndinatsegula maso anga.", "choice1": "Ndinadzuka.", "choice2": "Ndinapuma.", "question": "cause", "label": 0, "idx": 298}
+{"premise": "Nyimbo za mnansi wanga zinali kulira.", "choice1": "Ndinamupempha kuti akane.", "choice2": "Ndinapempha kuti ndibweke CD kwa iye.", "question": "effect", "label": 0, "idx": 299}
+{"premise": "Banja la mwamunayo linkakhala mu umphawi.", "choice1": "Iye anali wosamala ndi ndalama zomwe ankapeza.", "choice2": "Analandira malipiro osachepera.", "question": "cause", "label": 1, "idx": 300}
+{"premise": "Wophunzirayo adamaliza maphunziro ake ku yunivesite.", "choice1": "Anafunafuna ntchito.", "choice2": "Anayamba kuchita zosangalatsa.", "question": "effect", "label": 0, "idx": 301}
+{"premise": "Wojambulayo adasakaniza utoto wachikasu mu utoto wabuluu.", "choice1": "Utoto unamwaza paliponse.", "choice2": "Utoto unasanduka wobiriwira.", "question": "effect", "label": 1, "idx": 302}
+{"premise": "Ndinasintha mutu wa zokambirana.", "choice1": "Ndinatha zinthu zoti ndikambirane.", "choice2": "Zokambiranazo zinakhala zovuta.", "question": "cause", "label": 1, "idx": 303}
+{"premise": "Mchimwene wanga anatulutsidwa kuchipatala.", "choice1": "Ndinamulandira kunyumba.", "choice2": "Ndinamupatsa phewa lozizira.", "question": "effect", "label": 0, "idx": 304}
+{"premise": "Nsalu yotchinga pa siteji idakwera.", "choice1": "Malo otsegulira masewerawa adayamba.", "choice2": "Osewera mu seweroli adatuluka pa siteji.", "question": "effect", "label": 0, "idx": 305}
+{"premise": "Wogwidwayo adagonjera malamulo a wobayo.", "choice1": "Wobayo adawopseza kuti adzavulaza wogwidwayo.", "choice2": "Wobayo adasiya mkaidiyo yekha.", "question": "cause", "label": 0, "idx": 306}
+{"premise": "Phokoso linamveka kudutsa siteji.", "choice1": "Woimbayo adagunda phazi lake.", "choice2": "Woimbayo adagunda ng'oma.", "question": "cause", "label": 1, "idx": 307}
+{"premise": "Makolowo anathamangira kuchipinda chogona cha mwana wawo.", "choice1": "Mwanayo adadzuka akufuula kuchokera ku maloto owopsa.", "choice2": "Mwanayo adachita mantha kuyang'ana pansi pa bedi lake.", "question": "cause", "label": 0, "idx": 308}
+{"premise": "Mkaziyo analankhulana ndi chinenero chamanja.", "choice1": "Anabadwa nthawi isanakwane.", "choice2": "Anabadwa wogontha.", "question": "cause", "label": 1, "idx": 309}
+{"premise": "Chilala chinachitika m'derali.", "choice1": "Madziwo adaipitsidwa.", "choice2": "Mbewu zinawonongeka.", "question": "effect", "label": 1, "idx": 310}
+{"premise": "Mphaka adathamangitsa mbalameyo.", "choice1": "Mbalameyo inauluka.", "choice2": "Mbalameyi inagwira nyongolotsi.", "question": "effect", "label": 0, "idx": 311}
+{"premise": "Mtsikanayo adasintha sukulu.", "choice1": "Sukulu imatuluka m'chilimwe.", "choice2": "Anasamukira ku tawuni yatsopano.", "question": "cause", "label": 1, "idx": 312}
+{"premise": "Mwini fakitaleyo anakana kukweza malipiro a antchito.", "choice1": "Mwiniwakeyo adasankha manejala watsopano.", "choice2": "Ogwira ntchitowo adayamba kugwira ntchito.", "question": "effect", "label": 1, "idx": 313}
+{"premise": "Mtsogoleriyo adatsutsa anthu okonda zachiwawa pakati pa dziko lake.", "choice1": "Anthu okonda zachiwawa adamukhudza.", "choice2": "Anthu okonda zachiwawa adamupha.", "question": "effect", "label": 1, "idx": 314}
+{"premise": "Ndinayenda wopanda nsapato pagombe.", "choice1": "Mchenga unamamatira kumapazi anga.", "choice2": "Mafunde adagunda m'mphepete mwa nyanja.", "question": "effect", "label": 0, "idx": 315}
+{"premise": "Ndinadzuka pakati pausiku ndikumva kuzizira.", "choice1": "Ndinavala thukuta.", "choice2": "Ndinamwa kapu ya madzi.", "question": "effect", "label": 0, "idx": 316}
+{"premise": "Amayiwo adaletsa mwana wake wamwamuna.", "choice1": "Mwana wake wamwamuna anamwetulira.", "choice2": "Mwana wake wamwamuna analira.", "question": "cause", "label": 1, "idx": 317}
+{"premise": "Dzenje linang'amba mu jeans yanga.", "choice1": "Ndinavala jeans.", "choice2": "Ndinapunthwa pamsewu.", "question": "cause", "label": 1, "idx": 318}
+{"premise": "Mnyamatayo adavala zomangira.", "choice1": "Ali ndi dzenje.", "choice2": "Mano ake adakhala owongoka.", "question": "effect", "label": 1, "idx": 319}
+{"premise": "Ndinagwira ntchito ku masewera olimbitsa thupi dzulo.", "choice1": "Ndadzuka lero ndi minofu yowawa.", "choice2": "Ndadzuka lero ndikupweteka pakhosi.", "question": "effect", "label": 0, "idx": 320}
+{"premise": "Mtsikanayo adanong'onezana mmbuyo ndi mtsogolo patebulo la chakudya chamasana.", "choice1": "Ophunzira ena adakhala pansi patebulo la chakudya chamasana.", "choice2": "Ophunzira ena patebulo la chakudya chamasana adadzimva kuti adasiyidwa.", "question": "effect", "label": 1, "idx": 321}
+{"premise": "Mwanayo adatera pa trampoline.", "choice1": "Anabwereranso mlengalenga.", "choice2": "Anaganiza zoyesa kuchita flip.", "question": "effect", "label": 0, "idx": 322}
+{"premise": "Ndinaika kalatayo m'bokosi la makalata.", "choice1": "Ofesi ya positi idapereka kalatayo.", "choice2": "Ofesi ya positi idafulumiza kalatayo.", "question": "effect", "label": 0, "idx": 323}
+{"premise": "Wotchova juga anali ndi chidaliro.", "choice1": "Anabetcherana ndalama zake zonse.", "choice2": "Anapita kunyumba atasweka.", "question": "effect", "label": 0, "idx": 324}
+{"premise": "Moto wa nkhalango unafalikira.", "choice1": "Mphepo inakhala yamphamvu.", "choice2": "Ootcha moto adagwidwa.", "question": "cause", "label": 0, "idx": 325}
+{"premise": "Mwanayo anadula khungu la bondo lake.", "choice1": "Amayi ake adamutumiza kuchipinda chake.", "choice2": "Amayi ake anaika bandage pa chilondacho.", "question": "effect", "label": 1, "idx": 326}
+{"premise": "Mwamunayo adapulumuka matenda akupha.", "choice1": "Anasaina chifuniro chake.", "choice2": "Analandira chiwalo.", "question": "cause", "label": 1, "idx": 327}
+{"premise": "Ndinamwa khofi wotentha kwambiri.", "choice1": "Ndinaluma lilime langa.", "choice2": "Ndinatentha lilime langa.", "question": "effect", "label": 1, "idx": 328}
+{"premise": "Mkonzi adachotsa wolembayo.", "choice1": "Wolembayo adapewa kukondera m'nkhani zake.", "choice2": "Wolembayo adaphonya nthawi yofunika.", "question": "cause", "label": 1, "idx": 329}
+{"premise": "Ndinamva kutopa.", "choice1": "Ndinagona tsiku lonse.", "choice2": "Ndinaphunzira tsiku lonse.", "question": "cause", "label": 1, "idx": 330}
+{"premise": "Dokotala adapeza wodwalayo.", "choice1": "Anazindikira zizindikiro za wodwalayo.", "choice2": "Analembera wodwalayo mapiritsi.", "question": "cause", "label": 0, "idx": 331}
+{"premise": "Ndinakanda khungu langa.", "choice1": "Zinali thukuta.", "choice2": "Zinamveka kuyabwa.", "question": "cause", "label": 1, "idx": 332}
+{"premise": "Mwamunayo anachitidwa opaleshoni yadzidzidzi.", "choice1": "Anapsa mtima.", "choice2": "Anadwala matenda a mtima.", "question": "cause", "label": 1, "idx": 333}
+{"premise": "Minofu ya mkono wa mwamunayo idatupa.", "choice1": "Anagwedeza manja ake.", "choice2": "Anakuntha manja ake.", "question": "cause", "label": 0, "idx": 334}
+{"premise": "Mwamunayo adakweza nsidze zake.", "choice1": "Anadabwa.", "choice2": "Anakhumudwa.", "question": "cause", "label": 0, "idx": 335}
+{"premise": "Ndinakhululukira kulakwitsa kwa mnzanga.", "choice1": "Ndinakhulupirira kuti zolinga zake zinali zabwino.", "choice2": "Ndinakhulupirira kuti amadziwa bwino.", "question": "cause", "label": 0, "idx": 336}
+{"premise": "Mwamunayo anasiya kusuta.", "choice1": "Anayamba kuchita masewera olimbitsa thupi kwambiri.", "choice2": "Anayamba kudzuka msanga.", "question": "effect", "label": 0, "idx": 337}
+{"premise": "Mkaziyo anamenya munthu amene anamuukira m'mphuno.", "choice1": "Thupi la woukirayo linalibe moyo.", "choice2": "Woukirayo adayamba kutuluka magazi.", "question": "effect", "label": 1, "idx": 338}
+{"premise": "Muvi unaphonya diso la ng'ombe.", "choice1": "Cholinga cha mwamunayo chinali chochoka.", "choice2": "Mwamunayo anali kutaya masewerawa.", "question": "cause", "label": 0, "idx": 339}
+{"premise": "Mwini nyumbayo anapempha kuti wopha anthu abwere kunyumba kwake.", "choice1": "Anapeza makoswe m'chipinda chapansi.", "choice2": "Anasunga famu ya nyerere m'chipinda chake.", "question": "cause", "label": 0, "idx": 340}
+{"premise": "Ndinapereka lingaliro kwa mlendo wanga wa m'nyumba kuti tipite kukadya chakudya chamadzulo.", "choice1": "Ndinali wotopa kwambiri kuti ndikonzekere chilichonse.", "choice2": "Mlendo wanga wapanyumba adapitilira kulandiridwa kwake.", "question": "cause", "label": 0, "idx": 341}
+{"premise": "Mtsikanayo adagwira mchimwene wake akuwerenga diary yake.", "choice1": "Anayamba kubisa diary.", "choice2": "Anapeza diary yatsopano.", "question": "effect", "label": 0, "idx": 342}
+{"premise": "Mkaziyo anali ndi ndalama zochepa zogulira lendi.", "choice1": "Anagwira ntchito nthawi yowonjezera.", "choice2": "Anasiya ntchito yake.", "question": "effect", "label": 0, "idx": 343}
+{"premise": "Dzanja la mwanayo linabwerera m'mbuyo mwamsanga.", "choice1": "Anakhudza chitofu chotentha.", "choice2": "Anagwedeza mutu wa galuyo.", "question": "cause", "label": 0, "idx": 344}
+{"premise": "Kampaniyo inkafuna kuyeza kukhutira kwa makasitomala.", "choice1": "Anapereka kuchotsera kwa makasitomala atsopano.", "choice2": "Anagawira kafukufuku kwa makasitomala.", "question": "effect", "label": 1, "idx": 345}
+{"premise": "Pansi pa matabwa adawonongeka.", "choice1": "Mnyamatayo adaponya makushoni pakama.", "choice2": "Mnyamatayo adakoka mpando pansi.", "question": "cause", "label": 1, "idx": 346}
+{"premise": "Ndinateteza nkhope yanga.", "choice1": "Mdani wanga anandinyoza.", "choice2": "Mdani wanga adagunda nkhonya.", "question": "cause", "label": 1, "idx": 347}
+{"premise": "Chifaniziro chotchuka chinatenthedwa.", "choice1": "Inakanthidwa ndi mphezi.", "choice2": "Anthu anabwera kudzazilemekeza.", "question": "cause", "label": 0, "idx": 348}
+{"premise": "Ndinasiya zipatso patebulo.", "choice1": "Zipatso zimakhetsa mbewu.", "choice2": "Ntchentche zinadzaza zipatso.", "question": "effect", "label": 1, "idx": 349}
+{"premise": "Ballerina anang'amba ligament.", "choice1": "Analoza zala zake.", "choice2": "Anapotoza chidendene chake.", "question": "cause", "label": 1, "idx": 350}
+{"premise": "Zingwe za nsapato za mwanayo zinamasulidwa.", "choice1": "Anaphunzira momwe angawamangire.", "choice2": "Anathamanga mozungulira pabwalo lamasewera.", "question": "cause", "label": 1, "idx": 351}
+{"premise": "Ndinachita chidwi ndi bukuli.", "choice1": "Ndinabweza bukuli.", "choice2": "Ndinataya nthawi.", "question": "effect", "label": 1, "idx": 352}
+{"premise": "Mwamunayo anali ndi zikhulupiriro zofanana ndi za makolo ake.", "choice1": "Makolo ake adamusonkhezera.", "choice2": "Makolo ake adamukana.", "question": "cause", "label": 0, "idx": 353}
+{"premise": "Galimotoyo pang'onopang'ono idayenda pang'onopang'ono.", "choice1": "Inatha gasi.", "choice2": "Woyendetsa galimotoyo anagona.", "question": "cause", "label": 0, "idx": 354}
+{"premise": "Mwamunayo anadya ayisikilimu padzuwa.", "choice1": "Ayisikilimu anataya kukoma kwake.", "choice2": "Ayisikilimu adadontha kuchokera ku cone.", "question": "effect", "label": 1, "idx": 355}
+{"premise": "Ndinapachika zojambulajambula m'chipindamo.", "choice1": "Kapeti inkawoneka yonyansa.", "choice2": "Makoma ankawoneka opanda kanthu.", "question": "cause", "label": 1, "idx": 356}
+{"premise": "Ndinachoka kuntchito msanga.", "choice1": "Ndinali ndi mutu.", "choice2": "Abwana anga adachita msonkhano.", "question": "cause", "label": 0, "idx": 357}
+{"premise": "Galu adadetsa kapeti.", "choice1": "Mwiniwakeyo adakalipira galuyo.", "choice2": "Mwiniwakeyo adapatsa galuyo chithandizo.", "question": "effect", "label": 0, "idx": 358}
+{"premise": "Ndinapepesa kwa bwenzi langa.", "choice1": "Mnzanga anandikhululukira.", "choice2": "Mnzanga anakwiya.", "question": "effect", "label": 0, "idx": 359}
+{"premise": "Mwamunayo adayima pagulu.", "choice1": "Ananyamula chikwama.", "choice2": "Anavala chovala cha neon.", "question": "cause", "label": 1, "idx": 360}
+{"premise": "Mboniyo inanama pansi pa lumbiro.", "choice1": "Anamaliza umboni wake.", "choice2": "Anaimbidwa mlandu wabodza.", "question": "effect", "label": 1, "idx": 361}
+{"premise": "Mkaziyo adapaka utoto tsitsi lake.", "choice1": "Ankafuna mawonekedwe atsopano.", "choice2": "Ankafuna kusakanikirana.", "question": "cause", "label": 0, "idx": 362}
+{"premise": "Anthu osamukira m'dzikolo anagwidwa akukhala m'dzikoli mosavomerezeka.", "choice1": "Anapeza ntchito.", "choice2": "Anathamangitsidwa.", "question": "effect", "label": 1, "idx": 363}
+{"premise": "Wokamba nkhani pagulu adaphwanya nthabwala.", "choice1": "Omvera adaseka.", "choice2": "Omvera adaimirira.", "question": "effect", "label": 0, "idx": 364}
+{"premise": "Ndinayang'ana padzuwa.", "choice1": "Dzuwa linandichititsa khungu.", "choice2": "Dzuwa linasokoneza khungu langa.", "question": "effect", "label": 0, "idx": 365}
+{"premise": "Ndinamva kutopa.", "choice1": "Ndinanyoza.", "choice2": "Ndinayabwa.", "question": "effect", "label": 1, "idx": 366}
+{"premise": "Nyama ya nyama inali yovuta kudula.", "choice1": "Mpeni unali wotopetsa.", "choice2": "Nyama ya nyama inali yaiwisi.", "question": "cause", "label": 0, "idx": 367}
+{"premise": "Mkaziyo adalengeza bankirapuse.", "choice1": "Analandira malipiro a alimony.", "choice2": "Anapeza ngongole yayikulu.", "question": "cause", "label": 1, "idx": 368}
+{"premise": "Magetsi m'nyumba ya mnzanga anali oyaka.", "choice1": "Ndinadabwa ngati anali kunja.", "choice2": "Ndinaganiza zomuchezera.", "question": "effect", "label": 1, "idx": 369}
+{"premise": "Ndinayika duwa pansi pa mphuno yanga.", "choice1": "Maluwa adachoka pa duwa.", "choice2": "Ndinatenga fungo la duwa.", "question": "effect", "label": 1, "idx": 370}
+{"premise": "Mkaziyo adamva nostalgic.", "choice1": "Anathamangira bwenzi laubwana.", "choice2": "Anafuula kwa ana ake.", "question": "cause", "label": 0, "idx": 371}
+{"premise": "Wophunzirayo adazengereza papepalalo.", "choice1": "Anapereka pepalalo mwamsanga.", "choice2": "Anapereka pepalalo losakwanira.", "question": "effect", "label": 1, "idx": 372}
+{"premise": "Galimoto yanga idasweka.", "choice1": "Ndinapita kumalo ogulitsira.", "choice2": "Ndinaitana makanika.", "question": "effect", "label": 1, "idx": 373}
+{"premise": "Ndidataya cholembacho.", "choice1": "Zinali zosadziwika.", "choice2": "Zinali zosawerengeka.", "question": "cause", "label": 1, "idx": 374}
+{"premise": "Mbalameyi inagwedeza mapiko ake.", "choice1": "Inaika mazira.", "choice2": "Idakwera mmwamba.", "question": "effect", "label": 1, "idx": 375}
+{"premise": "Ndinaimika galimoto mumsewu woyendetsa.", "choice1": "Garaja inali yotseguka.", "choice2": "Garaja inali yodzaza.", "question": "cause", "label": 1, "idx": 376}
+{"premise": "Chigawengacho chinaloza mfuti kwa wovulalayo.", "choice1": "Chigawenga chinatsitsa mfuti.", "choice2": "Wovulalayo adakweza manja ake.", "question": "effect", "label": 1, "idx": 377}
+{"premise": "Ndinkayembekezera kumapeto kwa sabata.", "choice1": "Ndinakonzekera kupita ku maliro a amalume anga.", "choice2": "Ndinakonzekera kupita ku ukwati wa mnzanga.", "question": "cause", "label": 1, "idx": 378}
+{"premise": "Ndinataya nthawi.", "choice1": "Ndinali kulota usana.", "choice2": "Ndinali ndi nseru.", "question": "cause", "label": 0, "idx": 379}
+{"premise": "Chikalatacho chinasindikizidwa mosawerengeka.", "choice1": "Chosindikizira chinali chochepa pa inki.", "choice2": "Kusindikiza kunali kunja kwa pepala.", "question": "cause", "label": 0, "idx": 380}
+{"premise": "Bwaloli linaimba nyimbo ya fuko.", "choice1": "Mafani adatembenukira ku mbendera.", "choice2": "Mafani adathamangira kumunda.", "question": "effect", "label": 0, "idx": 381}
+{"premise": "Kuviika kunalawa bland.", "choice1": "Ndinatumikira.", "choice2": "Ndinayika mchere.", "question": "effect", "label": 1, "idx": 382}
+{"premise": "Ndinayika chopukutira cha pepala pa kutayika.", "choice1": "Chopukutira chinayamwa madziwo.", "choice2": "Kutayika kunasiya zotsalira zomata.", "question": "effect", "label": 0, "idx": 383}
+{"premise": "Mkaziyo adasokonezedwa pakati pa kuwerenga buku lake.", "choice1": "Adalemba tsamba lake.", "choice2": "Anawerenganso bukuli.", "question": "effect", "label": 0, "idx": 384}
+{"premise": "Ndegeyo inagunda chipwirikiti.", "choice1": "Mwamunayo adamangirira lamba wake.", "choice2": "Mwamunayo anayang'ana pawindo.", "question": "effect", "label": 0, "idx": 385}
+{"premise": "Mnyamatayo anagwedezeka.", "choice1": "Mtsikanayo adamunyalanyaza.", "choice2": "Mtsikanayo adamuponya.", "question": "cause", "label": 1, "idx": 386}
+{"premise": "Madokotala anapatsa wodwalayo chiwalo chopangidwa.", "choice1": "Anadula mwendo wake.", "choice2": "Anayang'anira zofunikira zake.", "question": "cause", "label": 0, "idx": 387}
+{"premise": "Mnyamatayo adapindika chigongono cha mtsikanayo.", "choice1": "Anagwedeza mapewa ake pa iye.", "choice2": "Anagwedeza mkono wake kuchoka kwa iye.", "question": "effect", "label": 1, "idx": 388}
+{"premise": "Ndinapempha mnzanga kuti andipatse malangizo.", "choice1": "Ndinayamikira malingaliro ake.", "choice2": "Ndinadziwa kuti ndili wolondola.", "question": "cause", "label": 0, "idx": 389}
+{"premise": "Mnyamatayo adalowa m'matope.", "choice1": "Matope adamamatira ku nsapato zake.", "choice2": "Matope adamugunda kumaso.", "question": "effect", "label": 0, "idx": 390}
+{"premise": "Tawuniyi idalandira chipale chofewa mainchesi angapo.", "choice1": "Sukulu zatsekedwa.", "choice2": "Anthu adabisala mobisala pansi.", "question": "effect", "label": 0, "idx": 391}
+{"premise": "Kusintha kwa wogwira ntchitoyo kunatha.", "choice1": "Anapita kunyumba tsikulo.", "choice2": "Anawopseza kuti asiya ntchitoyo.", "question": "effect", "label": 0, "idx": 392}
+{"premise": "Mtengowo unawononga nyumbayo.", "choice1": "Mtengowo unagwera padenga.", "choice2": "Mtengowo unali ndi mthunzi kumbuyo.", "question": "cause", "label": 0, "idx": 393}
+{"premise": "Nkhuni zinagawanika pakati.", "choice1": "Ndinayika nkhuni pamoto.", "choice2": "Ndinagwedeza nkhwangwa pansi pa nkhuni.", "question": "cause", "label": 1, "idx": 394}
+{"premise": "Banjali lidathokoza banjali.", "choice1": "Banjali linalengeza kuti likupatukana.", "choice2": "Banjali linalengeza kuti lili ndi mwana.", "question": "cause", "label": 1, "idx": 395}
+{"premise": "Mtsikanayo adatumiza mnyamatayo valentine.", "choice1": "Anamukonda.", "choice2": "Anamupsompsona.", "question": "cause", "label": 0, "idx": 396}
+{"premise": "Ndinagwedeza mutu wanga pa mawu a mnzanga.", "choice1": "Ndinasokonezeka.", "choice2": "Ndinagwirizana naye.", "question": "cause", "label": 1, "idx": 397}
+{"premise": "Abwenziwo adatembenuza ndalama.", "choice1": "Iwo ankafuna kupeza mgwirizano.", "choice2": "Iwo ankafuna kupanga chisankho cholungama.", "question": "cause", "label": 1, "idx": 398}
+{"premise": "Nthawi kukhitchini idazima.", "choice1": "Mwamunayo adatsitsa golosale mufiriji.", "choice2": "Mwamunayo adatulutsa pitsa mu uvuni.", "question": "effect", "label": 1, "idx": 399}
+{"premise": "Mkaziyo adakhazikitsa cholinga chachikulu.", "choice1": "Anafooka.", "choice2": "Anagwira ntchito mwakhama.", "question": "effect", "label": 1, "idx": 400}
+{"premise": "Munthu wolemerayo anamwalira ndi ukalamba.", "choice1": "Mwana wake wamwamuna adalowa m'mavuto alamulo.", "choice2": "Mwana wake wamwamuna adalandira chuma chake.", "question": "effect", "label": 1, "idx": 401}
+{"premise": "Mkaziyo adapondaponda moto.", "choice1": "Moto unazima.", "choice2": "Utsi unatuluka m'motowo.", "question": "effect", "label": 0, "idx": 402}
+{"premise": "Galimoto ya mkaziyo inali m'sitolo.", "choice1": "Chilolezo chake choyendetsa galimoto chinachotsedwa.", "choice2": "Anachita ngozi ya galimoto.", "question": "cause", "label": 1, "idx": 403}
+{"premise": "Ndinagona kudzera mu alamu yanga.", "choice1": "Ndinapanga kadzutsa.", "choice2": "Ndinaphonya kadzutsa.", "question": "effect", "label": 1, "idx": 404}
+{"premise": "Munthu wapagulu adatuluka mu limousine.", "choice1": "Makamera adawala m'njira yake.", "choice2": "Banja lake linapezeka pamsonkhano wa atolankhani.", "question": "effect", "label": 0, "idx": 405}
+{"premise": "Mkaziyo adakhalabe m'bafa.", "choice1": "Madzi osambira adakhala ofunda.", "choice2": "Madzi osambira adatuluka m'bafa.", "question": "effect", "label": 0, "idx": 406}
+{"premise": "Wophunzira wa koleji ankafuna kukumana ndi ophunzira ena pakampu.", "choice1": "Analowa m'gulu la abale.", "choice2": "Anaphunzira kwambiri zomangamanga.", "question": "effect", "label": 0, "idx": 407}
+{"premise": "Ndinakweza makushoni a pabedi.", "choice1": "Ndinali kufunafuna kusintha kosasunthika.", "choice2": "Ndinali kukonzanso chipinda chochezera.", "question": "cause", "label": 0, "idx": 408}
+{"premise": "Mavu adauluka kulinga kwa mnyamatayo.", "choice1": "Mnyamatayo anathawa.", "choice2": "Mnyamatayo adatola duwa.", "question": "effect", "label": 0, "idx": 409}
+{"premise": "Mkaziyo adapezeka ndi mlandu waung'ono.", "choice1": "Anaweruzidwa kuti agwire ntchito yothandiza anthu.", "choice2": "Anaikidwa pa mpando wa imfa.", "question": "effect", "label": 0, "idx": 410}
+{"premise": "Ndinasonkhezera shuga mu tiyi wotentha.", "choice1": "Tiyi adawombera.", "choice2": "Shuga adasungunuka.", "question": "effect", "label": 1, "idx": 411}
+{"premise": "Msilikali adayenda mopunduka.", "choice1": "Analembedwa ku nkhondo.", "choice2": "Anavulala pankhondo.", "question": "cause", "label": 1, "idx": 412}
+{"premise": "Chigawenga chinathawa apolisi.", "choice1": "Apolisi adasamalira wovulalayo.", "choice2": "Apolisi adathamangitsa chigawengacho.", "question": "effect", "label": 1, "idx": 413}
+{"premise": "Laputopu sikanatsegule.", "choice1": "Ndinagwetsa.", "choice2": "Ndinalipiritsa.", "question": "cause", "label": 0, "idx": 414}
+{"premise": "Mkaziyo anathawa m'chipinda chake chovala.", "choice1": "Anapeza zovala zambiri.", "choice2": "Anapinda zovala zake.", "question": "cause", "label": 0, "idx": 415}
+{"premise": "Mwamunayo anali wosweka mtima.", "choice1": "Mkazi wake anabereka.", "choice2": "Mkazi wake adamusiya.", "question": "cause", "label": 1, "idx": 416}
+{"premise": "Mwamunayo adapeza digiri.", "choice1": "Anakhala woyenerera ntchito yomwe ankafuna.", "choice2": "Ntchito yake idachotsedwa.", "question": "effect", "label": 0, "idx": 417}
+{"premise": "Mawu a mwamunayo adawonekera bwino mu holo yonse.", "choice1": "Anapereka moni kwa omvera.", "choice2": "Analankhula mu maikolofoni.", "question": "cause", "label": 1, "idx": 418}
+{"premise": "Ndinaponya ndalama mu kasupe wa madzi.", "choice1": "Ndalamayo inamira pansi.", "choice2": "Ndalamayo idasweka pakati.", "question": "effect", "label": 0, "idx": 419}
+{"premise": "Wosewerayo adagunda mpira kulinga ku dzenje.", "choice1": "Mpira unalowa m'dzenje.", "choice2": "Mpira unabwerera kwa wosewera.", "question": "effect", "label": 0, "idx": 420}
+{"premise": "Ndinapuma fumbi m'chipinda chapansi.", "choice1": "Ndinagwedezeka.", "choice2": "Ndinayetsemula.", "question": "effect", "label": 1, "idx": 421}
+{"premise": "Wosunga ndalama m'sitolo adayitanitsa chitetezo.", "choice1": "Kasitomala adagwiritsa ntchito ndalama zachinyengo.", "choice2": "Kasitomala adasiya magetsi ake.", "question": "cause", "label": 0, "idx": 422}
+{"premise": "Ndinachotsa zinyalala.", "choice1": "Zinyalala zinapangitsa khitchini kununkhiza koipa.", "choice2": "Ndinataya mwangozi mndandanda wanga wogula.", "question": "cause", "label": 0, "idx": 423}
+{"premise": "Banjali linapita kumalo osungira nyama.", "choice1": "Anawo ankasirira nyamazo.", "choice2": "Anawo adathamangitsa nyama.", "question": "effect", "label": 0, "idx": 424}
+{"premise": "Kupuma kwa mwamunayo kunali kwakukulu.", "choice1": "Impso zake zinali kulephera.", "choice2": "Mapapo ake anali odzaza.", "question": "cause", "label": 1, "idx": 425}
+{"premise": "Ndinali ndi tikiti yowonjezera ya konsati.", "choice1": "Ndinafunsa mnzanga kuti andipatse njira yopita kumalopo.", "choice2": "Ndinafunsa mnzanga ngati anali ndi chidwi chopita.", "question": "effect", "label": 1, "idx": 426}
+{"premise": "Chowongolera mpweya mnyumbamo chinasweka.", "choice1": "Ndinatulutsa mabulangete.", "choice2": "Ndinatsegula mawindo.", "question": "effect", "label": 1, "idx": 427}
+{"premise": "Msana wa mnyamatayo unapweteka.", "choice1": "Chikwama chake chinali chotseguka.", "choice2": "Chikwama chake chinali cholemera.", "question": "cause", "label": 1, "idx": 428}
+{"premise": "Ndinagulira amayi anga mphatso.", "choice1": "Ndinamuphikira keke.", "choice2": "Linali tsiku lake lobadwa.", "question": "cause", "label": 1, "idx": 429}
+{"premise": "Ma daffodils m'munda adawonongedwa.", "choice1": "Njuchi inaluma wamaluwa.", "choice2": "Gologolo adakumba mababu.", "question": "cause", "label": 1, "idx": 430}
+{"premise": "Ndinagunda machesi.", "choice1": "Lawi linazimiririka.", "choice2": "Masewerawa adatulutsa lawi.", "question": "effect", "label": 1, "idx": 431}
+{"premise": "Magulu otsutsanawo adafikira chigamulo.", "choice1": "Iwo sanafune kukambirana m'khoti.", "choice2": "Iwo ankafuna kukonza ubale wawo waumwini.", "question": "cause", "label": 0, "idx": 432}
+{"premise": "Anawo anatumizidwa ku nyumba yosungiramo ana amasiye.", "choice1": "Makolo awo anamwalira.", "choice2": "Makolo awo adawawononga.", "question": "cause", "label": 0, "idx": 433}
+{"premise": "Meteorite idatera m'nyanja.", "choice1": "Tsunami inachitika.", "choice2": "Inayamba matalala.", "question": "effect", "label": 0, "idx": 434}
+{"premise": "Woyendayenda anakumana ndi njoka ya poizoni.", "choice1": "Anakhala wopanda madzi m'thupi.", "choice2": "Anachita mantha.", "question": "effect", "label": 1, "idx": 435}
+{"premise": "Uvuni unakhala wotentha.", "choice1": "Ndinayatsa uvuni.", "choice2": "Ndinayika mbale mu uvuni.", "question": "cause", "label": 0, "idx": 436}
+{"premise": "Ndinafinya chikhomo cha mandimu.", "choice1": "Mandimu adayamba kukhala nkhungu.", "choice2": "Mandimu anagwedezeka.", "question": "effect", "label": 1, "idx": 437}
+{"premise": "Dzikoli linapeza dziko latsopano.", "choice1": "Dzikoli linasiya dzikolo.", "choice2": "Dzikolo linalamulira dzikolo.", "question": "effect", "label": 1, "idx": 438}
+{"premise": "Galasi linagwera patebulo.", "choice1": "Idasweka pansi ponseponse.", "choice2": "Inagwera mu mulu wa zovala.", "question": "effect", "label": 0, "idx": 439}
+{"premise": "Gome linagwedezeka.", "choice1": "Pansi pake panali osalingana.", "choice2": "Pansi pake panali kutsetsereka.", "question": "cause", "label": 0, "idx": 440}
+{"premise": "Bamboyo adagwira mwana wake wabodza.", "choice1": "Mwana wake wamwamuna adavomereza chowonadi.", "choice2": "Bamboyo adakhulupirira mwana wake.", "question": "effect", "label": 0, "idx": 441}
+{"premise": "Mutu wa mwamunayo unagunda ndi ululu.", "choice1": "Anatenga mankhwala a chifuwa.", "choice2": "Anamwa aspirin.", "question": "effect", "label": 1, "idx": 442}
+{"premise": "Sitimayo idachepa.", "choice1": "Inali kuyandikira siteshoni.", "choice2": "Inali kuthamanga kumbuyo kwa nthawi.", "question": "cause", "label": 0, "idx": 443}
+{"premise": "Mwamunayo adadutsa mankhwala.", "choice1": "Matenda a maganizo adathamanga m'banja lake.", "choice2": "Anapezeka ndi matenda ovutika maganizo.", "question": "cause", "label": 1, "idx": 444}
+{"premise": "Mkaziyo anagwira khosi lake.", "choice1": "Anameza chakudya chake.", "choice2": "Anatsamwitsa chakudya chake.", "question": "cause", "label": 1, "idx": 445}
+{"premise": "Mkaziyo anali ndi kupweteka kwa pakhosi.", "choice1": "Mawu ake anamveka raspy.", "choice2": "Analankhula ndi chilankhulo.", "question": "effect", "label": 0, "idx": 446}
+{"premise": "Galu adayang'ana nyama yowutsa mudyo patebulo.", "choice1": "Inagwedezeka.", "choice2": "Idagona.", "question": "effect", "label": 0, "idx": 447}
+{"premise": "Bizinesi ya mkaziyo idapambana.", "choice1": "Anachotsa antchito ake.", "choice2": "Anakhala wolemera.", "question": "effect", "label": 1, "idx": 448}
+{"premise": "Ophunzirawo adatuluka m'kalasi.", "choice1": "Belu linalira.", "choice2": "Mphunzitsiyo anagawira homuweki.", "question": "cause", "label": 0, "idx": 449}
+{"premise": "Mkaziyo adanena kuti adawona mzukwa.", "choice1": "Anzake adasonyeza kukayikira.", "choice2": "Anzake ankadziwana nawo.", "question": "effect", "label": 0, "idx": 450}
+{"premise": "Mwamunayo anataya kumva.", "choice1": "Anatsala pang'ono kumira m'nyanja.", "choice2": "Anatsala pang'ono kuphedwa ndi kuphulika.", "question": "cause", "label": 1, "idx": 451}
+{"premise": "Mwanayo adasiya chingwe cha balloon.", "choice1": "Chibaluni chinachepa.", "choice2": "Chibaluni chinakwera mlengalenga.", "question": "effect", "label": 1, "idx": 452}
+{"premise": "Mwamunayo anataya luso lake la kulankhula.", "choice1": "Anali ndi sitiroko.", "choice2": "Anapuma kwambiri.", "question": "cause", "label": 0, "idx": 453}
+{"premise": "Mkaziyo adapunthwa m'mbali mwa msewu.", "choice1": "Panali mng'alu mu simenti.", "choice2": "Anamva dzina lake likuyitanidwa.", "question": "cause", "label": 0, "idx": 454}
+{"premise": "Mwamunayo adachita mpira wa canon m'dziwe.", "choice1": "Wopulumutsa moyo adadumpha pambuyo pake.", "choice2": "Mwamunayo ananyowetsa wopulumutsa moyo.", "question": "effect", "label": 1, "idx": 455}
+{"premise": "Ndinamwa mankhwala opha tizilombo toyambitsa matenda.", "choice1": "Matenda anga adatha.", "choice2": "Matenda anga adafalikira.", "question": "effect", "label": 0, "idx": 456}
+{"premise": "Kuwala kwa magalimoto kunasanduka chikasu.", "choice1": "Woyendetsa galimotoyo adakankhira mabuleki.", "choice2": "Woyendetsa galimotoyo analira lipenga lake.", "question": "effect", "label": 0, "idx": 457}
+{"premise": "Chidebe cha pulasitiki chinasungunuka.", "choice1": "Ndinanyowetsa chidebecho m'madzi ofunda.", "choice2": "Ndinayika chidebecho pa chitofu chotentha.", "question": "cause", "label": 1, "idx": 458}
+{"premise": "Galimotoyo idawonongeka.", "choice1": "Woyendetsa galimotoyo adagunda mtengo wa telefoni.", "choice2": "Woyendetsa galimotoyo adathamanga kuwala kofiira.", "question": "cause", "label": 0, "idx": 459}
+{"premise": "Mnyamatayo adaphunzira usiku wonse.", "choice1": "Anadumpha mayeso.", "choice2": "Adapambana mayeso.", "question": "effect", "label": 1, "idx": 460}
+{"premise": "Mnyamatayo adamamatira pamphepete mwa dziwe.", "choice1": "Ankaopa kuphunzira kusambira.", "choice2": "Wopulumutsa moyo anali pantchito.", "question": "cause", "label": 0, "idx": 461}
+{"premise": "Ndinayika dzanja langa pachifuwa changa.", "choice1": "Ndinamva kugunda kwa mtima wanga.", "choice2": "Kugunda kwa mtima wanga kunafulumira.", "question": "effect", "label": 0, "idx": 462}
+{"premise": "Nyumba yoyandikana ndi ofesi yanga inali kumangidwa.", "choice1": "Ofesi yanga inali yodzaza.", "choice2": "Ofesi yanga inali phokoso.", "question": "effect", "label": 1, "idx": 463}
+{"premise": "Banjali linafuna kudziwana ndi anansi awo atsopano.", "choice1": "Banjali linaitana oyandikana nawo kuti adye chakudya chamadzulo.", "choice2": "Banjali linagwedeza anansi kuchokera pabwalo lawo.", "question": "effect", "label": 0, "idx": 464}
+{"premise": "Madzi anamwaza kuchokera m'dziwe.", "choice1": "Wosambirayo adalowa m'dziwe.", "choice2": "Wosambirayo adayandama m'dziwe.", "question": "cause", "label": 0, "idx": 465}
+{"premise": "Ndinaluma chidutswa cha mavwende.", "choice1": "Ndinameza mbewu mwangozi.", "choice2": "Ndinadula dzino langa mwangozi.", "question": "effect", "label": 0, "idx": 466}
+{"premise": "Mnyamatayo adapunthwa.", "choice1": "Jekete lake linali lotsegulidwa.", "choice2": "Zingwe zake za nsapato zinamasulidwa.", "question": "cause", "label": 1, "idx": 467}
+{"premise": "Mkaziyo adayika zotsekera makutu.", "choice1": "Anasokonezedwa ndi phokoso.", "choice2": "Anaboola makutu ake.", "question": "cause", "label": 0, "idx": 468}
+{"premise": "Ndinadzazanso botolo langa lamadzi.", "choice1": "Ndinamwa madzi onse omwe anali mmenemo.", "choice2": "Ndinazisunga mufiriji.", "question": "cause", "label": 0, "idx": 469}
+{"premise": "Chiwonetsero cha pa TV chinayang'aniridwa.", "choice1": "Inali ndi chilankhulo chotukwana.", "choice2": "Inali ndi chiwembu chovuta.", "question": "cause", "label": 0, "idx": 470}
+{"premise": "Sitimayo inasweka.", "choice1": "Ogwira ntchito anamira.", "choice2": "Ogwira ntchitowo adakumana ndi akuba.", "question": "effect", "label": 0, "idx": 471}
+{"premise": "Mnyamatayo adadabwa ndi chinsinsicho.", "choice1": "Anathetsa chinsinsicho.", "choice2": "Anapempha lingaliro.", "question": "effect", "label": 1, "idx": 472}
+{"premise": "Foni inalira.", "choice1": "Mwamunayo adaimitsa foni.", "choice2": "Mwamunayo adatenga foni.", "question": "effect", "label": 1, "idx": 473}
+{"premise": "Mkaziyo anali kundiyang'anitsitsa.", "choice1": "Ndinamukumbatira.", "choice2": "Ndinamva bwino.", "question": "effect", "label": 1, "idx": 474}
+{"premise": "Gululi linachoka ku nyumba yosungiramo zinthu zakale.", "choice1": "Anajambula zithunzi za ziwonetserozo.", "choice2": "Anawona ziwonetsero zonse.", "question": "cause", "label": 1, "idx": 475}
+{"premise": "Mwamunayo anayamba kukangana nane.", "choice1": "Mnzanga anandidziwitsa mwamunayo.", "choice2": "Mnzanga anandiimirira.", "question": "effect", "label": 1, "idx": 476}
+{"premise": "Tayala la njinga yanga linali lathyathyathya.", "choice1": "Ndinapopa mpweya mu tayala.", "choice2": "Ndinasintha magiya pa njinga.", "question": "effect", "label": 0, "idx": 477}
+{"premise": "Mtsikanayo adawoneka wotumbululuka.", "choice1": "Abambo ake adamuwerengera nkhani.", "choice2": "Bambo ake anamva mphumi yake.", "question": "effect", "label": 1, "idx": 478}
+{"premise": "Cholemberacho chinatha inki.", "choice1": "Ndinagwiritsa ntchito pensulo.", "choice2": "Ndinasaina dzina langa.", "question": "effect", "label": 0, "idx": 479}
+{"premise": "Mwamunayo adakanizidwa ngongole.", "choice1": "Anali ndi ngongole.", "choice2": "Anayamba bizinesi.", "question": "cause", "label": 0, "idx": 480}
+{"premise": "Mtsikanayo adakhala kunyumba kuchokera kusukulu.", "choice1": "Anali ndi nkhupakupa.", "choice2": "Ankakonda kuphunzira masamu.", "question": "cause", "label": 0, "idx": 481}
+{"premise": "Chikwama cha zinyalala chinali chodzaza.", "choice1": "Ndinapita nayo ku dumpster.", "choice2": "Ndinazitaya pansi pa sinki.", "question": "effect", "label": 0, "idx": 482}
+{"premise": "Ndinatsuka kapeti.", "choice1": "Mnzanga wa m'chipindacho adatsanulira nkhonya.", "choice2": "Galu wanga amakhetsa tsitsi.", "question": "cause", "label": 1, "idx": 483}
+{"premise": "Mwamunayo anakwiya kwambiri.", "choice1": "Anatseka kompyuta yake.", "choice2": "Anaponya mpando kudutsa chipindacho.", "question": "effect", "label": 1, "idx": 484}
+{"premise": "Mtsikanayo adaponya nthambi pamoto.", "choice1": "Nthambiyo inayaka.", "choice2": "Moto unazima.", "question": "effect", "label": 0, "idx": 485}
+{"premise": "Mwamunayo anatuluka m'bafa.", "choice1": "Madzi otentha anali atatha.", "choice2": "Sanathe kupeza thaulo.", "question": "cause", "label": 0, "idx": 486}
+{"premise": "Makolo ankafuna kuti ana awo apite ku koleji.", "choice1": "Amapatula thumba losungira maphunziro.", "choice2": "Analimbikitsa ana awo kuti azisewera panja.", "question": "effect", "label": 0, "idx": 487}
+{"premise": "Mwamunayo anavula nsapato zake.", "choice1": "Nsapato zinamasulidwa.", "choice2": "Nsapato zinavala.", "question": "effect", "label": 0, "idx": 488}
+{"premise": "Mwamunayo anadya theka la entree.", "choice1": "Anaika zotsalira m'firiji.", "choice2": "Anasunga maphikidwewo.", "question": "effect", "label": 0, "idx": 489}
+{"premise": "Chidendene changa chinali chotupa.", "choice1": "Ndinayika ayezi pa izo.", "choice2": "Ndinapaka lotion pa izo.", "question": "effect", "label": 0, "idx": 490}
+{"premise": "Chitseko cha ofesi yanga chinali chotseguka.", "choice1": "Ndinalankhula ndi mnzanga pa desiki yanga.", "choice2": "Ndinamva zokambirana mu holo.", "question": "effect", "label": 1, "idx": 491}
+{"premise": "Ndinayenera kudikirira pamzere.", "choice1": "Ndinatenga mpando.", "choice2": "Ndinayang'ana magazini.", "question": "effect", "label": 1, "idx": 492}
+{"premise": "Mwamunayo adagunda ntchentche.", "choice1": "Ntchentche inamveka.", "choice2": "Ntchentche inakhala chete.", "question": "effect", "label": 0, "idx": 493}
+{"premise": "Mwamunayo analemba chikalata.", "choice1": "Anali kufa.", "choice2": "Anali wamasiye.", "question": "cause", "label": 0, "idx": 494}
+{"premise": "Wothamanga adazindikira kuti wopikisana naye akupindula pa iye.", "choice1": "Anasiya mpikisanowu.", "choice2": "Anafulumizitsa kayendedwe kake.", "question": "effect", "label": 1, "idx": 495}
+{"premise": "Ndinaganizira mosamala za vutoli.", "choice1": "Ndinapempha malangizo.", "choice2": "Ndinabwera ndi yankho.", "question": "effect", "label": 1, "idx": 496}
+{"premise": "Woyendayo adayenda pa mlatho woyimitsidwa wogwedezeka.", "choice1": "Anachita mantha.", "choice2": "Anamva chisangalalo.", "question": "effect", "label": 0, "idx": 497}
+{"premise": "Mwamunayo ankayembekezera kupambana kwa timuyi.", "choice1": "Anakumana ndi anzake kuti awonere masewerawa.", "choice2": "Anapanga kubetcherana ndi anzake.", "question": "effect", "label": 1, "idx": 498}
+{"premise": "Mnyamatayo sanathe kugona.", "choice1": "Anakhazikitsa wotchi yake ya alamu.", "choice2": "Anawerengera nkhosa.", "question": "effect", "label": 1, "idx": 499}

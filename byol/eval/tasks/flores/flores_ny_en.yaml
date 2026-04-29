@@ -1,0 +1,9 @@
+# File generated following lm-eval FLORES standard structure
+include: _flores_common_yaml
+task: flores_ny_en
+doc_to_text: 'You are a translation expert, provide translation of the input sentence without any additional text or reasoning
+
+  Chichewa sentence: {{sentence_nya_Latn}}
+
+  English sentence:'
+doc_to_target: '{{sentence_eng_Latn}}'

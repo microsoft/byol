@@ -1,0 +1,3 @@
+include: _nya_template.yaml
+process_docs: !function utils.process_humanities
+task: global_mmlu_nya_humanities

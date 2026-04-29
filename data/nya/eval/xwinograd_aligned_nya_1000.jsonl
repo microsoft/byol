@@ -1,0 +1,935 @@
+{"sentence": "Aphungu a mzindawo anakana chilolezo kwa zionetserozo chifukwa _ ankaopa chiwawa.", "option1": "Owonetsera", "option2": "Aphungu a mzinda", "answer": "2"}
+{"sentence": "Aphungu a mzindawo anakana chilolezo kwa zionetserozo chifukwa _ analimbikitsa chiwawa.", "option1": "Aphungu a mzinda", "option2": "Owonetsera", "answer": "2"}
+{"sentence": "Chikhocho sichikwanira mu sutikesi ya bulauni chifukwa _ ndi yayikulu kwambiri.", "option1": "Chikho", "option2": "sutikesi", "answer": "1"}
+{"sentence": "Chikhocho sichikugwirizana ndi sutikesi ya bulauni chifukwa _ ndi yaying'ono kwambiri.", "option1": "sutikesi", "option2": "Chikho", "answer": "1"}
+{"sentence": "Paul adayesa kuyimbira foni George pafoni, koma _ sanapambane.", "option1": "Paulo", "option2": "George", "answer": "1"}
+{"sentence": "Paul adayesa kuyimbira foni George pafoni, koma _ sanapezeke.", "option1": "George", "option2": "Paulo", "answer": "1"}
+{"sentence": "Loyayo anafunsa mboniyo funso, koma _ sanafune kubwereza.", "option1": "Loya", "option2": "Mboni", "answer": "1"}
+{"sentence": "Loyayo anafunsa mboniyo funso, koma _ sanafune kuliyankha.", "option1": "Loya", "option2": "Mboni", "answer": "2"}
+{"sentence": "Frank anadzimva kukhala wolemekezeka pamene mdani wake wa nthaŵi yaitali Bill anaulula kuti _ anali wopambana pa mpikisanowo.", "option1": "Frank", "option2": "Bill", "answer": "1"}
+{"sentence": "Frank anakhumudwa kwambiri pamene mdani wake wa nthaŵi yaitali Bill anaulula kuti _ anali wopambana pa mpikisanowo.", "option1": "Bill", "option2": "Frank", "answer": "1"}
+{"sentence": "Mwamunayo sanathe kunyamula mwana wake chifukwa _ anali wofooka kwambiri.", "option1": "Mwamunayo", "option2": "mwana wamwamuna", "answer": "1"}
+{"sentence": "Mwamunayo sanathe kunyamula mwana wake chifukwa _ anali wolemera kwambiri.", "option1": "Mwamunayo", "option2": "mwana wamwamuna", "answer": "2"}
+{"sentence": "John sanathe kuwona siteji ndi Billy patsogolo pake chifukwa _ ndi wamfupi kwambiri.", "option1": "Billy", "option2": "John", "answer": "2"}
+{"sentence": "John sanathe kuwona siteji ndi Billy patsogolo pake chifukwa _ ndi wamtali kwambiri.", "option1": "Billy", "option2": "John", "answer": "1"}
+{"sentence": "Ngakhale adathamanga pafupifupi liwiro lomwelo, Sue adamenya Sally chifukwa _ anali ndi chiyambi chabwino kwambiri.", "option1": "Sally", "option2": "Sue", "answer": "2"}
+{"sentence": "Chibolibolicho chinagubuduza kuchokera pa shelufu chifukwa _ sichinali chomangidwa.", "option1": "Chiboliboli", "option2": "shelufu", "answer": "1"}
+{"sentence": "Chojambula cha Sam chidapachikidwa pamwamba pa cha Tina ndipo _ adawoneka bwino kwambiri ndi china pansi pake.", "option1": "Zojambula za Sam", "option2": "Tina", "answer": "1"}
+{"sentence": "Zojambula za Sam zidapachikidwa pamwamba pa Tina ndipo _ adawoneka bwino kwambiri ndi wina pamwamba pake.", "option1": "Zojambula za Sam", "option2": "Tina", "answer": "2"}
+{"sentence": "Ozimitsa moto anafika pambuyo pa apolisi chifukwa _ anali kubwera kuchokera kutali kwambiri.", "option1": "Ozimitsa moto", "option2": "Polisi", "answer": "1"}
+{"sentence": "Frank adakwiya ndi Tom chifukwa toaster _ adagula kwa iye sizinagwire ntchito.", "option1": "Tom", "option2": "Frank", "answer": "2"}
+{"sentence": "Frank adakwiya ndi Tom chifukwa toaster _ adamugulitsa sanagwire ntchito.", "option1": "Tom", "option2": "Frank", "answer": "1"}
+{"sentence": "Ophunzira achikulire anali kupezerera achinyamata, choncho tinalanga _.", "option1": "Ophunzira achikulire", "option2": "Achinyamata", "answer": "1"}
+{"sentence": "Ophunzira achikulire anali kupezerera aang'ono, choncho tinapulumutsa _.", "option1": "Ophunzira achikulire", "option2": "Achinyamata", "answer": "2"}
+{"sentence": "Ndinatsanulira madzi kuchokera m'botolo m'kapu mpaka _ idakhala yopanda kanthu.", "option1": "Chikho", "option2": "botolo", "answer": "2"}
+{"sentence": "Sid adafotokozera Mark chiphunzitso chake koma _ sanathe kumutsimikizira.", "option1": "Chizindikiro", "option2": "Sid", "answer": "2"}
+{"sentence": "Sid adafotokozera Mark chiphunzitso chake koma _ sanamumvetsetse.", "option1": "Chizindikiro", "option2": "Sid", "answer": "1"}
+{"sentence": "Chithunzi chomwe chili m'chipinda chochezera cha Mark chikuwonetsa mtengo wa oak. _ ili kumanja kwa shelefu yamabuku.", "option1": "Zojambulazo", "option2": "Mtengo wa oak", "answer": "1"}
+{"sentence": "Chithunzi chomwe chili m'chipinda chochezera cha Mark chikuwonetsa mtengo wa oak. _ ili kumanja kwa nyumba.", "option1": "Zojambulazo", "option2": "Mtengo wa oak", "answer": "2"}
+{"sentence": "Pali mpata pakhoma. Mutha kuwona munda kudzera _.", "option1": "Khoma", "option2": "kusiyana", "answer": "2"}
+{"sentence": "Pali mpata pakhoma. Mutha kuwona munda kumbuyo _.", "option1": "kusiyana", "option2": "Khoma", "answer": "2"}
+{"sentence": "Msonkhano wanga unayamba nthawi ya 4:00 ndipo ndinafunika kukwera sitima nthawi ya 4:30, kotero panalibe nthawi yambiri. Mwamwayi, _ anali wamfupi, kotero zinagwira ntchito.", "option1": "Sitima", "option2": "Msonkhano", "answer": "2"}
+{"sentence": "Msonkhano wanga unayamba nthawi ya 4:00 ndipo ndinafunika kukwera sitima nthawi ya 4:30, kotero panalibe nthawi yambiri. Mwamwayi, _ adachedwa, kotero zidayenda bwino.", "option1": "Sitima", "option2": "Msonkhano", "answer": "1"}
+{"sentence": "Pali chipilala pakati pa ine ndi siteji, ndipo sindingathe kuwona mozungulira _.", "option1": "Chipilala", "option2": "siteji", "answer": "1"}
+{"sentence": "Pali chipilala pakati pa ine ndi siteji, ndipo sindingathe kuwona _.", "option1": "Chipilala", "option2": "siteji", "answer": "2"}
+{"sentence": "Anafalitsa chilengezo, koma sitima yapansi panthaka idalowa mu siteshoni ndipo sindinamve _.", "option1": "Chilengezo", "option2": "Sitima yapansi panthaka", "answer": "1"}
+{"sentence": "Iwo anafalitsa chilengezo, koma sitima yapansi panthaka inalowa mu siteshoni ndipo sindinathe kumva pa _.", "option1": "Chilengezo", "option2": "Sitima yapansi panthaka", "answer": "2"}
+{"sentence": "Pakati pa konsati yakunja, mvula idayamba kugwa, koma _ idapitilira mpaka 10.", "option1": "Mvula", "option2": "konsati", "answer": "2"}
+{"sentence": "Ndinagwiritsa ntchito nsalu yakale kuyeretsa mpeni, kenako ndinayika _ mu zinyalala.", "option1": "Nsalu", "option2": "mpeni", "answer": "1"}
+{"sentence": "Ndinagwiritsa ntchito nsalu yakale kuyeretsa mpeni, kenako ndinayika _ mu chikhomo.", "option1": "Nsalu", "option2": "mpeni", "answer": "2"}
+{"sentence": "Ann adafunsa Mary kuti laibulale imatsekedwa nthawi yanji, chifukwa _ adayiwala.", "option1": "Ann", "option2": "Mariya", "answer": "1"}
+{"sentence": "Ndinatulutsa botolo lamadzi m'chikwama kuti _ ikhale yothandiza.", "option1": "Chikwama cha chikwama", "option2": "botolo lamadzi", "answer": "2"}
+{"sentence": "Sindinathe kuyika mphika pa shelufu chifukwa _ anali wamtali kwambiri.", "option1": "shelufu", "option2": "mphika", "answer": "2"}
+{"sentence": "Sindinathe kuyika mphika pa shelufu chifukwa _ unali wokwera kwambiri.", "option1": "shelufu", "option2": "mphika", "answer": "1"}
+{"sentence": "Ndikutsimikiza kuti mapu anga adzawonetsa nyumbayi; _ ndizabwino kwambiri.", "option1": "mapu", "option2": "nyumba", "answer": "1"}
+{"sentence": "Bob adalipira maphunziro a koleji a Charlie. _ ndi wowolowa manja kwambiri.", "option1": "Charlie", "option2": "Bob", "answer": "2"}
+{"sentence": "Bob adalipira maphunziro a koleji a Charlie. _ ndikuthokoza kwambiri.", "option1": "Charlie", "option2": "Bob", "answer": "1"}
+{"sentence": "Bob adalipira maphunziro a koleji a Charlie, koma tsopano Charlie amachita ngati kuti sizinachitike. _ akupweteka kwambiri.", "option1": "Bob", "option2": "Charlie", "answer": "1"}
+{"sentence": "Bob anali kusewera makadi ndi Adam ndipo anali patsogolo. Adamu akanakhala kuti sanakhale ndi mwayi wadzidzidzi, _ akanapambana.", "option1": "Bob", "option2": "Adamu", "answer": "1"}
+{"sentence": "Bob anali kusewera makadi ndi Adam ndipo anali patsogolo. Adamu akanakhala kuti sanali ndi mwayi wadzidzidzi, _ akanataya.", "option1": "Bob", "option2": "Adamu", "answer": "2"}
+{"sentence": "Adam sangachoke kuntchito pano mpaka Bob atafika kudzamulowa m'malo. Ngati Bob adachoka panyumba kupita kuntchito panthawi yake, _ akanakhala atapita panthawiyi.", "option1": "Adamu", "option2": "Bob", "answer": "1"}
+{"sentence": "Adam sangachoke kuntchito pano mpaka Bob atafika kudzamulowa m'malo. Ngati Bob adachoka panyumba kupita kuntchito panthawi yake, _ akadakhala pano panthawiyi.", "option1": "Bob", "option2": "Adamu", "answer": "1"}
+{"sentence": "Mphaka anali atagona pafupi ndi dzenje la mbewa akudikirira mbewa, koma _ anali woleza mtima kwambiri.", "option1": "Mphaka", "option2": "Mbewa", "answer": "1"}
+{"sentence": "Mphaka anali atagona pafupi ndi dzenje la mbewa akudikirira mbewa, koma _ anali wochenjera kwambiri.", "option1": "Mbewa", "option2": "Mphaka", "answer": "1"}
+{"sentence": "Nsombazo zinadya nyongolotsi. _ anali ndi njala.", "option1": "Nsomba", "option2": "Nyongolotsi", "answer": "1"}
+{"sentence": "Nsombazo zinadya nyongolotsi. _ anali wokoma.", "option1": "Nyongolotsi", "option2": "Nsomba", "answer": "1"}
+{"sentence": "Galuyo anathamangitsa mphakayo, yemwe anathamangira pamtengo. _ adadikirira pansi.", "option1": "Mphaka", "option2": "Galu", "answer": "2"}
+{"sentence": "Galuyo anathamangitsa mphakayo, yemwe anathamangira pamtengo. _ adadikirira pamwamba.", "option1": "Galu", "option2": "Mphaka", "answer": "2"}
+{"sentence": "Kasitomala adalowa m'banki ndikubaya m'modzi mwa ogulitsa. _ nthawi yomweyo adatengedwa kupita ku polisi.", "option1": "Makasitomala", "option2": "Mmodzi mwa olemba nkhani", "answer": "1"}
+{"sentence": "Kasitomala adalowa m'banki ndikubaya m'modzi mwa ogulitsa. _ nthawi yomweyo adatengedwa kupita kuchipatala.", "option1": "Mmodzi mwa olemba nkhani", "option2": "Makasitomala", "answer": "1"}
+{"sentence": "John anali kuchita kafukufuku ku laibulale pamene anamva munthu akuwomba ndi kulira. _ anakwiya kwambiri.", "option1": "John", "option2": "Munthu", "answer": "1"}
+{"sentence": "John anali kuchita kafukufuku ku laibulale pamene anamva munthu akuwomba ndi kulira. _ zinali zokhumudwitsa kwambiri.", "option1": "John", "option2": "Munthu", "answer": "2"}
+{"sentence": "John anali kuthamanga m'paki pamene anaona munthu akusewera mavwende. _ adachita chidwi kwambiri.", "option1": "Mwamuna", "option2": "John", "answer": "2"}
+{"sentence": "John anali kuthamanga m'paki pamene anaona munthu akusewera mavwende. _ zinali zochititsa chidwi kwambiri.", "option1": "John", "option2": "Mwamuna", "answer": "2"}
+{"sentence": "Bob adagwa m'mbali mwa msewu. Posakhalitsa adawona Carl akubwera kudzathandiza. _ anadwala kwambiri.", "option1": "Bob", "option2": "Carl", "answer": "1"}
+{"sentence": "Sam ndi Amy amakondana kwambiri, koma makolo a Amy sali osangalala nazo, chifukwa _ ndi snobs.", "option1": "Sam ndi Amy", "option2": "Makolo a Amy", "answer": "2"}
+{"sentence": "Mark adauza Pete mabodza ambiri okhudza iye mwini, omwe Pete adawaphatikiza m'buku lake. _ iyenera kukhala yowona kwambiri.", "option1": "Chizindikiro", "option2": "Pete", "answer": "1"}
+{"sentence": "Joe wagulitsa nyumba yake ndikugula yatsopano pamtunda wa makilomita angapo. Adzakhala akuchoka ku _ Lachinayi.", "option1": "nyumba yake", "option2": "Chatsopano", "answer": "1"}
+{"sentence": "Joe wagulitsa nyumba yake ndikugula yatsopano pamtunda wa makilomita angapo. Adzakhala akusunthira ku _ Lachinayi.", "option1": "Chatsopano", "option2": "nyumba yake", "answer": "1"}
+{"sentence": "Anthu ambiri amayamba kuwerenga mabuku a Paulo ndipo sangathe kuwaika pansi. _ amagwidwa chifukwa Paulo amalemba bwino kwambiri.", "option1": "Anthu", "option2": "Mabuku a Paulo", "answer": "1"}
+{"sentence": "Anthu ambiri amayamba kuwerenga mabuku a Paulo ndipo sangathe kuwaika pansi. _ ndi otchuka chifukwa Paulo amalemba bwino kwambiri.", "option1": "Mabuku a Paulo", "option2": "Anthu", "answer": "1"}
+{"sentence": "Mary adatulutsa chitoliro chake ndikuimba chimodzi mwazidutswa zomwe amakonda. Iye wakhala _ kuyambira ali mwana.", "option1": "chitoliro chake", "option2": "chimodzi mwazidutswa zomwe amakonda kwambiri", "answer": "1"}
+{"sentence": "Sam adakoka mpando ku piyano, koma _ adasweka, kotero adayenera kuyimirira m'malo mwake.", "option1": "Mpando", "option2": "piyano", "answer": "1"}
+{"sentence": "Sam adakoka mpando ku piyano, koma _ adasweka, kotero adayenera kuyimba m'malo mwake.", "option1": "Mpando", "option2": "piyano", "answer": "2"}
+{"sentence": "Jane adagogoda pakhomo la Susan, koma panalibe yankho. _ anakhumudwa.", "option1": "Susan", "option2": "Jane", "answer": "2"}
+{"sentence": "Jane adagogoda pakhomo la Susan, koma panalibe yankho. _ anali kunja.", "option1": "Jane", "option2": "Susan", "answer": "2"}
+{"sentence": "Jane adagogoda pakhomo, ndipo Susan adayankha. _ adamuitana kuti atuluke.", "option1": "Jane", "option2": "Susan", "answer": "1"}
+{"sentence": "Jane adagogoda pakhomo, ndipo Susan adayankha. _ adamuitana kuti alowe.", "option1": "Jane", "option2": "Susan", "answer": "2"}
+{"sentence": "Sam anatenga maphunziro a Chifalansa kuchokera kwa Adam, chifukwa _ anali wofunitsitsa kulankhula bwinobwino.", "option1": "Adamu", "option2": "Sam", "answer": "2"}
+{"sentence": "Sam adatenga maphunziro achifalansa kuchokera kwa Adam, chifukwa _ adadziwika kuti amalankhula bwino.", "option1": "Sam", "option2": "Adamu", "answer": "2"}
+{"sentence": "Njira yopita kunyanjayi idatsekedwa, kotero sitinathe kugwiritsa ntchito _.", "option1": "Nyanja", "option2": "Njira", "answer": "2"}
+{"sentence": "Njira yopita kunyanjayi inali yotsekedwa, kotero sitinathe kufikira _.", "option1": "Nyanja", "option2": "Njira", "answer": "1"}
+{"sentence": "Dzuwa linaphimbidwa ndi mtambo wandiweyani m'mawa wonse, koma mwamwayi, panthawi yomwe pikiniki idayamba, _ inali itatuluka.", "option1": "Mtambo", "option2": "Dzuwa", "answer": "2"}
+{"sentence": "Dzuwa linaphimbidwa ndi mtambo wandiweyani m'mawa wonse, koma mwamwayi, panthawi yomwe pikiniki idayamba, _ inali itapita.", "option1": "Mtambo", "option2": "Dzuwa", "answer": "1"}
+{"sentence": "Mary adayika mwana wake wamkazi Anne pabedi, kuti _ agwire ntchito.", "option1": "mwana wake wamkazi Anne", "option2": "Mariya", "answer": "2"}
+{"sentence": "Fred ndi Alice anali ndi malaya ofunda kwambiri, koma _ sanakonzekere kuzizira ku Alaska.", "option1": "malaya", "option2": "Fred ndi Alice", "answer": "2"}
+{"sentence": "Fred ndi Alice anali ndi malaya ofunda kwambiri, koma _ sanali okwanira kuzizira ku Alaska.", "option1": "Fred ndi Alice", "option2": "malaya", "answer": "2"}
+{"sentence": "Thomson adayendera manda a Cooper mu 1765. Pa tsiku limenelo _ anali akuyenda kwa zaka zisanu.", "option1": "Cooper", "option2": "Thomson", "answer": "2"}
+{"sentence": "Thomson adayendera manda a Cooper mu 1765. Pa tsiku limenelo _ anali atamwalira kwa zaka zisanu.", "option1": "Thomson", "option2": "Cooper", "answer": "2"}
+{"sentence": "Jackson adasonkhezeredwa kwambiri ndi Arnold, ngakhale _ adakhala zaka mazana awiri pambuyo pake.", "option1": "Arnold", "option2": "Jackson", "answer": "2"}
+{"sentence": "Sindingathe kudula mtengo umenewo ndi nkhwangwa imeneyo; _ ndi wandiweyani kwambiri.", "option1": "Nkhwangwa", "option2": "Mtengo", "answer": "2"}
+{"sentence": "Sindingathe kudula mtengo umenewo ndi nkhwangwa imeneyo; _ ndi yaying'ono kwambiri.", "option1": "Nkhwangwa", "option2": "Mtengo", "answer": "1"}
+{"sentence": "Nkhandwe zikulowa usiku ndikuwukira nkhuku. Ndidzayenera kupha _.", "option1": "Nkhuku", "option2": "Nkhandwe", "answer": "2"}
+{"sentence": "Nkhandwe zikulowa usiku ndikuwukira nkhuku. Ndidzayenera kuyang'anira _.", "option1": "Nkhandwe", "option2": "Nkhuku", "answer": "2"}
+{"sentence": "Nkhandwe zikulowa usiku ndikuwukira nkhuku. _ akhala olimba mtima kwambiri.", "option1": "Nkhuku", "option2": "Nkhandwe", "answer": "2"}
+{"sentence": "Nkhandwe zikulowa usiku ndikuwukira nkhuku. _ akhala ndi mantha kwambiri.", "option1": "Nkhandwe", "option2": "Nkhuku", "answer": "2"}
+{"sentence": "Fred adaphimba maso ake ndi manja ake, chifukwa mphepo inali kuwomba mchenga mozungulira. Iye anatsegula _ pamene mphepo inaima.", "option1": "Manja ake", "option2": "maso ake", "answer": "2"}
+{"sentence": "Fred adaphimba maso ake ndi manja ake, chifukwa mphepo inali kuwomba mchenga mozungulira. Anatsitsa _ pamene mphepo inaima.", "option1": "Manja ake", "option2": "maso ake", "answer": "1"}
+{"sentence": "Wochita masewerawa ankakonda kutchedwa Terpsichore, koma adasintha _ kukhala Tina zaka zingapo zapitazo, chifukwa adaganiza kuti ndizovuta kwambiri kutchula.", "option1": "Terpsichore", "option2": "Tina", "answer": "1"}
+{"sentence": "Wochita masewerawa ankatchedwa Terpsichore, koma adasintha _ kukhala Tina zaka zingapo zapitazo, chifukwa adaganiza kuti ndizosavuta kutchula.", "option1": "Tina", "option2": "Terpsichore", "answer": "1"}
+{"sentence": "Fred ankaonera TV pamene George ankapita kukagula zakudya. Pambuyo pa ola limodzi _ anadzuka.", "option1": "George", "option2": "Fred", "answer": "2"}
+{"sentence": "Fred ankaonera TV pamene George ankapita kukagula zakudya. Pambuyo pa ola limodzi _ anabwerera.", "option1": "Fred", "option2": "George", "answer": "2"}
+{"sentence": "Fred ndi munthu yekhayo amene adakali ndi moyo yemwe amakumbukira agogo anga aakazi. _ ndi munthu wodabwitsa.", "option1": "Fred", "option2": "agogo anga aakazi", "answer": "1"}
+{"sentence": "Fred ndi munthu yekhayo amene adakali ndi moyo yemwe amakumbukira agogo anga aakazi. _ anali munthu wodabwitsa.", "option1": "agogo anga aakazi", "option2": "Fred", "answer": "1"}
+{"sentence": "Mu Julayi, Kamtchatka adalengeza nkhondo ku Yakutsk. Popeza gulu lankhondo la Yakutsk linali lokonzeka bwino kwambiri komanso lalikulu kuwirikiza kakhumi, _ adagonjetsedwa mkati mwa masabata.", "option1": "Kamtchatka", "option2": "Yakutsk", "answer": "1"}
+{"sentence": "Mu Julayi, Kamtchatka adalengeza nkhondo ku Yakutsk. Popeza gulu lankhondo la Yakutsk linali lokonzeka bwino kwambiri komanso lalikulu kuwirikiza kakhumi, _ adapambana mkati mwa milungu ingapo.", "option1": "Yakutsk", "option2": "Kamtchatka", "answer": "1"}
+{"sentence": "Taonani! Pali minnow akusambira pansi pa bakha ameneyo! _ ndibwino kuti athamuke ku chitetezo mwachangu!", "option1": "minnow", "option2": "Bakha", "answer": "1"}
+{"sentence": "Taonani! Pali shaki yomwe ikusambira pansi pa bakha ameneyo! _ ndibwino kuti athamuke ku chitetezo mwachangu!", "option1": "Bakha", "option2": "shaki", "answer": "1"}
+{"sentence": "Akatswiri ofukula za m'mabwinja apeza kuti anthu ankakhala ku Laputa zaka 20,000 zapitazo. _ kusaka umboni m'mphepete mwa mtsinje.", "option1": "Anthu", "option2": "Akatswiri ofukula zinthu zakale", "answer": "2"}
+{"sentence": "Akatswiri ofukula za m'mabwinja apeza kuti anthu ankakhala ku Laputa zaka 20,000 zapitazo. _ kusaka deer m'mphepete mwa mtsinje.", "option1": "Anthu", "option2": "Akatswiri ofukula zinthu zakale", "answer": "1"}
+{"sentence": "Asayansiwo akufufuza mitundu itatu ya nsomba zomwe zapezeka posachedwapa zikukhala m'nyanja ya Indian Ocean. _ adayamba zaka ziwiri zapitazo.", "option1": "Nsomba", "option2": "Asayansi", "answer": "2"}
+{"sentence": "Asayansiwo akufufuza mitundu itatu ya nsomba zomwe zapezeka posachedwapa zikukhala m'nyanja ya Indian Ocean. _ adawonekera zaka ziwiri zapitazo.", "option1": "Nsomba", "option2": "Asayansi", "answer": "1"}
+{"sentence": "Atolankhaniwo adafunsa nyenyezi za kanema watsopano. _ anali olimbikira kwambiri, kotero kuyankhulanako kunatenga nthawi yayitali.", "option1": "Nyenyezi", "option2": "Atolankhani", "answer": "2"}
+{"sentence": "Atolankhaniwo adafunsa nyenyezi za kanema watsopano. _ anali ogwirizana kwambiri, kotero kuyankhulanako kunatenga nthawi yayitali.", "option1": "Nyenyezi", "option2": "Atolankhani", "answer": "1"}
+{"sentence": "Apolisi adamanga mamembala onse a gululo. _ anali kuyesa kuletsa malonda a mankhwala osokoneza bongo m'dera lomwelo.", "option1": "Mamembala a gulu", "option2": "Polisi", "answer": "2"}
+{"sentence": "Apolisi adamanga mamembala onse a gululo. _ anali kuyesa kuyendetsa malonda a mankhwala osokoneza bongo m'dera lomwelo.", "option1": "Polisi", "option2": "Mamembala a gulu", "answer": "2"}
+{"sentence": "Sam adathyola zidendene zake zonse ndipo akuyenda ndi ndodo. Koma mwezi umodzi kapena kupitilira apo _ ziyenera kukhala bwino.", "option1": "Zidendene", "option2": "ndodo", "answer": "1"}
+{"sentence": "Sam adathyola zidendene zake zonse ndipo akuyenda ndi ndodo. Koma mwezi umodzi kapena kupitilira apo kuchokera pano _ ziyenera kukhala zosafunikira.", "option1": "Zidendene", "option2": "ndodo", "answer": "2"}
+{"sentence": "Pamene ochirikiza lamuloli anafika ku holo ya tauni, anadabwa kupeza kuti chipindacho chinali chodzaza ndi otsutsa. _ anali ochepa kwambiri.", "option1": "Otsutsa", "option2": "Othandizira", "answer": "2"}
+{"sentence": "Pamene ochirikiza lamuloli anafika ku holo ya tauni, anadabwa kupeza kuti chipindacho chinali chodzaza ndi otsutsa. _ anali ochuluka kwambiri.", "option1": "Othandizira", "option2": "Otsutsa", "answer": "2"}
+{"sentence": "Aliyense ankakonda kwambiri makeke a oatmeal; ndi anthu ochepa okha omwe ankakonda makeke a chokoleti. Nthawi yotsatira, tiyenera kupanga zambiri za _.", "option1": "Makeke a Oatmeal", "option2": "Makeke a chokoleti cha chokoleti", "answer": "1"}
+{"sentence": "Aliyense ankakonda kwambiri makeke a oatmeal; ndi anthu ochepa okha omwe ankakonda makeke a chokoleti. Nthawi yotsatira, tiyenera kupanga zochepa za _.", "option1": "Makeke a Oatmeal", "option2": "Makeke a chokoleti cha chokoleti", "answer": "2"}
+{"sentence": "Tinkayembekezera kuika makope a nyuzipepala yathu pamipando yonse m'holoyo, koma panalibe okwanira _.", "option1": "Makope a nyuzipepala yathu", "option2": "Mipando", "answer": "1"}
+{"sentence": "Tinali kuyembekezera kuika makope a nyuzipepala yathu pamipando yonse m'holoyo, koma panali zambiri za _.", "option1": "Mipando", "option2": "Makope a nyuzipepala yathu", "answer": "1"}
+{"sentence": "Ndinayika pini kudzera mu kaloti. Nditatulutsa pini, _ ndinasiya dzenje.", "option1": "kaloti", "option2": "Pini", "answer": "2"}
+{"sentence": "Ndinayika pini kudzera mu kaloti. Nditatulutsa pini, _ ndinali ndi dzenje.", "option1": "kaloti", "option2": "Pini", "answer": "1"}
+{"sentence": "Sindinapeze supuni, choncho ndinayesa kugwiritsa ntchito cholembera kuti ndidzutse khofi wanga. Koma limenelo linakhala lingaliro loipa, chifukwa _ linadzaza ndi inki.", "option1": "khofi", "option2": "cholembera", "answer": "1"}
+{"sentence": "Steve amatsatira chitsanzo cha Fred pachilichonse. _ amamusirira kwambiri.", "option1": "Fred", "option2": "Steve", "answer": "2"}
+{"sentence": "Steve amatsatira chitsanzo cha Fred pachilichonse. _ amamukhudza kwambiri.", "option1": "Steve", "option2": "Fred", "answer": "2"}
+{"sentence": "Gome silidzakwanira pakhomo chifukwa _ ndi yotakata kwambiri.", "option1": "Khomo la Khomo", "option2": "Gome", "answer": "2"}
+{"sentence": "Gome silingakwane pakhomo chifukwa _ ndi yopapatiza kwambiri.", "option1": "Gome", "option2": "Khomo la Khomo", "answer": "2"}
+{"sentence": "Grace anali wokondwa kundisinthanitsa juzi lake ndi jekete langa. Amaganiza _ amawoneka dowdy pa iye.", "option1": "jekete", "option2": "juzi", "answer": "2"}
+{"sentence": "Grace anali wokondwa kundisinthanitsa juzi lake ndi jekete langa. Amaganiza _ amawoneka bwino pa iye.", "option1": "juzi", "option2": "jekete", "answer": "2"}
+{"sentence": "John adalemba ntchito Bill kuti asamalire _ .", "option1": "John", "option2": "Bill", "answer": "1"}
+{"sentence": "John adadzilemba ntchito kwa Bill kuti asamalire _ .", "option1": "John", "option2": "Bill", "answer": "2"}
+{"sentence": "Mbiri ya Sam Goodman ya wamkulu wa ku Spartan Xenophanes imapereka lingaliro lomveka bwino la zovuta _ zomwe zimakumana nazo pakufufuza kwake.", "option1": "Goodman", "option2": "Xenophanes", "answer": "1"}
+{"sentence": "Mbiri ya Sam Goodman ya wamkulu wa ku Spartan Xenophanes imapereka lingaliro lowoneka bwino la zovuta _ zomwe adakumana nazo paubwana wake.", "option1": "Goodman", "option2": "Xenophanes", "answer": "2"}
+{"sentence": "Jane adagogoda pakhomo la Susan koma _ sanayankhe.", "option1": "Susan", "option2": "Jane", "answer": "1"}
+{"sentence": "Beth sanakwiyire Sally, yemwe adamudula, chifukwa _ adayima ndikuwerengera mpaka khumi.", "option1": "Beth", "option2": "Sally", "answer": "1"}
+{"sentence": "Jim adapereka chizindikiro kwa wogulitsa mowa ndikuwonetsa _ galasi lopanda kanthu", "option1": "Wogulitsa mowa", "option2": "Jim", "answer": "2"}
+{"sentence": "Dan adatenga mpando wakumbuyo pomwe Bill adanena kutsogolo chifukwa _ \"Dibs!\" anali pang'onopang'ono.", "option1": "Dan", "option2": "Bill", "answer": "1"}
+{"sentence": "Tom adati \"Fufuzani\" kwa Ralph pamene adasunthira _ bishopu.", "option1": "Ralph", "option2": "Tom", "answer": "2"}
+{"sentence": "Pamene Andrea mu duster ya mbewu adadutsa pa Susan, _ adatha kuwona malo otsika.", "option1": "Susan", "option2": "Andrea", "answer": "2"}
+{"sentence": "Pamene Andrea mu duster ya mbewu adadutsa pa Susan, _ adatha kuwona zida zotsika.", "option1": "Andrea", "option2": "Susan", "answer": "2"}
+{"sentence": "Bill adapereka mbale yopanda kanthu kwa John chifukwa _ inali yodzaza.", "option1": "John", "option2": "Bill", "answer": "2"}
+{"sentence": "Bill adapereka mbale yopanda kanthu kwa John chifukwa _ anali ndi njala.", "option1": "Bill", "option2": "John", "answer": "2"}
+{"sentence": "Bill adapereka gameboy kwa John chifukwa _ kutembenuka kunali kotsatira.", "option1": "Bill", "option2": "John", "answer": "2"}
+{"sentence": "Pamene Ollie adanyamula Tommy kukwera masitepe ataliatali okhotakhota, _ miyendo idapweteka.", "option1": "Ollie", "option2": "Tommy", "answer": "1"}
+{"sentence": "Pamene Ollie ananyamula Tommy kukwera masitepe ataliatali okhotakhota, _ miyendo inapachikidwa.", "option1": "Ollie", "option2": "Tommy", "answer": "2"}
+{"sentence": "Bamboyo ananyamula mnyamata wogona m'manja _", "option1": "Bambo", "option2": "mnyamata", "answer": "1"}
+{"sentence": "Mkaziyo anagwira mtsikanayo pachifuwa _", "option1": "Mkaziyo", "option2": "Mtsikana", "answer": "1"}
+{"sentence": "Mkaziyo anagwira mtsikanayo motsutsana ndi _ chifuniro.", "option1": "Mtsikana", "option2": "Mkaziyo", "answer": "1"}
+{"sentence": "Dr. Adams adadziwitsa Kate kuti _ adapuma pantchito ndipo adapereka njira zingapo zochiritsira mtsogolo.", "option1": "Kate", "option2": "Dr. Adams", "answer": "2"}
+{"sentence": "Dan adayenera kuletsa Bill kusewera ndi mbalame yovulalayo. _ ndi wachifundo kwambiri.", "option1": "Dan", "option2": "Bill", "answer": "1"}
+{"sentence": "Dan adayenera kuletsa Bill kusewera ndi mbalame yovulalayo. _ ndi wankhanza kwambiri.", "option1": "Dan", "option2": "Bill", "answer": "2"}
+{"sentence": "George adapeza matikiti aulere a seweroli, koma _ adawapatsa Eric, ngakhale kuti anali wofunitsitsa kwambiri kuwona.", "option1": "Eric", "option2": "George", "answer": "2"}
+{"sentence": "George adapeza matikiti aulere a seweroli, koma _ adawapatsa Eric, chifukwa anali wofunitsitsa kwambiri kuwona.", "option1": "George", "option2": "Eric", "answer": "2"}
+{"sentence": "George adapeza matikiti aulere a seweroli, koma _ adawapatsa Eric, chifukwa sanali wofunitsitsa kwenikweni kuwona.", "option1": "Eric", "option2": "George", "answer": "2"}
+{"sentence": "Jane anapatsa Joan maswiti chifukwa _ analibe njala.", "option1": "Jane", "option2": "Joan", "answer": "1"}
+{"sentence": "Jane anapatsa Joan maswiti chifukwa _ anali ndi njala.", "option1": "Joan", "option2": "Jane", "answer": "1"}
+{"sentence": "Ndinayesa kujambula chithunzi cha munda wa zipatso, ndi mandimu m'mitengo ya mandimu, koma _ inatuluka ikuwoneka ngati mababu a magetsi.", "option1": "Mitengo ya mandimu", "option2": "mandimu", "answer": "2"}
+{"sentence": "Ndinayesa kujambula chithunzi cha munda wa zipatso, ndi mandimu m'mitengo ya mandimu, koma _ inatuluka ikuwoneka ngati mizati ya telefoni.", "option1": "Mitengo ya mandimu", "option2": "mandimu", "answer": "1"}
+{"sentence": "James adapempha Robert kuti amupindule koma _ adakana.", "option1": "Robert", "option2": "James", "answer": "1"}
+{"sentence": "Emma sanapereke mpira kwa Janie ngakhale _ anali wotseguka.", "option1": "Janie", "option2": "Emma", "answer": "1"}
+{"sentence": "Ndinayika mapiko a gulugufe patebulo ndipo _ ndinasweka.", "option1": "Mapiko a gulugufe", "option2": "tebulo", "answer": "1"}
+{"sentence": "Ndinayika buku lolemera patebulo ndipo _ ndinasweka.", "option1": "tebulo", "option2": "Buku Lolemera", "answer": "1"}
+{"sentence": "Madonna adachotsa mphunzitsi wake chifukwa _ sanathe kupirira bwenzi lake.", "option1": "Madonna", "option2": "Mphunzitsi", "answer": "1"}
+{"sentence": "Carol adakhulupirira kuti Rebecca adakayikira kuti _adaba wotchiyo.", "option1": "Carol", "option2": "Rebecca", "answer": "1"}
+{"sentence": "Alice adayang'ana bwenzi lake Jade pagulu. Popeza _ nthawi zonse amakhala ndi mwayi, Alice adamuwona mwachangu.", "option1": "Alice", "option2": "Jade", "answer": "1"}
+{"sentence": "Pa masewera a tag, Ethan adathamangitsa Luka chifukwa _ anali \"izo\".", "option1": "Ethan", "option2": "Luka", "answer": "1"}
+{"sentence": "Pa masewera a tag, Ethan adathawa Luka chifukwa _ anali \"izo\".", "option1": "Luka", "option2": "Ethan", "answer": "1"}
+{"sentence": "Pa mpikisano wa Loebner oweruza sanathe kudziwa kuti ndi anthu ati omwe anafunsidwa omwe anali ma chatbots chifukwa _ anali opusa kwambiri.", "option1": "Ma chatbots", "option2": "Oweruza", "answer": "2"}
+{"sentence": "Pa mpikisano wa Loebner oweruza sanathe kudziwa kuti ndi anthu ati omwe anafunsidwa omwe anali ma chatbots chifukwa _ anali otsogola kwambiri.", "option1": "Oweruza", "option2": "Ma chatbots", "answer": "2"}
+{"sentence": "Amayi a Arthur ndi Celeste abwera mtawuniyi kudzatenga _. Iwo amasangalala kwambiri kuti awabwererenso, koma amawadzudzula chimodzimodzi chifukwa chakuti anathawa.", "option1": "amayi", "option2": "Arthur ndi Celeste", "answer": "2"}
+{"sentence": "Mark anali pafupi ndi zidendene za a Singer. _ adamumva akuyitanitsa woyendetsa sitimayo, ndikumulonjeza, m'chilankhulo aliyense adalankhula usiku umenewo, kuti palibe chinthu chimodzi chomwe chiyenera kuwonongeka m'sitimayo kupatula zipolopolo zokha, koma woyendetsa sitimayo ndi ogwira nawo ntchito onse ayenera kukhala bwino kukhala m'kanyumba mpaka ntchitoyo itatha", "option1": "Chizindikiro", "option2": "Bambo Singer", "answer": "1"}
+{"sentence": "Kavalo anachita bwino, bwana, ndipo sanasonyeze zoipa; koma pomalizira pake anangoponya zidendene zake ndikuponya mwamuna wachichepereyo mu mpanda waminga. _ ankafuna kuti ndimuthandize, koma ndikuyembekeza kuti mudzandikhululukira, bwana, sindinamve kuti ndikufuna kutero.", "option1": "pony", "option2": "Mwamuna Wamng'ono", "answer": "2"}
+{"sentence": "Mbiri ya Sam Goodman ya wamkulu wa ku Spartan Xenophanes imapereka lingaliro lomveka bwino la zovuta _ zomwe adakumana nazo paubwana wake.", "option1": "Goodman", "option2": "Xenophanes", "answer": "2"}
+{"sentence": "Bob adalipira maphunziro aku koleji a Charlie, koma tsopano Charlie amachita ngati kuti sizinachitike. _ akupweteka kwambiri.", "option1": "Charlie", "option2": "Bob", "answer": "2"}
+{"sentence": "Sam adatenga maphunziro achifalansa kuchokera kwa Adam , chifukwa _ anali wofunitsitsa kuyankhula bwino.", "option1": "Adamu", "option2": "Sam", "answer": "2"}
+{"sentence": "Nsomba zinadya nyongolotsi . _ anali wokoma.", "option1": "Nsomba", "option2": "Nyongolotsi", "answer": "2"}
+{"sentence": "Babar akudabwa momwe _ angapezere zovala zatsopano. Mwamwayi, mwamuna wachikulire wolemera kwambiri yemwe nthawi zonse amakonda njovu zazing'ono amamvetsetsa nthawi yomweyo kuti akulakalaka suti yabwino. Popeza amakonda kusangalatsa anthu, amamupatsa chikwama chake.", "option1": "Munthu Wachikulire", "option2": "Babar", "answer": "1"}
+{"sentence": "Wochita masewerawa ankakonda kutchedwa Terpsichore , koma adasintha _ kukhala Tina zaka zingapo zapitazo, chifukwa adaganiza kuti ndizosavuta kutchula.", "option1": "Tina", "option2": "Terpsichore", "answer": "1"}
+{"sentence": "Fred anaphimba maso ake ndi manja ake , chifukwa mphepo inali kuwomba mchenga mozungulira. Anatsitsa _ pamene mphepo inaima.", "option1": "maso ake", "option2": "Manja ake", "answer": "2"}
+{"sentence": "Pamene Andrea mu duster ya mbewu adadutsa pa Susan , _ adatha kuwona mzere wotsika.", "option1": "Susan", "option2": "Andrea", "answer": "2"}
+{"sentence": "Mphaka anali atagona pafupi ndi dzenje la mbewa kudikirira mbewa , koma _ anali wochenjera kwambiri.", "option1": "Mbewa", "option2": "Mphaka", "answer": "1"}
+{"sentence": "Lionel akugwira ukapolo wasayansi, Dr. Vardi , yemwe wapanga chipangizo chomwe chimapangitsa nyama kukhala zosawoneka; Lionel akukonzekera kuigwiritsa ntchito pa Geoffrey ndikutumiza _ kuba zinthu za nyukiliya m'chipinda chosungiramo asilikali.", "option1": "Lionel", "option2": "Geoffrey", "answer": "2"}
+{"sentence": "Lionel akugwira ukapolo wasayansi, Dr. Vardi , yemwe wapanga chipangizo chomwe chimapangitsa nyama kukhala zosawoneka; Lionel akukonzekera kuigwiritsa ntchito pa Geoffrey ndikutumiza _ kuba zinthu za nyukiliya m'chipinda chosungiramo asilikali.", "option1": "Dr. Vardi", "option2": "Geoffrey", "answer": "2"}
+{"sentence": "Bob adalipira maphunziro aku koleji a Charlie. _ ndi wowolowa manja kwambiri.", "option1": "Charlie", "option2": "Bob", "answer": "2"}
+{"sentence": "Mabatani onse kumbuyo kwa chovala cha plaid cha Dora anali atamangidwa kunja-mkati. Maude anayenera kuganiza zomukweza; koma ayi, _ adasiya Dora wamng'ono wosauka kuti achite zonse zomwe angathe, yekha.", "option1": "Dora", "option2": "Maude", "answer": "1"}
+{"sentence": "Za chinthu chimodzi Mark anali wotsimikiza. Harry ankadziwa zochepa kwambiri kuposa _ anachita.", "option1": "Harry", "option2": "Chizindikiro", "answer": "2"}
+{"sentence": "Ndinapita kukadya pang'ono , zambiri kuti ndidutse nthawi kuposa chifukwa ndinkafuna _ .", "option1": "Nthawi", "option2": "chakudya", "answer": "2"}
+{"sentence": "Fred ndi munthu yekhayo amene adakali ndi moyo yemwe amakumbukira agogo anga aakazi . _ anali munthu wodabwitsa.", "option1": "Fred", "option2": "agogo anga aakazi", "answer": "2"}
+{"sentence": "Mbuye wanga ndi mkazi wanga anaganiza zochezera abwenzi ena omwe ankakhala pafupifupi makilomita makumi anayi mphambu zisanu ndi chimodzi kuchokera kunyumba kwathu, ndipo James anayenera kuyendetsa _ .", "option1": "abwenzi ena", "option2": "Mbuye ndi Mkazi", "answer": "2"}
+{"sentence": "Jane adagogoda pakhomo la Susan koma _ sanayankhe.", "option1": "Jane", "option2": "Susan", "answer": "2"}
+{"sentence": "Nkhandwe zikulowa usiku ndikuwukira nkhuku . _ akhala olimba mtima kwambiri.", "option1": "Nkhuku", "option2": "Nkhandwe", "answer": "2"}
+{"sentence": "Fred ndi munthu yekhayo amene adakali ndi moyo yemwe amakumbukira agogo anga aakazi . _ ndi munthu wodabwitsa.", "option1": "Fred", "option2": "agogo anga aakazi", "answer": "1"}
+{"sentence": "Bwana Clifford akufuna kuti ndimupeze mkwati watsopano , pafupifupi makumi awiri kapena makumi awiri ndi chimodzi, yemwe amadziwa bizinesi yake. _ Coach wakale akufooka, ndipo akufuna kuti munthu agwire naye ntchito ndikulowa m'njira zake, yemwe angathe, pamene munthu wokalambayo adachotsedwa penshoni, kulowa m'malo mwake.", "option1": "Bwana Clifford", "option2": "mkwati watsopano", "answer": "1"}
+{"sentence": "Thomson adayendera manda a Cooper mu 1765. Pa tsiku limenelo _ anali akuyenda kwa zaka zisanu.", "option1": "Thomson", "option2": "Cooper", "answer": "1"}
+{"sentence": "Mark adamva mapazi a Steve akutsika makwerero. Chitseko cha shopu chinatsekedwa pambuyo pa _ . Anathamangira kukayang'ana pazenera.", "option1": "Chizindikiro", "option2": "Steve", "answer": "2"}
+{"sentence": "George adapeza matikiti aulere ku seweroli, koma _ adawapatsa Eric , chifukwa anali wofunitsitsa kwambiri kuwona.", "option1": "Eric", "option2": "George", "answer": "1"}
+{"sentence": "Jane adagogoda pakhomo la Susan, koma panalibe yankho. _ anakhumudwa.", "option1": "Jane", "option2": "Susan", "answer": "1"}
+{"sentence": "Thomson adayendera manda a Cooper mu 1765. Pa tsiku limenelo _ anali atamwalira kwa zaka zisanu.", "option1": "Cooper", "option2": "Thomson", "answer": "1"}
+{"sentence": "Babar akudabwa kuti angapeze bwanji zovala zatsopano. Mwamwayi, mwamuna wachikulire wolemera kwambiri yemwe nthawi zonse amakonda njovu zazing'ono amamvetsetsa nthawi yomweyo kuti akulakalaka suti yabwino. Monga amakonda kusangalatsa anthu, amamupatsa _ chikwama.", "option1": "Munthu Wachikulire", "option2": "Babar", "answer": "1"}
+{"sentence": "Tinapita kunyanja , chifukwa shaki idawonedwa pagombe la nyanja , kotero _ inali malo otetezeka kusambira.", "option1": "Nyanja", "option2": "Gombe la Nyanja", "answer": "1"}
+{"sentence": "Sergeant Holmes adafunsa atsikanawo kuti afotokoze wolowerera . Nancy sanangopatsa wapolisiyo mafotokozedwe abwino kwambiri a woyendayenda wazaka makumi atatu, koma adajambula chithunzi chovuta cha _ nkhope.", "option1": "Sergeant Holmes", "option2": "Wolowerera", "answer": "2"}
+{"sentence": "Nkhandwe zikulowa usiku ndikuwukira nkhuku . _ akhala ndi mantha kwambiri.", "option1": "Nkhandwe", "option2": "Nkhuku", "answer": "2"}
+{"sentence": "Amayi a Arthur ndi Celeste abwera mtawuniyi kudzawatenga. _ amasangalala kwambiri kuti awabwezeretse, koma amawadzudzula chimodzimodzi chifukwa adathawa.", "option1": "Arthur ndi Celeste", "option2": "amayi", "answer": "2"}
+{"sentence": "Kutambasula _ kumbuyo, mkaziyo anamwetulira mtsikanayo .", "option1": "Mkazi", "option2": "Mtsikana", "answer": "1"}
+{"sentence": "Mbiri ya Sam Goodman ya wamkulu wa ku Spartan Xenophanes imapereka lingaliro lomveka bwino la zovuta _ zomwe zimakumana nazo pakufufuza kwake.", "option1": "Xenophanes", "option2": "Goodman", "answer": "2"}
+{"sentence": "Pamene Tatyana anafika m'kanyumbako, amayi ake anali atagona. _ anali wosamala kuti asamusokoneze, kuvula zovala ndikukweranso m'malo ake ogona.", "option1": "Amayi", "option2": "Tatyana", "answer": "2"}
+{"sentence": "Susan adadziwa kuti mwana wamwamuna wa Ann adachita ngozi yagalimoto, chifukwa _ adamuuza za izo.", "option1": "Susan", "option2": "Ann", "answer": "2"}
+{"sentence": "Amayi a Arthur ndi Celeste abwera mtawuniyi kudzawatenga. Iwo ali okondwa kwambiri kuti abwererenso, koma _ kuwadzudzula chimodzimodzi chifukwa chakuti anathawa.", "option1": "amayi", "option2": "Arthur ndi Celeste", "answer": "2"}
+{"sentence": "Kodi mukuganiza kuti Petro ndi amene anachititsa kuti woyendetsa sitimayo azidwala? Mwina _ adapereka ziphuphu kwa wophika kuti aike chinachake mu chakudya chake.", "option1": "Peter", "option2": "Kaputeni", "answer": "1"}
+{"sentence": "Apolisi adamanga mamembala onse a gululo . _ anali kuyesa kuletsa malonda a mankhwala osokoneza bongo m'dera lomwelo.", "option1": "Polisi", "option2": "Mamembala a gulu", "answer": "1"}
+{"sentence": "Sam adatenga maphunziro a Chifalansa kuchokera kwa Adam , chifukwa _ adadziwika kuti amalankhula bwino.", "option1": "Adamu", "option2": "Sam", "answer": "1"}
+{"sentence": "Amayi a Arthur ndi Celeste abwera mtawuniyi kudzatenga _ . Iwo amasangalala kwambiri kuti awabwererenso, koma amawadzudzula chimodzimodzi chifukwa chakuti anathawa. iwo .", "option1": "Arthur ndi Celeste", "option2": "amayi", "answer": "1"}
+{"sentence": "Ndinapempha Dave kuti anditengere juzi yanga kuchokera kumbali ina ya yatchi . Pamene iye anali atachoka, ndinapumula mkono wanga pa njanji kumeneko ndipo mwadzidzidzi _ ndinapereka.", "option1": "njanji", "option2": "Bwato", "answer": "1"}
+{"sentence": "Ndinapempha Dave kuti anditengere juzi yanga kuchokera kumbali ina ya yatchi . Pamene iye anali atachoka, ndinapumula mkono wanga pa njanji kumeneko ndipo mwadzidzidzi _ ndinapereka.", "option1": "njanji", "option2": "juzi", "answer": "1"}
+{"sentence": "Ndinapempha Dave kuti anditengere juzi yanga kuchokera kumbali ina ya yatchi . Pamene iye anali atachoka, ndinapumula mkono wanga pa njanji kumeneko ndipo mwadzidzidzi _ ndinapereka.", "option1": "njanji", "option2": "mkono", "answer": "1"}
+{"sentence": "Fred ndi Alice anali ndi malaya ofunda kwambiri , koma _ sanali okwanira kuzizira ku Alaska.", "option1": "Fred ndi Alice", "option2": "malaya", "answer": "2"}
+{"sentence": "Ngakhale asanafike mtawuni , adamva phokoso ngati chimanga chikutuluka. Dora adafunsa kuti _ ndi chiyani, ndipo abambo adati ndi moto.", "option1": "Tawuni", "option2": "phokoso", "answer": "2"}
+{"sentence": "Ngakhale asanafike mtawuni , adamva phokoso ngati chimanga chikutuluka. Dora adafunsa kuti _ ndi chiyani, ndipo abambo adati ndi moto.", "option1": "chimanga", "option2": "phokoso", "answer": "2"}
+{"sentence": "Steve amatsatira chitsanzo cha Fred pachilichonse. _ amamukhudza kwambiri.", "option1": "Steve", "option2": "Fred", "answer": "2"}
+{"sentence": "Wochita masewerawa ankakonda kutchedwa Terpsichore , koma adasintha _ kukhala Tina zaka zingapo zapitazo, chifukwa adaganiza kuti ndizovuta kwambiri kutchula.", "option1": "Terpsichore", "option2": "Tina", "answer": "1"}
+{"sentence": "George adapeza matikiti aulere ku seweroli, koma _ adawapatsa Eric , ngakhale kuti anali wofunitsitsa kwambiri kuwona.", "option1": "Eric", "option2": "George", "answer": "2"}
+{"sentence": "Andale akutali ku Washington sakanatha kudziwa atsamunda kotero ayenera kupanga malamulo owongolera _ .", "option1": "Atsamunda", "option2": "Andale", "answer": "1"}
+{"sentence": "Nsomba zinadya nyongolotsi . _ anali ndi njala.", "option1": "Nyongolotsi", "option2": "Nsomba", "answer": "2"}
+{"sentence": "Pambuyo pokambirana kwa nthawi yayitali, Nancy adatsimikiza woyang'anira nyumbayo kuti panalibe chifukwa chochitira mantha mwamsanga. _ sanatchule chochitikacho pa siteshoni ya basi ya Hamilton, podziwa kuti zidzangowonjezera kusasangalala kwa Mayi Gruen.", "option1": "Nancy", "option2": "Woyang'anira nyumba", "answer": "1"}
+{"sentence": "Galu adathamangitsa mphaka , yemwe adathamangira pamtengo. _ adadikirira pansi.", "option1": "Galu", "option2": "Mphaka", "answer": "1"}
+{"sentence": "Mphaka anali atagona pafupi ndi dzenje la mbewa akudikirira mbewa , koma _ anali woleza mtima kwambiri.", "option1": "Mbewa", "option2": "Mphaka", "answer": "2"}
+{"sentence": "Sikophweka kuyika mabatani mtunda wofanana ndendende, ndipo _ ndizovuta kwambiri kuwadula ndendende kukula koyenera . Kutsetsereka kwazing'ono kwambiri kwa sikisi kudzapangitsa dzenje kukhala lalikulu kwambiri, ndipo ngakhale ulusi umodzi wosadulidwa udzasiya waung'ono kwambiri.", "option1": "kutsetsereka", "option2": "dzenje", "answer": "2"}
+{"sentence": "Sikophweka kuyika mabatani mtunda wofanana ndendende, ndipo _ ndizovuta kwambiri kuwadula ndendende kukula koyenera . Kutsetsereka kwazing'ono kwambiri kwa sikisi kudzapangitsa dzenje kukhala lalikulu kwambiri, ndipo ngakhale ulusi umodzi wosadulidwa udzasiya waung'ono kwambiri.", "option1": "dzenje", "option2": "Zikwanje", "answer": "1"}
+{"sentence": "Sikophweka kuyika mabatani mtunda wofanana ndendende, ndipo _ ndizovuta kwambiri kuwadula ndendende kukula koyenera . Kutsetsereka kwazing'ono kwambiri kwa sikisi kudzapangitsa dzenje kukhala lalikulu kwambiri, ndipo ngakhale ulusi umodzi wosadulidwa udzasiya waung'ono kwambiri.", "option1": "dzenje", "option2": "Kukula koyenera", "answer": "1"}
+{"sentence": "Tinapita kunyanja , chifukwa shaki idawonedwa pagombe la nyanja , kotero _ inali malo oopsa kusambira.", "option1": "Gombe la Nyanja", "option2": "Nyanja", "answer": "1"}
+{"sentence": "Jane adagogoda pakhomo la Susan, koma panalibe yankho. _ anali kunja.", "option1": "Susan", "option2": "Jane", "answer": "1"}
+{"sentence": "Susan adadziwa kuti mwana wamwamuna wa Ann adachita ngozi yagalimoto, choncho _ adamuuza za izo.", "option1": "Susan", "option2": "Ann", "answer": "1"}
+{"sentence": "Ngati wojambula wachinyengo wakwanitsa kupusitsa Sam , _ akanataya ndalama zambiri.", "option1": "Sam", "option2": "Wojambula wachinyengo", "answer": "1"}
+{"sentence": "Fred ndi Alice anali ndi malaya ofunda kwambiri pansi , koma _ sanakonzekere kuzizira ku Alaska.", "option1": "Fred ndi Alice", "option2": "malaya", "answer": "1"}
+{"sentence": "Steve amatsatira chitsanzo cha Fred pachilichonse. _ amamusirira kwambiri.", "option1": "Steve", "option2": "Fred", "answer": "1"}
+{"sentence": "Nkhandwe zikulowa usiku ndikuwukira nkhuku . Ndidzayenera kupha _ .", "option1": "Nkhandwe", "option2": "Nkhuku", "answer": "1"}
+{"sentence": "Mark adamva mapazi a Steve akutsika makwerero. Chitseko cha shopu chinatsekedwa pambuyo pake. _ anathamangira kukayang'ana pazenera.", "option1": "Chizindikiro", "option2": "Steve", "answer": "1"}
+{"sentence": "Pamene Andrea mu duster ya mbewu adadutsa pa Susan , _ adatha kuwona zida zotsika.", "option1": "Susan", "option2": "Andrea", "answer": "1"}
+{"sentence": "Nkhandwe zikulowa usiku ndikuwukira nkhuku . Ndidzayenera kuyang'anira _ .", "option1": "Nkhuku", "option2": "Nkhandwe", "answer": "1"}
+{"sentence": "Ndinakhala pamenepo ndikumverera ngati chappie yomwe ndidawerenga m'buku , yemwe adapha cove ina ndikubisa thupi pansi pa tebulo la chipinda chodyera , kenako anayenera kukhala moyo ndi moyo wa phwando la chakudya chamadzulo, ndi _ kumeneko nthawi zonse.", "option1": "Buku", "option2": "Thupi", "answer": "2"}
+{"sentence": "Ndinakhala pamenepo ndikumverera ngati chappie yomwe ndidawerenga m'buku , yemwe adapha cove ina ndikubisa thupi pansi pa tebulo la chipinda chodyera , kenako anayenera kukhala moyo ndi moyo wa phwando la chakudya chamadzulo, ndi _ kumeneko nthawi zonse.", "option1": "Thupi", "option2": "tebulo", "answer": "1"}
+{"sentence": "Ndinakhala pamenepo ndikumverera ngati chappie yomwe ndidawerenga m'buku , yemwe adapha cove ina ndikubisa thupi pansi pa tebulo la chipinda chodyera , kenako anayenera kukhala moyo ndi moyo wa phwando la chakudya chamadzulo, ndi _ kumeneko nthawi zonse.", "option1": "Thupi", "option2": "moyo ndi moyo", "answer": "1"}
+{"sentence": "Galu adathamangitsa mphaka , yemwe adathamangira pamtengo. _ adadikirira pamwamba.", "option1": "Galu", "option2": "Mphaka", "answer": "2"}
+{"sentence": "Malo oyamba omwe ndimakumbukira bwino anali udzu waukulu wosangalatsa wokhala ndi dziwe la madzi oyera mu _ . Mitengo ina yamthunzi idaweramira", "option1": "dziwe", "option2": "Udzu", "answer": "1"}
+{"sentence": "Nthawi zonse kale, Larry adathandiza abambo ndi _ ntchito. Koma iye sanathe kumuthandiza tsopano, popeza kuti Atate ananena kuti bwana wawo pa kampani ya njanji sadzafuna kuti wina aliyense azigwira ntchito mu ofesi.", "option1": "Abambo", "option2": "Larry", "answer": "1"}
+{"sentence": "Njira yopita kunyanjayi inali yotsekedwa, kotero sitinathe kugwiritsa ntchito _.", "option1": "Nyanja", "option2": "Njira", "answer": "2"}
+{"sentence": "Pakadali pano, m'nkhalango, njovu zikuyitanitsa ndikusaka m'mwamba ndi pansi kwa Arthur ndi Celeste , ndipo amayi awo akuda nkhawa kwambiri. Mwamwayi, pouluka pamwamba pa tauniyo, mbalame yakale ya marabou yawona _ ndipo imabweranso mofulumira kudzauza nkhani.", "option1": "amayi awo", "option2": "Arthur ndi Celeste", "answer": "2"}
+{"sentence": "Pakadali pano, m'nkhalango, njovu zikuyitanitsa ndikusaka m'mwamba ndi pansi kwa Arthur ndi Celeste , ndipo amayi awo akuda nkhawa kwambiri. Mwamwayi, pouluka pamwamba pa tauniyo, mbalame yakale ya marabou yawona _ ndipo imabweranso mofulumira kudzauza nkhani.", "option1": "Njovu", "option2": "Arthur ndi Celeste", "answer": "2"}
+{"sentence": "Alice anali kupukuta fumbi m'chipinda chochezera ndikuyesera kupeza batani lomwe Amayi adabisala. Palibe nthawi lero kuyang'ana zithunzi zakale mu album yake yomwe amakonda kwambiri . Lero adayenera kusaka batani , kotero adayika album pampando popanda ngakhale kutsegula _ .", "option1": "Album", "option2": "Mpando", "answer": "1"}
+{"sentence": "Alice anali kupukuta fumbi m'chipinda chochezera ndikuyesera kupeza batani lomwe Amayi adabisala. Palibe nthawi lero kuyang'ana zithunzi zakale mu album yake yomwe amakonda kwambiri . Lero adayenera kusaka batani , kotero adayika album pampando popanda ngakhale kutsegula _ .", "option1": "Chipinda chochezeramo", "option2": "Album", "answer": "2"}
+{"sentence": "Alice anali kupukuta fumbi m'chipinda chochezera ndikuyesera kupeza batani lomwe Amayi adabisala. Palibe nthawi lero kuyang'ana zithunzi zakale mu album yake yomwe amakonda kwambiri . Lero adayenera kusaka batani , kotero adayika album pampando popanda ngakhale kutsegula _ .", "option1": "Album", "option2": "batani", "answer": "1"}
+{"sentence": "Popeza Chester adadalira amalume Vernon , _ sakanatha kukwatira bwino popanda chilolezo chake", "option1": "Amalume a Vernon", "option2": "Chester", "answer": "2"}
+{"sentence": "Nthawi zonse kale, Larry adathandiza abambo pantchito yawo. Koma _ sanathe kumuthandiza tsopano, popeza kuti Atate ananena kuti bwana wawo pa kampani ya njanji sangafune wina aliyense kusiyapo iye kugwira ntchito mu ofesi.", "option1": "Larry", "option2": "Abambo", "answer": "1"}
+{"sentence": "Nthawi zonse kale, Larry adathandiza abambo pantchito yawo. Koma iye sanathe kuthandiza _ tsopano, pakuti Atate ananena kuti bwana wawo pa kampani ya njanji sangafune wina aliyense kusiyapo iye kugwira ntchito mu ofesi.", "option1": "Larry", "option2": "Abambo", "answer": "2"}
+{"sentence": "Aliyense ankakonda kwambiri makeke a oatmeal ; ndi anthu ochepa okha omwe ankakonda makeke a chokoleti chip . Nthawi yotsatira, tiyenera kupanga zambiri za _.", "option1": "Makeke a Oatmeal", "option2": "Makeke a chokoleti cha chokoleti", "answer": "1"}
+{"sentence": "Tsiku lililonse atadya chakudya chamadzulo a Schmidt ankagona nthawi yayitali. Mark ankamulola kugona kwa ola limodzi, kenako n'kumudzutsa, kumudzudzula, ndi kumupangitsa kuti agwire ntchito. Anafunika kumupangitsa kuti amalize _ ntchito, chifukwa ntchito yake inali yokongola", "option1": "Chizindikiro", "option2": "Bambo Schmidt", "answer": "2"}
+{"sentence": "Bambo anayang'ana pansi pa nkhope za ana , choncho anadabwa ndi chisoni tsopano. Zinali zoyipa kwambiri kuti adayenera kukanidwa zinthu zambiri chifukwa sakanatha _ .", "option1": "Nkhope", "option2": "Zinthu", "answer": "2"}
+{"sentence": "Bambo anayang'ana pansi pa nkhope za ana , choncho anadabwa ndi chisoni tsopano. Zinali zoyipa kwambiri kuti adayenera kukanidwa zinthu zambiri chifukwa sakanatha _ .", "option1": "Zinthu", "option2": "Ana", "answer": "1"}
+{"sentence": "Njira yopita kunyanjayi inali yotsekedwa, kotero sitinathe kufikira _ .", "option1": "Nyanja", "option2": "Njira", "answer": "1"}
+{"sentence": "Bernard , yemwe sanauze mkulu wa boma kuti _ anali ndi zaka zosakwana 21 pamene adalemba mlandu wa homestead, sanaganize kuti adachita chilichonse chosawona mtima. Komabe, aliyense amene anadziŵa kuti anali ndi zaka 19 akhoza kumulanda zofuna zake.", "option1": "Mkulu wa boma", "option2": "Bernard", "answer": "2"}
+{"sentence": "Tsiku lina Dick anali kuseka ana aang'ono, ndipo sanadziwe kuti mbuyeyo anali m'munda wotsatira; koma _ anali komweko, akuyang'ana zomwe zikuchitika; pamwamba pa mpanda adadumpha mwachangu, ndikugwira Dick ndi mkono, adamumenya mwamphamvu kwambiri kotero kuti adabangula ndi ululu ndi kudabwa.", "option1": "Dick", "option2": "Mbuye", "answer": "2"}
+{"sentence": "Eni masitolo ankakhala mtawuni kuti ayendetse masitolo awo ndipo ankakhala m'zipinda kumbuyo _ .", "option1": "Zipinda", "option2": "Masitolo", "answer": "2"}
+{"sentence": "Eni masitolo ankakhala mtawuni kuti ayendetse masitolo awo ndipo ankakhala m'zipinda kumbuyo _ .", "option1": "Masitolo", "option2": "Ogulitsa masitolo", "answer": "1"}
+{"sentence": "Tsiku lililonse atadya chakudya chamadzulo a Schmidt ankagona nthawi yayitali. Mark ankamulola kugona kwa ola limodzi, kenako n'kumudzutsa, kumudzudzula, ndi kumupangitsa kuti agwire ntchito. _ anafunika kumupangitsa kuti amalize ntchito yake, chifukwa ntchito yake inali yokongola", "option1": "Chizindikiro", "option2": "Bambo Schmidt", "answer": "1"}
+{"sentence": "Njuchi idatera pa duwa chifukwa _ idafuna mungu.", "option1": "Maluwa", "option2": "Njuchi", "answer": "2"}
+{"sentence": "Woyendetsa basiyo adakalipira mwana pambuyo _ atathyola zenera.", "option1": "Mwana wamphongo", "option2": "Woyendetsa basi", "answer": "1"}
+{"sentence": "Jimbo anali kuthawa Bobbert chifukwa _ kununkhiza kowopsa.", "option1": "Bobbert", "option2": "Jimbo", "answer": "1"}
+{"sentence": "Jimbo anali kuthawa Bobbert chifukwa _ ankafuna kufika pagalimoto poyamba.", "option1": "Bobbert", "option2": "Jimbo", "answer": "2"}
+{"sentence": "Jimbo adaukira Bobbert chifukwa _ sanathe kulamulira mkwiyo wake.", "option1": "Bobbert", "option2": "Jimbo", "answer": "2"}
+{"sentence": "Jimbo ankaopa Bobbert chifukwa _ amachita mantha ndi anthu atsopano.", "option1": "Bobbert", "option2": "Jimbo", "answer": "2"}
+{"sentence": "Jimbo ankaopa Bobbert chifukwa _ anali kuthamanga mozungulira ndi mkondo wamagazi.", "option1": "Bobbert", "option2": "Jimbo", "answer": "1"}
+{"sentence": "Mbalameyo inadya pie ndipo _ inawonongeka.", "option1": "pie", "option2": "Mbalame", "answer": "1"}
+{"sentence": "Mary adayeretsa chipinda cha Susan ndipo _ adathokoza.", "option1": "Susan", "option2": "Mariya", "answer": "1"}
+{"sentence": "Mikango imadya mbidzi chifukwa _ ndi nyama zolusa.", "option1": "mbidzi", "option2": "Mkango", "answer": "2"}
+{"sentence": "Mikango imadya mbidzi chifukwa _ ndi nyama.", "option1": "mbidzi", "option2": "Mkango", "answer": "1"}
+{"sentence": "Mphunzitsiyo adadzudzula wosewera mpirayo chifukwa _ sanatsatire mapangidwe a timuyo.", "option1": "Mphunzitsi", "option2": "Wosewera mpira", "answer": "2"}
+{"sentence": "Mphunzitsiyo adadzudzula wosewera mpirayo chifukwa _ adauza aliyense momveka bwino kuti asaphwanye mapangidwe a timuyo.", "option1": "Wosewera mpira", "option2": "Mphunzitsi", "answer": "2"}
+{"sentence": "James adapempha Robert kuti amuthandize, koma _ adakana.", "option1": "James", "option2": "Robert", "answer": "2"}
+{"sentence": "James adapempha Robert kuti amuthandize, koma _ adakanidwa.", "option1": "Robert", "option2": "James", "answer": "2"}
+{"sentence": "Mphunzitsiyo sanalimbikitse William chifukwa _ sanali wophunzira wabwino.", "option1": "Mphunzitsi", "option2": "William", "answer": "2"}
+{"sentence": "Mphunzitsiyo sanalimbikitse William chifukwa _ anali ndi miyezo yapamwamba.", "option1": "Mphunzitsi", "option2": "William", "answer": "1"}
+{"sentence": "Pulofesa yemwe amawerengera pepala la wophunzirayo adati _ anali wopusa.", "option1": "Wophunzira", "option2": "Pulofesa", "answer": "1"}
+{"sentence": "Pulofesa yemwe amawerengera pepala la wophunzirayo adati _ adalikonda.", "option1": "Wophunzira", "option2": "Pulofesa", "answer": "2"}
+{"sentence": "Jeremy adakwiyitsa Justin kotero _ akhoza kuchoka mchipindamo.", "option1": "Justin", "option2": "Jeremy", "answer": "1"}
+{"sentence": "Jeremy adakwiyitsa Justin kotero _ atha kukhala ndi chipindacho.", "option1": "Justin", "option2": "Jeremy", "answer": "2"}
+{"sentence": "Rocky adataya Clubber Lang chifukwa _ anali wokonzeka kumenyana.", "option1": "Clubber Lang", "option2": "Miyala", "answer": "1"}
+{"sentence": "Aaron anapsompsona Dan chifukwa _ ankafuna.", "option1": "Aroni", "option2": "Dan", "answer": "1"}
+{"sentence": "Aaron anapsompsona Dan chifukwa _ ankafuna kuti atero.", "option1": "Dan", "option2": "Aroni", "answer": "1"}
+{"sentence": "Ophunzirawo anagona pa nkhani za pulofesayo chifukwa _ zinali zotopetsa.", "option1": "Nkhani za Pulofesa", "option2": "Ophunzira", "answer": "1"}
+{"sentence": "Ophunzirawo anagona pa nkhani za pulofesayo chifukwa _ anali otopa.", "option1": "Ophunzira", "option2": "Nkhani za Pulofesa", "answer": "1"}
+{"sentence": "Derrick adapempha bwana wake kuti akweze koma _ sanalandire.", "option1": "Derrick", "option2": "bwana wake", "answer": "1"}
+{"sentence": "Derrick adapempha bwana wake kuti akweze koma _ sanapereke.", "option1": "Derrick", "option2": "bwana wake", "answer": "2"}
+{"sentence": "Oweruzawo anakambirana za tsogolo la omwe akuimbidwa mlanduwo kwa maola ambiri, koma _ sanafike pa chigamulo.", "option1": "Oweruza", "option2": "Oimbidwa mlandu", "answer": "1"}
+{"sentence": "Oweruzawo adakambirana za tsogolo la omwe akuimbidwa mlanduwo kwa maola ambiri, koma _ sanalandire chilango cha imfa.", "option1": "Oimbidwa mlandu", "option2": "Oweruza", "answer": "1"}
+{"sentence": "Gulu la oimba linawomberedwa ndi omvera chifukwa _ adayembekezera gulu la rock.", "option1": "Gulu la oimba", "option2": "Omvera", "answer": "2"}
+{"sentence": "Jacob anapatsa William ndalama chifukwa _ anafunikira zina.", "option1": "Jacob", "option2": "William", "answer": "2"}
+{"sentence": "Jacob adapatsa William ndalama chifukwa _ adagulitsa galimotoyo.", "option1": "Jacob", "option2": "William", "answer": "1"}
+{"sentence": "Olivia adayesa kulangiza Emily, koma _ sanachidwi.", "option1": "Olivia", "option2": "Emily", "answer": "2"}
+{"sentence": "Olivia adayesa kulangiza Emily, koma _ adakanidwa.", "option1": "Olivia", "option2": "Emily", "answer": "1"}
+{"sentence": "James adapita ku arcade ya Sully koma _ adakana kumulola kulowa.", "option1": "James", "option2": "Sully", "answer": "2"}
+{"sentence": "Bill adabedwa ndi John, kotero mkuluyo adamanga _.", "option1": "John", "option2": "Bill", "answer": "1"}
+{"sentence": "Bill adabedwa ndi John, kotero mkuluyo adathandiza _.", "option1": "John", "option2": "Bill", "answer": "2"}
+{"sentence": "Anaika chipale chofewa pa nkhope yomwetulira chifukwa _ anali onyowa.", "option1": "nkhope yomwetulira", "option2": "chipale chofewa", "answer": "2"}
+{"sentence": "Anaika chipale chofewa pa nkhope yomwetulira chifukwa _ anali youma.", "option1": "chipale chofewa", "option2": "nkhope yomwetulira", "answer": "2"}
+{"sentence": "Mwana wamphaka adasewera ndi ulusi chifukwa _ zinali zosangalatsa.", "option1": "Mwana wamphaka", "option2": "ulusi", "answer": "2"}
+{"sentence": "Mwana wamphaka adasewera ndi ulusiwo chifukwa _ adatopa.", "option1": "Mwana wamphaka", "option2": "ulusi", "answer": "1"}
+{"sentence": "Ndinadula mtengo ndi nkhwangwa yanga chifukwa _ inali yaitali.", "option1": "Nkhwangwa Yanga", "option2": "Mtengo", "answer": "2"}
+{"sentence": "Ndinadula mtengo ndi nkhwangwa yanga chifukwa _ inali yakuthwa.", "option1": "Mtengo", "option2": "Nkhwangwa Yanga", "answer": "2"}
+{"sentence": "Spiderman adagonjetsa Magnito chifukwa _ ndi munthu wabwino.", "option1": "Magnito", "option2": "Spiderman", "answer": "2"}
+{"sentence": "Spiderman adagonjetsa Magnito chifukwa _ ndi munthu woyipa.", "option1": "Spiderman", "option2": "Magnito", "answer": "2"}
+{"sentence": "Nzikazo zinapandukira boma chifukwa _ anali kuponderezedwa.", "option1": "Nzika", "option2": "Boma", "answer": "1"}
+{"sentence": "Nzika zinapandukira boma chifukwa _ zinali zoipa.", "option1": "Nzika", "option2": "Boma", "answer": "2"}
+{"sentence": "Amphaka ndi anzeru kuposa agalu chifukwa _ nthawi zonse amatera pamapazi awo.", "option1": "Agalu", "option2": "Amphaka", "answer": "2"}
+{"sentence": "Amphaka ndi anzeru kuposa agalu chifukwa _ kukuwa popanda chifukwa.", "option1": "Amphaka", "option2": "Agalu", "answer": "2"}
+{"sentence": "Mpira unagunda zenera ndipo Bill adakonza _.", "option1": "Mpira", "option2": "Zenera", "answer": "2"}
+{"sentence": "Mpira unagunda zenera ndipo Bill anagwira _.", "option1": "Zenera", "option2": "Mpira", "answer": "2"}
+{"sentence": "Robert adachotsa Chris chifukwa _ sanathe kugwira ntchitoyo.", "option1": "Chris", "option2": "Robert", "answer": "1"}
+{"sentence": "Robert adachotsa Chris chifukwa _ sanafunenso antchito.", "option1": "Chris", "option2": "Robert", "answer": "2"}
+{"sentence": "Steve adakanda Johnny chifukwa _ adakwiya.", "option1": "Johnny", "option2": "Steve", "answer": "2"}
+{"sentence": "Steve adakanda Johnny kotero _ adakwiya.", "option1": "Steve", "option2": "Johnny", "answer": "2"}
+{"sentence": "Mnyamatayo anathamangitsa munthu wokalambayo chifukwa _ anali mu mawonekedwe.", "option1": "Achinyamata", "option2": "Munthu Wachikulire", "answer": "1"}
+{"sentence": "Masewera apakanema akugulitsa makanema chifukwa _ ndi sing'anga wakale.", "option1": "Mafilimu", "option2": "Masewera a kanema", "answer": "1"}
+{"sentence": "Google idagula Motorola chifukwa _ akufuna makasitomala ake.", "option1": "Motorola", "option2": "Google", "answer": "2"}
+{"sentence": "Sam adanyenga Sally koma _ sanalire.", "option1": "Sally", "option2": "Sam", "answer": "1"}
+{"sentence": "Sam adanyenga Sally koma _ sanalape.", "option1": "Sally", "option2": "Sam", "answer": "2"}
+{"sentence": "Keith adachotsa Blaine ngakhale _ ali wakhama kwambiri.", "option1": "Keith", "option2": "Blaine", "answer": "2"}
+{"sentence": "Mphepo yamkunthoyo inachedwetsa ndegeyo pamene _ inali kupita pamwamba pa nyanja.", "option1": "Kuthawa", "option2": "Mphepo yamkuntho", "answer": "1"}
+{"sentence": "John anagwedeza Bill chifukwa _ adawona ntchentche pa malaya ake.", "option1": "John", "option2": "Bill", "answer": "1"}
+{"sentence": "Zombies adathamangitsa opulumuka chifukwa _ anali ndi njala.", "option1": "Zombies", "option2": "Opulumuka", "answer": "1"}
+{"sentence": "Zombies adathamangitsa opulumuka chifukwa _ anali okoma.", "option1": "Zombies", "option2": "Opulumuka", "answer": "2"}
+{"sentence": "Medvedev adzapereka utsogoleri kwa Putin chifukwa _ ndi wotchuka kwambiri.", "option1": "Medvedev", "option2": "Putin", "answer": "2"}
+{"sentence": "Mphaka adathyola galasi chifukwa _ anali wosalimba.", "option1": "Mphaka", "option2": "galasi", "answer": "2"}
+{"sentence": "Mphaka adathyola galasi chifukwa _ anali wosamvetsetseka.", "option1": "galasi", "option2": "Mphaka", "answer": "2"}
+{"sentence": "Bill anabweza Jim madola makumi awiri chifukwa _ anabwereka ndalama.", "option1": "Bill", "option2": "Jim", "answer": "1"}
+{"sentence": "Bill anabweza Jim madola makumi awiri chifukwa _ anabwereka ndalama.", "option1": "Jim", "option2": "Bill", "answer": "1"}
+{"sentence": "Gulu lofiira linagonjetsa gulu la buluu chifukwa _ linapanga chilango chomaliza.", "option1": "Gulu lofiira", "option2": "Gulu la Blue", "answer": "1"}
+{"sentence": "Gulu lofiira linagonjetsa gulu la buluu chifukwa _ linaphonya chilango chomaliza.", "option1": "Gulu lofiira", "option2": "Gulu la Blue", "answer": "2"}
+{"sentence": "Jack adakankhira John pamwamba pa phiri chifukwa _ anali mu ngolo.", "option1": "Jack", "option2": "John", "answer": "2"}
+{"sentence": "Mwamuna wachikulire wokhotakhotayo pang'onopang'ono anagwedeza munthu wodutsa ngolo chifukwa _ akugwedeza aliyense.", "option1": "wokwera trolley wodutsa", "option2": "Mwamuna wachikulire wokhotakhota", "answer": "2"}
+{"sentence": "Mwamuna wachikulire wokhotakhotayo pang'onopang'ono anagwedeza munthu wokwera ngolo yomwe anali kudutsa chifukwa _ anamugwedeza m'manja.", "option1": "wokwera trolley wodutsa", "option2": "Mwamuna wachikulire wokhotakhota", "answer": "1"}
+{"sentence": "Mnyamatayo anathawa wapolisi chifukwa _ anachita upanduwo.", "option1": "Wapolisi", "option2": "Mnyamatayo", "answer": "2"}
+{"sentence": "Mnyamatayo anathawa wapolisi chifukwa _ anaona upanduwo.", "option1": "Wapolisi", "option2": "Mnyamatayo", "answer": "1"}
+{"sentence": "Kapu inagwera pa botolo chifukwa _ inali yopanikizika.", "option1": "Kapu", "option2": "botolo", "answer": "2"}
+{"sentence": "Mnyamatayo anayesa kulankhula ndi bwenzi lake, koma _ sanathe kulankhula.", "option1": "Bwenzi lake", "option2": "Mnyamatayo", "answer": "2"}
+{"sentence": "Mnyamatayo anayesa kulankhula ndi bwenzi lake, koma _ sanamve.", "option1": "Bwenzi lake", "option2": "Mnyamatayo", "answer": "1"}
+{"sentence": "Galimotoyo idabweretsa mwamunayo thireyi yake, koma _ adaiwala batala lake laku France.", "option1": "Galimoto ya galimoto imadumphira", "option2": "Munthu", "answer": "1"}
+{"sentence": "Galimotoyo idabweretsa mwamunayo thireyi yake, koma _ sanali m'galimoto.", "option1": "Galimoto ya galimoto imadumphira", "option2": "Munthu", "answer": "2"}
+{"sentence": "Akatswiri a zachilengedwe anakwiya ndi bungweli chifukwa _ ananyalanyaza lingaliro lawo.", "option1": "Oyang'anira zachilengedwe", "option2": "Bungwe", "answer": "2"}
+{"sentence": "Steve adaponya mpira wa bowling pansi pa msewu pamene _ anali omveka bwino.", "option1": "Mpira wa Bowling", "option2": "Msewu", "answer": "2"}
+{"sentence": "Pamene ana a sukulu yamkaka anachezera nzika zachikulire, _ anali ndi khalidwe labwino modabwitsa.", "option1": "Ana a sukulu yamkaka", "option2": "Okalamba", "answer": "1"}
+{"sentence": "Pamene ana a sukulu yamkaka anachezera okalamba, _ anali ochereza kwambiri.", "option1": "Ana a sukulu yamkaka", "option2": "Okalamba", "answer": "2"}
+{"sentence": "Gulu la mpira wachinyamata limakonda Dallas Cowboys chifukwa _ pezani kuwonera mpira wabwino.", "option1": "Gulu la mpira wachinyamata", "option2": "Dallas Cowboys", "answer": "1"}
+{"sentence": "Jimbo amadya zambiri kuposa Bobbert chifukwa _ ali pa zakudya.", "option1": "Jimbo", "option2": "Bobbert", "answer": "2"}
+{"sentence": "Jimbo amadya zambiri kuposa Bobbert chifukwa _ sali pa zakudya.", "option1": "Jimbo", "option2": "Bobbert", "answer": "1"}
+{"sentence": "David adagunda Bill chifukwa Mary ankakonda kwambiri _.", "option1": "David", "option2": "Bill", "answer": "2"}
+{"sentence": "David adagunda Bill chifukwa Mary adapempha _ kuti.", "option1": "Bill", "option2": "David", "answer": "2"}
+{"sentence": "England inapambana pa Spain chifukwa _ inakonzekera bwino.", "option1": "Spain", "option2": "England", "answer": "2"}
+{"sentence": "England inapambana pa Spain chifukwa _ sanakonzekere bwino.", "option1": "England", "option2": "Spain", "answer": "2"}
+{"sentence": "Caroline adagonjetsa Sue mwachangu chifukwa _ adapezanso chidaliro chake.", "option1": "Caroline", "option2": "Sue", "answer": "1"}
+{"sentence": "Firefox imagwiritsidwa ntchito kwambiri kuposa Internet Explorer chifukwa _ ndi yokhazikika kwambiri.", "option1": "Firefox", "option2": "Internet Explorer", "answer": "1"}
+{"sentence": "Firefox imagwiritsidwa ntchito kwambiri kuposa Internet Explorer chifukwa _ ndi yocheperako.", "option1": "Firefox", "option2": "Internet Explorer", "answer": "2"}
+{"sentence": "Ophunzira amadana ndi mayeso chifukwa _ ndi aulesi.", "option1": "Mayeso", "option2": "Ophunzira", "answer": "2"}
+{"sentence": "Gary adachitira nsanje Bill chifukwa _ anali wolemera.", "option1": "Gary", "option2": "Bill", "answer": "2"}
+{"sentence": "Gary adachitira nsanje Bill chifukwa _ anali wosauka.", "option1": "Gary", "option2": "Bill", "answer": "1"}
+{"sentence": "Kampaniyo idavomereza chigamulocho chifukwa _ idalembedwa bwino.", "option1": "Chigamulo", "option2": "Kampani", "answer": "1"}
+{"sentence": "Kampaniyo idavomereza chigamulocho chifukwa _ inali yothedwa nzeru.", "option1": "Chigamulo", "option2": "Kampani", "answer": "2"}
+{"sentence": "Pepala limagunda thanthwe, koma _ limamenyedwa ndi zikwanje.", "option1": "Pepala", "option2": "thanthwe", "answer": "1"}
+{"sentence": "Pepala limagunda thanthwe, koma _ limatha kumenya zikwanje.", "option1": "Pepala", "option2": "thanthwe", "answer": "2"}
+{"sentence": "Mphunzitsiyo anauza wophunzirayo kuti _ akuyembekezera chinachake chabwino kwa iye.", "option1": "Wophunzira", "option2": "Mphunzitsi", "answer": "2"}
+{"sentence": "Mphunzitsiyo adauza kapitawo kuti _ amanyadira naye.", "option1": "Mphunzitsi", "option2": "Kaputeni", "answer": "1"}
+{"sentence": "Mphunzitsiyo adauza kapitawo kuti _ adachotsedwa ntchito.", "option1": "Kaputeni", "option2": "Mphunzitsi", "answer": "1"}
+{"sentence": "Luigi adapulumutsa Mario chifukwa _ anali yekhayo amene angathe.", "option1": "Luigi", "option2": "Mario", "answer": "1"}
+{"sentence": "Planet Express idagulidwa ndi Amayi a Friendly Delivery Service kotero _ akhoza kuthetsa mpikisano.", "option1": "Ntchito Yoperekera Wochezeka wa Amayi", "option2": "Planet Express", "answer": "1"}
+{"sentence": "Ma jocks sanakonde ma nerds chifukwa _ anali opondereza.", "option1": "Ma jocks", "option2": "Ma nerds", "answer": "1"}
+{"sentence": "Ma jocks sanakonde ma nerds chifukwa _ anali olephera.", "option1": "Ma jocks", "option2": "Ma nerds", "answer": "2"}
+{"sentence": "Kangaude adadya ntchentche chifukwa _ anali ndi njala.", "option1": "Ntchentche", "option2": "Kangaude", "answer": "2"}
+{"sentence": "Namwino anapatsa mtsikanayo lollypop chifukwa _ anali ndi zambiri.", "option1": "Mtsikana", "option2": "Namwino", "answer": "2"}
+{"sentence": "Wapolisiyo adathamangitsa wakubayo chifukwa _ anali kuteteza banki.", "option1": "Wakuba", "option2": "Wapolisi", "answer": "2"}
+{"sentence": "Chilengezo cha Emancipation chinapangitsa ukapolo kukhala woletsedwa, koma _ unachitikabe.", "option1": "ukapolo", "option2": "Chilengezo cha Emancipation", "answer": "1"}
+{"sentence": "Chilengezo cha Emancipation chinapangitsa ukapolo kukhala woletsedwa, koma _ sichinapangitse kuti akapolo ambiri amasulidwe.", "option1": "ukapolo", "option2": "Chilengezo cha Emancipation", "answer": "2"}
+{"sentence": "Zinakwiyitsa Chris pamene Sebastian anagwedeza makiyi ake chifukwa _ ankafuna kusangalatsa.", "option1": "Chris", "option2": "Sebastian", "answer": "2"}
+{"sentence": "Sam anathandiza Davey kulimbitsa bunker yawo chifukwa _ ankaganiza kuti anthu a ku Mexico akulowerera.", "option1": "Sam", "option2": "Davey", "answer": "2"}
+{"sentence": "Fred adayendetsa galimoto kupita ku shopu ya matayala a Mack, ndipo _ adagula tayala.", "option1": "Fred", "option2": "Mack", "answer": "1"}
+{"sentence": "Bob adaphikira Jack omelet, chifukwa _ adadziwa momwe.", "option1": "Bob", "option2": "Jack", "answer": "1"}
+{"sentence": "Bob adaphikira Jack omelet, chifukwa _ anali ndi njala.", "option1": "Bob", "option2": "Jack", "answer": "2"}
+{"sentence": "John adagula mowa kwa Bill chifukwa _ ndi ozizira.", "option1": "John", "option2": "Bill", "answer": "2"}
+{"sentence": "Gartok adagonjetsa Grognak chifukwa _ anali munthu wamphamvu.", "option1": "Grognak", "option2": "Gartok", "answer": "2"}
+{"sentence": "Shawn adagunda Joe koma _ sanafuule.", "option1": "Shawn", "option2": "Joe", "answer": "2"}
+{"sentence": "Shawn adagunda Joe koma _ sanapepese.", "option1": "Joe", "option2": "Shawn", "answer": "2"}
+{"sentence": "Katie adaimba mlandu Jane koma _ sanapezeke wolakwa.", "option1": "Jane", "option2": "Katie", "answer": "1"}
+{"sentence": "Katie adamuimba mlandu Jane koma _ adamva zoyipa nazo.", "option1": "Katie", "option2": "Jane", "answer": "1"}
+{"sentence": "Sherry adaimbira foni Karla koma _ sanayankhe.", "option1": "Sherry", "option2": "Karla", "answer": "2"}
+{"sentence": "Steven anapha pulezidenti chifukwa _ anali womasuka kwambiri.", "option1": "Steven", "option2": "Purezidenti", "answer": "2"}
+{"sentence": "Steven adapha purezidenti chifukwa _ adalipidwa kuti achite.", "option1": "Steven", "option2": "Purezidenti", "answer": "1"}
+{"sentence": "Mimbulu inadya ng'ombe chifukwa _ anali ndi njala.", "option1": "Mimbulu", "option2": "Ng'ombe", "answer": "1"}
+{"sentence": "Michael adathandizira Bill chifukwa John ankakonda kwambiri _.", "option1": "Michael", "option2": "Bill", "answer": "2"}
+{"sentence": "Michael adathandizira Bill chifukwa John adapempha _ kuti.", "option1": "Bill", "option2": "Michael", "answer": "2"}
+{"sentence": "Johnson ankafuna kupanga ubwenzi ndi David, chifukwa _ amalumikizidwa bwino.", "option1": "Johnson", "option2": "David", "answer": "2"}
+{"sentence": "Johnson ankafuna kupanga ubwenzi ndi David, chifukwa _ ankafuna thandizo.", "option1": "Johnson", "option2": "David", "answer": "1"}
+{"sentence": "Sukuluyi inakana makolo chilolezo choimika magalimoto chifukwa _ sanafune kuti malo oimikapo magalimoto akhale odzaza ndi magalimoto.", "option1": "Sukulu", "option2": "Makolo", "answer": "1"}
+{"sentence": "Sukuluyi idakana makolo chilolezo choimika magalimoto chifukwa _ adaphwanya malamulo oimika magalimoto.", "option1": "Makolo", "option2": "Sukulu", "answer": "1"}
+{"sentence": "Joe adamenya Jose kumaso chifukwa _ adamutukwana.", "option1": "Joe", "option2": "Jose", "answer": "2"}
+{"sentence": "Joe adamenya Jose kumaso chifukwa _ adakwiya.", "option1": "Jose", "option2": "Joe", "answer": "2"}
+{"sentence": "Stephanie adapatsa Brandy maluwa chifukwa _ adadwala.", "option1": "Brandy", "option2": "Stephanie", "answer": "1"}
+{"sentence": "Gululi linaganiza zoletsa ubale wawo ndi AT & T Corporate chifukwa _ ali odzikuza.", "option1": "AT & T Corporate", "option2": "Gulu", "answer": "1"}
+{"sentence": "John adasankha Bill chifukwa _ anali chisankho chabwino kwambiri.", "option1": "John", "option2": "Bill", "answer": "2"}
+{"sentence": "John sankakonda Bill, koma _ sanadziwe.", "option1": "Bill", "option2": "John", "answer": "1"}
+{"sentence": "Godzilla adzapondaponda ku Tokyo konse ngati _ sakumanga chitetezo chabwino.", "option1": "Godzilla", "option2": "Tokyo", "answer": "2"}
+{"sentence": "Agogo aakazi adaponya mdzukulu wawo kuti amuphe chifukwa _ adamva nsanje.", "option1": "mdzukulu wake", "option2": "Agogo aakazi", "answer": "2"}
+{"sentence": "Agogowo anaponya mdzukulu wawo mpaka imfa yake chifukwa _ sanasiye kufuula.", "option1": "mdzukulu wake", "option2": "Agogo aakazi", "answer": "1"}
+{"sentence": "Bob Marley adawombera sheriff, koma _ akulumbira kuti anali kudziteteza.", "option1": "Bob Marley", "option2": "Sheriff", "answer": "1"}
+{"sentence": "Bob Marley adawombera sheriff, koma _ adapulumuka.", "option1": "Bob Marley", "option2": "Sheriff", "answer": "2"}
+{"sentence": "Amayiwo amalanga mwana wamkaziyo chifukwa _ sanamvere.", "option1": "mwana wamkazi", "option2": "Amayi", "answer": "1"}
+{"sentence": "Amayiwo adalanga mwana wamkaziyo chifukwa _ adakwiya.", "option1": "mwana wamkazi", "option2": "Amayi", "answer": "2"}
+{"sentence": "Aphunzitsiwo analephera ophunzirawo chifukwa _ anayankha mayeso molakwika.", "option1": "Aphunzitsi", "option2": "Ophunzira", "answer": "2"}
+{"sentence": "Mtsinjewo unawononga mlathowu chifukwa _ unali wapamwamba.", "option1": "Mlatho", "option2": "Mtsinje", "answer": "2"}
+{"sentence": "Mtsinjewo unawononga mlathowu chifukwa _ unali wotsika.", "option1": "Mtsinje", "option2": "Mlatho", "answer": "2"}
+{"sentence": "Gulu lankhondo linawoloka mtsinjewo chifukwa _ linali losazama.", "option1": "Mtsinje", "option2": "Gulu lankhondo", "answer": "1"}
+{"sentence": "Gulu lankhondo linawoloka mtsinjewo chifukwa _ anali kubwerera m'mbuyo.", "option1": "Mtsinje", "option2": "Gulu lankhondo", "answer": "2"}
+{"sentence": "Wachinyamata yemwe akukwera ndi kubwera adawononga nyenyezi yakale ya veteran mu kuwombera, kotero _ adakhala pa benchi kwa nyengo yonse.", "option1": "Wachinyamata wokwera ndi wobwera", "option2": "Nyenyezi yakale ya veteran", "answer": "2"}
+{"sentence": "Anyani amadana ndi mikango chifukwa _ amaidya.", "option1": "mikango", "option2": "Anyani", "answer": "2"}
+{"sentence": "Anyani amadana ndi mikango chifukwa _ ndi owopsa.", "option1": "mikango", "option2": "Anyani", "answer": "1"}
+{"sentence": "Mu masewera a tennis sabata yatha, Djokovic adatsanzira kutumikira kwa Roddick chifukwa _ anali wosewera bwino.", "option1": "Roddick", "option2": "Djokovic", "answer": "1"}
+{"sentence": "Mu masewera a tennis sabata yatha, Djokovic adatsanzira kutumikira kwa Roddick chifukwa _ anali oseketsa.", "option1": "Roddick", "option2": "Djokovic", "answer": "2"}
+{"sentence": "Matendawa anafalikira m'nyumba yonseyo chifukwa _ anali ndi mpweya.", "option1": "nyumbayo", "option2": "Matendawa", "answer": "2"}
+{"sentence": "Matendawa anafalikira m'nyumba yonseyo chifukwa _ anali ndi mpweya.", "option1": "nyumbayo", "option2": "Matendawa", "answer": "1"}
+{"sentence": "Woyang'anira nyumba yosungiramo zinthu zakale adayang'ana woyang'anira ndikunena _ ayenera kuchoka.", "option1": "Woyang'anira nyumba yosungiramo zinthu zakale", "option2": "Woyang'anira", "answer": "2"}
+{"sentence": "Woyang'anira nyumba yosungiramo zinthu zakale adayang'ana woyang'anira ndipo _ adamuwona akugwedezeka.", "option1": "Woyang'anira nyumba yosungiramo zinthu zakale", "option2": "Woyang'anira", "answer": "1"}
+{"sentence": "Pulofesa wathu adauza TA kuti _ amafunikira thandizo lake.", "option1": "ndi TA", "option2": "Pulofesa wathu", "answer": "2"}
+{"sentence": "Pulofesa wathu adauza TA kuti _ atha kukhala ndi tsiku lopuma.", "option1": "ndi TA", "option2": "Pulofesa wathu", "answer": "1"}
+{"sentence": "Jack adafuula Bill chifukwa _ adagunda galimotoyo.", "option1": "Jack", "option2": "Bill", "answer": "2"}
+{"sentence": "Jack adafuula Bill chifukwa _ adakwiya.", "option1": "Jack", "option2": "Bill", "answer": "1"}
+{"sentence": "Osewera gofu adagwedeza osewerawo chifukwa _ anali kudikirira.", "option1": "Osewera gofu", "option2": "osewera", "answer": "2"}
+{"sentence": "Osewera gofu adagwedeza osewerawo chifukwa _ anali kuwagwira.", "option1": "osewera", "option2": "Osewera gofu", "answer": "2"}
+{"sentence": "Allen adaseka Jimmy chifukwa _ adanena nthabwala zoseketsa.", "option1": "Jimmy", "option2": "Allen", "answer": "1"}
+{"sentence": "Allen adaseka Jimmy chifukwa _ anali kumuseka.", "option1": "Allen", "option2": "Jimmy", "answer": "1"}
+{"sentence": "Sally anali wokondwa kwambiri kuti Beth potsiriza adapeza ntchito chifukwa _ ndi bwenzi lodera nkhawa.", "option1": "Beth", "option2": "Sally", "answer": "2"}
+{"sentence": "Zojambulazo zinali ku nyumba yosungiramo zinthu zakale chifukwa _ zinali pachiwonetsero.", "option1": "Zojambulazo", "option2": "Nyumba yosungiramo zinthu zakale", "answer": "1"}
+{"sentence": "Jill anali kulemba pa pepala kwa Jane chifukwa _ ankafuna kusiya adilesi yake.", "option1": "Jill", "option2": "Jane", "answer": "1"}
+{"sentence": "Asilikali anakonzekera kupita kunkhondo ndi gulu la Amish chifukwa _ anamva kuti akuwopsezedwa.", "option1": "Gulu lankhondo", "option2": "gulu la Amish", "answer": "1"}
+{"sentence": "Gululi linatopa ndi kupanga ziganizo izi chifukwa _ ndizotopetsa.", "option1": "ziganizo izi", "option2": "Gulu", "answer": "1"}
+{"sentence": "Gululi linatopa ndikupanga ziganizo izi chifukwa _ ndi aulesi.", "option1": "Gulu", "option2": "ziganizo izi", "answer": "1"}
+{"sentence": "Cholengedwa chachinsinsi chikumwa whiskey chifukwa _ chimakoma bwino.", "option1": "Whiskey", "option2": "Cholengedwa chachinsinsi", "answer": "1"}
+{"sentence": "Cholengedwa chachinsinsi chikumwa whiskey chifukwa _ adakali ndi ziganizo zambiri zoti alembe.", "option1": "Cholengedwa chachinsinsi", "option2": "Whiskey", "answer": "1"}
+{"sentence": "Gululi limakonda mafani awo chifukwa _ kubwera ku chiwonetsero chilichonse.", "option1": "mafani awo", "option2": "Gulu", "answer": "1"}
+{"sentence": "Gululi limakonda mafani awo chifukwa _ silingathe kukhalapo popanda chithandizo.", "option1": "mafani awo", "option2": "Gulu", "answer": "2"}
+{"sentence": "Jimbo adadya nsomba zomwe Bobbert adakonza chifukwa _ anali ndi njala.", "option1": "Bobbert", "option2": "Jimbo", "answer": "2"}
+{"sentence": "Ng'ombeyo inathamangira mu mpanda ndipo _ inasweka.", "option1": "Ng'ombe", "option2": "Mpanda", "answer": "2"}
+{"sentence": "Ng'ombeyo idathamangira mu mpanda ndipo _ idavulala.", "option1": "Ng'ombe", "option2": "Mpanda", "answer": "1"}
+{"sentence": "Wolima dimba adathirira duwa la mwiniwakeyo chifukwa _ anali kugwira ntchito yake.", "option1": "Mwini", "option2": "Wolima munda", "answer": "2"}
+{"sentence": "Wolima munda adathirira duwa la mwiniwakeyo chifukwa _ adamulipira chifukwa cha izo.", "option1": "Wolima munda", "option2": "Mwini", "answer": "2"}
+{"sentence": "Zidane adagunda mutu wa Zambrotta chifukwa _ sanathe kulamulira mkwiyo wake.", "option1": "Zidane", "option2": "Zambrotta", "answer": "1"}
+{"sentence": "Mwamunayo anapatsa wopemphapemphayo ndalama chifukwa _ anali wowolowa manja kwambiri.", "option1": "Wopemphapempha", "option2": "Mwamunayo", "answer": "2"}
+{"sentence": "Woyang'anira adachotsa wogwira ntchitoyo chifukwa _ adakhumudwa.", "option1": "wophunzira", "option2": "Woyang'anira", "answer": "2"}
+{"sentence": "Akuluakulu a boma anapepesa poyera kwa anthu chifukwa _ anafuna kupepesa.", "option1": "Anthu", "option2": "Akuluakulu a boma", "answer": "1"}
+{"sentence": "Wapolisiyo anawombera wochita zionetsero chifukwa _ anayesa kuukira bwanamkubwa.", "option1": "Wochita zionetsero", "option2": "Wapolisi", "answer": "1"}
+{"sentence": "James nthawi zonse amapereka malamulo kwa Owen chifukwa _ ndi womvera kwambiri.", "option1": "Owen", "option2": "James", "answer": "1"}
+{"sentence": "Chelsea imadana ndi Manchester United chifukwa _ nthawi zonse imabwera pachiwiri.", "option1": "Chelsea", "option2": "Manchester United", "answer": "1"}
+{"sentence": "Chelsea imadana ndi Manchester United chifukwa _ ndi cocky kwambiri.", "option1": "Manchester United", "option2": "Chelsea", "answer": "1"}
+{"sentence": "Pulofesayo amalimbikitsa kwambiri wophunzirayo chifukwa _ amayamikira maganizo ofuna kudziwa.", "option1": "Wophunzira", "option2": "Pulofesa", "answer": "2"}
+{"sentence": "Wosewera nyimbo sanatsegule fayilo chifukwa _ sanasewere mtundu umenewo.", "option1": "fayilo", "option2": "Wosewera nyimbo", "answer": "2"}
+{"sentence": "Ophunzirawo anatsutsa malamulo atsopanowa chifukwa _ anali okhwima kwambiri.", "option1": "Malamulo atsopano", "option2": "Ophunzira", "answer": "1"}
+{"sentence": "Ophunzirawo adatsutsa malamulo atsopanowa chifukwa _ adakwiya.", "option1": "Malamulo atsopano", "option2": "Ophunzira", "answer": "2"}
+{"sentence": "Chakudya chomwe chinali mufiriji chinawonongeka chifukwa _ sichinatsekedwe.", "option1": "firiji", "option2": "Chakudya", "answer": "1"}
+{"sentence": "Mpira unathyola zenera chifukwa _ unali wosalimba.", "option1": "Mpira", "option2": "Zenera", "answer": "2"}
+{"sentence": "Mpira unathyola zenera chifukwa _ unali wovuta.", "option1": "Mpira", "option2": "Zenera", "answer": "1"}
+{"sentence": "Wolemba ntchitoyo analola John kuti akhale ndi ntchitoyo ngakhale kuti _ anaifuna.", "option1": "John", "option2": "Wolemba ntchito", "answer": "2"}
+{"sentence": "Kompyuta idakana mawu achinsinsi chifukwa _ inali yolakwika.", "option1": "Kompyuta", "option2": "Mawu achinsinsi", "answer": "2"}
+{"sentence": "Kompyuta idakana mawu achinsinsi chifukwa _ anali osagwira bwino ntchito.", "option1": "Kompyuta", "option2": "Mawu achinsinsi", "answer": "1"}
+{"sentence": "Anawo adafunsa anansi awo ngati _ atha kukhala ndi maswiti pa Halowini.", "option1": "anansi awo", "option2": "Ana", "answer": "2"}
+{"sentence": "Galasi linauza toaster kuti _ anali wonenepa.", "option1": "Toaster", "option2": "Galasi", "answer": "1"}
+{"sentence": "Galasi linauza toaster kuti _ amakonda chokoleti.", "option1": "Toaster", "option2": "Galasi", "answer": "2"}
+{"sentence": "Jack adakankhira Tim pansi pa masitepe chifukwa _ anali wokwiya.", "option1": "Tim", "option2": "Jack", "answer": "2"}
+{"sentence": "John adafunsa wasayansi kuti _ akugwira ntchito chiyani.", "option1": "Wasayansi", "option2": "John", "answer": "1"}
+{"sentence": "Knights ankakonda njoka kuposa mahatchi chifukwa _ amatha kuuluka.", "option1": "njoka", "option2": "Mahatchi", "answer": "1"}
+{"sentence": "Knights ankakonda njoka kuposa mahatchi chifukwa _ sakanatha kuuluka.", "option1": "Mahatchi", "option2": "njoka", "answer": "1"}
+{"sentence": "Wojambulayo adauza chitsanzocho kuti _ amafunika kuima molunjika.", "option1": "Wojambula", "option2": "Chitsanzo", "answer": "2"}
+{"sentence": "Misty adasinthidwa ndi May chifukwa _ adayenera kubwerera kwawo.", "option1": "Meyi", "option2": "Nkhungu", "answer": "2"}
+{"sentence": "Misty adasinthidwa ndi May chifukwa _ anali yekhayo yemwe adapezeka.", "option1": "Nkhungu", "option2": "Meyi", "answer": "2"}
+{"sentence": "Shigeru Miyamoto anali mlangizi wa Satoshi Tajiri, kotero _ adaphunzitsa zinthu zambiri.", "option1": "Shigeru Miyamoto", "option2": "Satoshi Tajiri", "answer": "1"}
+{"sentence": "Brock anamvetsetsa bwino nkhaniyo kuposa Tracy chifukwa _ anali kulabadira.", "option1": "Brock", "option2": "Tracy", "answer": "1"}
+{"sentence": "Brock anamvetsetsa bwino nkhaniyo kuposa Tracy chifukwa _ sanali kulabadira.", "option1": "Brock", "option2": "Tracy", "answer": "2"}
+{"sentence": "John ankafuna kuvotera Doe, koma _ sanawoneke ngati woyenera.", "option1": "John", "option2": "Doe", "answer": "2"}
+{"sentence": "Yuji anali wokonda Michael Jackson chifukwa _ adasangalala ndi \"Thriller\".", "option1": "Yuji", "option2": "Michael Jackson", "answer": "1"}
+{"sentence": "Yuji anali wokonda Michael Jackson chifukwa _ anali wotchuka.", "option1": "Yuji", "option2": "Michael Jackson", "answer": "2"}
+{"sentence": "Ma Space Marines adapha alendo chifukwa _ anali chiwopsezo.", "option1": "Alendo", "option2": "Sitima zapamadzi zam'mlengalenga", "answer": "1"}
+{"sentence": "A Space Marines adapha alendowo chifukwa _ adalamulidwa.", "option1": "Alendo", "option2": "Sitima zapamadzi zam'mlengalenga", "answer": "2"}
+{"sentence": "Rocky adamenya Drago chifukwa khamulo linali kuthandizira _.", "option1": "Miyala", "option2": "Drago", "answer": "1"}
+{"sentence": "Rocky adamenya Drago chifukwa khamulo silinali kuthandizira _.", "option1": "Drago", "option2": "Miyala", "answer": "1"}
+{"sentence": "Lucas ndi wamng'ono kuposa Claus chifukwa _ anabadwa komaliza.", "option1": "Lucas", "option2": "Claus", "answer": "1"}
+{"sentence": "Lucas ndi wamng'ono kuposa Claus chifukwa _ anabadwa koyamba.", "option1": "Lucas", "option2": "Claus", "answer": "2"}
+{"sentence": "Bill adamenya Larry chifukwa _ adakwiya.", "option1": "Bill", "option2": "Larry", "answer": "1"}
+{"sentence": "Mwamunayo adafunsanso Mark funsoli chifukwa _ anali ndi chidwi.", "option1": "Chizindikiro", "option2": "Mwamunayo", "answer": "2"}
+{"sentence": "Mwamunayo adafunsanso Mark funsoli chifukwa _ anali kuzemba.", "option1": "Mwamunayo", "option2": "Chizindikiro", "answer": "2"}
+{"sentence": "Joe adayesa kuti Tom adzuke, koma _ sanathe.", "option1": "Joe", "option2": "Tom", "answer": "1"}
+{"sentence": "Wophunzira winayo adawongolera Robert chifukwa _ adamvetsetsa bwino vutoli.", "option1": "Robert", "option2": "Wophunzira winayo", "answer": "2"}
+{"sentence": "Wophunzira winayo adawongolera Robert chifukwa _ sanamvetse vutoli.", "option1": "Wophunzira winayo", "option2": "Robert", "answer": "2"}
+{"sentence": "Woyendetsa sitimayo analangiza munthu amene anaima pakhomo chifukwa _ anali kutsatira malamulowo.", "option1": "Wotsogolera sitima", "option2": "Munthu ataima pakhomo", "answer": "1"}
+{"sentence": "Woyendetsa sitimayo anachenjeza munthu amene anaima pakhomo chifukwa _ sanali kutsatira malamulowo.", "option1": "Munthu ataima pakhomo", "option2": "Wotsogolera sitima", "answer": "1"}
+{"sentence": "Emma sanapereke mpira kwa Janie, ngakhale _ anali wotseguka.", "option1": "Emma", "option2": "Janie", "answer": "2"}
+{"sentence": "Mnyamatayo anapatsa bwenzi lake keke chifukwa _ anali ndi njala.", "option1": "Mnyamatayo", "option2": "Bwenzi lake", "answer": "2"}
+{"sentence": "Mnyamatayo anapatsa bwenzi lake keke chifukwa _ anali ndi zowonjezera.", "option1": "Mnyamatayo", "option2": "Bwenzi lake", "answer": "1"}
+{"sentence": "Boma linaika msonkho pa mankhwalawa kuti _ apindule ndi malonda.", "option1": "Boma", "option2": "Mankhwala", "answer": "1"}
+{"sentence": "Wophika anaphikira kadzutsa kwa kapitawo chifukwa _ anafunika.", "option1": "Wophika", "option2": "Kaputeni", "answer": "1"}
+{"sentence": "Wophika adakonzera kaputeni chakudya cham'mawa chifukwa _ amafuna chakudya.", "option1": "Wophika", "option2": "Kaputeni", "answer": "2"}
+{"sentence": "Bill adatha kuba nthochi kwa Ken chifukwa _ anali wofulumira.", "option1": "Bill", "option2": "Ken", "answer": "1"}
+{"sentence": "Bill adatha kuba nthochi kwa Ken chifukwa _ anali pang'onopang'ono.", "option1": "Bill", "option2": "Ken", "answer": "2"}
+{"sentence": "Allen anathamangitsa leprechaun chifukwa _ ankafuna mphika wa golide.", "option1": "Allen", "option2": "Leprechaun", "answer": "1"}
+{"sentence": "Woweruzayo ankakonda wopikisana naye kotero _ adalandira mendulo yagolide.", "option1": "Wopikisana naye", "option2": "Woweruza", "answer": "1"}
+{"sentence": "Woweruzayo ankakonda wopikisana naye choncho _ anavotera mokomera munthuyo.", "option1": "Woweruza", "option2": "Wopikisana naye", "answer": "1"}
+{"sentence": "Pulogalamu ya Malaki sikanayenda pa kompyuta chifukwa _ inali yodzaza ndi nsikidzi.", "option1": "Kompyuta", "option2": "Pulogalamu ya Malaki", "answer": "2"}
+{"sentence": "Pulogalamu ya Malaki sikanayende pa kompyuta chifukwa _ inali ndi hard drive yolakwika.", "option1": "Pulogalamu ya Malaki", "option2": "Kompyuta", "answer": "2"}
+{"sentence": "Oyang'anira adapatsa ogwira ntchito ndalama zokwezedwa chifukwa _ adawopseza kuti adzamenya.", "option1": "Ogwira ntchito", "option2": "Kasamalidwe", "answer": "1"}
+{"sentence": "Gulu lankhondo la Roma linaukira Aperisi chifukwa _ adadzimva kuti akuwopsezedwa.", "option1": "Aperisi", "option2": "Gulu lankhondo la Roma", "answer": "2"}
+{"sentence": "Gulu lankhondo la Roma linaukira Aperisi chifukwa _ anali ataukira.", "option1": "Aperisi", "option2": "Gulu lankhondo la Roma", "answer": "1"}
+{"sentence": "Nkhandwe ya bulauni idadumpha galuyo chifukwa _ anali wofulumira.", "option1": "Nkhandwe ya bulauni", "option2": "Galu", "answer": "1"}
+{"sentence": "Nkhandwe ya bulauni idadumpha pa galuyo chifukwa _ anali waulesi.", "option1": "Galu", "option2": "Nkhandwe ya bulauni", "answer": "1"}
+{"sentence": "Alice adathandiza Gwen kusuntha chifukwa _ anali wabwino.", "option1": "Alice", "option2": "Gwen", "answer": "1"}
+{"sentence": "Alice anathandiza Gwen kusamuka chifukwa _ sakanatha kugwira ntchitoyo yekha.", "option1": "Gwen", "option2": "Alice", "answer": "1"}
+{"sentence": "Mark adathana ndi quarterback, koma _ adakwanitsa kumaliza kudutsa.", "option1": "Chizindikiro", "option2": "Quarterback", "answer": "2"}
+{"sentence": "Mark adathana ndi quarterback, koma _ adalangidwa.", "option1": "Quarterback", "option2": "Chizindikiro", "answer": "2"}
+{"sentence": "Kyle adamenya Mark mu mpikisano chifukwa _ anali mwana wothamanga kwambiri kusukulu.", "option1": "Kyle", "option2": "Chizindikiro", "answer": "1"}
+{"sentence": "Wogwira ntchitoyo adapeza pa goalie chifukwa _ adapambana oteteza.", "option1": "Mtsogoleri wa zigoli", "option2": "Wogwira ntchito", "answer": "2"}
+{"sentence": "Wogwira ntchitoyo adapeza pa goalie chifukwa _ adagwidwa mosasamala.", "option1": "Wogwira ntchito", "option2": "Mtsogoleri wa zigoli", "answer": "2"}
+{"sentence": "Michael adapempha Jacob kuti azivina chifukwa _ anali wosungulumwa.", "option1": "Jacob", "option2": "Michael", "answer": "1"}
+{"sentence": "Boma likufuna kuletsa anthu kusewera chess Lolemba chifukwa _ ayenera kugwira ntchito.", "option1": "Anthu", "option2": "Boma", "answer": "1"}
+{"sentence": "Boma likufuna kuletsa anthu kusewera chess Lolemba chifukwa _ akufuna kuti Lolemba likhale lopindulitsa kwambiri.", "option1": "Boma", "option2": "Anthu", "answer": "1"}
+{"sentence": "Boma linayesa kumasula atolankhaniwo ku North Korea, koma _ analephera.", "option1": "Atolankhani", "option2": "Boma", "answer": "2"}
+{"sentence": "Boma linayesa kumasula atolankhaniwo ku North Korea, koma _ anagwidwa ukapolo.", "option1": "Atolankhani", "option2": "Boma", "answer": "1"}
+{"sentence": "Tim adagulira Eric gecko, koma _ sanakonde.", "option1": "Tim", "option2": "Eric", "answer": "2"}
+{"sentence": "Dan adasintha galimoto ya Harry chifukwa _ anali ndi zida.", "option1": "Dan", "option2": "Harry", "answer": "1"}
+{"sentence": "Sarah adapita kunyumba kwa Kelly chifukwa _ anali kuchoka kuntchito.", "option1": "Sara", "option2": "Kelly", "answer": "1"}
+{"sentence": "Sarah adapita kunyumba kwa Kelly chifukwa _ anali kunyumba.", "option1": "Kelly", "option2": "Sara", "answer": "1"}
+{"sentence": "Ken adasanthula zithunzi za Neil popeza _ adafunikira kusunga zikalata zake.", "option1": "Ken", "option2": "Neil", "answer": "2"}
+{"sentence": "James adanyenga mayeso a Henry, ndipo Mphunzitsiyo adauza _.", "option1": "James", "option2": "Henry", "answer": "2"}
+{"sentence": "James adanyenga mayeso a Henry, ndipo Mphunzitsiyo adalephera _.", "option1": "James", "option2": "Henry", "answer": "1"}
+{"sentence": "Jim adapita kunyumba kwa Hal, ndipo adayenda _ galu.", "option1": "Hal", "option2": "Jim", "answer": "1"}
+{"sentence": "Burt adakhazikitsa mapulogalamu a Joey, ndipo _ adayikanso hardware yake.", "option1": "Joey", "option2": "Burt", "answer": "2"}
+{"sentence": "Adam adagonjetsa Brandon pankhondo chifukwa _ anali wamphamvu.", "option1": "Brandon", "option2": "Adamu", "answer": "2"}
+{"sentence": "Adam adagonjetsa Brandon pankhondo chifukwa _ anali wofooka.", "option1": "Adamu", "option2": "Brandon", "answer": "2"}
+{"sentence": "Lemueli anajambula Jim chidutswa cha luso kuyambira _ anapempha.", "option1": "Lemueli", "option2": "Jim", "answer": "2"}
+{"sentence": "Galu adasaka nkhandwe chifukwa _ anali wofiira.", "option1": "Galu", "option2": "Nkhandwe", "answer": "2"}
+{"sentence": "Galu adasaka nkhandwe chifukwa _ anali ndi njala.", "option1": "Nkhandwe", "option2": "Galu", "answer": "2"}
+{"sentence": "Mlembi ndi Purezidenti adakumana za _ kusankhidwa.", "option1": "Purezidenti", "option2": "Mlembi", "answer": "1"}
+{"sentence": "Mlembi ndi Purezidenti adakumana za _ kuikidwa.", "option1": "Purezidenti", "option2": "Mlembi", "answer": "2"}
+{"sentence": "Nyani adadya buluzi ndipo _ adafuula ndi ululu.", "option1": "Nyani", "option2": "buluzi", "answer": "2"}
+{"sentence": "Jim pooped pa Jack ndipo _ kusanza.", "option1": "Jim", "option2": "Jack", "answer": "2"}
+{"sentence": "Jim adaponya Jack ndipo _ adaseka.", "option1": "Jim", "option2": "Jack", "answer": "1"}
+{"sentence": "Nkhosa idathamangitsa nkhumbayo chifukwa _ inali yonenepa.", "option1": "Nkhosa", "option2": "Nkhumba", "answer": "2"}
+{"sentence": "Nkhosa inathamangitsa nkhumbayo chifukwa _ inanyozedwa.", "option1": "Nkhosa", "option2": "Nkhumba", "answer": "1"}
+{"sentence": "Thanthwe linasungunuka mu chiphalaphala chifukwa _ linakankhidwa.", "option1": "Chiphalaphala", "option2": "Thanthwe", "answer": "2"}
+{"sentence": "Thanthwe linasungunuka mu chiphalaphala chifukwa _ linali lotentha.", "option1": "Chiphalaphala", "option2": "Thanthwe", "answer": "1"}
+{"sentence": "Jill amakonda Jamie ndipo _ adamugulira mphete.", "option1": "Jamie", "option2": "Jill", "answer": "2"}
+{"sentence": "Galu anatafuna fupa ndipo _ anakuwa.", "option1": "Fupa", "option2": "Galu", "answer": "2"}
+{"sentence": "Galu adatafuna fupa ndipo _ adanyowa.", "option1": "Fupa", "option2": "Galu", "answer": "1"}
+{"sentence": "John adagunda Carl ndipo _ sanakonde.", "option1": "Carl", "option2": "John", "answer": "1"}
+{"sentence": "John adagunda Carl ndipo _ adagunda kumbuyo.", "option1": "John", "option2": "Carl", "answer": "1"}
+{"sentence": "Katy analira Susan popeza _ anali wachisoni.", "option1": "Susan", "option2": "Katy", "answer": "2"}
+{"sentence": "Katy analira Susan kuyambira _ anamwalira.", "option1": "Susan", "option2": "Katy", "answer": "1"}
+{"sentence": "Taco imafunikira msuzi wotentha chifukwa _ imawongolera kukoma.", "option1": "Taco", "option2": "msuzi wotentha", "answer": "2"}
+{"sentence": "Tobias wakwiya ndi William chifukwa _ sakanalipira.", "option1": "Tobias", "option2": "William", "answer": "1"}
+{"sentence": "Tobias wakwiya ndi William chifukwa _ anali woipa.", "option1": "Tobias", "option2": "William", "answer": "2"}
+{"sentence": "Jean akuseka Kyle chifukwa _ adapambana.", "option1": "Jean", "option2": "Kyle", "answer": "1"}
+{"sentence": "Jean akuseka Kyle chifukwa _ atayika.", "option1": "Kyle", "option2": "Jean", "answer": "1"}
+{"sentence": "Cheesecake ndi yabwino kuposa fruitcake chifukwa _ ndi yoipa.", "option1": "Zipatso za zipatso", "option2": "Cheesecake", "answer": "1"}
+{"sentence": "Anthu a m'tauni anadya unicorns chifukwa _ anali ndi njala.", "option1": "Anthu a m'tauni", "option2": "Ma unicorn", "answer": "1"}
+{"sentence": "Anthu a m'tauni ankadya ma unicorn chifukwa _ anali okoma.", "option1": "Anthu a m'tauni", "option2": "Ma unicorn", "answer": "2"}
+{"sentence": "Odzipatulawo anayamba kuukira ufumuwo mwadzidzidzi kotero _ athe kusintha mafunde a nkhondo.", "option1": "Ufumu", "option2": "Odzipatula", "answer": "2"}
+{"sentence": "Odzipatulawo anayambitsa kuukira kodabwitsa kwa ufumuwo kotero _ akhoza kugwidwa mosayembekezereka.", "option1": "Ufumu", "option2": "Odzipatula", "answer": "1"}
+{"sentence": "Pat adayesa kulankhula ndi Jill koma _ adanyalanyazidwa.", "option1": "Pat", "option2": "Jill", "answer": "1"}
+{"sentence": "Pat adayesa kulankhula ndi Jill koma _ sanawoneke kuti akumva.", "option1": "Jill", "option2": "Pat", "answer": "1"}
+{"sentence": "Golide ndi wotchuka kwambiri kuposa wakuda chifukwa _ ndi wonyezimira.", "option1": "Golide", "option2": "wakuda", "answer": "1"}
+{"sentence": "Golide ndi wotchuka kwambiri kuposa wakuda chifukwa _ samanyezimira.", "option1": "Golide", "option2": "wakuda", "answer": "2"}
+{"sentence": "Mike adayesa kutsatira Tom koma _ zinali zovuta kuwona.", "option1": "Mike", "option2": "Tom", "answer": "2"}
+{"sentence": "George adalankhula ndi Bill chifukwa _ anali ndi mantha.", "option1": "Bill", "option2": "George", "answer": "2"}
+{"sentence": "Rosie adamenya Mary ku Scrabble chifukwa _ anali woyipa pamasewera a mawu.", "option1": "Mariya", "option2": "Rosie", "answer": "1"}
+{"sentence": "Bush adamenya Gore chifukwa _ adanyenga chisankho.", "option1": "Gore", "option2": "Chitsamba", "answer": "2"}
+{"sentence": "Mpeni unadula mpanda chifukwa _ unali wakuthwa.", "option1": "Mpeni", "option2": "Mpanda", "answer": "1"}
+{"sentence": "Mpeniwo unadula mpanda chifukwa _ unali dzimbiri.", "option1": "Mpeni", "option2": "Mpanda", "answer": "2"}
+{"sentence": "Bob adapha Vincent chifukwa _ adafuna kupha munthu.", "option1": "Bob", "option2": "Vincent", "answer": "1"}
+{"sentence": "Mafoni akugulitsa kuposa ma androids chifukwa _ ndi zamakono.", "option1": "Ma androids", "option2": "Mafoni", "answer": "2"}
+{"sentence": "Ma iPhones akugulitsa kuposa ma androids chifukwa _ ndizovuta kugwiritsa ntchito.", "option1": "Ma androids", "option2": "Mafoni", "answer": "1"}
+{"sentence": "Yunivesite idalengeza tchuthi kwa ophunzira chifukwa _ adawapempha.", "option1": "Ophunzira", "option2": "Yunivesite", "answer": "1"}
+{"sentence": "Phiri linagwirizana ndi Obama chifukwa Bill adapereka lingaliro _.", "option1": "Phiri", "option2": "Obama", "answer": "1"}
+{"sentence": "Hill adalumikizana ndi Obama chifukwa Bill adakhulupirira _.", "option1": "Phiri", "option2": "Obama", "answer": "2"}
+{"sentence": "Hitler adagonjetsa Alex pankhondo chifukwa aliyense adathandizira _.", "option1": "Hitler", "option2": "Alex", "answer": "1"}
+{"sentence": "Hitler adagonjetsa Alex pankhondo chifukwa palibe amene adathandizira _.", "option1": "Alex", "option2": "Hitler", "answer": "1"}
+{"sentence": "Clinton ankafuna kuti Obama ayende pulezidenti chifukwa _ adzapambana.", "option1": "Clinton", "option2": "Obama", "answer": "2"}
+{"sentence": "Clinton ankafuna kuti Obama ayende pulezidenti chifukwa _ sakanatha kupambana.", "option1": "Clinton", "option2": "Obama", "answer": "1"}
+{"sentence": "Gates ndi wolemera kuposa Jobs, kotero _ si munthu wolemera kwambiri.", "option1": "Ntchito", "option2": "Zipata", "answer": "1"}
+{"sentence": "Seti ndi wanzeru kuposa Sai, ndipo chifukwa chake _ adachita zoyipa kwambiri poyankhulana ndi ntchito.", "option1": "Seti", "option2": "Sai", "answer": "2"}
+{"sentence": "Yakobo anasocheretsa Amen kotero Davide anathandiza _.", "option1": "Amen", "option2": "Jacob", "answer": "1"}
+{"sentence": "Yakobo anasocheretsa Amen kotero Davide anawombera _.", "option1": "Jacob", "option2": "Amen", "answer": "1"}
+{"sentence": "Atangomaliza ntchito Angelina adatenga Sandy kupita naye ku paki chifukwa _ amadziwa malowa.", "option1": "Angelina", "option2": "Mchenga", "answer": "1"}
+{"sentence": "Claudia adataya ndalama zake zonse kwa Valarie chifukwa _ ndi wanzeru kwambiri.", "option1": "Valarie", "option2": "Claudia", "answer": "1"}
+{"sentence": "Claudia adataya ndalama zake zonse kwa Valarie chifukwa _ ndi wopusa.", "option1": "Claudia", "option2": "Valarie", "answer": "1"}
+{"sentence": "Mike anathandiza Jack pa ntchito yake chifukwa _ anamva ngati akutero.", "option1": "Jack", "option2": "Mike", "answer": "2"}
+{"sentence": "Abambo adakalipira Sam chifukwa _ anali wokwiya.", "option1": "Sam", "option2": "Abambo", "answer": "2"}
+{"sentence": "Janice adagulira Kenda galimoto chifukwa _ ali ndi ndalama zoti agwiritse ntchito.", "option1": "Janice", "option2": "Kenda", "answer": "1"}
+{"sentence": "Mbewa idathamangira mphaka mpaka kukhitchini chifukwa _ anali ndi mantha.", "option1": "Mbewa", "option2": "Mphaka", "answer": "1"}
+{"sentence": "Mbewa idathamangira mphaka mpaka kukhitchini chifukwa _ adamuthamangitsa.", "option1": "Mbewa", "option2": "Mphaka", "answer": "2"}
+{"sentence": "John adasankha Bill chifukwa _ adasowa talente.", "option1": "John", "option2": "Bill", "answer": "1"}
+{"sentence": "John anagwetsa Bill chifukwa _ amafuna ndalama.", "option1": "John", "option2": "Bill", "answer": "1"}
+{"sentence": "John adapereka ndalama zambiri kwa Bill chifukwa _ anali ndi zowonjezera.", "option1": "John", "option2": "Bill", "answer": "1"}
+{"sentence": "John adakwapula Bill chifukwa _ adakwiya.", "option1": "John", "option2": "Bill", "answer": "1"}
+{"sentence": "Okwatiranawo anatenga galimotoyo kupita ku shopu Lachiwiri, koma _ sadzalipiritsa mpaka sabata yamawa.", "option1": "Malo ogulitsira", "option2": "Okwatiranawo", "answer": "1"}
+{"sentence": "Okwatiranawo anatenga galimotoyo kupita ku shopu Lachiwiri, koma _ sadzafunika kulipira mpaka sabata yamawa.", "option1": "Okwatiranawo", "option2": "Malo ogulitsira", "answer": "1"}
+{"sentence": "Ndikuganiza kuti woweruza amachitira Vick ngati wothamanga kumbuyo chifukwa _ samamvetsetsa masewerawa.", "option1": "Vick", "option2": "Woweruza", "answer": "2"}
+{"sentence": "Woba sadzabweza Trent Reznor mpaka _ atavomereza kuchita payekha.", "option1": "Trent Reznor", "option2": "Woba anthu", "answer": "1"}
+{"sentence": "Akuluakulu a boma adasunga apaulendowo chifukwa _ anali kulowerera.", "option1": "Akuluakulu a boma", "option2": "Okwera Mapiri", "answer": "2"}
+{"sentence": "Akuluakulu a boma anagwira anthu oyendayenda chifukwa _ anali ndi tsankho.", "option1": "Okwera Mapiri", "option2": "Akuluakulu a boma", "answer": "2"}
+{"sentence": "Sarah adayesa kunyalanyaza njovu mchipindamo, koma _ sanathe kupirira manyazi.", "option1": "Sara", "option2": "Njovu m'chipinda", "answer": "1"}
+{"sentence": "Sarah adayesa kunyalanyaza njovu m'chipindamo, koma _ sanasiye kulira lipenga.", "option1": "Njovu m'chipinda", "option2": "Sara", "answer": "1"}
+{"sentence": "Mark anatsala pang'ono kupanga mgwirizano ndi Slimy Jack, koma anabwerera m'mbuyo pamene _ anagwidwa akuba.", "option1": "Chizindikiro", "option2": "Slimy Jack", "answer": "2"}
+{"sentence": "Mark anatsala pang'ono kupanga mgwirizano ndi Slimy Jack, koma anabwerera m'mbuyo pamene _ anaganiza za mbiri yake ya kuwona mtima.", "option1": "Chizindikiro", "option2": "Slimy Jack", "answer": "1"}
+{"sentence": "Yesu anaonekera kwa Tomasi kuti asonyeze kuti _ anauka.", "option1": "Thomas", "option2": "Yesu", "answer": "2"}
+{"sentence": "Ogwira ntchito adaphwanya mabokosiwo chifukwa _ anali kugwira ntchito.", "option1": "Mabokosi", "option2": "Ogwira ntchito", "answer": "2"}
+{"sentence": "Ogwira ntchitowo anaphwanya mabokosiwo chifukwa _ anali opanda kanthu.", "option1": "Mabokosi", "option2": "Ogwira ntchito", "answer": "1"}
+{"sentence": "Vinyo adaphwanya cask chifukwa _ anali wamng'ono kwambiri.", "option1": "Vinyo", "option2": "Bokosi la Cask", "answer": "2"}
+{"sentence": "Tom adapatsa James malaya chifukwa _ anali ozizira.", "option1": "Tom", "option2": "James", "answer": "2"}
+{"sentence": "Tom anapatsa James malaya chifukwa _ anali wowolowa manja.", "option1": "James", "option2": "Tom", "answer": "2"}
+{"sentence": "Amalinyero adagwa m'mabwato chifukwa _ anali kugwedezeka.", "option1": "Amalinyero", "option2": "Mabwato", "answer": "2"}
+{"sentence": "Anawo ankasewera masewera chifukwa _ anali otopa.", "option1": "Masewera", "option2": "Ana", "answer": "2"}
+{"sentence": "Apolisi adamanga zipolowe chifukwa _ anali kupewa mavuto.", "option1": "Polisi", "option2": "Zipolowe", "answer": "1"}
+{"sentence": "Ophunzirawo adawerenga mabukuwo chifukwa _ anali kuphunzira.", "option1": "Ophunzira", "option2": "Mabuku", "answer": "1"}
+{"sentence": "Womvetserayo sanadandaule za woimbayo chifukwa _ anali autotuned.", "option1": "Womvetsera", "option2": "Woimba", "answer": "2"}
+{"sentence": "Oimbawo anachita pa malo awiri chifukwa palibe aliyense wa _ amene analipira ndalama zambiri.", "option1": "malo awiri", "option2": "Oimba", "answer": "1"}
+{"sentence": "Oimbawo anachita pa malo aŵiri chifukwa chakuti palibe aliyense wa _ amene analandira malipiro ambiri.", "option1": "Oimba", "option2": "malo awiri", "answer": "1"}
+{"sentence": "Chiwonetsero cha mankhwala chinawonetsa Office 365, ndipo _ adawonetsa ndi masewera.", "option1": "Chiwonetsero cha mankhwala", "option2": "Ofesi 365", "answer": "2"}
+{"sentence": "Stephen King adaimbira foni Spielberg kuti _ apemphe ndalama.", "option1": "Spielberg", "option2": "Stephen King", "answer": "2"}
+{"sentence": "Mikango imakonda nswala chifukwa _ idyani.", "option1": "Mkango", "option2": "nswala", "answer": "1"}
+{"sentence": "Steve Ballmer anatenga udindo monga CEO wa Microsoft pambuyo pa Bill Gates chifukwa _ anapuma pantchito.", "option1": "Steve Ballmer", "option2": "Bill Gates", "answer": "2"}
+{"sentence": "Steve Ballmer anatenga udindo monga CEO wa Microsoft pambuyo pa Bill Gates chifukwa _ anali unicorn.", "option1": "Bill Gates", "option2": "Steve Ballmer", "answer": "2"}
+{"sentence": "Windows ndi yoyipa kuposa Linux chifukwa _ ndi gwero lotseguka.", "option1": "Linux", "option2": "Mawindo", "answer": "1"}
+{"sentence": "Mnyamatayo adabwereka bwenzi lake pensulo chifukwa mphunzitsiyo adamuuza _ kuti agawane.", "option1": "Bwenzi lake", "option2": "Mnyamatayo", "answer": "2"}
+{"sentence": "Mnyamatayo adabwereka bwenzi lake pensulo chifukwa mphunzitsiyo adamuuza _ kuti alembe.", "option1": "Bwenzi lake", "option2": "Mnyamatayo", "answer": "1"}
+{"sentence": "Mnyamatayo adaseka bwenzi lake chifukwa _ adamva nthabwala.", "option1": "Mnyamatayo", "option2": "Bwenzi lake", "answer": "1"}
+{"sentence": "Mnyamatayo adaseka bwenzi lake chifukwa _ adapanga nthabwala.", "option1": "Bwenzi lake", "option2": "Mnyamatayo", "answer": "1"}
+{"sentence": "Apolisiwo anatsutsa zionetserozo chifukwa _ kutsatira malamulo mwakhungu.", "option1": "Otsutsa", "option2": "Apolisi", "answer": "2"}
+{"sentence": "Apolisi adazunza zionetserozo chifukwa _ samatsatira malamulo mwakhungu.", "option1": "Apolisi", "option2": "Otsutsa", "answer": "2"}
+{"sentence": "Mwini mfuti adawombera mbala chifukwa _ adaba zinthu.", "option1": "Wakuba", "option2": "Mwini mfuti", "answer": "1"}
+{"sentence": "Mwini mfuti adawombera wakubayo chifukwa _ adawona mthunzi.", "option1": "Mwini mfuti", "option2": "Wakuba", "answer": "1"}
+{"sentence": "Jerrica adawona mlondayo pamene _ akudutsa.", "option1": "Mlonda", "option2": "Jerrica", "answer": "1"}
+{"sentence": "Gulu lakunyumba lidagonjetsedwa ndi Giants chifukwa _ sanathe kudutsa.", "option1": "Gulu lakunyumba", "option2": "Zimphona", "answer": "1"}
+{"sentence": "Makolo anga anapatsa anansi matikiti a Six Flags popeza _ anali ndi zowonjezera.", "option1": "Makolo anga", "option2": "Oyandikana nawo", "answer": "1"}
+{"sentence": "Mlangiziyo adauza Purezidenti kuti _ ayenera kulengeza nkhondo.", "option1": "Purezidenti", "option2": "Mlangizi", "answer": "1"}
+{"sentence": "Mlangiziyo adauza Purezidenti kuti _ akusiya ntchito.", "option1": "Purezidenti", "option2": "Mlangizi", "answer": "2"}
+{"sentence": "Chitsanzocho chinakwiya ndi bwana wake chifukwa _ anali wachisoni.", "option1": "Chitsanzo", "option2": "Bwana wake", "answer": "1"}
+{"sentence": "William adakakamiza chizolowezi chokakamiza kwaya kwa Ryan popeza _ ndi mphunzitsi woipa.", "option1": "William", "option2": "Ryan", "answer": "1"}
+{"sentence": "Mlangiziyo anapatsa wophunzirayo uphungu chifukwa _ ali panjira yolakwika m'moyo.", "option1": "Mlangizi", "option2": "Wophunzira", "answer": "2"}
+{"sentence": "Mlangiziyo anapatsa wophunzirayo uphungu chifukwa _ amaona kuti ali ndi udindo womuthandiza.", "option1": "Mlangizi", "option2": "Wophunzira", "answer": "1"}
+{"sentence": "Mayiyo analimbikitsa mwana wake wamkazi kuti aziimba nyimbo yovuta kuti _ atsutsidwe.", "option1": "mwana wake wamkazi", "option2": "Amayi", "answer": "1"}
+{"sentence": "Oyendetsa ndegewo adapulumutsa okwerawo chifukwa _ anali ndi ntchito ya anthu.", "option1": "Oyendetsa ndege", "option2": "okwera", "answer": "1"}
+{"sentence": "Kurt adayimba kwa Jon kuyambira _ anali woweruza.", "option1": "Jon", "option2": "Kurt", "answer": "1"}
+{"sentence": "Stacy adanama kuti akuchita phwando kwa amayi ake, koma _ adapeza.", "option1": "Stacy", "option2": "Amayi ake", "answer": "2"}
+{"sentence": "Janet Jackson ndi wotchuka kwambiri kuposa Latoya Jackson popeza _ ndiye wochita bwino kwambiri.", "option1": "Latoya Jackson", "option2": "Janet Jackson", "answer": "2"}
+{"sentence": "Rick Davis adachita kampeni kwa John McCain popeza _ anali munthu wabwino kwambiri paudindo.", "option1": "Rick Davis", "option2": "John McCain", "answer": "2"}
+{"sentence": "Simon Cowell amaseka Ryan Seacrest popeza _ amamva kukhala wapamwamba.", "option1": "Simon Cowell", "option2": "Ryan Seacrest", "answer": "1"}
+{"sentence": "Osauka amaba kwa olemera chifukwa _ amafuna ndalama zambiri.", "option1": "Olemera", "option2": "Osauka", "answer": "2"}
+{"sentence": "Wogulitsayo anagulitsa bafa lotentha kwa kasitomala chifukwa _ anali kufunafuna chinachake chogwiritsira ntchito ndi kumwa.", "option1": "kasitomala", "option2": "Wogulitsa", "answer": "1"}
+{"sentence": "Wogulitsayo anagulitsa bafa lotentha kwa kasitomala chifukwa _ anali kuyesa kugulitsa katundu wake.", "option1": "kasitomala", "option2": "Wogulitsa", "answer": "2"}
+{"sentence": "Jennifer Aniston sakonda Angelina Jolie chifukwa _ adaba bwenzi lake.", "option1": "Angelina Jolie", "option2": "Jennifer Aniston", "answer": "1"}
+{"sentence": "Jennifer Aniston sakonda Angelina Jolie chifukwa _ ali ndi nsanje ndi ubale wake.", "option1": "Jennifer Aniston", "option2": "Angelina Jolie", "answer": "1"}
+{"sentence": "Gulu lankhondo la US linamenyana ndi a Taliban chifukwa _ akuyesera kuteteza uchigawenga.", "option1": "a Taliban", "option2": "Gulu lankhondo la US", "answer": "2"}
+{"sentence": "Gulu lankhondo la US linamenyana ndi Taliban chifukwa _ ndi muzu wa uchigawenga wambiri.", "option1": "Gulu lankhondo la US", "option2": "a Taliban", "answer": "2"}
+{"sentence": "Philadelphia Eagles adataya St. Louis Rams, koma chinali chifukwa _ anali ndi mwayi wakunyumba.", "option1": "St. Louis Rams", "option2": "Philadelphia Eagles", "answer": "1"}
+{"sentence": "The Philadelphia Eagles anagonjetsedwa ndi St. Louis Rams, koma zinali chifukwa _ anali otopa kupita ku masewerawa.", "option1": "St. Louis Rams", "option2": "Philadelphia Eagles", "answer": "2"}
+{"sentence": "AirForce ndi yosangalatsa kwambiri kuposa Army, koma _ imafuna ziyeneretso zapamwamba.", "option1": "Gulu Lankhondo", "option2": "Gulu la Ndege", "answer": "2"}
+{"sentence": "AirForce ndi yosangalatsa kwambiri kuposa Army, koma _ ndizofunikira kwambiri.", "option1": "Gulu la Ndege", "option2": "Gulu Lankhondo", "answer": "2"}
+{"sentence": "Agalu ndi ochezeka kuposa amphaka popeza _ angakonde kukhala okha.", "option1": "Amphaka", "option2": "Agalu", "answer": "1"}
+{"sentence": "Magalimoto a hybrid amatulutsa kuipitsa kochepa kuposa magalimoto a dizilo chifukwa _ amagwiritsa ntchito mafuta oyera.", "option1": "Magalimoto a hybrid", "option2": "Magalimoto a dizilo", "answer": "2"}
+{"sentence": "Ryan ali ndi tsitsi locheperako kwambiri kuposa Gary, kotero _ samatuluka pagulu popanda chipewa.", "option1": "Gary", "option2": "Ryan", "answer": "2"}
+{"sentence": "Blue Thunder adapeza zolinga zambiri kuposa Green Hogs kuyambira _ ndi gulu labwino.", "option1": "Bingu la Buluu", "option2": "Nkhumba Zobiriwira", "answer": "1"}
+{"sentence": "Joe adapeza ndalama zambiri kuposa Rob pa Price is Right chifukwa _ adatha kuyerekezera zilembo zambiri molondola.", "option1": "Joe", "option2": "Rob", "answer": "1"}
+{"sentence": "Joe adapeza ndalama zambiri kuposa Rob pa Price is Right chifukwa _ adapitiriza kuganiza molakwika.", "option1": "Rob", "option2": "Joe", "answer": "1"}
+{"sentence": "KFC imagulitsa bwino kuposa Popeyes popeza _ gwiritsani ntchito zosakaniza zoyipa mu nkhuku zawo.", "option1": "KFC", "option2": "Ma Popeyes", "answer": "2"}
+{"sentence": "Google ikugwira Firefox mu peresenti ya ogwiritsa ntchito chifukwa _ ali ndi msakatuli wofulumira komanso wodalirika.", "option1": "Firefox", "option2": "Google", "answer": "2"}
+{"sentence": "Mipeni yatsopano ndi yabwino kuposa mipeni yakale popeza _ ndi yakuthwa kwambiri.", "option1": "Mipeni Yakale", "option2": "Mipeni Yatsopano", "answer": "2"}
+{"sentence": "Will Smith adapeza mwana wake wamwamuna mu kanema popeza _ ndi mwana wa wosewera wotchuka wa kanema.", "option1": "Will Smith", "option2": "Mwana wake wamwamuna", "answer": "2"}
+{"sentence": "Mahatchi ndi othamanga kwambiri pamtunda waufupi kuposa ngamila, koma _ amatha kuyenda mtunda wautali kwambiri.", "option1": "Mahatchi", "option2": "ngamila", "answer": "2"}
+{"sentence": "Ndondomeko ya deta ya T-Mobile ndi yabwino kuposa dongosolo la deta la AT & T popeza _ siligwiritsa ntchito deta.", "option1": "AT & T", "option2": "T-Mobile", "answer": "2"}
+{"sentence": "Ndondomeko ya deta ya T-Mobile ndi yabwino kuposa dongosolo la deta la AT & T kuyambira _ throttles wogwiritsa ntchito chifukwa chogwiritsa ntchito deta mopitirira muyeso.", "option1": "T-Mobile", "option2": "AT & T", "answer": "2"}
+{"sentence": "Pizza hut pizzas ndi tastier kuposa Papa John pizzas chifukwa _ kupereka zosakaniza zambiri ndi tchizi.", "option1": "Papa John", "option2": "Pizza", "answer": "2"}
+{"sentence": "Frosted Flakes ndi tastier kuposa Fiber One chifukwa _ gwiritsani ntchito frosting pa tirigu.", "option1": "Frosted Flakes", "option2": "CHIKWANGWANI Chimodzi", "answer": "1"}
+{"sentence": "Frosted Flakes ndi tastier kuposa CHIKWANGWANI chifukwa _ kulawa bland chifukwa cha fiber.", "option1": "CHIKWANGWANI Chimodzi", "option2": "Frosted Flakes", "answer": "1"}
+{"sentence": "Gladiators amawonedwa bwino kuposa Akapolo chifukwa _ amamenyana mpaka imfa m'bwalo.", "option1": "Akapolo", "option2": "Omenyera nkhondo", "answer": "2"}
+{"sentence": "Gladiators amawonedwa bwino kuposa Akapolo chifukwa _ amakhala m'moyo wa ukapolo m'malo mofa mu ulemerero.", "option1": "Omenyera nkhondo", "option2": "Akapolo", "answer": "2"}
+{"sentence": "Apple idazenga mlandu Samsung chifukwa _ adamva kuti nzeru zawo zikuphwanyidwa.", "option1": "Samsung", "option2": "Apulo", "answer": "2"}
+{"sentence": "Apple idazenga mlandu Samsung chifukwa _ idapanga mankhwala omwe ali ndi zofanana ndi zawo.", "option1": "Samsung", "option2": "Apulo", "answer": "1"}
+{"sentence": "Kate Middleton amawonedwa ngati m'badwo watsopano wa Princess Diana chifukwa _ akuyerekezedwanso ngati chizindikiro cha mafashoni.", "option1": "Mfumukazi Diana", "option2": "Kate Middleton", "answer": "2"}
+{"sentence": "Mphaka wamwamuna wamkulu akuvutitsa mphaka wamwamuna wamng'ono watsopano kuti _ athe kutsimikizira ulamuliro wake.", "option1": "Mphaka wamwamuna wamng'ono watsopano", "option2": "Mphaka wamwamuna wamkulu", "answer": "2"}
+{"sentence": "Mphaka wamwamuna wamkulu akuzunza mphaka wamwamuna watsopano kotero _ wakhala wogonjera.", "option1": "Mphaka wamwamuna wamkulu", "option2": "Mphaka wamwamuna wamng'ono watsopano", "answer": "2"}
+{"sentence": "Batman samapha Joker chifukwa _ ndi wabwino pamtima.", "option1": "Joker", "option2": "The Batman", "answer": "2"}
+{"sentence": "Batman samapha Joker chifukwa _ nthawi zonse amaponyedwa m'ndende m'malo mwake.", "option1": "Joker", "option2": "The Batman", "answer": "1"}
+{"sentence": "Nsombazi nthawi zonse zimadya nsomba chifukwa _ zimakhala zapamwamba pa chakudya.", "option1": "Nsombazi", "option2": "Nsomba", "answer": "1"}
+{"sentence": "Nsombazi nthawi zonse zimadya nsomba chifukwa _ ndizo gwero lalikulu la chakudya m'nyanja.", "option1": "Nsomba", "option2": "Nsombazi", "answer": "1"}
+{"sentence": "Mapulogalamu amapereka phindu kwambiri pa hardware popeza _ ndi ndalama ndi kupanga zipangizo nthawi iliyonse.", "option1": "Hardware", "option2": "Mapulogalamu", "answer": "1"}
+{"sentence": "Naruto ali ndi magawo pafupifupi 200 kuposa Code Geass chifukwa _ ali ndi nkhani yayitali yosangalatsa.", "option1": "Code Geass", "option2": "Naruto", "answer": "2"}
+{"sentence": "Naruto ali ndi magawo ena pafupifupi 200 ndiye Code Geass chifukwa _ adamaliza nkhaniyi m'magawo ochepa kwambiri.", "option1": "Code Geass", "option2": "Naruto", "answer": "1"}
+{"sentence": "The Simpsons akhala ndi nyengo 23 pomwe The Sarah Connor Chronicles adakhala nyengo ziwiri, kuyambira _ akhala akupambana kwambiri.", "option1": "Mbiri ya Sarah Connor", "option2": "A Simpsons", "answer": "2"}
+{"sentence": "Morpheous adakhulupirira kuti Neo anali \"yemweyo\", chifukwa _ anali ndi kuthekera kokhala \"yemweyo\".", "option1": "Morpheous", "option2": "Neo", "answer": "2"}
+{"sentence": "Michelle amakonda malaya obiriwira pomwe Sarah amakonda buluu, chifukwa _ amakonda mtundu wa udzu.", "option1": "Michelle", "option2": "Sara", "answer": "1"}
+{"sentence": "Michelle amakonda malaya obiriwira pomwe Sarah amakonda buluu, chifukwa _ amakonda mtundu wa thambo.", "option1": "Michelle", "option2": "Sara", "answer": "2"}
+{"sentence": "Dokotala Chen adapereka magalasi kwa Egore, popeza _ amafunikira magalasi kuti awone.", "option1": "Egore", "option2": "Dokotala Chen", "answer": "1"}
+{"sentence": "Dokotala Chen adapereka magalasi kwa Egore, popeza _ adachita mayeso a maso.", "option1": "Egore", "option2": "Dokotala Chen", "answer": "2"}
+{"sentence": "Hulu wakhala ndi kukula kwakukulu kwa olembetsa pa chingwe chachikhalidwe cha Dish Network kuyambira _ kupereka dongosolo lomwe limakopa anthu ambiri.", "option1": "Hulu", "option2": "Dish Network", "answer": "1"}
+{"sentence": "Dokotala Conrad Murray akuimbidwa mlandu wonyalanyaza imfa ya Michael Jackson chifukwa _ anali dokotala pamalopo pamene mankhwala osokoneza bongo anachitika.", "option1": "Dokotala Conrad Murray", "option2": "Michael Jackson", "answer": "1"}
+{"sentence": "Dokotala Conrad Murray akuimbidwa mlandu wosasamala pa imfa ya Michael Jackson chifukwa _ anamwa mankhwala osokoneza bongo pamene dokotala analipo.", "option1": "Michael Jackson", "option2": "Dokotala Conrad Murray", "answer": "1"}
+{"sentence": "Zilombo panyumba yokhala ndi mizukwa zidathamangitsa anawo chifukwa _ akuyesera kuwaopseza.", "option1": "Zilombo", "option2": "Ana", "answer": "1"}
+{"sentence": "Zilombo panyumba yokhala ndi mizukwa zinathamangitsa anawo chifukwa _ amafuna kuopa zosangalatsa.", "option1": "Zilombo", "option2": "Ana", "answer": "2"}
+{"sentence": "Ashton Kutcher adalowa m'malo mwa Charlie Sheen ngati munthu wamkulu wa Amuna Awiri ndi Theka, koma _ samasewera khalidwe lomwelo lomwe wosewera wam'mbuyomu adasewera.", "option1": "Charlie Sheen", "option2": "Ashton Kutcher", "answer": "2"}
+{"sentence": "Ashton Kutcher adalowa m'malo mwa Charlie Sheen ngati munthu wamkulu wa Amuna Awiri ndi Theka, koma _ sanachoke pawonetsero mofunitsitsa.", "option1": "Ashton Kutcher", "option2": "Charlie Sheen", "answer": "2"}
+{"sentence": "Thor adathamangitsidwa mu ufumu ndi abambo ake chifukwa _ adawona kuti mwana wake wamwamuna anali wofunitsitsa kwambiri kukhala mfumu.", "option1": "bambo ake", "option2": "Thor", "answer": "1"}
+{"sentence": "Nvidia ikupereka ma laputopu awiri apamwamba kwa ogwiritsa ntchito ake, kotero _ adzakhala akuwapatsa kwaulere.", "option1": "Ogwiritsa ntchito ake", "option2": "Nvidia", "answer": "2"}
+{"sentence": "Nvidia ikupereka ma laputopu awiri apamwamba kwa ogwiritsa ntchito, kotero _ khalani ndi mwayi wowapeza kwaulere.", "option1": "Ogwiritsa ntchito ake", "option2": "Nvidia", "answer": "1"}
+{"sentence": "Gamestop adakoka masewera a Square Enix, \"Dues Ex\" kuchokera ku mashelufu, chifukwa _ adapereka kuponi ya ntchito yamasewera mu masewera awo.", "option1": "Square Enix", "option2": "Masewera a masewera", "answer": "2"}
+{"sentence": "Gamestop adakoka masewera a Square Enix, \"Dues Ex\" kuchokera ku mashelufu, chifukwa _ sangagulitse masewera omwe amalimbikitsa ntchito ina yamasewera.", "option1": "Masewera a masewera", "option2": "Square Enix", "answer": "2"}
+{"sentence": "Apolisi adamanga zionetsero 700 ku New York kuyambira _ adayesa kutsekereza magalimoto pa mlatho wa Manhattan.", "option1": "Polisi", "option2": "Otsutsa 700", "answer": "1"}
+{"sentence": "DC Universe idapita kwaulere kusewera pomwe World of Warcraft ndi yolembetsa yochokera, chifukwa _ asunga ogwiritsa ntchito okwanira kuti apitirize ndi chitsanzo chawo cha malipiro apano.", "option1": "World of Warcraft", "option2": "Chilengedwe cha DC", "answer": "1"}
+{"sentence": "Amazon's Kindle Fire ikhoza kupitirira IPad ya Apple chifukwa _ imapereka mtengo wotsika kwambiri wopikisana.", "option1": "Amazon", "option2": "Apulo", "answer": "1"}
+{"sentence": "Amazon's Kindle Fire ikhoza kuposa Apple's Ipad chifukwa _ ndi okwera mtengo kwambiri popereka mankhwala ofanana.", "option1": "Amazon", "option2": "Apulo", "answer": "2"}
+{"sentence": "Wall Street inapulumutsidwa ndi boma chifukwa _ ankafuna kuteteza kugwa kwachuma.", "option1": "Boma", "option2": "Wall Street", "answer": "1"}
+{"sentence": "Conan O'Brien adalowa m'malo mwa Jay Leno monga woyang'anira Late Night, komabe, _ posakhalitsa adachotsedwa nthawi imeneyo chifukwa cha kubweranso kwake.", "option1": "Conan O'Brien", "option2": "Jay Leno", "answer": "1"}
+{"sentence": "Conan O'Brien adalowa m'malo mwa Jay Leno monga woyang'anira Late Night, komabe, _ posakhalitsa adafunsidwa kuti abwerere ndikukhala ndi nthawi yake yapitayi.", "option1": "Conan O'Brien", "option2": "Jay Leno", "answer": "2"}
+{"sentence": "Apolisi adamanga zigawengazo kuyambira _ kutsatira malamulo.", "option1": "Zigawenga", "option2": "Polisi", "answer": "2"}
+{"sentence": "Makolo anaika pansi anawo kuyambira _ anafuna kumvera.", "option1": "Makolo", "option2": "Ana", "answer": "1"}
+{"sentence": "Makolo anaika pansi anawo popeza _ anali osamvera.", "option1": "Ana", "option2": "Makolo", "answer": "1"}
+{"sentence": "Otsutsa amasiyana ndi Democrats popeza _ nthawi zambiri amakana kusintha.", "option1": "A Democrats", "option2": "Osunga malamulo", "answer": "2"}
+{"sentence": "Otsutsa amasiyana ndi Democrats popeza _ nthawi zambiri amalimbikitsa kusintha.", "option1": "A Democrats", "option2": "Osunga malamulo", "answer": "1"}
+{"sentence": "Anthuwo anadziletsa okha ku zombies chifukwa _ ankafuna kuchepetsa njala yawo.", "option1": "Zombies", "option2": "Anthu", "answer": "1"}
+{"sentence": "Adrian Peterson ali ndi ma touchdown ambiri kuposa Reggie Bush chifukwa _ ndi wabwino kuthamanga mpira.", "option1": "Reggie Bush", "option2": "Adrian Peterson", "answer": "2"}
+{"sentence": "Adrian Peterson ali ndi ma touchdown ambiri kuposa Reggie Bush chifukwa _ sangathe kuthamanga mpira komanso.", "option1": "Adrian Peterson", "option2": "Reggie Bush", "answer": "2"}
+{"sentence": "Tchipisi cha Bulldozer cha AMD chalandira kulandiridwa kofunda poyerekeza ndi tchipisi cha Intel's Sandy Bridge kuyambira _ anali otsika pantchito.", "option1": "AMD's Bulldozer tchipisi", "option2": "Tchipisi cha Intel cha Sandy Bridge", "answer": "1"}
+{"sentence": "Magalimoto a hybrid amakhala ndi mafuta ambiri kuposa magalimoto oyendetsa mafuta, koma _ akadali magalimoto ogwiritsidwa ntchito kwambiri lero.", "option1": "Magalimoto a hybrid", "option2": "Magalimoto oyendetsedwa ndi mafuta", "answer": "2"}
+{"sentence": "Thandizo la makasitomala a Apple nthawi zonse limavoteredwa bwino kuposa thandizo la Microsoft, chifukwa _ perekani dongosolo labwino kwambiri la mtengo wolembetsa.", "option1": "Thandizo la makasitomala a Apple", "option2": "Thandizo la Microsoft", "answer": "1"}
+{"sentence": "Thandizo la makasitomala a Apple nthawi zonse limavoteredwa bwino kuposa thandizo la Microsoft, chifukwa _ samapereka kwenikweni dongosolo lothandizira mpikisano.", "option1": "Thandizo la makasitomala a Apple", "option2": "Thandizo la Microsoft", "answer": "2"}
+{"sentence": "New York ndi yodzaza kwambiri poyerekeza ndi South Dakota, koma _ imakhalanso yaying'ono kwambiri m'makilomita.", "option1": "New York", "option2": "South Dakota", "answer": "1"}
+{"sentence": "New York ndi yodzaza kwambiri poyerekeza ndi South Dakota, koma _ ali ndi malo ambiri m'malo mwake.", "option1": "New York", "option2": "South Dakota", "answer": "2"}
+{"sentence": "Magalimoto oyendetsa magudumu anayi amagwiritsidwa ntchito pa mpikisano wa rally m'malo mwa magalimoto oyendetsa kumbuyo chifukwa _ samathamanga bwino pamsewu.", "option1": "magalimoto a gudumu lakumbuyo", "option2": "Magalimoto anayi oyendetsa magudumu", "answer": "1"}
+{"sentence": "McDonalds ili ndi malo odyera ambiri kuposa Chick Filet padziko lonse lapansi chifukwa _ amadziwika padziko lonse lapansi.", "option1": "Chick Filet", "option2": "McDonalds", "answer": "2"}
+{"sentence": "Justin Bieber anagulitsa ma albamu ambiri kuposa Jack Johnson, koma _ amakhalanso wosasangalatsa kwambiri pakati pa achikulire.", "option1": "Jack Johnson", "option2": "Justin Bieber", "answer": "2"}
+{"sentence": "NFL imapanga ndalama zonyansa poyerekeza ndi MLB, chifukwa _ ndi masewera omwe amawonedwa kwambiri ku US.", "option1": "Gulu la NFL", "option2": "MLB", "answer": "1"}
+{"sentence": "Amazon posachedwapa upstaged Gamestop pa Battlefield 3 chisanadze malamulo chifukwa _ anatsitsa mtengo wawo 30 peresenti pansi pa mpikisano.", "option1": "Masewera a masewera", "option2": "Amazon", "answer": "2"}
+{"sentence": "Amazon posachedwapa upstaged Gamestop pa Battlefield 3 chisanadze malamulo chifukwa _ sangathe kufanana ndi mpikisano wawo mitengo aukali.", "option1": "Masewera a masewera", "option2": "Amazon", "answer": "1"}
+{"sentence": "Xbox 360 idagulitsa Nintendo Wii ndi 300 peresenti chifukwa _ akukopa anthu ambiri ndi hardware yawo yabwino.", "option1": "Nintendo Wii", "option2": "The Xbox 360", "answer": "2"}
+{"sentence": "Nancy adatenga mwana wamkazi chifukwa _ nthawi zonse amafuna mwana wamkazi.", "option1": "Nancy", "option2": "mwana wamkazi", "answer": "1"}
+{"sentence": "Anyamata a Backstreet anali otchuka kwambiri kuposa N-Sync popeza _ anali ndi nyimbo zabwino.", "option1": "Anyamata a Backstreet", "option2": "N-Sync", "answer": "1"}
+{"sentence": "MySpace idataya mamiliyoni ogwiritsa ntchito ku Facebook, koma _ adakali ndi otsatira ochepa.", "option1": "Facebook", "option2": "MySpace", "answer": "2"}
+{"sentence": "MySpace inataya ogwiritsa ntchito mamiliyoni ambiri ku Facebook, koma _ sanathe kuwaphwanya kwathunthu.", "option1": "MySpace", "option2": "Facebook", "answer": "2"}
+{"sentence": "Magalimoto a chilombo angaphwanye magalimoto popeza _ ndi aakulu kwambiri.", "option1": "Magalimoto", "option2": "Magalimoto a Monster", "answer": "2"}
+{"sentence": "Apolisi adamanga anthu omwe amawaganizira kuti ndi mamembala a Anonymous chifukwa _ akuimbidwa mlandu wothyola deta ya kampani.", "option1": "Osadziwika", "option2": "Polisi", "answer": "1"}
+{"sentence": "Apolisi adamanga anthu omwe amawaganizira kuti ndi mamembala a Anonymous chifukwa _ akulimbana ndi owononga.", "option1": "Osadziwika", "option2": "Polisi", "answer": "2"}
+{"sentence": "Space Marines imaseweredwa nthawi zambiri kuposa Orks, kotero _ nthawi zonse amaseweredwa kwambiri pamasewera.", "option1": "Orks", "option2": "Space Marines", "answer": "2"}
+{"sentence": "Space Marines amaseweredwa nthawi zambiri kuposa Orks, koma _ amawonedwa nthawi zambiri pamipikisano chifukwa cha kusiyana kwawo.", "option1": "Orks", "option2": "Space Marines", "answer": "1"}
+{"sentence": "Snooki adakwiyira Kendra popeza _ wakhumudwa kuti bwenzi lake silingamutonthoze.", "option1": "Snooki", "option2": "Kendra", "answer": "1"}
+{"sentence": "Mabungwe a ndege nthawi zonse amayamba kugwira ntchito motsutsana ndi makampani a ndege chifukwa _ akufuna malipiro abwino.", "option1": "Ndege za ndege", "option2": "Mabungwe a ndege", "answer": "2"}
+{"sentence": "Mabungwe a ndege nthawi zonse amayamba kugwira ntchito motsutsana ndi makampani a ndege chifukwa _ samasamala za antchito.", "option1": "Mabungwe a ndege", "option2": "Ndege za ndege", "answer": "2"}
+{"sentence": "Sprint tsopano ikugulitsa IPhone monga Verizon, chifukwa _ akufuna kukopa makasitomala omwe ali mafani a IPhone.", "option1": "Verizon", "option2": "Kuthamanga", "answer": "2"}
+{"sentence": "Pirates nthawi zonse amayerekezedwa ndi ninjas, koma _ amakonda kumenyana panyanja.", "option1": "Ma Ninjas", "option2": "Achifwamba", "answer": "2"}
+{"sentence": "Pirates nthawi zonse amayerekezedwa ndi ninjas, koma _ ndi mwachindunji kwambiri chikhalidwe cha Japan.", "option1": "Achifwamba", "option2": "Ma Ninjas", "answer": "2"}
+{"sentence": "Intel adazenga mlandu IntelSpec kuyambira _ akuyesera kuteteza dzina lawo lachizindikiro.", "option1": "Chidziwitso", "option2": "IntelSpec", "answer": "1"}
+{"sentence": "Intel adazenga mlandu IntelSpec kuyambira _ zimachitika kuti ali ndi chizindikiro chamalonda m'dzina la kampani yawo.", "option1": "IntelSpec", "option2": "Chidziwitso", "answer": "1"}
+{"sentence": "Boma linafuna kupereka zida kwa oyang'anira malire a US, kotero _ anapempha Congress kuti ivomereze bajeti ya zida.", "option1": "Woyang'anira malire a US", "option2": "Boma", "answer": "2"}
+{"sentence": "Dokotala Jenner adapitiliza ntchito yake pa katemera wa John, koma _ sali ndi chipambano chachikulu.", "option1": "Dokotala Jenner", "option2": "John", "answer": "1"}
+{"sentence": "Officer Kennedy adapulumutsa Roger kwa zigawenga chifukwa _ amachirikiza mtendere.", "option1": "Ofesala Kennedy", "option2": "Roger", "answer": "1"}
+{"sentence": "Officer Kennedy adapulumutsa Roger kwa zigawenga, koma _ sanayamikire chifukwa chopulumutsidwa.", "option1": "Roger", "option2": "Ofesala Kennedy", "answer": "1"}
+{"sentence": "Ogwira ntchito ku Six Flags adakaniza makasitomala kuti athe kukwera ulendowu, koma _ akhoza kupitilirabe maulendo ena.", "option1": "Ogwira ntchito ku Six Flags", "option2": "Makasitomala", "answer": "2"}
+{"sentence": "Mtolankhani wakumunda Chris Johnson adafunsa Corporal Mason chifukwa _ atha kupereka chidziwitso kuchokera kumenyana kutsogolo.", "option1": "Mtolankhani Wamunda Chris Johnson", "option2": "Corporal Mason", "answer": "2"}
+{"sentence": "Raccoons nthawi zonse amasewera akufa pamene anthu ayandikira chifukwa _ amawaopseza.", "option1": "Anthu", "option2": "Raccoons", "answer": "1"}
+{"sentence": "Opanga Minecraft adakwanitsa kupambana mlandu wawo wokhudzana ndi kuphwanya ufulu wotsutsana ndi Bethesda Studios, koma _ mwina adzaperekanso mlandu wina.", "option1": "Opanga Minecraft", "option2": "Bethesda Studios", "answer": "2"}
+{"sentence": "Batman nthawi zonse amaphunzitsa Robin njira zatsopano ndi malangizo, popeza _ ndi mlangizi wake.", "option1": "Batman", "option2": "Robin", "answer": "1"}
+{"sentence": "Ma penguin amakonda kukhala pamtunda kuti apewe anamgumi akupha, chifukwa _ sangathe kupita pamtunda.", "option1": "Penguins", "option2": "anamgumi akupha", "answer": "2"}
+{"sentence": "Gulu la akatswiri a zamalamulo linakwanitsa kugwirizanitsa zigawengazo ndi upanduwo popeza _ linasanthula zitsanzo za magazi pamalo ochitira umbanda.", "option1": "Gulu la akatswiri a zamalamulo", "option2": "Zigawenga", "answer": "1"}
+{"sentence": "Gulu la akatswiri a zamalamulo linakwanitsa kugwirizanitsa zigawengazo ndi mlanduwu, choncho _ tsopano akupita kundende.", "option1": "Zigawenga", "option2": "Gulu la akatswiri a zamalamulo", "answer": "1"}
+{"sentence": "Clark Kent amabisa chizindikiritso chake kwa Lex Luthor popeza _ akufuna kusunga okondedwa ake.", "option1": "Lex Luthor", "option2": "Clark Kent", "answer": "2"}
+{"sentence": "Clark Kent amabisa chizindikiritso chake kwa Lex Luthor chifukwa _ akufuna kudziwa kuti ngwazi yophimba iyi ndi ndani.", "option1": "Clark Kent", "option2": "Lex Luthor", "answer": "2"}
+{"sentence": "Apolisi amasesa ma bums kuchokera ku mabenchi a paki ngakhale _ alibe malo okhala ndi kugona usiku.", "option1": "Ma bums", "option2": "Apolisi", "answer": "1"}
+{"sentence": "Banki ya ku Switzerland inaundana maakaunti a gulu la zigawenga chifukwa _ anali kuthandiza oyang'anira malamulo kugwira zigawengazo.", "option1": "Gulu la zigawenga", "option2": "Banki ya Swiss", "answer": "2"}
+{"sentence": "Banki ya ku Switzerland inatseka maakaunti a gulu la zigawenga chifukwa _ anali ndi ndalama zachinyengo zomwe zinaikidwa mu akaunti yawo.", "option1": "Banki ya Swiss", "option2": "Gulu la zigawenga", "answer": "2"}
+{"sentence": "Steve Urkel nthawi zonse ankakhumudwitsa Carl Winslow muwonetsero, \"Family Matters\", koma _ ankamukondabe mosasamala kanthu.", "option1": "Carl Winslow", "option2": "Steve Urkel", "answer": "1"}
+{"sentence": "Steve Urkel nthawi zonse anali kukwiyitsa Carl Winslow muwonetsero, \"Family Matters\", chifukwa _ ndizokhumudwitsa kwambiri mwachilengedwe.", "option1": "Steve Urkel", "option2": "Carl Winslow", "answer": "1"}
+{"sentence": "Blackberry analekanitsa ambiri owerenga chifukwa _ anakwiya ndi utumiki kutengedwa pansi kwa masiku.", "option1": "Ogwiritsa ntchito ambiri", "option2": "Blackberry", "answer": "1"}
+{"sentence": "Groupon adanama za ndalama zomwe amapeza kwa omwe akukhudzidwa popeza _ ankafuna kusunga mtengo wa kampaniyo kukhala wapamwamba.", "option1": "Gulu", "option2": "Okhudzidwa", "answer": "1"}
+{"sentence": "Groupon adanama za ndalama zomwe amapeza kwa omwe akukhudzidwa, koma _ adapeza za chinyengo.", "option1": "Gulu", "option2": "Okhudzidwa", "answer": "2"}
+{"sentence": "Magulu ankhondo a NATO anachita mwatsatanetsatane kumenya nyama zolusa kwa opanduka a ku Libya kuyambira _ anali ndi magalimoto odyetsa.", "option1": "Magulu ankhondo a NATO", "option2": "Opanduka a ku Libya", "answer": "1"}
+{"sentence": "Jim Carrey adatsimikiza Jeff kuti apite naye ku Aspen, popeza _ ankafuna kukhala ndi mnzake woyendayenda kuti akachone chibwenzi chake.", "option1": "Jim Carrey", "option2": "Jeff", "answer": "1"}
+{"sentence": "Jim Carrey adatsimikiza Jeff kuti apite naye ku Aspen, popeza _ adafuna kupita ku Aspen kwa nthawi yayitali.", "option1": "Jim Carrey", "option2": "Jeff", "answer": "2"}
+{"sentence": "Shawn Jun adachita kukhumudwa kwakukulu pa katswiri wa nthawi zinayi Leon Sung koma _ adalandirabe ndalama zambiri chifukwa chokhala wothamanga.", "option1": "Leon Sung", "option2": "Shawn Jun", "answer": "1"}
+{"sentence": "Gulu la nkhani la Channel 6 linapereka sewero ndi sewero la akaidi omwe anathawa chifukwa _ anafunikira kufotokoza nkhaniyi.", "option1": "Gulu la nkhani la Channel 6", "option2": "Akaidi othawa", "answer": "1"}
+{"sentence": "Gulu la nkhani la Channel 6 linapereka sewero ndi sewero la akaidi omwe anathawa, kotero _ kuthawa kwawo kunanenedwa ku dziko.", "option1": "Gulu la nkhani la Channel 6", "option2": "Akaidi othawa", "answer": "2"}
+{"sentence": "Scrooge adakhudzidwa ndi mawonekedwe a Timmy chifukwa _ adamvera chisoni mnyamata wolumala, wabwino.", "option1": "Scrooge", "option2": "Timmy", "answer": "1"}
+{"sentence": "Butters ankafuna kuba kanema wa Spiderman kuchokera kwa Kenny, koma _ sanafune kuwonedwa ngati wakuba.", "option1": "Batala", "option2": "Kenny", "answer": "1"}
+{"sentence": "Butters ankafuna kuba kanema wa Spiderman kuchokera kwa Kenny chifukwa _ sakanamubwereketsa.", "option1": "Batala", "option2": "Kenny", "answer": "2"}
+{"sentence": "Blockbuster inawonjezera nthawi yoperekedwa kwa makasitomala kuti abwezeretse mavidiyo, kotero _ sangakwanitse kubwereka mavidiyo mofulumira tsopano.", "option1": "makasitomala", "option2": "Blockbuster", "answer": "1"}
+{"sentence": "Lucy adapereka phunziro la momwe angakhazikitsire IOS 5 kwa Cindy popeza _ amadziwa bwino kusintha kwa mapulogalamu.", "option1": "Lucy", "option2": "Cindy", "answer": "1"}
+{"sentence": "Samsonite amapanga katundu yemwe amawerengedwa kwambiri ndi Luggage Ratings Inc. kuyambira _ pangani mankhwala abwino komanso owoneka bwino.", "option1": "Samsonite", "option2": "Katundu Mavoti Inc.", "answer": "1"}
+{"sentence": "Samsonite amapanga katundu yemwe amawerengedwa kwambiri ndi Luggage Ratings Inc. chifukwa _ ankaganiza kuti mankhwala omwe adawerengera anali ofunika kwambiri chifukwa cha khalidwe lake.", "option1": "Samsonite", "option2": "Katundu Mavoti Inc.", "answer": "2"}
+{"sentence": "FBI nthawi zambiri imatenga malo ochitira umbanda kuchokera kwa apolisi chifukwa _ nthawi zina amafunikira thandizo kuti afufuze mlanduwu.", "option1": "Polisi", "option2": "The FBI", "answer": "1"}
+{"sentence": "A NSA anatumiza nthumwi zawo m'munda kuti akatenge nzeru, koma _ sanathe kuwasonkhanitsa nzeru.", "option1": "Bungwe la NSA", "option2": "nthumwi zawo", "answer": "2"}
+{"sentence": "NSA inatumiza nthumwi zawo m'munda kuti akatenge nzeru chifukwa _ amafunikira anthu m'munda kuti agwire ntchito yakumunda.", "option1": "Bungwe la NSA", "option2": "nthumwi zawo", "answer": "1"}
+{"sentence": "Mavericks amatha kugulitsa malonda ambiri kwa mafani nyengo ino, ndipo _ amangofuna popeza ndi gulu lotentha kwambiri pakalipano.", "option1": "mafani", "option2": "The Mavericks", "answer": "1"}
+{"sentence": "Rammstein adachita nyimbo yawo yaposachedwa kwambiri kwa anthu ambiri aku Germany kuyambira _ adafuna kuchitira dziko lakwawo lino poyamba.", "option1": "Misa ya Germany", "option2": "Rammstein", "answer": "2"}
+{"sentence": "Rammstein adachita nyimbo yawo yaposachedwa kwambiri kwa anthu ambiri aku Germany chifukwa _ amafuna kumva ntchito zawo zatsopano.", "option1": "Rammstein", "option2": "Misa ya Germany", "answer": "2"}
+{"sentence": "Western Digital ikhoza kukhumudwitsa omwe akugawana nawo nyengo ino, koma _ mwina adzakhala ovuta kutaya kwakanthawi ndikukhalabe omwe akugawana nawo.", "option1": "Omwe amagawana nawo", "option2": "Western Digital", "answer": "1"}
+{"sentence": "Ophunzira omaliza maphunziro amathera nthawi iliyonse yogalamuka akuphunzira makalasi awo popeza _ amapereka chidziwitso chambiri ndi mayeso monga gawo la ulendo wawo.", "option1": "Maphunziro awo", "option2": "Ophunzira omaliza maphunziro", "answer": "1"}
+{"sentence": "Ophunzira omaliza maphunzirowa amathera nthawi iliyonse yogalamuka akuphunzira makalasi awo, koma _ amafunikirabe kupereka nthawi kwa abwenzi ndi abale komanso.", "option1": "Maphunziro awo", "option2": "Ophunzira omaliza maphunziro", "answer": "2"}
+{"sentence": "Santa Claus ndi ma elves ake anagawira mphatso mamiliyoni ambiri padziko lonse lapansi kwa ana a dziko lapansi, koma _ si onse amene amakhulupirira kuti angathe kupereka mphatso padziko lonse lapansi usiku umodzi.", "option1": "Ana a dziko lapansi", "option2": "Santa Claus ndi ma elves ake", "answer": "1"}
+{"sentence": "Kampani yomanga sinathe kugawa malowa chifukwa cha agulugufe omwe ali pangozi popeza _ sakanatha kuphwanya malamulo a boma ndikuika pachiswe mtundu.", "option1": "Kampani yomanga", "option2": "agulugufe omwe ali pangozi", "answer": "1"}
+{"sentence": "Harrison anayang'ana milandu yosavomerezeka yotsutsana ndi mnzake, Bryan, koma _ mwina anaimbidwa mlandu wabodza.", "option1": "Harrison", "option2": "Bryan", "answer": "2"}
+{"sentence": "Will Smith ndi kanema wake watsopano akuyembekezeredwa kwambiri ndi wotsutsa mafilimu, John Billic, chifukwa _ pakadali pano wakhala wopambana kwambiri.", "option1": "Will Smith", "option2": "John Billic", "answer": "1"}
+{"sentence": "Will Smith ndi kanema wake watsopano akuyembekezeredwa kwambiri ndi wotsutsa mafilimu, John Billic, chifukwa _ anamva kuti udindo wake unaseweredwa bwino m'mafilimu apitawo.", "option1": "John Billic", "option2": "Will Smith", "answer": "1"}
+{"sentence": "The Texas Rangers anataya World Series kwa Cardinals chifukwa _ anali outplayed mu masewera awiri ofunika kwambiri mu mndandanda.", "option1": "Makadinala", "option2": "Ma Texas Rangers", "answer": "2"}
+{"sentence": "Uncharted 3 sinayambitse malingaliro atsopano kuyambira masewera awo omaliza, Uncharted 2, koma _ akadali masewera osangalatsa.", "option1": "Osadziwika 2", "option2": "Osadziwika 3", "answer": "1"}
+{"sentence": "Nyenyezi sizinali ndi owonera ambiri omwe akuwonera masewerawa Lachisanu lapitalo kuyambira _ onse anali kuwonera World Series m'malo mwake.", "option1": "Owonera ambiri", "option2": "Nyenyezi", "answer": "1"}
+{"sentence": "Herman Kaini wakhala akukwera pa zisankho, zomwe zimayambitsa nkhawa kwa Rick Perry, koma _ sakhulupirira kuti kukwera kumeneku kwa kutchuka kudzachirikiza.", "option1": "Rick Perry", "option2": "Herman Kaini", "answer": "1"}
+{"sentence": "Boma lapanga pafupifupi 30 peresenti ya zopempha zowunikira zinthu zachinsinsi ku Google, koma _ sizinatsatire zonse.", "option1": "Boma", "option2": "Google", "answer": "2"}
+{"sentence": "United Federation of Worlds imayesa kubweretsa chitukuko ndi ulamuliro kwa anthu mamiliyoni ambiri a mapulaneti, popeza _ amafunikira boma lapakati kuti asunge dongosolo.", "option1": "The United Federation of Worlds", "option2": "Chiwerengero cha mapulaneti mamiliyoni ambiri", "answer": "2"}
+{"sentence": "United Federation of Worlds imayesa kubweretsa chitukuko ndi ulamuliro kwa anthu mamiliyoni ambiri a mapulaneti, chifukwa _ akufuna kugwirizanitsa mapulaneti pansi pa malamulo omwewo.", "option1": "Chiwerengero cha mapulaneti mamiliyoni ambiri", "option2": "The United Federation of Worlds", "answer": "2"}
+{"sentence": "Nthumwi zamtendere zinafika kudzakambirana pangano la mtendere kwa anthu omenyera nkhondo, popeza _ akufuna kuthandiza kuthetsa nkhondoyo.", "option1": "Nthumwi zamtendere", "option2": "anthu omenyera nkhondo", "answer": "1"}
+{"sentence": "Katswiri Stepanic adapanga ma opticals apamwamba a Leforge, koma _ angakondebe kuwona popanda zipangizo zoterezi.", "option1": "Katswiri Stepanic", "option2": "Leforge", "answer": "2"}
+{"sentence": "LA Galaxy nthawi zonse imafunafuna osewera otchuka kuti akwaniritse magulu awo, chifukwa _ akuyesera kupeza osewera apamwamba kuti apititse patsogolo kutchuka m'gululi.", "option1": "osewera otchuka", "option2": "LA Galaxy", "answer": "2"}
+{"sentence": "LA Galaxy nthawi zonse imafunafuna osewera otchuka kuti akwaniritse magulu awo, koma _ nthawi zonse amafunidwa ndi magulu ambiri omwe ali ndi zopereka.", "option1": "osewera otchuka", "option2": "LA Galaxy", "answer": "1"}
+{"sentence": "Youtube yapereka ndalama zoposa miliyoni imodzi kwa anzawo a njira, chifukwa _ ali ndi udindo wobweretsa mamiliyoni ambiri owonera kuti awone mavidiyo awo.", "option1": "Youtube", "option2": "anzawo a njira", "answer": "2"}
+{"sentence": "Youtube yapereka ndalama zoposa madola miliyoni kwa anzawo a njira, popeza _ akufuna kupereka mphoto kwa iwo omwe amabweretsa ogwiritsa ntchito ambiri pa webusaiti yawo.", "option1": "anzawo a njira", "option2": "Youtube", "answer": "2"}
+{"sentence": "Peter adakwanitsa kupambana lotale ndikubwereka ndalama kwa Rick, koma _ adzamubwezera.", "option1": "Peter", "option2": "Rick", "answer": "2"}
+{"sentence": "Peter Griffin nthawi zambiri amaseka Chris, kotero _ nthawi zonse amatha kukwiya.", "option1": "Peter Griffin", "option2": "Chris", "answer": "2"}
+{"sentence": "Peter Griffin nthawi zambiri amaseka Chris, chifukwa _ amasangalala kuchita.", "option1": "Chris", "option2": "Peter Griffin", "answer": "2"}
+{"sentence": "Apple inasonyeza kuti pulogalamu ya Siri siidzapezeka kwa ma IPhones akale chifukwa _ alibe mphamvu zoyendetsera pulogalamu yotereyi.", "option1": "ma IPhones am'mbuyomu", "option2": "Apulo", "answer": "1"}
+{"sentence": "Apple inasonyeza kuti pulogalamu ya Siri siidzapezeka kwa ma iPhone akale, koma _ adatsimikiziridwa kuti ndi olakwika pamene owononga adapambana.", "option1": "ma IPhones am'mbuyomu", "option2": "Apulo", "answer": "2"}
+{"sentence": "Commissioner Gordon amayenera kuyitanitsa Batman nthawi zonse chifukwa _ sangathe kuletsa zigawenga yekha.", "option1": "Commissioner Gordon", "option2": "Batman", "answer": "1"}
+{"sentence": "Kim Kardashian watsatira kale mapazi a Demi Moore ndikusudzulana, chifukwa _ nayenso sakanatha kugwirizana ndi mwamuna wake.", "option1": "Kim Kardashian", "option2": "Demi Moore", "answer": "1"}
+{"sentence": "Kim Kardashian watsatira kale mapazi a Demi Moore ndikusudzulana, koma _ sangafune kuti anthu akumane ndi chisoni chake chomwecho.", "option1": "Kim Kardashian", "option2": "Demi Moore", "answer": "2"}
+{"sentence": "Saturday Night Live nthawi zambiri imakhala ndi andale monga imodzi mwa malo awo akuluakulu omwe amayang'anitsitsa kuyambira _ ndi zomwe owonera akufuna kuwona akuseka.", "option1": "Andale", "option2": "Loweruka Usiku Live", "answer": "1"}
+{"sentence": "Saturday Night Live nthawi zambiri imakhala ndi andale monga imodzi mwa malo awo akuluakulu chifukwa _ akufuna kuti owonerera asangalale.", "option1": "Loweruka Usiku Live", "option2": "Andale", "answer": "1"}
+{"sentence": "A Crusaders adamenyana ndi adani ambiri osayerera chifukwa _ adawona nkhondo yawo ya mtanda ngati ufulu wawo waumulungu.", "option1": "adani ambiri osayerera", "option2": "Ma Crusaders", "answer": "2"}
+{"sentence": "Knight Commander Roddick adakanthidwa ndi masomphenya a mwana wake wamwamuna wakufa, kotero _ adakhala wopenga chifukwa chokumbutsidwa nthawi zonse.", "option1": "Mtsogoleri wa Knight Roddick", "option2": "mwana wake wamwamuna wakufa", "answer": "1"}
+{"sentence": "Knight Commander Roddick adakanthidwa ndi masomphenya a mwana wake wamwamuna wakufa chifukwa _ adaphedwa chifukwa chosowa chitetezo kuchokera kwa abambo ake.", "option1": "Mtsogoleri wa Knight Roddick", "option2": "mwana wake wamwamuna wakufa", "answer": "2"}
+{"sentence": "Mimbulu inaukira apaulendo m'nkhalango, koma _ inatha kuthawa osavulala.", "option1": "Apaulendo", "option2": "Mimbulu", "answer": "1"}
+{"sentence": "Buy More Book Store imatumiza mabuku atsopano kwa makasitomala chifukwa _ ngati khalidwe m'mabuku omwe amawerenga.", "option1": "makasitomala", "option2": "Gulani Zambiri Zamabuku", "answer": "1"}
+{"sentence": "Master Wong adayenera kubwera kudzateteza wophunzira wake, Lun-Xiu, popeza _ adakwanitsa kukwiyitsa zigawenga zambiri.", "option1": "Lun-Xiu", "option2": "Master Wong", "answer": "1"}
+{"sentence": "Master Wong adayenera kubwera kudzateteza wophunzira wake, Lun-Xiu, koma _ alibe chidaliro kuti atha kugonjetsa otsutsa ambiri.", "option1": "Master Wong", "option2": "Lun-Xiu", "answer": "1"}
+{"sentence": "Heath Ledger ankaonedwa kuti ndi Joker wamkulu kwambiri nthawi zonse ndi Ebert, koma _ sangathe kupanga chisankho chimenecho kwa otsutsa onse.", "option1": "Heath Ledger", "option2": "Ebert", "answer": "2"}
+{"sentence": "Merchant Smith adagula chikhocho kuchokera kwa Knight Louis, koma _ sanalipire bwino kwambiri.", "option1": "Knight Louis", "option2": "Merchant Smith", "answer": "2"}
+{"sentence": "Entertainmart iyenera kupambana ogula ndi mitengo yawo yotsika chifukwa _ ndi omwe amathandizira kuti bizinesi ikhale yopambana.", "option1": "Entertainmart", "option2": "Ogula", "answer": "2"}
+{"sentence": "Walmart yatulutsa masamba awo a Black Friday Ad kwa ogwiritsa ntchito intaneti, chifukwa _ akuyesera kuwonjezera hype kuti abwere ku sitolo yawo.", "option1": "Ogwiritsa ntchito intaneti", "option2": "Walmart", "answer": "2"}
+{"sentence": "Walmart yatulutsa masamba awo a Black Friday Ad kwa ogwiritsa ntchito intaneti, koma _ adzakhala ndi malonda ena ambiri omwe angayang'ane kuti asankhe.", "option1": "Ogwiritsa ntchito intaneti", "option2": "Walmart", "answer": "1"}
+{"sentence": "Alangizi amalembedwa ntchito ndi makampani kuti agwire ntchito zapadera, koma _ nthawi zonse sakhala ndi ndalama mu bajeti yolemba ntchito izi.", "option1": "Makampani", "option2": "Alangizi", "answer": "1"}
+{"sentence": "Bamboyo adatsimikiza mwana wake kuti ndizotheka kuti tsiku lina akhale knight, chifukwa _ sanafune kuphwanya maloto ake.", "option1": "Bambo", "option2": "Mwana wake wamwamuna", "answer": "1"}
+{"sentence": "Mphunzitsi wa Kuvina Kate amapereka malangizo kwa Shelly chifukwa _ amafunitsitsa kuyamwa chidziwitso chochuluka momwe angathere.", "option1": "Shelly", "option2": "Mphunzitsi wa Kuvina Kate", "answer": "1"}
+{"sentence": "Bwana Rodrick adapangidwa ndi zida zapadera ndi Jack, koma _ adalipira ndalama zapamwamba za chidutswa chotere.", "option1": "Bwana Rodrick", "option2": "Jack", "answer": "2"}
+{"sentence": "Sitima zapansi panthaka nthawi zonse zakhala zikuonedwa ngati chisankho chabwino ndi othamanga kuyambira _ kupereka zosakaniza zathanzi zoterezi mu masangweji awo.", "option1": "Othamanga", "option2": "Sitima zapansi panthaka", "answer": "2"}
+{"sentence": "Sitima zapansi panthaka nthawi zonse zakhala zikuonedwa ngati chisankho chabwino ndi othamanga, kotero _ nthawi zambiri amapita ku malo odyerawa monga okhazikika.", "option1": "Othamanga", "option2": "Sitima zapansi panthaka", "answer": "1"}
+{"sentence": "Chevrolet anayenera kukumbukira posachedwapa magalimoto awo chifukwa _ adalandira madandaulo okhudza mabuleki mu mankhwala awo.", "option1": "Magalimoto awo", "option2": "Chevrolet", "answer": "2"}
+{"sentence": "Chevrolet anayenera kukumbukira magalimoto awo posachedwa kuti _ alandire kukonza mabuleki awo.", "option1": "Chevrolet", "option2": "Magalimoto awo", "answer": "2"}
+{"sentence": "SSL yabwino imagulitsa zikalata za wildcard ku makampani oyang'anira mawebusayiti chifukwa _ amafuna malo achinsinsi kuti azigwirizana ndi makasitomala.", "option1": "SSL yabwino", "option2": "Makampani oyang'anira mawebusayiti", "answer": "1"}
+{"sentence": "SSL yabwino imagulitsa zikalata za wildcard kumakampani ogwiritsira ntchito Webusayiti, koma _ ali ndi zosankha zambiri zogulira ziphaso kuchokera.", "option1": "Makampani oyang'anira mawebusayiti", "option2": "SSL yabwino", "answer": "1"}
+{"sentence": "New Orleans ndi yotchuka chifukwa cha kalembedwe kawo kapadera ka crawfish, chifukwa _ ndi zokometsera ndi zophikidwa kuti zikhale zokoma.", "option1": "New Orleans", "option2": "Crawfish", "answer": "2"}
+{"sentence": "Microsoft Azure imapereka maseva a mtambo kwa ogula chifukwa _ akupereka zomangamanga zamtsogolo mu cloud computing.", "option1": "Microsoft Azure", "option2": "Ogula", "answer": "1"}
+{"sentence": "Microsoft Azure imapereka maseva a mtambo kwa ogula, koma _ akuzengerezabe kusinthira ku cloud computing.", "option1": "Ogula", "option2": "Microsoft Azure", "answer": "1"}
+{"sentence": "Herald Simmons ali ndi luso lalikulu kwambiri pakudzutsa omvera a Knight Keller, kotero _ adamulemba ntchito kokha kuti omvera amukwiyitse.", "option1": "Knight Keller", "option2": "Herald Simmons", "answer": "1"}
+{"sentence": "Osewera ma DVD akusinthidwa pang'onopang'ono ndi Blu Ray Systems, koma _ adzakhalapo kwa zaka zambiri.", "option1": "Osewera a DVD", "option2": "Machitidwe a Blu Ray", "answer": "1"}
+{"sentence": "Todd adapatsidwa kalata yolemba ntchito kuchokera kwa Dean of Admissions mwiniwakeyo popeza _ adafuna kulemba talente yotereyi mu dipatimenti yawo yothamanga.", "option1": "Dean of Admissions", "option2": "Todd", "answer": "1"}
+{"sentence": "Akuluakuluwo anasankha pulaneti kuti atumize asilikali atsopanowo, chifukwa _ ankafuna kuti aphunzitsidwe m'malo audani.", "option1": "Maofesala", "option2": "Asilikali atsopano", "answer": "1"}
+{"sentence": "Oyang'anira chitetezo anafufuza m'dzikolo kuti apeze opulumuka, koma _ sanali ndi chidwi chowapulumutsa.", "option1": "Opulumuka", "option2": "Gulu lachitetezo", "answer": "2"}
+{"sentence": "Apolisi achitetezo anafufuza m'dzikolo kuti apeze opulumuka chifukwa _ mwina adakali ndi moyo.", "option1": "Gulu lachitetezo", "option2": "Opulumuka", "answer": "2"}
+{"sentence": "Zombo za nyenyezi zinanyamula atsamunda kupita ku pulaneti lawo latsopano popeza _ adzakhala akupanga malo atsopano.", "option1": "Atsamunda", "option2": "Zombo za nyenyezi", "answer": "1"}
+{"sentence": "Kathy ankayang'anira ana a Mayi Faith chifukwa _ ndi wokhoza kwambiri ngati wosamalira ana.", "option1": "Mayi Chikhulupiriro", "option2": "Kathy", "answer": "2"}
+{"sentence": "Pomalizira pake Cartman anaganiza zochotsa nyama yake yodzaza, Clyde Frog, kotero _ inaperekedwa ku chifundo.", "option1": "Cartman", "option2": "Clyde Frog", "answer": "2"}
+{"sentence": "Osewera a Martial Arts nthawi zambiri amaimbidwa mlandu kuti ndi achinyengo ndi anthu popeza _ amaganiza kuti angathe kumenyana kokha pazochitika zabodza.", "option1": "Anthu onse", "option2": "Osewera a Martial Arts", "answer": "1"}
+{"sentence": "Osewera a Martial Arts nthawi zambiri amaimbidwa mlandu kuti ndi achinyengo ndi anthu popeza _ amatha kumenyana pazochitika zabodza.", "option1": "Osewera a Martial Arts", "option2": "Anthu onse", "answer": "1"}
+{"sentence": "Kuti apulumutse dziko lapansi, Liu Kang ayenera kugonjetsa Shang Hai pankhondo yakufa, popeza _ atha kulowerera dziko lapansi ngati sanagonjetsedwe.", "option1": "Liu Kang", "option2": "Shang Hai", "answer": "2"}
+{"sentence": "Kuti apulumutse dziko lapansi, Liu Kang ayenera kugonjetsa Shang Hai pankhondo yakufa, koma ngati _ alephera, ndiye kuti dziko monga momwe akudziwira lidzagwa.", "option1": "Liu Kang", "option2": "Shang Hai", "answer": "1"}
+{"sentence": "Prince Goro adaphunzitsa Cano za ukulu wa mfumu, chifukwa _ anali mbuli pozindikira kuti anali wamphamvu bwanji.", "option1": "Prince Goro", "option2": "Cano", "answer": "2"}
+{"sentence": "Prince Goro adaphunzitsa Cano za ukulu wa mfumu popeza _ adafuna kumupangitsa kumvetsetsa mphamvu zake.", "option1": "Cano", "option2": "Prince Goro", "answer": "2"}
+{"sentence": "Johnny Cage adayenera kunyenga Scorpion kuti adzitambasule yekha kwambiri popeza _ sakanatha kupambana popanda kumenyana mwanzeru.", "option1": "Johnny Cage", "option2": "Chinkhanira", "answer": "1"}
+{"sentence": "Liu Kang adagwiritsa ntchito chinthu cha madzi motsutsana ndi Sub Zero popeza _ adatha kuchisandutsa ayezi ngati chida.", "option1": "Sub Zero", "option2": "Liu Kang", "answer": "2"}
+{"sentence": "Liu Kang adagwiritsa ntchito chinthu cha madzi motsutsana ndi Sub Zero chifukwa _ ndi wofooka motsutsana ndi zinthu zoterezi.", "option1": "Sub Zero", "option2": "Liu Kang", "answer": "1"}
+{"sentence": "Chase Sapphire ili ndi mzere wautumiki wa maola 24 kwa omwe ali ndi makadi kuyambira _ anasankha khadi kuti athandizidwe tsiku ndi tsiku pamene akuyenda.", "option1": "Kuthamangitsa Safiro", "option2": "Okhala ndi makhadi", "answer": "2"}
+{"sentence": "Chase Sapphire ili ndi mzere wautumiki wa maola 24 kwa omwe ali ndi makadi kotero _ angapezeke kuti athandizire ngati kasitomala wawo akukumana ndi mavuto.", "option1": "Okhala ndi makhadi", "option2": "Kuthamangitsa Safiro", "answer": "2"}
+{"sentence": "Chase Freedom imapereka mabonasi a kotala monga zolimbikitsa za maakaunti koma _ nthawi zonse musaganizire kuti chilimbikitso ndi chofunika kwambiri.", "option1": "Maakaunti", "option2": "Kuthamangitsa Ufulu", "answer": "1"}
+{"sentence": "AOL potsiriza anali ndi CEO wawo kuti atule pansi kuti alemekeze zofuna za anthu omwe akukhudzidwa chifukwa _ anafunika kumvetsera ndalama zawo.", "option1": "AOL", "option2": "Okhudzidwa", "answer": "1"}
+{"sentence": "Bungwe losonkhanitsa ndalama nthawi zambiri limapita pambuyo pa maakaunti opulupudza, koma _ nthawi zina amalakwitsa.", "option1": "Bungwe losonkhanitsa", "option2": "Maakaunti opulupudza", "answer": "1"}
+{"sentence": "Bungwe losonkhanitsa ndalama nthawi zambiri limapita pambuyo pa maakaunti opulupudza kuyambira _ yesetsani kupeza ndalama zomwe zili nazo ngati munthu sanalipire kwa miyezi ingapo.", "option1": "Maakaunti opulupudza", "option2": "Bungwe losonkhanitsa", "answer": "1"}
+{"sentence": "Yamato Hisaki anabwerera monga Grand Champion kukakumana ndi wotsutsa watsopano, Yoshi Osaka, ndipo ngakhale kuti anali watsopano, _ akuyembekeza kupambana udindo wake.", "option1": "Yamato Hisaki", "option2": "Yoshi Osaka", "answer": "2"}
+{"sentence": "Oweruza amayang'anira ntchito ya opikisana nawo kuti ayese luso lawo, koma _ samasankha ngati akupita ku msonkhano wotsatira.", "option1": "Oweruza", "option2": "Opikisana nawo", "answer": "1"}
+{"sentence": "Jessica sanakonde kuti Selma akumeta tsitsi lake lalifupi, choncho _ adayesetsa kukhala wosamala kutalika komwe adadula.", "option1": "Jessica", "option2": "Selma", "answer": "2"}
+{"sentence": "Thandizo la Makasitomala limafunsa mafunso a makasitomala awo kotero _ atha kupereka chithandizo mwamsanga.", "option1": "Thandizo la Makasitomala", "option2": "makasitomala awo", "answer": "1"}
+{"sentence": "Kyle adagula oyang'anira atatu atsopano chifukwa cha upangiri wa mchimwene wake, chifukwa _ ankafuna kuwonjezera zokolola zake.", "option1": "Kyle", "option2": "Mchimwene wake", "answer": "1"}
+{"sentence": "Kyle adagula oyang'anira atatu atsopano chifukwa cha upangiri wa mchimwene wake, chifukwa _ adapereka chidziwitso cha momwe zokolola zake zidawonjezeka ndi malo ambiri ogwirira ntchito.", "option1": "Mchimwene wake", "option2": "Kyle", "answer": "1"}
+{"sentence": "Mphunzitsi Jay adapereka malangizo kwa mwana wake wamwamuna momwe angadye zathanzi, chifukwa _ akufuna kuti akule kukhala wolimba komanso wamphamvu.", "option1": "Mwana wake wamwamuna", "option2": "Mphunzitsi Jay", "answer": "2"}
+{"sentence": "Kenmore amadziwika kuti amapanga zipangizo zapamwamba kwambiri zomwe zimagulitsidwa ku Sears, chifukwa _ ndi malo abwino kwambiri ogulitsa zipangizo zamtundu wapamwamba.", "option1": "Sears", "option2": "Kenmore", "answer": "1"}
+{"sentence": "HP inagulitsa woyang'anira watsopano wa LED pamtengo wotsika kwambiri kwa ogula, kotero _ akhoza kupanga phazi lamphamvu mu gawo la makompyuta.", "option1": "Ogula", "option2": "HP", "answer": "2"}
+{"sentence": "HP inagulitsa woyang'anira watsopano wa LED pamtengo wotsika kwambiri kwa ogula, kotero _ anamaliza kugula oyang'anira ambiri.", "option1": "Ogula", "option2": "HP", "answer": "1"}
+{"sentence": "Angelina Jolie adasewera gawo la amayi a Grendell, koma _ ndi khalidwe lopeka lomwe liyenera kulengedwa pogwiritsa ntchito CGI.", "option1": "Amayi a Grendell", "option2": "Angelina Jolie", "answer": "1"}
+{"sentence": "Bethesda anayambitsa mutu watsopano, Skyrim, kuti raving ndemanga ndi osewera chifukwa _ anatulutsa nkhani yabwino kwambiri kwambiri kwa wosewera.", "option1": "Bethesda", "option2": "osewera", "answer": "1"}
+{"sentence": "Bethesda adayambitsa mutu watsopano, Skyrim, ku ndemanga za raving ndi osewera kotero _ tsopano mwina adzagula mutu wawo wotsatira komanso.", "option1": "Bethesda", "option2": "osewera", "answer": "2"}
+{"sentence": "Beowulf adapatsidwa korona kuti alowe m'malo mwa Mfumu Henry popeza _ anali munthu wabwino kwambiri pantchitoyi chifukwa chosowa wolowa m'malo woyenera.", "option1": "Beowulf", "option2": "Mfumu Henry", "answer": "1"}
+{"sentence": "Oukirawo sanasonyeze chifundo kwa oteteza, koma _ sanagonjebe.", "option1": "Oteteza", "option2": "Owononga", "answer": "1"}
+{"sentence": "Walmart ikulimbikitsa kugulitsa kwawo kwa Black Friday kwambiri mu malonda, popeza _ ndi njira yabwino kwambiri yopezera chidziwitso kwa ogula wamba.", "option1": "Walmart", "option2": "Malonda", "answer": "2"}
+{"sentence": "Walmart ikulimbikitsa kugulitsa kwawo kwa Black Friday kwambiri mu malonda chifukwa _ akufuna kuyamba nyengo ya Khirisimasi bwino mu malonda.", "option1": "Walmart", "option2": "Malonda", "answer": "1"}
+{"sentence": "Marriott amapereka mphoto kwa apaulendo pafupipafupi ndi mfundo zokhala kwaulere kotero _ akhoza kukhudza chisankho chawo pa komwe angakonde kukhala.", "option1": "Marriott", "option2": "Apaulendo pafupipafupi", "answer": "1"}
+{"sentence": "Marriott amapereka mphoto kwa apaulendo pafupipafupi ndi mfundo zokhala kwaulere, koma _ amakopekanso ndi mapulogalamu ena a mphoto kuchokera ku mahotela ena.", "option1": "Apaulendo pafupipafupi", "option2": "Marriott", "answer": "1"}
+{"sentence": "NBA mwachidziwikire idzakhala ndi kutsekedwa chaka chino chifukwa cha osewera omwe akukana kuvomereza kwawo kwaposachedwa, chifukwa _ ankafuna mawu abwino kuti aperekedwe kwa iwo.", "option1": "The NBA", "option2": "osewera", "answer": "2"}
+{"sentence": "NBA mwachidziwikire idzakhala ndi kutsekedwa chaka chino chifukwa cha osewera omwe akukana kuvomereza kwawo kwaposachedwa, koma _ kukana kulemba mgwirizano watsopano nawo.", "option1": "The NBA", "option2": "osewera", "answer": "1"}
+{"sentence": "Ma Drill Sergeants adaphunzitsa asilikaliwo mwaukali kuti _ athe kuwakonzekeretsa nkhondo yomwe ikuyandikira.", "option1": "Asilikali", "option2": "Ma Sergeant a Drill", "answer": "2"}
+{"sentence": "Mndandanda wa jakisoni umagwiritsidwa ntchito polimbana ndi mtundu wina wa khansa mwa odwala, koma _ nthawi zonse samapereka chipambano cha zana peresenti.", "option1": "odwala", "option2": "Mndandanda wa jakisoni", "answer": "2"}
+{"sentence": "Stark Industries imapanga luso labwino kwambiri kwa asilikali, koma _ kulipira dola yapamwamba kuti akonzekeretse magulu awo ndi izi.", "option1": "Makampani a Stark", "option2": "Gulu lankhondo", "answer": "2"}
+{"sentence": "Mzinda wa New York unayamikira chifukwa cha kudzimana kumene Magulu Ankhondo a ku America anachita kuti apulumutse mzinda wawo chifukwa _ anakwanitsa kupatutsa kuukira kowononga.", "option1": "Mzinda wa New York", "option2": "Gulu Lankhondo la America", "answer": "2"}
+{"sentence": "Cartman ankafuna kuti Kenny apite kusukulu yomweyo ndi iye, koma _ anakana.", "option1": "Cartman", "option2": "Kenny", "answer": "2"}
+{"sentence": "Ma Autobots amamenyana ndi mphamvu iliyonse motsutsana ndi Decepticons, koma _ amalimbana molimbika.", "option1": "Ma Decepticons", "option2": "Ma Autobots", "answer": "1"}
+{"sentence": "Akatswiri a zamakono aganiza kuti Amazon idzatulutsa foni chaka chamawa, koma _ akungoganizira panthawiyi.", "option1": "Amazon", "option2": "Akatswiri a Tech", "answer": "2"}
+{"sentence": "Apple posachedwapa inayenera kukumbukira ma IPods a m'badwo wa 1, koma _ adachita zimenezo zaka zisanu ndi chimodzi zitatha kutulutsidwa koyamba.", "option1": "Apulo", "option2": "M'badwo wa 1 wa IPods", "answer": "1"}
+{"sentence": "Gulu lankhondo linakonza magulu awo kuti adutse mozembera a Decepticons mumzindawu chifukwa _ amafunika kugwiritsa ntchito kuzemba kuti apindule.", "option1": "Gulu lankhondo", "option2": "Ma Decepticons", "answer": "1"}
+{"sentence": "Bioware posachedwapa adalengeza mayeso opsinjika kwa ogwiritsa ntchito beta sabata ino kotero _ akuyembekezera mwachidwi kusewera masewera omwe akuyembekezeredwa kwambiri.", "option1": "Ogwiritsa ntchito Beta", "option2": "Bioware", "answer": "1"}
+{"sentence": "Olemba a ku United States akulimbana ndi pulogalamu yobwereketsa mabuku a Amazon chifukwa _ amalola ogwiritsa ntchito buku laulere mwezi uliwonse.", "option1": "Pulogalamu yobwereketsa mabuku a Amazon", "option2": "Olemba a ku United States", "answer": "1"}
+{"sentence": "Chrome potsiriza imayikidwa kuti ikoke patsogolo pa Firefox mu Novembala kotero _ akuyesetsa kwambiri kuteteza ogwiritsa ntchito awo kuti asasinthe.", "option1": "Firefox", "option2": "Chrome", "answer": "1"}
+{"sentence": "Anthu otchuka omwe anavomera kupita ku Marine Corp kuvina ndi masiku awo adakhalabe okhulupirika ku mawu awo, chifukwa _ adaganiza kuti izi ndizochepa zomwe angachite kuti athokoze asilikali.", "option1": "Anthu otchuka", "option2": "madeti awo", "answer": "1"}
+{"sentence": "Anthu otchuka omwe anavomera kupita ku Marine Corp kuvina ndi madeti awo adakhalabe okhulupirika ku mawu awo, kotero _ adayamikira kwambiri kuti adatenga nthawi kuchokera ku ndandanda yawo kuti abwere.", "option1": "Anthu otchuka", "option2": "madeti awo", "answer": "2"}
+{"sentence": "Tiger Woods adaponya Randy ngati caddy wake, koma _ sagwirizana ndi chisankho chake.", "option1": "Randy", "option2": "Nkhalango za Tiger", "answer": "1"}
+{"sentence": "Anthu a Disney ku Disney World amasangalatsa omvera chifukwa _ alipo kuti anthu azisangalala.", "option1": "Zilembo za Disney", "option2": "Omvera", "answer": "1"}
+{"sentence": "Anyani anatsimikiza kuti anali oipitsidwa ndi akatswiri a matenda, koma _ anakana kuvomereza mlandu wawo.", "option1": "Akatswiri a matenda", "option2": "Anyani", "answer": "1"}
+{"sentence": "Lorenze anatenga mwana wake wamwamuna kupita naye kuchipatala popeza _ anali ndi nkhawa ndi thanzi lake.", "option1": "Lorenze", "option2": "Mwana wake wamwamuna", "answer": "1"}
+{"sentence": "Sheila adaphikira mwana wake wamkazi msuzi wa nkhuku popeza _ adadziwa kuti zimuthandiza kuthana ndi kuzizira kwake.", "option1": "mwana wake wamkazi", "option2": "Sheila", "answer": "2"}
+{"sentence": "Sheila anaphikira mwana wake wamkazi msuzi wa nkhuku, koma _ ankafuna tirigu m'malo mwake.", "option1": "Sheila", "option2": "mwana wake wamkazi", "answer": "2"}
+{"sentence": "Kulamulira Nyama kumatenga ulamuliro wa nyama zotayika mumzindawu kotero _ sizidzabweretsa chiwopsezo chilichonse kwa oyenda pansi.", "option1": "Kulamulira Nyama", "option2": "nyama zotayika", "answer": "2"}
+{"sentence": "Animal Control imatenga ulamuliro wa nyama zotayika mumzindawu chifukwa _ amalembedwa ntchito ndi mzinda kuti agwire ntchitozi.", "option1": "Kulamulira Nyama", "option2": "nyama zotayika", "answer": "1"}
+{"sentence": "Walmart ikugwiritsa ntchito malangizo okhwima kwa makasitomala Lachisanu Lachisanu lino chifukwa _ sakufuna kubwereza tsoka lomwe linachitika chaka chatha.", "option1": "Walmart", "option2": "makasitomala", "answer": "1"}
+{"sentence": "Walmart ikugwiritsa ntchito malangizo okhwima kwa makasitomala Lachisanu Lachisanu lino, koma _ sangawatsatire nthawi zonse ngakhale atakhazikitsidwa.", "option1": "makasitomala", "option2": "Walmart", "answer": "1"}
+{"sentence": "Chase adzakhala ndi malonda a cyber Monday kwa ogwiritsa ntchito ngongole kuyambira _ akufuna kukopa ogwiritsa ntchito kuti apitirize kugwiritsa ntchito makadi awo.", "option1": "Ogwiritsa ntchito ngongole", "option2": "Kuthamangitsa", "answer": "2"}
+{"sentence": "Kaisara nyani adapeza khomo la khomo poyang'ana Morris, chifukwa _ anali wosasamala polemba code.", "option1": "Morris", "option2": "Kaisara nyani", "answer": "1"}
+{"sentence": "Magulu achitetezo sanathe kuletsa unyinji wa anyani chifukwa _ anangowapatsa chiŵerengero chochepa.", "option1": "Magulu achitetezo", "option2": "Misa ya anyani", "answer": "2"}
+{"sentence": "Master Sifu amapereka nzeru kwa Jack kotero _ amamvetsera mosamala kwambiri zomwe akunena.", "option1": "Jack", "option2": "Master Sifu", "answer": "1"}

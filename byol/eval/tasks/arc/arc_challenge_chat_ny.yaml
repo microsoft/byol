@@ -1,0 +1,37 @@
+tag:
+  - ai2_arc
+task: arc_challenge_chat_ny
+dataset_path: json
+dataset_name: ny
+output_type: generate_until
+training_split: null
+validation_split: validation
+test_split: test
+fewshot_split: validation
+dataset_kwargs:
+  data_files:
+    validation: data/nya/eval/ai2_arc_hard_validation_english2chichewa_microsoft_translated.jsonl
+    test: data/nya/eval/ai2_arc_hard_test_english2chichewa_microsoft_translated.jsonl
+doc_to_text: 'Tengani funso lotsatirali ndi mayankho anayi (A, B, C ndi D), sankhani yankho labwino kwambiri.\nFunso: {{question.strip()}}\nA. {{choices.text[0]}}\nB. {{choices.text[1]}}\nC. {{choices.text[2]}}{% if choices.text|length > 3 %}\nD. {{choices.text[3]}}{% endif %}\nYankho lanu liyenera kumalizidwa ndi "Yankho labwino ndi [the_answer_letter]" komwe [the_answer_letter] ndi limodzi mwa A, B, C kapena D.'
+gen_prefix: 'Mayankho abwino ndi'
+fewshot_delimiter: "\n\n"
+doc_to_target: "{{ 'ABCD'[answerKey|int - 1] if answerKey|string in '1234' else answerKey }}"
+num_fewshot: 0
+generation_kwargs:
+  max_gen_toks: 100
+  until:
+    - "\n\n"
+    - "."
+metric_list:
+  - metric: exact_match
+    aggregation: mean
+    higher_is_better: true
+    ignore_case: true
+    ignore_punctuation: true
+filter_list:
+  - name: remove_whitespace
+    filter:
+      - function: remove_whitespace
+      - function: take_first
+metadata:
+  version: 1.0

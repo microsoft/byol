@@ -1,0 +1,27 @@
+include: cot_yaml
+dataset_name: mri
+dataset_kwargs:
+  data_files:
+    train: data/mri/eval/mgsm_train_english2mri_microsoft_translated.jsonl
+    test:  data/mri/eval/mgsm_test_english2mri_microsoft_translated.jsonl
+doc_to_target: '{% if answer is not none %}{{answer[31:]}}{% else %}{{answer_number|string}}{% endif %}'
+doc_to_text: '{% if answer is not none %}{{question+"\nWhakautu Hipanga ki te Hipanga:"}}{% else %}{{"Pātai: "+question+"\nWhakautu Hipanga ki te Hipanga:"}}{% endif %}'
+filter_list:
+- filter:
+  - function: regex
+    regex_pattern: Ko te whakautu ko (\-?[0-9\.\,]+)
+  - function: take_first
+  name: strict-match
+- filter:
+  - function: regex
+    group_select: -1
+    regex_pattern: (-?[$0-9.,]{{2,}})|(-?[0-9]+)
+  - function: take_first
+  name: flexible-extract
+generation_kwargs:
+  do_sample: false
+  until:
+  - 'Pātai:'
+  - </s>
+  - <|im_end|>
+task: mgsm_native_cot_mri

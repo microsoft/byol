@@ -1,0 +1,305 @@
+# =============================================================================
+# Translator Configurations for Language Resource Assessment
+# =============================================================================
+# This file configures translators for the find-best-translator task.
+# The 'factory_name' field maps to the translator registry in translation_backends.
+#
+# Language format types (used by different backends):
+#   - full_name: "English", "Chichewa" (GPT models, DeepSeek)
+#   - iso2: "en", "ny" (Google, Azure Translator)
+#   - iso3: "eng", "nya" (Azure Translator target)
+#   - flores200: "eng_Latn", "nya_Latn" (NLLB)
+# =============================================================================
+
+
+# =============================================================================
+# Paths Configuration
+# =============================================================================
+
+paths:
+  default_dataset: "data/rttbench_mono_dataset/RTTBench-Mono.jsonl"
+  output_base: "./results"
+
+
+# =============================================================================
+# Translator Definitions
+# =============================================================================
+# NOTE: 'factory_name' must match a model in MODEL_REGISTRY (registry.py).
+# Examples: gpt-4o, microsoft-translator, nllb-200-600m, gemma-3-4b-it
+
+translators:
+  # ===========================================================================
+  # API-based Translators (Cloud Services)
+  # ===========================================================================
+  
+  # GPT-4 Series (non-reasoning models)
+  gpt-4o:
+    type: api
+    factory_name: gpt-4o
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      temperature: 0.0
+      max_tokens: 1024
+
+  gpt-4.1:
+    type: api
+    factory_name: gpt-4.1
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      temperature: 0.0
+      max_tokens: 1024
+
+  # GPT-5 Series (reasoning models)
+  gpt-5:
+    type: api
+    factory_name: gpt-5
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      max_tokens: 4096
+
+  gpt-5-mini:
+    type: api
+    factory_name: gpt-5-mini
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      max_tokens: 4096
+
+  gpt-5-chat:
+    type: api
+    factory_name: gpt-5-chat
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      temperature: 0.0
+      max_tokens: 4096
+
+  # Google & Microsoft Translation APIs
+  google-translator:
+    type: api
+    factory_name: google-translator
+    src_lang_format: iso2
+    tgt_lang_format: iso2
+    params: {}
+
+  microsoft-translator:
+    type: api
+    factory_name: microsoft-translator
+    src_lang_format: iso2
+    tgt_lang_format: iso3
+    params: {}
+
+
+  # ===========================================================================
+  # Local Models - Gemma3
+  # ===========================================================================
+
+
+  gemma-3-4b-it:
+    type: local
+    factory_name: gemma-3-4b-it
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      max_new_tokens: 256
+
+  gemma-3-12b-it:
+    type: local
+    factory_name: gemma-3-12b-it
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      max_new_tokens: 256
+
+  # ===========================================================================
+  # Local Models - Qwen3
+  # ===========================================================================
+
+  qwen3-4b:
+    type: local
+    factory_name: qwen3-4b
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      max_new_tokens: 256
+      enable_thinking: false
+
+  qwen3-8b:
+    type: local
+    factory_name: qwen3-8b
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      max_new_tokens: 256
+      enable_thinking: false
+      do_sample: false
+      repetition_penalty: 1.05
+
+  qwen3-14b:
+    type: local
+    factory_name: qwen3-14b
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      max_new_tokens: 256
+      enable_thinking: false
+      do_sample: false
+      repetition_penalty: 1.05
+
+  # ===========================================================================
+  # Local Models - Apertus (Swiss AI)
+  # ===========================================================================
+
+  apertus-8b:
+    type: local
+    factory_name: apertus-8b
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      max_new_tokens: 256
+      do_sample: false
+      repetition_penalty: 1.05
+
+
+  # ===========================================================================
+  # Local Models - Dedicated Translation Models
+  # ===========================================================================
+  
+  nllb-200-3.3b:
+    type: local
+    factory_name: nllb-200-3.3b
+    src_lang_format: flores200
+    tgt_lang_format: flores200
+    params:
+      max_length: 256
+
+  nllb-200-1.3b:
+    type: local
+    factory_name: nllb-200-1.3b
+    src_lang_format: flores200
+    tgt_lang_format: flores200
+    params:
+      max_length: 256
+
+  madlad-400-7b:
+    type: local
+    factory_name: madlad-400-7b
+    src_lang_format: iso2
+    tgt_lang_format: iso2
+    params:
+      max_length: 256
+      temperature: 0.01
+
+  madlad-400-3b:
+    type: local
+    factory_name: madlad-400-3b
+    src_lang_format: iso2
+    tgt_lang_format: iso2
+    params:
+      max_length: 256
+      temperature: 0.01
+
+  seamless-m4t-large:
+    type: local
+    factory_name: seamless-m4t-large
+    src_lang_format: iso3
+    tgt_lang_format: iso3
+    params: {}
+
+  translategemma:
+    type: local
+    factory_name: translategemma
+    src_lang_format: iso2
+    tgt_lang_format: iso2
+    params:
+      max_new_tokens: 256
+      do_sample: false
+
+
+# =============================================================================
+# Language Code Mappings
+# =============================================================================
+# Add your languages here with all their code variants.
+# The system will automatically use the right code for each translator.
+
+language_codes:
+  English:
+    full_name: English
+    iso2: en
+    iso3: eng
+    flores200: eng_Latn
+    aliases: []
+
+  Chichewa:
+    full_name: Chichewa
+    iso2: ny
+    iso3: nya
+    flores200: nya_Latn
+    aliases:
+      - Nyanja
+      - Chewa
+      - Chicheŵa
+
+  Swahili:
+    full_name: Swahili
+    iso2: sw
+    iso3: swa
+    flores200: swh_Latn
+    aliases:
+      - Kiswahili
+
+  Maori:
+    full_name: Maori
+    iso2: mi
+    iso3: mri
+    flores200: mri_Latn
+    aliases:
+      - Te Reo Māori
+      - Māori
+
+  Guarani:
+    full_name: Guarani
+    iso2: gn
+    iso3: gug
+    flores200: grn_Latn
+    aliases:
+      - Guaraní
+      - Avañe'ẽ
+      - gug
+      - grn
+
+  Bhojpuri:
+    full_name: Bhojpuri
+    iso2: bh
+    iso3: bho
+    flores200: bho_Deva
+    aliases: []
+
+  Basque:
+    full_name: Basque
+    iso2: eu
+    iso3: eus
+    flores200: eus_Latn
+    aliases:
+      - Euskara
+
+  # Add more languages as needed...
+
+
+# =============================================================================
+# Default Configuration
+# =============================================================================
+
+default_translators:
+  # - gpt-4o
+  - gpt-4.1
+  # - nllb-200-3.3b
+  # - gpt-5-chat
+  # - madlad-400-7b
+  # - seamless-m4t-large
+  # - google-translator
+  # # - translategemma
+  - microsoft-translator

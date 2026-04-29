@@ -1,0 +1,24 @@
+task: piqa_ny
+dataset_path: json
+dataset_kwargs:
+  data_files:
+    train: data/nya/eval/piqa_train_english2chichewa_microsoft_translated.jsonl
+    validation: data/nya/eval/piqa_validation_english2chichewa_microsoft_translated.jsonl
+output_type: multiple_choice
+training_split: train
+validation_split: validation
+test_split: null
+doc_to_text: "Funso: {{goal}}\nYankho:"
+doc_to_target: label
+doc_to_choice: "{{[sol1, sol2]}}"
+should_decontaminate: true
+doc_to_decontamination_query: goal
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+  - metric: acc_norm
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1.0

@@ -1,0 +1,4 @@
+include: _nya_template_with_internal_data.yaml
+dataset_name: nya
+process_docs: !function ../utils.process_social_sciences
+task: global_mmlu_nya_social_sciences_gen_0shot

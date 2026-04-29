@@ -1,0 +1,18 @@
+# FLORES Bidirectional Translation Group Task
+# Groups both English-Chichewa and Chichewa-English translation tasks
+task: flores_en_ny_bidirectional
+group: flores_translation
+group_alias: flores_en_ny_bidirectional
+task_alias: flores_en_ny_bidirectional
+tag:
+  - flores
+  - translation
+  - multilingual
+  - chichewa
+  - bidirectional
+task_list:
+  - flores_en_ny
+  - flores_ny_en
+
+metadata:
+  version: 1.0

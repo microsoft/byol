@@ -1,0 +1,1504 @@
+language,iso2,iso3,flores200,bcp47,microsoft_translator,google_translator,nllb,seamless_m4t,madlad_400,translategemma,gpt,deepseek
+Latgalian,,ltg,ltg_Latn,ltg,0,0,1,0,1,0,1,1
+Goan Konkani,gom,gom,,gom,1,1,0,0,1,0,1,1
+Lezghian,,lez,,lez,0,0,0,0,0,0,1,1
+Sango,sg,sag,sag_Latn,sg,0,0,1,0,1,0,1,1
+Congo Swahili,,swc,,swc,0,0,0,0,0,0,1,1
+Võro,,vro,,vro,0,0,0,0,0,0,1,1
+Avaric,,ava,,ava,0,0,0,0,0,0,1,1
+Erzya,,myv,,myv,0,0,0,0,0,0,1,1
+Manipuri,mni,mni,mni_Beng,mni,1,0,1,1,1,0,1,1
+Kabardian,,kbd,,kbd,0,0,0,0,0,0,1,1
+Gagauz,,gag,,gag,0,0,0,0,0,0,1,1
+Central Bikol,,bcl,,bcl,0,0,0,0,1,0,1,1
+Ingush,,inh,,inh,0,0,0,0,0,0,1,1
+Ndonga,,ndo,,ndo,0,0,0,0,0,0,1,1
+Southern Uzbek,,uzs,,uzs,0,0,0,0,0,0,1,1
+Shan,,shn,shn_Mymr,shn,0,0,1,0,1,0,1,1
+Sranan Tongo,,srn,,srn,0,0,0,0,0,0,1,1
+Thado Chin,,tcz,,tcz,0,0,0,0,0,0,1,1
+Emilian-Romagnol,,eml,,eml,0,0,0,0,0,0,1,1
+Wolof,wo,wol,wol_Latn,wo,0,0,1,0,1,0,1,1
+Ga,,gaa,,gaa,0,0,0,0,0,0,1,1
+Gronings,,gos,,gos,0,0,0,0,0,0,1,1
+Pfaelzisch,,pfl,,pfl,0,0,0,0,0,0,1,1
+Silesian,,szl,szl_Latn,szl,0,0,1,0,0,0,1,1
+Dimli (individual language),,diq,,diq,0,0,0,0,1,0,1,1
+Kashubian,,csb,,csb,0,0,0,0,0,0,1,1
+Brahui,,brh,,brh,0,0,0,0,0,0,1,1
+Efik,,efi,,efi,0,0,0,0,0,0,1,1
+Wu Chinese,,wuu,,wuu,0,0,0,0,0,0,1,1
+Ladino,,lad,,lad,0,0,0,0,0,0,1,1
+Venda,ve,ven,,ve,0,0,0,0,1,0,1,1
+Western Mari,,mrj,,mrj,0,0,0,0,0,0,1,1
+Mesopotamian Arabic,,acm,acm_Arab,acm,0,0,1,0,0,0,1,1
+Vlaams,,vls,,vls,0,0,0,0,0,0,1,1
+Lozi,,loz,,loz,0,0,0,0,0,0,1,1
+Yucateco,,yua,,yua,0,0,0,0,0,0,1,1
+Kaqchikel,,cak,,cak,0,0,0,0,0,0,1,1
+Kumyk,,kum,,kum,0,0,0,0,0,0,1,1
+Paite Chin,,pck,,pck,0,0,0,0,0,0,1,1
+Adyghe,,ady,,ady,0,0,0,0,0,0,1,1
+Karachay-Balkar,,krc,,krc,0,0,0,0,0,0,1,1
+Bislama,,bis,,bis,0,0,0,0,0,0,1,1
+Tok Pisin,,tpi,tpi_Latn,tpi,0,0,1,0,1,0,1,1
+Picard,,pcd,,pcd,0,0,0,0,0,0,1,1
+Southern Altai,,alt,,alt,0,0,0,0,0,0,1,1
+Tzotzil,,tzo,,tzo,0,0,0,0,0,0,1,1
+Arpitan,,frp,,frp,0,0,0,0,0,0,1,1
+Luba-Lulua,,lua,lua_Latn,lua,0,0,1,0,0,0,1,1
+Mossi,,mos,mos_Latn,mos,0,0,1,0,0,0,1,1
+Kölsch,,ksh,,ksh,0,0,0,0,0,0,1,1
+Kuanyama,,kua,,kua,0,0,0,0,0,0,1,1
+Pohnpeian,,pon,,pon,0,0,0,0,0,0,1,1
+Chimborazo Highland Quichua,,qug,,qug,0,0,0,0,0,0,1,1
+K'iche',,quc,,quc,0,0,0,0,0,0,1,1
+Koongo,,kng,,kng,0,0,0,0,0,0,1,1
+Ligurian,,lij,lij_Latn,lij,0,0,1,0,1,0,1,1
+Gilbertese,,gil,,gil,0,0,0,0,0,0,1,1
+Kabuverdianu,,kea,kea_Latn,kea,0,0,1,0,0,0,1,1
+Mam,,mam,,mam,0,0,0,0,0,0,1,1
+Achinese,,ace,ace_Latn,ace,0,0,1,0,1,0,1,1
+Tiv,,tiv,,tiv,0,0,0,0,1,0,1,1
+Tornedalen Finnish,,fit,,fit,0,0,0,0,0,0,1,1
+Venetian,,vec,vec_Latn,vec,0,0,1,0,0,0,1,1
+Tuvalu,,tvl,,tvl,0,0,0,0,0,0,1,1
+Luba-Katanga,,lub,,lub,0,0,0,0,0,0,1,1
+Banjar,,bjn,bjn_Arab,bjn,0,0,1,0,1,0,1,1
+Lak,,lbe,,lbe,0,0,0,0,0,0,1,1
+Karelian,,krl,,krl,0,0,0,0,0,0,1,1
+Lower Sorbian,,dsb,,dsb,0,0,0,0,0,0,1,1
+Isoko,,iso,,iso,0,0,0,0,0,0,1,1
+Tonga (Nyasa),,tog,,tog,0,0,0,0,0,0,1,1
+Livvi,,olo,,olo,0,0,0,0,0,0,1,1
+Cornish,,cor,,cor,0,0,0,0,0,0,1,1
+Nzima,,nzi,,nzi,0,0,0,0,0,0,1,1
+Réunion Creole French,,rcf,,rcf,0,0,0,0,0,0,1,1
+Eastern Canadian Inuktitut,,ike,,ike,0,0,0,0,0,0,1,1
+Luo (Kenya and Tanzania),,luo,luo_Latn,luo,0,0,1,1,0,0,1,1
+Tzeltal,,tzh,,tzh,0,0,0,0,0,0,1,1
+Veps,,vep,,vep,0,0,0,0,0,0,1,1
+Abkhazian,,abk,,abk,0,0,0,0,0,0,1,1
+Tetum,,tet,,tet,0,0,0,0,1,0,1,1
+Rarotongan,,rar,,rar,0,0,0,0,0,0,1,1
+Central Aymara,,ayr,ayr_Latn,ayr,0,0,1,0,0,0,1,1
+Wolaytta,,wal,,wal,0,0,0,0,0,0,1,1
+South Ndebele,,nbl,,nbl,0,0,0,0,0,0,1,1
+Pangasinan,,pag,pag_Latn,pag,0,0,1,0,1,0,1,1
+Batak Simalungun,,bts,,bts,0,0,0,0,1,0,1,1
+Batak Karo,,btx,,btx,0,0,0,0,0,0,1,1
+Baoulé,,bci,,bci,0,0,0,0,0,0,1,1
+Hmar,,hmr,,hmr,0,0,0,0,0,0,1,1
+Chuukese,,chk,,chk,0,0,0,0,0,0,1,1
+Poqomchi',,poh,,poh,0,0,0,0,0,0,1,1
+Extremaduran,,ext,,ext,0,0,0,0,0,0,1,1
+Eastern Bru,,bru,,bru,0,0,0,0,0,0,1,1
+Northern Frisian,,frr,,frr,0,0,0,0,0,0,1,1
+Hiri Motu,,hmo,,hmo,0,0,0,0,0,0,1,1
+Baatonum,,bba,,bba,0,0,0,0,0,0,1,1
+Umbu-Ungu,,ubu,,ubu,0,0,0,0,0,0,1,1
+Bemba (Zambia),,bem,bem_Latn,bem,0,0,1,0,0,0,1,1
+Dadibi,,mps,,mps,0,0,0,0,0,0,1,1
+Swati,ss,ssw,ssw_Latn,ss,0,0,1,0,1,0,1,1
+Dakota,,dak,,dak,0,0,0,0,0,0,1,1
+Inari Sami,,smn,,smn,0,0,0,0,0,0,1,1
+Fon,,fon,fon_Latn,fon,0,0,1,0,1,0,1,1
+Acoli,,ach,,ach,0,0,0,0,0,0,1,1
+Manx,gv,glv,,gv,0,0,0,0,1,0,1,1
+Musi,,mui,,mui,0,0,0,0,0,0,1,1
+Dyula,,dyu,dyu_Latn,dyu,0,0,1,0,0,0,1,1
+Eastern Huasteca Nahuatl,,nhe,,nhe,0,0,0,0,0,0,1,1
+Adangme,,ada,,ada,0,0,0,0,0,0,1,1
+Guadeloupean Creole French,,gcf,,gcf,0,0,0,0,0,0,1,1
+Sakizaya,,szy,,szy,0,0,0,0,0,0,1,1
+Pampanga,,pam,,pam,0,0,0,0,1,0,1,1
+Mapudungun,,arn,,arn,0,0,0,0,0,0,1,1
+Moksha,,mdf,,mdf,0,0,0,0,0,0,1,1
+Chuj,,cac,,cac,0,0,0,0,0,0,1,1
+Saramaccan,,srm,,srm,0,0,0,0,0,0,1,1
+Achang,,acn,,acn,0,0,0,0,0,0,1,1
+Hakka Chinese,,hak,,hak,0,0,0,0,0,0,1,1
+Ayacucho Quechua,,quy,quy_Latn,quy,0,0,1,0,0,0,1,1
+Motu,,meu,,meu,0,0,0,0,0,0,1,1
+Mon,,mnw,,mnw,0,0,0,0,0,0,1,1
+Kosraean,,kos,,kos,0,0,0,0,0,0,1,1
+Kimbundu,,kmb,kmb_Latn,kmb,0,0,1,0,0,0,1,1
+Ngäbere,,gym,,gym,0,0,0,0,0,0,1,1
+Mingrelian,,xmf,,xmf,0,0,0,0,0,0,1,1
+Isthmus Zapotec,,zai,,zai,0,0,0,0,0,0,1,1
+Ambulas,,abt,,abt,0,0,0,0,0,0,1,1
+Keley-I Kallahan,,ify,,ify,0,0,0,0,0,0,1,1
+Swabian,,swg,,swg,0,0,0,0,0,0,1,1
+Southern Sami,,sma,,sma,0,0,0,0,0,0,1,1
+Iu Mien,,ium,,ium,0,0,0,0,0,0,1,1
+Tonga (Zambia),,toi,,toi,0,0,0,0,0,0,1,1
+Kriol,,rop,,rop,0,0,0,0,0,0,1,1
+Gun,,guw,,guw,0,0,0,0,0,0,1,1
+Umbundu,,umb,umb_Latn,umb,0,0,1,0,0,0,1,1
+Kinaray-A,,krj,,krj,0,0,0,0,0,0,1,1
+Kekchí,,kek,,kek,0,0,0,0,0,0,1,1
+Carpathian Romani,,rmc,,rmc,0,0,0,0,0,0,1,1
+Yapese,,yap,,yap,0,0,0,0,0,0,1,1
+Zou,,zom,,zom,0,0,0,0,0,0,1,1
+Marshallese,,mah,,mah,0,0,0,0,0,0,1,1
+Awadhi,,awa,awa_Deva,awa,0,0,1,0,0,0,1,1
+Kuanua,,ksd,,ksd,0,0,0,0,0,0,1,1
+Popti',,jac,,jac,0,0,0,0,0,0,1,1
+Talysh,,tly,,tly,0,0,0,0,0,0,1,1
+Mutu,,tuc,,tuc,0,0,0,0,0,0,1,1
+Kapingamarangi,,kpg,,kpg,0,0,0,0,0,0,1,1
+Plautdietsch,,pdt,,pdt,0,0,0,0,0,0,1,1
+Dehu,,dhv,,dhv,0,0,0,0,0,0,1,1
+Pular,,fuf,,fuf,0,0,0,0,0,0,1,1
+El Nayar Cora,,crn,,crn,0,0,0,0,0,0,1,1
+Central Atlas Tamazight,,tzm,tzm_Tfng,tzm,0,0,1,0,0,0,1,1
+Santali,,sat,sat_Beng,sat,0,0,1,0,1,0,1,1
+Susu,,sus,,sus,0,0,0,0,0,0,1,1
+Chavacano,,cbk,,cbk,0,0,0,0,1,0,1,1
+Samogitian,,sgs,,sgs,0,0,0,0,0,0,1,1
+Central Mnong,,cmo,,cmo,0,0,0,0,0,0,1,1
+Garifuna,,cab,,cab,0,0,0,0,0,0,1,1
+Cusco Quechua,,quz,,quz,0,0,0,0,0,0,1,1
+Achi,,acr,,acr,0,0,0,0,0,0,1,1
+Chamorro,,cha,,cha,0,0,0,0,0,0,1,1
+Palauan,,pau,,pau,0,0,0,0,0,0,1,1
+Rade,,rad,,rad,0,0,0,0,0,0,1,1
+Bambara,,bam,bam_Latn,bam,0,0,1,0,0,0,1,1
+Mufian,,aoj,,aoj,0,0,0,0,0,0,1,1
+San Blas Kuna,,cuk,,cuk,0,0,0,0,0,0,1,1
+Jarai,,jra,,jra,0,0,0,0,0,0,1,1
+Ditammari,,tbz,,tbz,0,0,0,0,0,0,1,1
+Bukiyip,,ape,,ape,0,0,0,0,0,0,1,1
+Hmong Njua,,hnj,,hnj,0,0,0,0,0,0,1,1
+Ankave,,aak,,aak,0,0,0,0,0,0,1,1
+Nyungwe,,nyu,,nyu,0,0,0,0,0,0,1,1
+Huli,,hui,,hui,0,0,0,0,0,0,1,1
+Rawang,,raw,,raw,0,0,0,0,0,0,1,1
+Tinputz,,tpz,,tpz,0,0,0,0,0,0,1,1
+Saterfriesisch,,stq,,stq,0,0,0,0,0,0,1,1
+Central Huasteca Nahuatl,,nch,,nch,0,0,0,0,0,0,1,1
+Kalmyk,,xal,,xal,0,0,0,0,0,0,1,1
+Belize Kriol English,,bzj,,bzj,0,0,0,0,0,0,1,1
+Niuean,,niu,,niu,0,0,0,0,0,0,1,1
+Skolt Sami,,sms,,sms,0,0,0,0,0,0,1,1
+Bodo (India),,brx,,brx,0,0,0,0,0,0,1,1
+Kadazan Dusun,,dtp,,dtp,0,0,0,0,0,0,1,1
+San Salvador Kongo,,kwy,,kwy,0,0,0,0,0,0,1,1
+Macedo-Romanian,,rup,,rup,0,0,0,0,0,0,1,1
+Roviana,,rug,,rug,0,0,0,0,0,0,1,1
+Guerrero Amuzgo,,amu,,amu,0,0,0,0,0,0,1,1
+Kasem,,xsm,,xsm,0,0,0,0,0,0,1,1
+Kwangali,,kwn,,kwn,0,0,0,0,0,0,1,1
+S'gaw Karen,,ksw,,ksw,0,0,0,0,0,0,1,1
+Herero,,her,,her,0,0,0,0,0,0,1,1
+Tz'utujil,,tzj,,tzj,0,0,0,0,0,0,1,1
+Papantla Totonac,,top,,top,0,0,0,0,0,0,1,1
+Farefare,,gur,,gur,0,0,0,0,0,0,1,1
+Telefol,,tlf,,tlf,0,0,0,0,0,0,1,1
+Melpa,,med,,med,0,0,0,0,0,0,1,1
+Waray (Philippines),,war,war_Latn,war,0,0,1,0,1,0,1,1
+Boko (Benin),,bqc,,bqc,0,0,0,0,0,0,1,1
+Sena,,seh,,seh,0,0,0,0,0,0,1,1
+Matigsalug Manobo,,mbt,,mbt,0,0,0,0,0,0,1,1
+Nogai,,nog,,nog,0,0,0,0,0,0,1,1
+Bulu (Cameroon),,bum,,bum,0,0,0,0,0,0,1,1
+Patpatar,,gfk,,gfk,0,0,0,0,0,0,1,1
+Abau,,aau,,aau,0,0,0,0,0,0,1,1
+Mambwe-Lungu,,mgr,,mgr,0,0,0,0,0,0,1,1
+North Tairora,,tbg,,tbg,0,0,0,0,0,0,1,1
+Yessan-Mayo,,yss,,yss,0,0,0,0,0,0,1,1
+Huastec,,hus,,hus,0,0,0,0,0,0,1,1
+Kikuyu,,kik,kik_Latn,kik,0,0,1,0,0,0,1,1
+Tabo,,knv,,knv,0,0,0,0,0,0,1,1
+Bola,,bnp,,bnp,0,0,0,0,0,0,1,1
+Bini,,bin,,bin,0,0,0,0,0,0,1,1
+Bimin,,bhl,,bhl,0,0,0,0,0,0,1,1
+Rawa,,rwo,,rwo,0,0,0,0,0,0,1,1
+Western Huasteca Nahuatl,,nhw,,nhw,0,0,0,0,0,0,1,1
+Jamaican Creole English,,jam,,jam,0,0,0,0,1,0,1,1
+Dagbani,,dag,,dag,0,0,0,0,0,0,1,1
+Aruamu,,msy,,msy,0,0,0,0,0,0,1,1
+Songe,,sop,,sop,0,0,0,0,0,0,1,1
+Kamba (Kenya),,kam,kam_Latn,kam,0,0,1,0,0,0,1,1
+Eastern Maroon Creole,,djk,,djk,0,0,0,0,0,0,1,1
+Kamula,,xla,,xla,0,0,0,0,0,0,1,1
+Alamblak,,amp,,amp,0,0,0,0,0,0,1,1
+Urhobo,,urh,,urh,0,0,0,0,0,0,1,1
+Hawai'i Creole English,,hwc,,hwc,0,0,0,0,0,0,1,1
+Kalam,,kmh,,kmh,0,0,0,0,0,0,1,1
+Baruya,,byr,,byr,0,0,0,0,0,0,1,1
+Aguacateco,,agu,,agu,0,0,0,0,0,0,1,1
+Misima-Panaeati,,mpx,,mpx,0,0,0,0,0,0,1,1
+Ladin,,lld,,lld,0,0,0,0,0,0,1,1
+Gikyode,,acd,,acd,0,0,0,0,0,0,1,1
+Ixil,,ixl,,ixl,0,0,0,0,0,0,1,1
+Pennsylvania German,,pdc,,pdc,0,0,0,0,0,0,1,1
+Avokaya,,avu,,avu,0,0,0,0,0,0,1,1
+Caribbean Javanese,,jvn,,jvn,0,0,0,0,0,0,1,1
+Nyankole,,nyn,,nyn,0,0,0,0,0,0,1,1
+Amarasi,,aaz,,aaz,0,0,0,0,0,0,1,1
+Dobu,,dob,,dob,0,0,0,0,0,0,1,1
+Pele-Ata,,ata,,ata,0,0,0,0,0,0,1,1
+Mezquital Otomi,,ote,,ote,0,0,0,0,0,0,1,1
+Konzo,,koo,,koo,0,0,0,0,0,0,1,1
+Lule Sami,,smj,,smj,0,0,0,0,0,0,1,1
+Tamasheq,,taq,taq_Tfng,taq,0,0,1,0,0,0,1,1
+Moba,,mfq,,mfq,0,0,0,0,0,0,1,1
+Nakanai,,nak,,nak,0,0,0,0,0,0,1,1
+Makhuwa,,vmw,,vmw,0,0,0,0,0,0,1,1
+Tabassaran,,tab,,tab,0,0,0,0,0,0,1,1
+Nigerian Pidgin,,pcm,,pcm,0,0,0,0,0,0,1,1
+Akeu,,aeu,,aeu,0,0,0,0,0,0,1,1
+Central Puebla Nahuatl,,ncx,,ncx,0,0,0,0,0,0,1,1
+Tulu,,tcy,,tcy,0,0,0,0,0,0,1,1
+Dedua,,ded,,ded,0,0,0,0,0,0,1,1
+Amis,,ami,,ami,0,0,0,0,0,0,1,1
+Bauzi,,bvz,,bvz,0,0,0,0,0,0,1,1
+Dogri (macrolanguage),,doi,,doi,0,0,0,0,0,0,1,1
+Ndau,,ndc,,ndc,0,0,0,0,0,0,1,1
+Sediq,,trv,,trv,0,0,0,0,0,0,1,1
+San Jerónimo Tecóatl Mazatec,,maa,,maa,0,0,0,0,0,0,1,1
+Assyrian Neo-Aramaic,,aii,,aii,0,0,0,0,0,0,1,1
+Mazanderani,,mzn,,mzn,0,0,0,0,0,0,1,1
+Lukpa,,dop,,dop,0,0,0,0,0,0,1,1
+Maasina Fulfulde,,ffm,,ffm,0,0,0,0,0,0,1,1
+Yaweyuha,,yby,,yby,0,0,0,0,0,0,1,1
+Texmelucan Zapotec,,zpz,,zpz,0,0,0,0,0,0,1,1
+Sidamo,,sid,,sid,0,0,0,0,0,0,1,1
+Yongbei Zhuang,,zyb,,zyb,0,0,0,0,0,0,1,1
+Nias,,nia,,nia,0,0,0,0,1,0,1,1
+Urak Lawoi',,urk,,urk,0,0,0,0,0,0,1,1
+Halia,,hla,,hla,0,0,0,0,0,0,1,1
+Bambam,,ptu,,ptu,0,0,0,0,0,0,1,1
+Karbi,,mjw,,mjw,0,0,0,0,0,0,1,1
+Western Bukidnon Manobo,,mbb,,mbb,0,0,0,0,0,0,1,1
+Guambiano,,gum,,gum,0,0,0,0,0,0,1,1
+Naasioi,,nas,,nas,0,0,0,0,0,0,1,1
+Abaza,,abq,,abq,0,0,0,0,0,0,1,1
+Tojolabal,,toj,,toj,0,0,0,0,0,0,1,1
+Kven Finnish,,fkv,,fkv,0,0,0,0,0,0,1,1
+Yele,,yle,,yle,0,0,0,0,0,0,1,1
+Anjam,,boj,,boj,0,0,0,0,0,0,1,1
+Sio,,xsi,,xsi,0,0,0,0,0,0,1,1
+Sulka,,sua,,sua,0,0,0,0,0,0,1,1
+Kipsigis,,sgc,,sgc,0,0,0,0,0,0,1,1
+Khakas,,kjh,,kjh,0,0,0,0,0,0,1,1
+Kein,,bmh,,bmh,0,0,0,0,0,0,1,1
+Northern Puebla Nahuatl,,ncj,,ncj,0,0,0,0,0,0,1,1
+Angor,,agg,,agg,0,0,0,0,0,0,1,1
+Marik,,dad,,dad,0,0,0,0,0,0,1,1
+Nenets,,yrk,,yrk,0,0,0,0,0,0,1,1
+Dano,,aso,,aso,0,0,0,0,0,0,1,1
+Burarra,,bvr,,bvr,0,0,0,0,0,0,1,1
+Dargwa,,dar,,dar,0,0,0,0,0,0,1,1
+Djimini Senoufo,,dyi,,dyi,0,0,0,0,0,0,1,1
+Ömie,,aom,,aom,0,0,0,0,0,0,1,1
+Gumatj,,gnn,,gnn,0,0,0,0,0,0,1,1
+Paama,,pma,,pma,0,0,0,0,0,0,1,1
+Kâte,,kmg,,kmg,0,0,0,0,0,0,1,1
+Qaqet,,byx,,byx,0,0,0,0,0,0,1,1
+Church Slavic,,chu,,chu,0,0,0,0,0,0,1,1
+Siane,,snp,,snp,0,0,0,0,0,0,1,1
+Korafe-Yegha,,kpr,,kpr,0,0,0,0,0,0,1,1
+Daga,,dgz,,dgz,0,0,0,0,0,0,1,1
+Huaylas Ancash Quechua,,qwh,,qwh,0,0,0,0,0,0,1,1
+Zande (individual language),,zne,,zne,0,0,0,0,0,0,1,1
+Khumi Chin,,cnk,,cnk,0,0,0,0,0,0,1,1
+Nigerian Fulfulde,,fuv,fuv_Latn,fuv,0,0,1,1,0,0,1,1
+Nyindrou,,lid,,lid,0,0,0,0,0,0,1,1
+Maskelynes,,klv,,klv,0,0,0,0,0,0,1,1
+Yatee Zapotec,,zty,,zty,0,0,0,0,0,0,1,1
+Yalálag Zapotec,,zpu,,zpu,0,0,0,0,0,0,1,1
+Ruund,,rnd,,rnd,0,0,0,0,0,0,1,1
+Bo-Ung,,mux,,mux,0,0,0,0,0,0,1,1
+Komi-Permyak,,koi,,koi,0,0,0,0,0,0,1,1
+Bunama,,bdd,,bdd,0,0,0,0,0,0,1,1
+Konkomba,,xon,,xon,0,0,0,0,0,0,1,1
+Mündü,,muh,,muh,0,0,0,0,0,0,1,1
+Ao Naga,,njo,,njo,0,0,0,0,0,0,1,1
+Pitjantjatjara,,pjt,,pjt,0,0,0,0,0,0,1,1
+Tuwali Ifugao,,ifk,,ifk,0,0,0,0,0,0,1,1
+Kenga,,kyq,,kyq,0,0,0,0,0,0,1,1
+Dan,,dnj,,dnj,0,0,0,0,0,0,1,1
+Iduna,,viv,,viv,0,0,0,0,0,0,1,1
+Bariai,,bch,,bch,0,0,0,0,0,0,1,1
+Girawa,,bbr,,bbr,0,0,0,0,0,0,1,1
+Amele,,aey,,aey,0,0,0,0,0,0,1,1
+Zia,,zia,,zia,0,0,0,0,0,0,1,1
+Kasua,,khs,,khs,0,0,0,0,0,0,1,1
+Kashmiri,,kas,kas_Deva,kas,0,0,1,0,0,0,1,1
+Kyaka,,kyc,,kyc,0,0,0,0,0,0,1,1
+Teribe,,tfr,,tfr,0,0,0,0,0,0,1,1
+Saniyo-Hiyewe,,sny,,sny,0,0,0,0,0,0,1,1
+Bedjond,,bjv,,bjv,0,0,0,0,0,0,1,1
+Digo,,dig,,dig,0,0,0,0,0,0,1,1
+Yombe,,yom,,yom,0,0,0,0,0,0,1,1
+Central Mazahua,,maz,,maz,0,0,0,0,0,0,1,1
+Mapos Buang,,bzh,,bzh,0,0,0,0,0,0,1,1
+Yabem,,jae,,jae,0,0,0,0,0,0,1,1
+Somba-Siawari,,bmu,,bmu,0,0,0,0,0,0,1,1
+Arifama-Miniafia,,aai,,aai,0,0,0,0,0,0,1,1
+Gokana,,gkn,,gkn,0,0,0,0,0,0,1,1
+Southwestern Dinka,,dik,dik_Latn,dik,0,0,1,0,0,0,1,1
+Chopi,,cce,,cce,0,0,0,0,0,0,1,1
+Minangkabau,,min,min_Latn,min,0,0,1,0,1,0,1,1
+Gwahatike,,dah,,dah,0,0,0,0,0,0,1,1
+Western Kanjobal,,knj,,knj,0,0,0,0,0,0,1,1
+Karkar-Yuri,,yuj,,yuj,0,0,0,0,0,0,1,1
+Coatlán Mixe,,mco,,mco,0,0,0,0,0,0,1,1
+Teso,,teo,,teo,0,0,0,0,0,0,1,1
+Dawawa,,dww,,dww,0,0,0,0,0,0,1,1
+Imbongu,,imo,,imo,0,0,0,0,0,0,1,1
+Mün Chin,,mwq,,mwq,0,0,0,0,0,0,1,1
+Malinaltepec Me'phaa,,tcf,,tcf,0,0,0,0,0,0,1,1
+Madurese,,mad,,mad,0,0,0,0,1,0,1,1
+Saint Lucian Creole French,,acf,,acf,0,0,0,0,0,0,1,1
+Yalunka,,yal,,yal,0,0,0,0,0,0,1,1
+Querétaro Otomi,,otq,,otq,0,0,0,0,0,0,1,1
+Alur,,alz,,alz,0,0,0,0,0,0,1,1
+Epena,,sja,,sja,0,0,0,0,0,0,1,1
+Madak,,mmx,,mmx,0,0,0,0,0,0,1,1
+Mende (Sierra Leone),,men,,men,0,0,0,0,0,0,1,1
+Mofu-Gudur,,mif,,mif,0,0,0,0,0,0,1,1
+Bine,,bon,,bon,0,0,0,0,0,0,1,1
+Yongkom,,yon,,yon,0,0,0,0,0,0,1,1
+Zulgo-Gemzek,,gnd,,gnd,0,0,0,0,0,0,1,1
+Maranao,,mrw,,mrw,0,0,0,0,0,0,1,1
+Chiquihuitlán Mazatec,,maq,,maq,0,0,0,0,0,0,1,1
+Lahu,,lhu,,lhu,0,0,0,0,0,0,1,1
+Lugbara,,lgg,,lgg,0,0,0,0,0,0,1,1
+Takia,,tbc,,tbc,0,0,0,0,0,0,1,1
+Kabiyè,,kbp,kbp_Latn,kbp,0,0,1,0,0,0,1,1
+Barasana-Eduria,,bsn,,bsn,0,0,0,0,0,0,1,1
+Mbuko,,mqb,,mqb,0,0,0,0,0,0,1,1
+Ticuna,,tca,,tca,0,0,0,0,0,0,1,1
+Lote,,uvl,,uvl,0,0,0,0,0,0,1,1
+Guerrero Nahuatl,,ngu,,ngu,0,0,0,0,0,0,1,1
+Ipili,,ipi,,ipi,0,0,0,0,0,0,1,1
+Tachelhit,,shi,,shi,0,0,0,0,0,0,1,1
+Gourmanchéma,,gux,,gux,0,0,0,0,0,0,1,1
+Saposa,,sps,,sps,0,0,0,0,0,0,1,1
+Jukun Takum,,jbu,,jbu,0,0,0,0,0,0,1,1
+Iamalele,,yml,,yml,0,0,0,0,0,0,1,1
+Adioukrou,,adj,,adj,0,0,0,0,0,0,1,1
+Bugawac,,buk,,buk,0,0,0,0,0,0,1,1
+Lachiguiri Zapotec,,zpa,,zpa,0,0,0,0,0,0,1,1
+Asháninka,,cni,,cni,0,0,0,0,0,0,1,1
+Binumarien,,bjr,,bjr,0,0,0,0,0,0,1,1
+Magahi,,mag,mag_Deva,mag,0,0,1,0,0,0,1,1
+Sakalava Malagasy,,skg,,skg,0,0,0,0,0,0,1,1
+Central Sama,,sml,,sml,0,0,0,0,0,0,1,1
+Mopán Maya,,mop,,mop,0,0,0,0,0,0,1,1
+Inabaknon,,abx,,abx,0,0,0,0,0,0,1,1
+Kobon,,kpw,,kpw,0,0,0,0,0,0,1,1
+Wandala,,mfi,,mfi,0,0,0,0,0,0,1,1
+Galela,,gbi,,gbi,0,0,0,0,0,0,1,1
+Suena,,sue,,sue,0,0,0,0,0,0,1,1
+Bargam,,mlp,,mlp,0,0,0,0,0,0,1,1
+Yaouré,,yre,,yre,0,0,0,0,0,0,1,1
+Kako,,kkj,,kkj,0,0,0,0,0,0,1,1
+Aneme Wake,,aby,,aby,0,0,0,0,0,0,1,1
+Kuot,,kto,,kto,0,0,0,0,0,0,1,1
+Nopala Chatino,,cya,,cya,0,0,0,0,0,0,1,1
+Huehuetla Tepehua,,tee,,tee,0,0,0,0,0,0,1,1
+Ese,,mcq,,mcq,0,0,0,0,0,0,1,1
+Koonzime,,ozm,,ozm,0,0,0,0,0,0,1,1
+Tsimané,,cas,,cas,0,0,0,0,0,0,1,1
+Mískito,,miq,,miq,0,0,0,0,0,0,1,1
+Paasaal,,sig,,sig,0,0,0,0,0,0,1,1
+Kayapó,,txu,,txu,0,0,0,0,0,0,1,1
+Siyin Chin,,csy,,csy,0,0,0,0,0,0,1,1
+Agutaynen,,agn,,agn,0,0,0,0,0,0,1,1
+Gheg Albanian,,aln,,aln,0,0,0,0,0,0,1,1
+Migabac,,mpp,,mpp,0,0,0,0,0,0,1,1
+Noone,,nhu,,nhu,0,0,0,0,0,0,1,1
+Kara (Papua New Guinea),,leu,,leu,0,0,0,0,0,0,1,1
+Lyélé,,lee,,lee,0,0,0,0,0,0,1,1
+Uma,,ppk,,ppk,0,0,0,0,0,0,1,1
+Bolinao,,smk,,smk,0,0,0,0,0,0,1,1
+Mende (Papua New Guinea),,sim,,sim,0,0,0,0,0,0,1,1
+Ngaju,,nij,,nij,0,0,0,0,0,0,1,1
+Carapana,,cbc,,cbc,0,0,0,0,0,0,1,1
+Achuar-Shiwiar,,acu,,acu,0,0,0,0,0,0,1,1
+Cavineña,,cav,,cav,0,0,0,0,0,0,1,1
+Numanggang,,nop,,nop,0,0,0,0,0,0,1,1
+Pontic,,pnt,,pnt,0,0,0,0,0,0,1,1
+Southwest Tanna,,nwi,,nwi,0,0,0,0,0,0,1,1
+Agarabi,,agd,,agd,0,0,0,0,0,0,1,1
+Nii,,nii,,nii,0,0,0,0,0,0,1,1
+North Tanna,,tnn,,tnn,0,0,0,0,0,0,1,1
+Cameroon Mambila,,mcu,,mcu,0,0,0,0,0,0,1,1
+Kaonde,,kqn,,kqn,0,0,0,0,0,0,1,1
+Sinte Romani,,rmo,,rmo,0,0,0,0,0,0,1,1
+Cacua,,cbv,,cbv,0,0,0,0,0,0,1,1
+Wipi,,gdr,,gdr,0,0,0,0,0,0,1,1
+Merey,,meq,,meq,0,0,0,0,0,0,1,1
+Eastern Karaboro,,xrb,,xrb,0,0,0,0,0,0,1,1
+Bissa,,bib,,bib,0,0,0,0,0,0,1,1
+Natügu,,ntu,,ntu,0,0,0,0,0,0,1,1
+Meyah,,mej,,mej,0,0,0,0,0,0,1,1
+Basa (Cameroon),,bas,,bas,0,0,0,0,0,0,1,1
+Macuna,,myy,,myy,0,0,0,0,0,0,1,1
+Iwal,,kbm,,kbm,0,0,0,0,0,0,1,1
+Selepet,,spl,,spl,0,0,0,0,0,0,1,1
+Vaiphei,,vap,,vap,0,0,0,0,0,0,1,1
+Northern Grebo,,gbo,,gbo,0,0,0,0,0,0,1,1
+Kunimaipa,,kup,,kup,0,0,0,0,0,0,1,1
+Mangseng,,mbh,,mbh,0,0,0,0,0,0,1,1
+Garrwa,,wrk,,wrk,0,0,0,0,0,0,1,1
+Kupang Malay,,mkn,,mkn,0,0,0,0,0,0,1,1
+Mwaghavul,,sur,,sur,0,0,0,0,0,0,1,1
+Desano,,des,,des,0,0,0,0,0,0,1,1
+Kuwaa,,blh,,blh,0,0,0,0,0,0,1,1
+Carrier,,crx,,crx,0,0,0,0,0,0,1,1
+Paicî,,pri,,pri,0,0,0,0,0,0,1,1
+Oksapmin,,opm,,opm,0,0,0,0,0,0,1,1
+Zaiwa,,atb,,atb,0,0,0,0,0,0,1,1
+Akha,,ahk,,ahk,0,0,0,0,0,0,1,1
+Lamba,,lam,,lam,0,0,0,0,0,0,1,1
+Kamwe,,hig,,hig,0,0,0,0,0,0,1,1
+Akoose,,bss,,bss,0,0,0,0,0,0,1,1
+Deg,,mzw,,mzw,0,0,0,0,0,0,1,1
+Bafut,,bfd,,bfd,0,0,0,0,0,0,1,1
+Kimré,,kqp,,kqp,0,0,0,0,0,0,1,1
+Sasak,,sas,,sas,0,0,0,0,0,0,1,1
+Jamiltepec Mixtec,,mxt,,mxt,0,0,0,0,0,0,1,1
+Minica Huitoto,,hto,,hto,0,0,0,0,0,0,1,1
+Eastern Bolivian Guaraní,,gui,,gui,0,0,0,0,0,0,1,1
+Waskia,,wsk,,wsk,0,0,0,0,0,0,1,1
+Ama (Papua New Guinea),,amm,,amm,0,0,0,0,0,0,1,1
+Nobonob,,gaw,,gaw,0,0,0,0,0,0,1,1
+Southern Birifor,,biv,,biv,0,0,0,0,0,0,1,1
+Ajië,,aji,,aji,0,0,0,0,0,0,1,1
+Hanga Hundi,,wos,,wos,0,0,0,0,0,0,1,1
+Gapapaiwa,,pwg,,pwg,0,0,0,0,0,0,1,1
+Takuu,,nho,,nho,0,0,0,0,0,0,1,1
+Supyire Senoufo,,spp,,spp,0,0,0,0,0,0,1,1
+Peñoles Mixtec,,mil,,mil,0,0,0,0,0,0,1,1
+Itawit,,itv,,itv,0,0,0,0,0,0,1,1
+Delo,,ntr,,ntr,0,0,0,0,0,0,1,1
+Tucano,,tuo,,tuo,0,0,0,0,0,0,1,1
+Santa Teresa Cora,,cok,,cok,0,0,0,0,0,0,1,1
+Odoodee,,kkc,,kkc,0,0,0,0,0,0,1,1
+Southeast Ambrym,,tvk,,tvk,0,0,0,0,0,0,1,1
+Bawm Chin,,bgr,,bgr,0,0,0,0,0,0,1,1
+Candoshi-Shapra,,cbu,,cbu,0,0,0,0,0,0,1,1
+Lambayeque Quechua,,quf,,quf,0,0,0,0,0,0,1,1
+Angaataha,,agm,,agm,0,0,0,0,0,0,1,1
+Lowland Tarahumara,,tac,,tac,0,0,0,0,0,0,1,1
+Comaltepec Chinantec,,cco,,cco,0,0,0,0,0,0,1,1
+Iraqw,,irk,,irk,0,0,0,0,0,0,1,1
+Manam,,mva,,mva,0,0,0,0,0,0,1,1
+Mangga Buang,,mmo,,mmo,0,0,0,0,0,0,1,1
+Tungag,,lcm,,lcm,0,0,0,0,0,0,1,1
+Lampung Api,,ljp,,ljp,0,0,0,0,0,0,1,1
+Northern Dagara,,dgi,,dgi,0,0,0,0,0,0,1,1
+Tuma-Irumu,,iou,,iou,0,0,0,0,0,0,1,1
+Kwanga,,kwj,,kwj,0,0,0,0,0,0,1,1
+Panao Huánuco Quechua,,qxh,,qxh,0,0,0,0,0,0,1,1
+Nafaanra,,nfr,,nfr,0,0,0,0,0,0,1,1
+Kanasi,,soq,,soq,0,0,0,0,0,0,1,1
+Botolan Sambal,,sbl,,sbl,0,0,0,0,0,0,1,1
+Kosena,,kze,,kze,0,0,0,0,0,0,1,1
+Tifal,,tif,,tif,0,0,0,0,0,0,1,1
+Borong,,ksr,,ksr,0,0,0,0,0,0,1,1
+West Kewa,,kew,,kew,0,0,0,0,0,0,1,1
+Gamo,,gmv,,gmv,0,0,0,0,0,0,1,1
+Kamasau,,kms,,kms,0,0,0,0,0,0,1,1
+Mag-antsi Ayta,,sgb,,sgb,0,0,0,0,0,0,1,1
+Olo,,ong,,ong,0,0,0,0,0,0,1,1
+Highland Oaxaca Chontal,,chd,,chd,0,0,0,0,0,0,1,1
+Ozumacín Chinantec,,chz,,chz,0,0,0,0,0,0,1,1
+Paumarí,,pad,,pad,0,0,0,0,0,0,1,1
+Termanu,,twu,,twu,0,0,0,0,0,0,1,1
+Highland Totonac,,tos,,tos,0,0,0,0,0,0,1,1
+Cashinahua,,cbs,,cbs,0,0,0,0,0,0,1,1
+Piratapuyo,,pir,,pir,0,0,0,0,0,0,1,1
+Gude,,gde,,gde,0,0,0,0,0,0,1,1
+Guajajára,,gub,,gub,0,0,0,0,0,0,1,1
+Kuranko,,knk,,knk,0,0,0,0,0,0,1,1
+Ubir,,ubr,,ubr,0,0,0,0,0,0,1,1
+Mauwake,,mhl,,mhl,0,0,0,0,0,0,1,1
+Dangaura Tharu,,thl,,thl,0,0,0,0,0,0,1,1
+Auhelawa,,kud,,kud,0,0,0,0,0,0,1,1
+Mengen,,mee,,mee,0,0,0,0,0,0,1,1
+Ramoaaina,,rai,,rai,0,0,0,0,0,0,1,1
+Tezoatlán Mixtec,,mxb,,mxb,0,0,0,0,0,0,1,1
+Purepecha,,tsz,,tsz,0,0,0,0,0,0,1,1
+Chiquitano,,cax,,cax,0,0,0,0,0,0,1,1
+Lelemi,,lef,,lef,0,0,0,0,0,0,1,1
+Kandas,,kqw,,kqw,0,0,0,0,0,0,1,1
+Waimaha,,bao,,bao,0,0,0,0,0,0,1,1
+Eastern Tamang,,taj,,taj,0,0,0,0,0,0,1,1
+Yau (Morobe Province),,yuw,,yuw,0,0,0,0,0,0,1,1
+Vunjo,,vun,,vun,0,0,0,0,0,0,1,1
+Iyo,,nca,,nca,0,0,0,0,0,0,1,1
+Aguaruna,,agr,,agr,0,0,0,0,0,0,1,1
+Balantak,,blz,,blz,0,0,0,0,0,0,1,1
+Yao,,yao,,yao,0,0,0,0,0,0,1,1
+Maru,,mhx,,mhx,0,0,0,0,0,0,1,1
+Gulay,,gvl,,gvl,0,0,0,0,0,0,1,1
+Male (Ethiopia),,mdy,,mdy,0,0,0,0,0,0,1,1
+Isnag,,isd,,isd,0,0,0,0,0,0,1,1
+Luang,,lex,,lex,0,0,0,0,0,0,1,1
+Bwanabwana,,tte,,tte,0,0,0,0,0,0,1,1
+Sabaot,,spy,,spy,0,0,0,0,0,0,1,1
+Golin,,gvf,,gvf,0,0,0,0,0,0,1,1
+Urarina,,ura,,ura,0,0,0,0,0,0,1,1
+Mekeo,,mek,,mek,0,0,0,0,0,0,1,1
+Folopa,,ppo,,ppo,0,0,0,0,0,0,1,1
+Napu,,npy,,npy,0,0,0,0,0,0,1,1
+Koronadal Blaan,,bpr,,bpr,0,0,0,0,0,0,1,1
+Uri,,uvh,,uvh,0,0,0,0,0,0,1,1
+Angguruk Yali,,yli,,yli,0,0,0,0,0,0,1,1
+Toro So Dogon,,dts,,dts,0,0,0,0,0,0,1,1
+East Kewa,,kjs,,kjs,0,0,0,0,0,0,1,1
+Tabaru,,tby,,tby,0,0,0,0,0,0,1,1
+Muinane,,bmr,,bmr,0,0,0,0,0,0,1,1
+Lealao Chinantec,,cle,,cle,0,0,0,0,0,0,1,1
+Kwoma,,kmo,,kmo,0,0,0,0,0,0,1,1
+Izere,,izr,,izr,0,0,0,0,0,0,1,1
+Inuinnaqtun,,ikt,,ikt,0,0,0,0,0,0,1,1
+West-Central Limba,,lia,,lia,0,0,0,0,0,0,1,1
+Tlachichilco Tepehua,,tpt,,tpt,0,0,0,0,0,0,1,1
+Molima,,mox,,mox,0,0,0,0,0,0,1,1
+Kusaal,,kus,,kus,0,0,0,0,0,0,1,1
+Faiwol,,fai,,fai,0,0,0,0,0,0,1,1
+Xaasongaxango,,kao,,kao,0,0,0,0,0,0,1,1
+Alyawarr,,aly,,aly,0,0,0,0,0,0,1,1
+Nyemba,,nba,,nba,0,0,0,0,0,0,1,1
+Lachixío Zapotec,,zpl,,zpl,0,0,0,0,0,0,1,1
+Sochiapam Chinantec,,cso,,cso,0,0,0,0,0,0,1,1
+Kuwaataay,,cwt,,cwt,0,0,0,0,0,0,1,1
+Naro,,nhr,,nhr,0,0,0,0,0,0,1,1
+Tswa,,tsc,,tsc,0,0,0,0,0,0,1,1
+Biangai,,big,,big,0,0,0,0,0,0,1,1
+Ocotlán Zapotec,,zac,,zac,0,0,0,0,0,0,1,1
+Ntcham,,bud,,bud,0,0,0,0,0,0,1,1
+Aghul,,agx,,agx,0,0,0,0,0,0,1,1
+Waris,,wrs,,wrs,0,0,0,0,0,0,1,1
+Kukele,,kez,,kez,0,0,0,0,0,0,1,1
+Rotokas,,roo,,roo,0,0,0,0,0,0,1,1
+Makasar,,mak,,mak,0,0,0,0,1,0,1,1
+Ayautla Mazatec,,vmy,,vmy,0,0,0,0,0,0,1,1
+Awa-Cuaiquer,,kwi,,kwi,0,0,0,0,0,0,1,1
+Keapara,,khz,,khz,0,0,0,0,0,0,1,1
+Nehan,,nsn,,nsn,0,0,0,0,0,0,1,1
+Buhid,,bku,,bku,0,0,0,0,0,0,1,1
+Chol,,ctu,,ctu,0,0,0,0,0,0,1,1
+Sinaugoro,,snc,,snc,0,0,0,0,0,0,1,1
+Uspanteco,,usp,,usp,0,0,0,0,0,0,1,1
+Hanga,,hag,,hag,0,0,0,0,0,0,1,1
+Wichí Lhamtés Nocten,,mtp,,mtp,0,0,0,0,0,0,1,1
+Usila Chinantec,,cuc,,cuc,0,0,0,0,0,0,1,1
+Gofa,,gof,,gof,0,0,0,0,0,0,1,1
+Palantla Chinantec,,cpa,,cpa,0,0,0,0,0,0,1,1
+Luvale,,lue,,lue,0,0,0,0,0,0,1,1
+Saliba,,sbe,,sbe,0,0,0,0,0,0,1,1
+Gorontalo,,gor,,gor,0,0,0,0,0,0,1,1
+Au,,avt,,avt,0,0,0,0,0,0,1,1
+South Fali,,fal,,fal,0,0,0,0,0,0,1,1
+Jola-Fonyi,,dyo,,dyo,0,0,0,0,0,0,1,1
+Suau,,swp,,swp,0,0,0,0,0,0,1,1
+Southern Pastaza Quechua,,qup,,qup,0,0,0,0,0,0,1,1
+Arop-Lokep,,apr,,apr,0,0,0,0,0,0,1,1
+Lacandon,,lac,,lac,0,0,0,0,0,0,1,1
+Sukuma,,suk,,suk,0,0,0,0,0,0,1,1
+Salt-Yui,,sll,,sll,0,0,0,0,0,0,1,1
+Wuvulu-Aua,,wuv,,wuv,0,0,0,0,0,0,1,1
+Xavánte,,xav,,xav,0,0,0,0,0,0,1,1
+Markweeta,,enb,,enb,0,0,0,0,0,0,1,1
+Kanite,,kmu,,kmu,0,0,0,0,0,0,1,1
+Huallaga Huánuco Quechua,,qub,,qub,0,0,0,0,0,0,1,1
+Bishnupriya,,bpy,,bpy,0,0,0,0,0,0,1,1
+Yopno,,yut,,yut,0,0,0,0,0,0,1,1
+Cabécar,,cjp,,cjp,0,0,0,0,0,0,1,1
+Sa'a,,apb,,apb,0,0,0,0,0,0,1,1
+Dawro,,dwr,,dwr,0,0,0,0,0,0,1,1
+Biak,,bhw,,bhw,0,0,0,0,0,0,1,1
+Umanakaina,,gdn,,gdn,0,0,0,0,0,0,1,1
+Kayabí,,kyz,,kyz,0,0,0,0,0,0,1,1
+Guahibo,,guh,,guh,0,0,0,0,0,0,1,1
+Yareba,,yrb,,yrb,0,0,0,0,0,0,1,1
+Orokaiva,,okv,,okv,0,0,0,0,0,0,1,1
+Trinitario,,trn,,trn,0,0,0,0,0,0,1,1
+Saraiki,,skr,,skr,0,0,0,0,0,0,1,1
+Northern Tlaxiaco Mixtec,,xtn,,xtn,0,0,0,0,0,0,1,1
+Galibi Carib,,car,,car,0,0,0,0,0,0,1,1
+Siroi,,ssd,,ssd,0,0,0,0,0,0,1,1
+Alune,,alp,,alp,0,0,0,0,0,0,1,1
+Mitla Zapotec,,zaw,,zaw,0,0,0,0,0,0,1,1
+Zacatlán-Ahuacatlán-Tepetzintla Nahuatl,,nhi,,nhi,0,0,0,0,0,0,1,1
+Kwaio,,kwd,,kwd,0,0,0,0,0,0,1,1
+Nabak,,naf,,naf,0,0,0,0,0,0,1,1
+Tangoa,,tgp,,tgp,0,0,0,0,0,0,1,1
+Tepetotutla Chinantec,,cnt,,cnt,0,0,0,0,0,0,1,1
+Tharaka,,thk,,thk,0,0,0,0,0,0,1,1
+Northern Emberá,,emp,,emp,0,0,0,0,0,0,1,1
+Quioquitani-Quierí Zapotec,,ztq,,ztq,0,0,0,0,0,0,1,1
+Parecís,,pab,,pab,0,0,0,0,0,0,1,1
+Gogo,,gog,,gog,0,0,0,0,0,0,1,1
+Northwestern Ojibwa,,ojb,,ojb,0,0,0,0,0,0,1,1
+Muyuw,,myw,,myw,0,0,0,0,0,0,1,1
+Hehe,,heh,,heh,0,0,0,0,0,0,1,1
+Awiyaana,,auy,,auy,0,0,0,0,0,0,1,1
+Sursurunga,,sgz,,sgz,0,0,0,0,0,0,1,1
+Mabaan,,mfz,,mfz,0,0,0,0,0,0,1,1
+Yosondúa Mixtec,,mpm,,mpm,0,0,0,0,0,0,1,1
+Amanab,,amn,,amn,0,0,0,0,0,0,1,1
+Cuiba,,cui,,cui,0,0,0,0,0,0,1,1
+Wayuu,,guc,,guc,0,0,0,0,0,0,1,1
+Kafa,,kbr,,kbr,0,0,0,0,0,0,1,1
+Wik-Mungkan,,wim,,wim,0,0,0,0,0,0,1,1
+Western Niger Fulfulde,,fuh,,fuh,0,0,0,0,0,0,1,1
+Gitonga,,toh,,toh,0,0,0,0,0,0,1,1
+Chamacoco,,ceg,,ceg,0,0,0,0,0,0,1,1
+Kuman (Papua New Guinea),,kue,,kue,0,0,0,0,0,0,1,1
+Pamplona Atta,,att,,att,0,0,0,0,0,0,1,1
+North Junín Quechua,,qvn,,qvn,0,0,0,0,0,0,1,1
+Usan,,wnu,,wnu,0,0,0,0,0,0,1,1
+Kupsabiny,,kpz,,kpz,0,0,0,0,0,0,1,1
+Inga,,inb,,inb,0,0,0,0,0,0,1,1
+Inoke-Yate,,ino,,ino,0,0,0,0,0,0,1,1
+Kakwa,,keo,,keo,0,0,0,0,0,0,1,1
+Anufo,,cko,,cko,0,0,0,0,0,0,1,1
+Safeyoka,,apz,,apz,0,0,0,0,0,0,1,1
+Borei,,gai,,gai,0,0,0,0,0,0,1,1
+Sea Island Creole English,,gul,,gul,0,0,0,0,0,0,1,1
+South Tairora,,omw,,omw,0,0,0,0,0,0,1,1
+Fanamaket,,bjp,,bjp,0,0,0,0,0,0,1,1
+Ngangam,,gng,,gng,0,0,0,0,0,0,1,1
+Buglere,,sab,,sab,0,0,0,0,0,0,1,1
+Huaylla Wanca Quechua,,qvw,,qvw,0,0,0,0,0,0,1,1
+Patep,,ptp,,ptp,0,0,0,0,0,0,1,1
+Batad Ifugao,,ifb,,ifb,0,0,0,0,0,0,1,1
+Southwest Gbaya,,gso,,gso,0,0,0,0,0,0,1,1
+Siwu,,akp,,akp,0,0,0,0,0,0,1,1
+Woun Meu,,noa,,noa,0,0,0,0,0,0,1,1
+Tena Lowland Quichua,,quw,,quw,0,0,0,0,0,0,1,1
+Ewage-Notu,,nou,,nou,0,0,0,0,0,0,1,1
+Maiwa (Papua New Guinea),,mti,,mti,0,0,0,0,0,0,1,1
+Koreguaje,,coe,,coe,0,0,0,0,0,0,1,1
+Juquila Mixe,,mxq,,mxq,0,0,0,0,0,0,1,1
+Mentawai,,mwv,,mwv,0,0,0,0,0,0,1,1
+Khoekhoe,,naq,,naq,0,0,0,0,0,0,1,1
+Mankanya,,knf,,knf,0,0,0,0,0,0,1,1
+Benabena,,bef,,bef,0,0,0,0,0,0,1,1
+Arosi,,aia,,aia,0,0,0,0,0,0,1,1
+Wantoat,,wnc,,wnc,0,0,0,0,0,0,1,1
+San Martín Quechua,,qvs,,qvs,0,0,0,0,0,0,1,1
+Tenharim,,pah,,pah,0,0,0,0,0,0,1,1
+Atayal,,tay,,tay,0,0,0,0,0,0,1,1
+Seimat,,ssg,,ssg,0,0,0,0,0,0,1,1
+Rotuman,,rtm,,rtm,0,0,0,0,0,0,1,1
+Malvi,,mup,,mup,0,0,0,0,0,0,1,1
+Casiguran Dumagat Agta,,dgc,,dgc,0,0,0,0,0,0,1,1
+Lole,,llg,,llg,0,0,0,0,0,0,1,1
+Hote,,hot,,hot,0,0,0,0,0,0,1,1
+Mbyá Guaraní,,gun,,gun,0,0,0,0,0,0,1,1
+Tereno,,ter,,ter,0,0,0,0,0,0,1,1
+Mountain Koiali,,kpx,,kpx,0,0,0,0,0,0,1,1
+Huamalíes-Dos de Mayo Huánuco Quechua,,qvh,,qvh,0,0,0,0,0,0,1,1
+Lomwe,,ngl,,ngl,0,0,0,0,0,0,1,1
+Algonquin,,alq,,alq,0,0,0,0,0,0,1,1
+Waima,,rro,,rro,0,0,0,0,0,0,1,1
+Wiru,,wiu,,wiu,0,0,0,0,0,0,1,1
+Weri,,wer,,wer,0,0,0,0,0,0,1,1
+South Ucayali Ashéninka,,cpy,,cpy,0,0,0,0,0,0,1,1
+Imbabura Highland Quichua,,qvi,,qvi,0,0,0,0,0,0,1,1
+Kandawo,,gam,,gam,0,0,0,0,0,0,1,1
+Southern Kisi,,kss,,kss,0,0,0,0,0,0,1,1
+Komba,,kpf,,kpf,0,0,0,0,0,0,1,1
+Sepik Iwam,,iws,,iws,0,0,0,0,0,0,1,1
+Ilianen Manobo,,mbi,,mbi,0,0,0,0,0,0,1,1
+Anindilyakwa,,aoi,,aoi,0,0,0,0,0,0,1,1
+Tabaa Zapotec,,zat,,zat,0,0,0,0,0,0,1,1
+Mamanwa,,mmn,,mmn,0,0,0,0,0,0,1,1
+Uduk,,udu,,udu,0,0,0,0,0,0,1,1
+Mi'kmaq,,mic,,mic,0,0,0,0,0,0,1,1
+Helong,,heg,,heg,0,0,0,0,0,0,1,1
+Kwamera,,tnk,,tnk,0,0,0,0,0,0,1,1
+Mbula,,mna,,mna,0,0,0,0,0,0,1,1
+Bughotu,,bgt,,bgt,0,0,0,0,0,0,1,1
+Duala,,dua,,dua,0,0,0,0,0,0,1,1
+Haya,,hay,,hay,0,0,0,0,0,0,1,1
+Bisu,,bzi,,bzi,0,0,0,0,0,0,1,1
+Chuwabu,,chw,,chw,0,0,0,0,0,0,1,1
+North Mesopotamian Arabic,,ayp,,ayp,0,0,0,0,0,0,1,1
+Kouya,,kyf,,kyf,0,0,0,0,0,0,1,1
+Garo,,grt,,grt,0,0,0,0,0,0,1,1
+Pa'o Karen,,blk,,blk,0,0,0,0,0,0,1,1
+Margos-Yarowilca-Lauricocha Quechua,,qvm,,qvm,0,0,0,0,0,0,1,1
+Tataltepec Chatino,,cta,,cta,0,0,0,0,0,0,1,1
+Whitesands,,tnp,,tnp,0,0,0,0,0,0,1,1
+Keyagana,,kyg,,kyg,0,0,0,0,0,0,1,1
+Tawala,,tbo,,tbo,0,0,0,0,0,0,1,1
+Eastern Highland Otomi,,otm,,otm,0,0,0,0,0,0,1,1
+Usarufa,,usa,,usa,0,0,0,0,0,0,1,1
+Northern Pastaza Quichua,,qvz,,qvz,0,0,0,0,0,0,1,1
+Baka (South Sudan),,bdh,,bdh,0,0,0,0,0,0,1,1
+Label,,lbb,,lbb,0,0,0,0,0,0,1,1
+Bokobaru,,bus,,bus,0,0,0,0,0,0,1,1
+Zigula,,ziw,,ziw,0,0,0,0,0,0,1,1
+Northern Thai,,nod,,nod,0,0,0,0,0,0,1,1
+Dela-Oenale,,row,,row,0,0,0,0,0,0,1,1
+Kilivila,,kij,,kij,0,0,0,0,0,0,1,1
+Bimoba,,bim,,bim,0,0,0,0,0,0,1,1
+Northwest Alaska Inupiatun,,esk,,esk,0,0,0,0,0,0,1,1
+Antankarana Malagasy,,xmv,,xmv,0,0,0,0,0,0,1,1
+Lewo,,lww,,lww,0,0,0,0,0,0,1,1
+Huautla Mazatec,,mau,,mau,0,0,0,0,0,0,1,1
+Angal Heneng,,akh,,akh,0,0,0,0,0,0,1,1
+Murle,,mur,,mur,0,0,0,0,0,0,1,1
+Mussau-Emira,,emi,,emi,0,0,0,0,0,0,1,1
+Batak Angkola,,akb,,akb,0,0,0,0,0,0,1,1
+Maca,,mca,,mca,0,0,0,0,0,0,1,1
+Enga,,enq,,enq,0,0,0,0,0,0,1,1
+Southern Carrier,,caf,,caf,0,0,0,0,0,0,1,1
+Chipaya,,cap,,cap,0,0,0,0,0,0,1,1
+Chichicapan Zapotec,,zpv,,zpv,0,0,0,0,0,0,1,1
+Tabasco Chontal,,chf,,chf,0,0,0,0,0,0,1,1
+Iatmul,,ian,,ian,0,0,0,0,0,0,1,1
+Noon,,snf,,snf,0,0,0,0,0,0,1,1
+Saamia,,lsm,,lsm,0,0,0,0,0,0,1,1
+Kagulu,,kki,,kki,0,0,0,0,0,0,1,1
+Kombio,,xbi,,xbi,0,0,0,0,0,0,1,1
+Tetela,,tll,,tll,0,0,0,0,0,0,1,1
+Tagabawa,,bgs,,bgs,0,0,0,0,0,0,1,1
+Shuar,,jiv,,jiv,0,0,0,0,0,0,1,1
+Nunggubuyu,,nuy,,nuy,0,0,0,0,0,0,1,1
+Huichol,,hch,,hch,0,0,0,0,0,0,1,1
+Timbe,,tim,,tim,0,0,0,0,0,0,1,1
+Tii,,txq,,txq,0,0,0,0,0,0,1,1
+Kaingang,,kgp,,kgp,0,0,0,0,0,0,1,1
+Maxakalí,,mbl,,mbl,0,0,0,0,0,0,1,1
+Eastern Apurímac Quechua,,qve,,qve,0,0,0,0,0,0,1,1
+Kenyang,,ken,,ken,0,0,0,0,0,0,1,1
+Konso,,kxc,,kxc,0,0,0,0,0,0,1,1
+Guianese Creole French,,gcr,,gcr,0,0,0,0,0,0,1,1
+Doromu-Koki,,kqc,,kqc,0,0,0,0,0,0,1,1
+South Bolivian Quechua,,quh,,quh,0,0,0,0,0,0,1,1
+Tlahuitoltepec Mixe,,mxp,,mxp,0,0,0,0,0,0,1,1
+Nggem,,nbq,,nbq,0,0,0,0,0,0,1,1
+Djambarrpuyngu,,djr,,djr,0,0,0,0,0,0,1,1
+Sharanahua,,mcd,,mcd,0,0,0,0,0,0,1,1
+Ezaa,,eza,,eza,0,0,0,0,0,0,1,1
+Limbum,,lmp,,lmp,0,0,0,0,0,0,1,1
+Kwara'ae,,kwf,,kwf,0,0,0,0,0,0,1,1
+Metlatónoc Mixtec,,mxv,,mxv,0,0,0,0,0,0,1,1
+Machiguenga,,mcb,,mcb,0,0,0,0,0,0,1,1
+Choapan Zapotec,,zpc,,zpc,0,0,0,0,0,0,1,1
+Tausug,,tsg,,tsg,0,0,0,0,0,0,1,1
+Western Highland Chatino,,ctp,,ctp,0,0,0,0,0,0,1,1
+Nande,,nnb,,nnb,0,0,0,0,0,0,1,1
+Apalaí,,apy,,apy,0,0,0,0,0,0,1,1
+Zyphe Chin,,zyp,,zyp,0,0,0,0,0,0,1,1
+Nilamba,,nim,,nim,0,0,0,0,0,0,1,1
+Chortí,,caa,,caa,0,0,0,0,0,0,1,1
+Guayabero,,guo,,guo,0,0,0,0,0,0,1,1
+Atikamekw,,atj,,atj,0,0,0,0,0,0,1,1
+Sunwar,,suz,,suz,0,0,0,0,0,0,1,1
+Kire,,geb,,geb,0,0,0,0,0,0,1,1
+Northern Oaxaca Nahuatl,,nhy,,nhy,0,0,0,0,0,0,1,1
+Shipibo-Conibo,,shp,,shp,0,0,0,0,0,0,1,1
+Ese Ejja,,ese,,ese,0,0,0,0,0,0,1,1
+Kisar,,kje,,kje,0,0,0,0,0,0,1,1
+Western Bolivian Guaraní,,gnw,,gnw,0,0,0,0,0,0,1,1
+Southeastern Puebla Nahuatl,,npl,,npl,0,0,0,0,0,0,1,1
+Baeggu,,bvd,,bvd,0,0,0,0,0,0,1,1
+Nyoro,,nyo,,nyo,0,0,0,0,0,0,1,1
+Tiruray,,tiy,,tiy,0,0,0,0,0,0,1,1
+Chukot,,ckt,,ckt,0,0,0,0,0,0,1,1
+Limbu,,lif,,lif,0,0,0,0,0,0,1,1
+Teutila Cuicatec,,cut,,cut,0,0,0,0,0,0,1,1
+Ronga,,rng,,rng,0,0,0,0,0,0,1,1
+San Marcos Tlacoyalco Popoloca,,pls,,pls,0,0,0,0,0,0,1,1
+Copala Triqui,,trc,,trc,0,0,0,0,0,0,1,1
+Khanty,,kca,,kca,0,0,0,0,0,0,1,1
+Guhu-Samane,,ghs,,ghs,0,0,0,0,0,0,1,1
+Rikbaktsa,,rkb,,rkb,0,0,0,0,0,0,1,1
+Car Nicobarese,,caq,,caq,0,0,0,0,0,0,1,1
+Tlicho,,dgr,,dgr,0,0,0,0,0,0,1,1
+Chácobo,,cao,,cao,0,0,0,0,0,0,1,1
+Kumam,,kdi,,kdi,0,0,0,0,0,0,1,1
+Tepo Krumen,,ted,,ted,0,0,0,0,0,0,1,1
+Northern Paiute,,pao,,pao,0,0,0,0,0,0,1,1
+Kankanaey,,kne,,kne,0,0,0,0,0,0,1,1
+Siona,,snn,,snn,0,0,0,0,0,0,1,1
+Huambisa,,hub,,hub,0,0,0,0,0,0,1,1
+Plains Cree,,crk,,crk,0,0,0,0,0,0,1,1
+Awa (Papua New Guinea),,awb,,awb,0,0,0,0,0,0,1,1
+Sebat Bet Gurage,,sgw,,sgw,0,0,0,0,0,0,1,1
+Barai,,bbb,,bbb,0,0,0,0,0,0,1,1
+Cashibo-Cacataibo,,cbr,,cbr,0,0,0,0,0,0,1,1
+Gusii,,guz,,guz,0,0,0,0,0,0,1,1
+Sarangani Manobo,,mbs,,mbs,0,0,0,0,0,0,1,1
+Palikúr,,plu,,plu,0,0,0,0,0,0,1,1
+Hdi,,xed,,xed,0,0,0,0,0,0,1,1
+Khana,,ogo,,ogo,0,0,0,0,0,0,1,1
+Khiamniungan Naga,,kix,,kix,0,0,0,0,0,0,1,1
+Tumbuka,,tum,tum_Latn,tum,0,0,1,0,0,0,1,1
+Ladakhi,,lbj,,lbj,0,0,0,0,0,0,1,1
+Arabela,,arl,,arl,0,0,0,0,0,0,1,1
+Mandinka,,mnk,,mnk,0,0,0,0,0,0,1,1
+Makonde,,kde,,kde,0,0,0,0,0,0,1,1
+Warlpiri,,wbp,,wbp,0,0,0,0,0,0,1,1
+Coyutla Totonac,,toc,,toc,0,0,0,0,0,0,1,1
+Bassa,,bsq,,bsq,0,0,0,0,0,0,1,1
+San Pedro Amuzgos Amuzgo,,azg,,azg,0,0,0,0,0,0,1,1
+Achagua,,aca,,aca,0,0,0,0,0,0,1,1
+Michoacán Nahuatl,,ncl,,ncl,0,0,0,0,0,0,1,1
+Kadiwéu,,kbc,,kbc,0,0,0,0,0,0,1,1
+Totontepec Mixe,,mto,,mto,0,0,0,0,0,0,1,1
+Chumburung,,ncu,,ncu,0,0,0,0,0,0,1,1
+Hunsrik,,hrx,,hrx,0,0,0,0,0,0,1,1
+Mamara Senoufo,,myk,,myk,0,0,0,0,0,0,1,1
+Bantoanon,,bno,,bno,0,0,0,0,0,0,1,1
+Abé,,aba,,aba,0,0,0,0,0,0,1,1
+Central Yupik,,esu,,esu,0,0,0,0,0,0,1,1
+Sherpa,,xsr,,xsr,0,0,0,0,0,0,1,1
+Tetelcingo Nahuatl,,nhg,,nhg,0,0,0,0,0,0,1,1
+Nyakyusa-Ngonde,,nyy,,nyy,0,0,0,0,0,0,1,1
+Sampang,,rav,,rav,0,0,0,0,0,0,1,1
+Moose Cree,,crm,,crm,0,0,0,0,0,0,1,1
+Waffa,,waj,,waj,0,0,0,0,0,0,1,1
+Kuni-Boazi,,kvg,,kvg,0,0,0,0,0,0,1,1
+Tokelau,,tkl,,tkl,0,0,0,0,0,0,1,1
+Koti,,eko,,eko,0,0,0,0,0,0,1,1
+Chuave,,cjv,,cjv,0,0,0,0,0,0,1,1
+Nek,,nif,,nif,0,0,0,0,0,0,1,1
+Sateré-Mawé,,mav,,mav,0,0,0,0,0,0,1,1
+Nali,,nss,,nss,0,0,0,0,0,0,1,1
+Chachi,,cbi,,cbi,0,0,0,0,0,0,1,1
+Tsakhur,,tkr,,tkr,0,0,0,0,0,0,1,1
+Even,,eve,,eve,0,0,0,0,0,0,1,1
+Kala Lagaw Ya,,mwp,,mwp,0,0,0,0,0,0,1,1
+Ringgou,,rgu,,rgu,0,0,0,0,0,0,1,1
+Busa,,bqp,,bqp,0,0,0,0,0,0,1,1
+Tangkhul Naga (India),,nmf,,nmf,0,0,0,0,0,0,1,1
+Kagayanen,,cgc,,cgc,0,0,0,0,0,0,1,1
+Diuxi-Tilantongo Mixtec,,xtd,,xtd,0,0,0,0,0,0,1,1
+Pinotepa Nacional Mixtec,,mio,,mio,0,0,0,0,0,0,1,1
+Mamasa,,mqj,,mqj,0,0,0,0,0,0,1,1
+Enlhet,,enl,,enl,0,0,0,0,0,0,1,1
+Kpelle,,kpe,,kpe,0,0,0,0,0,0,1,1
+Apinayé,,apn,,apn,0,0,0,0,0,0,1,1
+Caribbean Hindustani,,hns,,hns,0,0,0,0,0,0,1,1
+Sudest,,tgo,,tgo,0,0,0,0,0,0,1,1
+Masai,,mas,,mas,0,0,0,0,0,0,1,1
+Urat,,urt,,urt,0,0,0,0,0,0,1,1
+Francisco León Zoque,,zos,,zos,0,0,0,0,0,0,1,1
+Toma,,tod,,tod,0,0,0,0,0,0,1,1
+Ninzo,,nin,,nin,0,0,0,0,0,0,1,1
+Ambonese Malay,,abs,,abs,0,0,0,0,0,0,1,1
+Ivbie North-Okpela-Arhe,,atg,,atg,0,0,0,0,0,0,1,1
+Adzera,,adz,,adz,0,0,0,0,0,0,1,1
+Southern Nambikuára,,nab,,nab,0,0,0,0,0,0,1,1
+Camsá,,kbh,,kbh,0,0,0,0,0,0,1,1
+Eastern Khumi Chin,,cek,,cek,0,0,0,0,0,0,1,1
+Kwere,,cwe,,cwe,0,0,0,0,0,0,1,1
+Kube,,kgf,,kgf,0,0,0,0,0,0,1,1
+Apurinã,,apu,,apu,0,0,0,0,0,0,1,1
+Emberá-Catío,,cto,,cto,0,0,0,0,0,0,1,1
+Tewa (USA),,tew,,tew,0,0,0,0,0,0,1,1
+Bribri,,bzd,,bzd,0,0,0,0,0,0,1,1
+Binandere,,bhg,,bhg,0,0,0,0,0,0,1,1
+Border Kuna,,kvn,,kvn,0,0,0,0,0,0,1,1
+Zemba,,dhm,,dhm,0,0,0,0,0,0,1,1
+Yanesha',,ame,,ame,0,0,0,0,0,0,1,1
+Balangao,,blw,,blw,0,0,0,0,0,0,1,1
+Southern Dagaare,,dga,,dga,0,0,0,0,0,0,1,1
+Western Tlacolula Valley Zapotec,,zab,,zab,0,0,0,0,0,0,1,1
+Gela,,nlg,,nlg,0,0,0,0,0,0,1,1
+Haruai,,tmd,,tmd,0,0,0,0,0,0,1,1
+Tsikimba,,kdl,,kdl,0,0,0,0,0,0,1,1
+Fasu,,faa,,faa,0,0,0,0,0,0,1,1
+Kok Borok,,trp,,trp,0,0,0,0,0,0,1,1
+Western Lawa,,lcp,,lcp,0,0,0,0,0,0,1,1
+Tsishingini,,tsw,,tsw,0,0,0,0,0,0,1,1
+Vidunda,,vid,,vid,0,0,0,0,0,0,1,1
+Edolo,,etr,,etr,0,0,0,0,0,0,1,1
+Sierra de Juárez Zapotec,,zaa,,zaa,0,0,0,0,0,0,1,1
+Nuer,,nus,nus_Latn,nus,0,0,1,0,0,0,1,1
+Kaluli,,bco,,bco,0,0,0,0,0,0,1,1
+Beembe,,beq,,beq,0,0,0,0,0,0,1,1
+Dangaléat,,daa,,daa,0,0,0,0,0,0,1,1
+Sangir,,sxn,,sxn,0,0,0,0,0,0,1,1
+Alekano,,gah,,gah,0,0,0,0,0,0,1,1
+Chayahuita,,cbt,,cbt,0,0,0,0,0,0,1,1
+Cañar Highland Quichua,,qxr,,qxr,0,0,0,0,0,0,1,1
+Dhao,,nfa,,nfa,0,0,0,0,0,0,1,1
+Chayuco Mixtec,,mih,,mih,0,0,0,0,0,0,1,1
+Tumulung Sisaala,,sil,,sil,0,0,0,0,0,0,1,1
+Gumuz,,guk,,guk,0,0,0,0,0,0,1,1
+Mansaka,,msk,,msk,0,0,0,0,0,0,1,1
+Izii,,izz,,izz,0,0,0,0,0,0,1,1
+Bakairí,,bkq,,bkq,0,0,0,0,0,0,1,1
+Tektiteko,,ttc,,ttc,0,0,0,0,0,0,1,1
+Kosarek Yale,,kkl,,kkl,0,0,0,0,0,0,1,1
+Potawatomi,,pot,,pot,0,0,0,0,0,0,1,1
+Abui,,abz,,abz,0,0,0,0,0,0,1,1
+Cajamarca Quechua,,qvc,,qvc,0,0,0,0,0,0,1,1
+Northern Conchucos Ancash Quechua,,qxn,,qxn,0,0,0,0,0,0,1,1
+Colorado,,cof,,cof,0,0,0,0,0,0,1,1
+Attié,,ati,,ati,0,0,0,0,0,0,1,1
+Macushi,,mbc,,mbc,0,0,0,0,0,0,1,1
+Amarakaeri,,amr,,amr,0,0,0,0,0,0,1,1
+Anmatyerre,,amx,,amx,0,0,0,0,0,0,1,1
+Yaqui,,yaq,,yaq,0,0,0,0,0,0,1,1
+Xicotepec De Juárez Totonac,,too,,too,0,0,0,0,0,0,1,1
+Suba,,sxb,,sxb,0,0,0,0,0,0,1,1
+Rincón Zapotec,,zar,,zar,0,0,0,0,0,0,1,1
+Aringa,,luc,,luc,0,0,0,0,0,0,1,1
+Central Cagayan Agta,,agt,,agt,0,0,0,0,0,0,1,1
+Southern Nuni,,nnw,,nnw,0,0,0,0,0,0,1,1
+Ajyíninka Apurucayali,,cpc,,cpc,0,0,0,0,0,0,1,1
+Torres Strait Creole,,tcs,,tcs,0,0,0,0,0,0,1,1
+Masbatenyo,,msb,,msb,0,0,0,0,0,0,1,1
+Phende,,pem,,pem,0,0,0,0,0,0,1,1
+Central Subanen,,syb,,syb,0,0,0,0,0,0,1,1
+Nyamwanga,,mwn,,mwn,0,0,0,0,0,0,1,1
+Luwo,,lwo,,lwo,0,0,0,0,0,0,1,1
+Denya,,anv,,anv,0,0,0,0,0,0,1,1
+Kaiwá,,kgk,,kgk,0,0,0,0,0,0,1,1
+Ogea,,eri,,eri,0,0,0,0,0,0,1,1
+Nadëb,,mbj,,mbj,0,0,0,0,0,0,1,1
+Rejang,,rej,,rej,0,0,0,0,0,0,1,1
+Mixtepec Zapotec,,zpm,,zpm,0,0,0,0,0,0,1,1
+Ambai,,amk,,amk,0,0,0,0,0,0,1,1
+Uripiv-Wala-Rano-Atchin,,upv,,upv,0,0,0,0,0,0,1,1
+Nkonya,,nko,,nko,0,0,0,0,0,0,1,1
+Binukid,,bkd,,bkd,0,0,0,0,0,0,1,1
+Tacana,,tna,,tna,0,0,0,0,0,0,1,1
+Wallisian,,wls,,wls,0,0,0,0,0,0,1,1
+Akawaio,,ake,,ake,0,0,0,0,0,0,1,1
+Lashi,,lsi,,lsi,0,0,0,0,0,0,1,1
+Tatuyo,,tav,,tav,0,0,0,0,0,0,1,1
+Santo Domingo Albarradas Zapotec,,zas,,zas,0,0,0,0,0,0,1,1
+Swampy Cree,,csw,,csw,0,0,0,0,0,0,1,1
+Miyobe,,soy,,soy,0,0,0,0,0,0,1,1
+Ottawa,,otw,,otw,0,0,0,0,0,0,1,1
+Maore Comorian,,swb,,swb,0,0,0,0,0,0,1,1
+Highland Popoluca,,poi,,poi,0,0,0,0,0,0,1,1
+Are,,mwc,,mwc,0,0,0,0,0,0,1,1
+Mayoyao Ifugao,,ifu,,ifu,0,0,0,0,0,0,1,1
+Southeastern Tepehuan,,stp,,stp,0,0,0,0,0,0,1,1
+Aja (Benin),,ajg,,ajg,0,0,0,0,0,0,1,1
+Wedau,,wed,,wed,0,0,0,0,0,0,1,1
+Paranan,,prf,,prf,0,0,0,0,0,0,1,1
+Ika,,ikk,,ikk,0,0,0,0,0,0,1,1
+Kutu,,kdc,,kdc,0,0,0,0,0,0,1,1
+Ozolotepec Zapotec,,zao,,zao,0,0,0,0,0,0,1,1
+Ocotepec Mixtec,,mie,,mie,0,0,0,0,0,0,1,1
+San Vicente Coatlán Zapotec,,zpt,,zpt,0,0,0,0,0,0,1,1
+Ngindo,,nnq,,nnq,0,0,0,0,0,0,1,1
+Western Apache,,apw,,apw,0,0,0,0,0,0,1,1
+Upper Necaxa Totonac,,tku,,tku,0,0,0,0,0,0,1,1
+Meru,,mer,,mer,0,0,0,0,0,0,1,1
+Luguru,,ruf,,ruf,0,0,0,0,0,0,1,1
+San Juan Colorado Mixtec,,mjc,,mjc,0,0,0,0,0,0,1,1
+Muyang,,muy,,muy,0,0,0,0,0,0,1,1
+Mwani,,wmw,,wmw,0,0,0,0,0,0,1,1
+Esan,,ish,,ish,0,0,0,0,0,0,1,1
+Makhuwa-Meetto,,mgh,,mgh,0,0,0,0,0,0,1,1
+Dungan,,dng,,dng,0,0,0,0,0,0,1,1
+San Martín Itunyoso Triqui,,trq,,trq,0,0,0,0,0,0,1,1
+Ata Manobo,,atd,,atd,0,0,0,0,0,0,1,1
+Minaveha,,mvn,,mvn,0,0,0,0,0,0,1,1
+Nigeria Mambila,,mzk,,mzk,0,0,0,0,0,0,1,1
+Southern Puebla Mixtec,,mit,,mit,0,0,0,0,0,0,1,1
+Paiwan,,pwn,,pwn,0,0,0,0,0,0,1,1
+Nyole,,nuj,,nuj,0,0,0,0,0,0,1,1
+Caluyanun,,clu,,clu,0,0,0,0,0,0,1,1
+Miahuatlán Zapotec,,zam,,zam,0,0,0,0,0,0,1,1
+Murui Huitoto,,huu,,huu,0,0,0,0,0,0,1,1
+Abua,,abn,,abn,0,0,0,0,0,0,1,1
+Hanunoo,,hnn,,hnn,0,0,0,0,0,0,1,1
+Estado de México Otomi,,ots,,ots,0,0,0,0,0,0,1,1
+Jèrriais,,nrf,,nrf,0,0,0,0,0,0,1,1
+Northern Kankanay,,xnn,,xnn,0,0,0,0,0,0,1,1
+Mape,,mlh,,mlh,0,0,0,0,0,0,1,1
+Yine,,pib,,pib,0,0,0,0,0,0,1,1
+Samberigi,,ssx,,ssx,0,0,0,0,0,0,1,1
+Santa María Zacatepec Mixtec,,mza,,mza,0,0,0,0,0,0,1,1
+Sarangani Blaan,,bps,,bps,0,0,0,0,0,0,1,1
+Kuku-Yalanji,,gvn,,gvn,0,0,0,0,0,0,1,1
+Central Tunebo,,tuf,,tuf,0,0,0,0,0,0,1,1
+Ewondo,,ewo,,ewo,0,0,0,0,0,0,1,1
+Zotung Chin,,czt,,czt,0,0,0,0,0,0,1,1
+Quiotepec Chinantec,,chq,,chq,0,0,0,0,0,0,1,1
+Fataleka,,far,,far,0,0,0,0,0,0,1,1
+Fore,,for,,for,0,0,0,0,0,0,1,1
+Kamano,,kbq,,kbq,0,0,0,0,0,0,1,1
+Coatzospan Mixtec,,miz,,miz,0,0,0,0,0,0,1,1
+Isthmus Mixe,,mir,,mir,0,0,0,0,0,0,1,1
+Waorani,,auc,,auc,0,0,0,0,0,0,1,1
+Awara,,awx,,awx,0,0,0,0,0,0,1,1
+Mohawk,,moh,,moh,0,0,0,0,0,0,1,1
+Yawa,,yva,,yva,0,0,0,0,0,0,1,1
+Idoma,,idu,,idu,0,0,0,0,0,0,1,1
+Igede,,ige,,ige,0,0,0,0,0,0,1,1
+San Mateo Del Mar Huave,,huv,,huv,0,0,0,0,0,0,1,1
+Bana,,bcw,,bcw,0,0,0,0,0,0,1,1
+Central Tarahumara,,tar,,tar,0,0,0,0,0,0,1,1
+Tol,,jic,,jic,0,0,0,0,0,0,1,1
+Lalana Chinantec,,cnl,,cnl,0,0,0,0,0,0,1,1
+Akukem,,spm,,spm,0,0,0,0,0,0,1,1
+Kalagan,,kqe,,kqe,0,0,0,0,0,0,1,1
+Secoya,,sey,,sey,0,0,0,0,0,0,1,1
+Hamer-Banna,,amf,,amf,0,0,0,0,0,0,1,1
+Southern Conchucos Ancash Quechua,,qxo,,qxo,0,0,0,0,0,0,1,1
+Tooro,,ttj,,ttj,0,0,0,0,0,0,1,1
+Highland Puebla Nahuatl,,azz,,azz,0,0,0,0,0,0,1,1
+Yakan,,yka,,yka,0,0,0,0,0,0,1,1
+Caquinte,,cot,,cot,0,0,0,0,0,0,1,1
+Baltic Romani,,rml,,rml,0,0,0,0,0,0,1,1
+Mundurukú,,myu,,myu,0,0,0,0,0,0,1,1
+Eastern Oromo,,hae,,hae,0,0,0,0,0,0,1,1
+Ayutla Mixtec,,miy,,miy,0,0,0,0,0,0,1,1
+Buamu,,box,,box,0,0,0,0,0,0,1,1
+Wahau Kenyah,,whk,,whk,0,0,0,0,0,0,1,1
+Okpe (Southwestern Edo),,oke,,oke,0,0,0,0,0,0,1,1
+Ga'dang,,gdg,,gdg,0,0,0,0,0,0,1,1
+Bora,,boa,,boa,0,0,0,0,0,0,1,1
+Silacayoapan Mixtec,,mks,,mks,0,0,0,0,0,0,1,1
+Batak Dairi,,btd,,btd,0,0,0,0,0,0,1,1
+Atatláhuca Mixtec,,mib,,mib,0,0,0,0,0,0,1,1
+Tuyuca,,tue,,tue,0,0,0,0,0,0,1,1
+Obolo,,ann,,ann,0,0,0,0,0,0,1,1
+Buli (Ghana),,bwu,,bwu,0,0,0,0,0,0,1,1
+Ucayali-Yurúa Ashéninka,,cpb,,cpb,0,0,0,0,0,0,1,1
+Gwichʼin,,gwi,,gwi,0,0,0,0,0,0,1,1
+Lobala,,loq,,loq,0,0,0,0,0,0,1,1
+Ngawn Chin,,cnw,,cnw,0,0,0,0,0,0,1,1
+Wala,,lgl,,lgl,0,0,0,0,0,0,1,1
+Sanumá,,xsu,,xsu,0,0,0,0,0,0,1,1
+Toura (Côte d'Ivoire),,neb,,neb,0,0,0,0,0,0,1,1
+Yaminahua,,yaa,,yaa,0,0,0,0,0,0,1,1
+Lango (Uganda),,laj,,laj,0,0,0,0,0,0,1,1
+Central Bontok,,lbk,,lbk,0,0,0,0,0,0,1,1
+Cubeo,,cub,,cub,0,0,0,0,0,0,1,1
+Capanahua,,kaq,,kaq,0,0,0,0,0,0,1,1
+Eastern Arrernte,,aer,,aer,0,0,0,0,0,0,1,1
+Kalanga,,kck,,kck,0,0,0,0,0,0,1,1
+Kakabai,,kqf,,kqf,0,0,0,0,0,0,1,1
+Nomatsiguenga,,not,,not,0,0,0,0,0,0,1,1
+Giryama,,nyf,,nyf,0,0,0,0,0,0,1,1
+Tepeuxila Cuicatec,,cux,,cux,0,0,0,0,0,0,1,1
+Sylheti,,syl,,syl,0,0,0,0,0,0,1,1
+Hixkaryána,,hix,,hix,0,0,0,0,0,0,1,1
+Yamba,,yam,,yam,0,0,0,0,0,0,1,1
+Mokole,,mkl,,mkl,0,0,0,0,0,0,1,1
+Nivaclé,,cag,,cag,0,0,0,0,0,0,1,1
+Yucuna,,ycn,,ycn,0,0,0,0,0,0,1,1
+Toraja-Sa'dan,,sda,,sda,0,0,0,0,0,0,1,1
+Amatlán Zapotec,,zpo,,zpo,0,0,0,0,0,0,1,1
+Western Subanon,,suc,,suc,0,0,0,0,0,0,1,1
+Wa,,wbm,,wbm,0,0,0,0,0,0,1,1
+Rapanui,,rap,,rap,0,0,0,0,0,0,1,1
+Central Kanuri,,knc,knc_Arab,knc,0,0,1,0,1,0,1,1
+Zarma,,dje,,dje,0,0,0,0,0,0,1,1
+Nukna,,klt,,klt,0,0,0,0,0,0,1,1
+Mian,,mpt,,mpt,0,0,0,0,0,0,1,1
+Guarayu,,gyr,,gyr,0,0,0,0,0,0,1,1
+Matal,,mfh,,mfh,0,0,0,0,0,0,1,1
+Caló,,rmq,,rmq,0,0,0,0,0,0,1,1
+Baba Malay,,mbf,,mbf,0,0,0,0,0,0,1,1
+Koya,,kff,,kff,0,0,0,0,0,0,1,1
+Ndali,,ndh,,ndh,0,0,0,0,0,0,1,1
+Wè Northern,,wob,,wob,0,0,0,0,0,0,1,1
+Makaa,,mcp,,mcp,0,0,0,0,0,0,1,1
+San Miguel El Grande Mixtec,,mig,,mig,0,0,0,0,0,0,1,1
+Ngambay,,sba,,sba,0,0,0,0,0,0,1,1
+Cherokee,,chr,,chr,0,0,0,0,0,0,1,1
+Ngulu,,ngp,,ngp,0,0,0,0,0,0,1,1
+Ledo Kaili,,lew,,lew,0,0,0,0,0,0,1,1
+Magdalena Peñasco Mixtec,,xtm,,xtm,0,0,0,0,0,0,1,1
+Arapaho,,arp,,arp,0,0,0,0,0,0,1,1
+Siksika,,bla,,bla,0,0,0,0,0,0,1,1
+Ikwere,,ikw,,ikw,0,0,0,0,0,0,1,1
+Eastern Bontok,,ebk,,ebk,0,0,0,0,0,0,1,1
+Mbukushu,,mhw,,mhw,0,0,0,0,0,0,1,1
+Piapoco,,pio,,pio,0,0,0,0,0,0,1,1
+Pilagá,,plg,,plg,0,0,0,0,0,0,1,1
+Anuki,,aui,,aui,0,0,0,0,0,0,1,1
+Dibabawon Manobo,,mbd,,mbd,0,0,0,0,0,0,1,1
+Matsés,,mcf,,mcf,0,0,0,0,0,0,1,1
+Yareni Zapotec,,zae,,zae,0,0,0,0,0,0,1,1
+Ibanag,,ibg,,ibg,0,0,0,0,0,0,1,1
+Vengo,,bav,,bav,0,0,0,0,0,0,1,1
+Mayangna,,yan,,yan,0,0,0,0,0,0,1,1
+Bwaidoka,,bwd,,bwd,0,0,0,0,0,0,1,1
+Cotabato Manobo,,mta,,mta,0,0,0,0,0,0,1,1
+Kutep,,kub,,kub,0,0,0,0,0,0,1,1
+Cerma,,cme,,cme,0,0,0,0,0,0,1,1
+Páez,,pbb,,pbb,0,0,0,0,0,0,1,1
+Tupuri,,tui,,tui,0,0,0,0,0,0,1,1
+Sekpele,,lip,,lip,0,0,0,0,0,0,1,1
+Vagla,,vag,,vag,0,0,0,0,0,0,1,1
+Sierra Negra Nahuatl,,nsu,,nsu,0,0,0,0,0,0,1,1
+Sassarese Sardinian,,sdc,,sdc,0,0,0,0,0,0,1,1
+Gor,,gqr,,gqr,0,0,0,0,0,0,1,1
+Nomaande,,lem,,lem,0,0,0,0,0,0,1,1
+Nocte Naga,,njb,,njb,0,0,0,0,0,0,1,1
+Wapishana,,wap,,wap,0,0,0,0,0,0,1,1
+Yatzachi Zapotec,,zav,,zav,0,0,0,0,0,0,1,1
+Mbunda,,mck,,mck,0,0,0,0,0,0,1,1
+Ignaciano,,ign,,ign,0,0,0,0,0,0,1,1
+Mundani,,mnf,,mnf,0,0,0,0,0,0,1,1
+Moyon Naga,,nmo,,nmo,0,0,0,0,0,0,1,1
+Pogolo,,poy,,poy,0,0,0,0,0,0,1,1
+Cofán,,con,,con,0,0,0,0,0,0,1,1
+Jalapa De Díaz Mazatec,,maj,,maj,0,0,0,0,0,0,1,1
+Ghayavi,,bmk,,bmk,0,0,0,0,0,0,1,1
+Kom (India),,kmm,,kmm,0,0,0,0,0,0,1,1
+Uab Meto,,aoz,,aoz,0,0,0,0,0,0,1,1
+Parkwa,,pbi,,pbi,0,0,0,0,0,0,1,1
+Kuo,,xuo,,xuo,0,0,0,0,0,0,1,1
+Northern East Cree,,crl,,crl,0,0,0,0,0,0,1,1
+Duruma,,dug,,dug,0,0,0,0,0,0,1,1
+Gen,,gej,,gej,0,0,0,0,0,0,1,1
+Toba,,tob,,tob,0,0,0,0,0,0,1,1
+Yagua,,yad,,yad,0,0,0,0,0,0,1,1
+Duri,,mvp,,mvp,0,0,0,0,0,0,1,1
+Wanga,,lwg,,lwg,0,0,0,0,0,0,1,1
+Walmajarri,,wmt,,wmt,0,0,0,0,0,0,1,1
+Q'anjob'al,,kjb,,kjb,0,0,0,0,0,0,1,1
+Buhutu,,bxh,,bxh,0,0,0,0,0,0,1,1
+Tikar,,tik,,tik,0,0,0,0,0,0,1,1
+Adamawa Fulfulde,,fub,,fub,0,0,0,0,0,0,1,1
+Mochi,,old,,old,0,0,0,0,0,0,1,1
+Hrangkhol,,hra,,hra,0,0,0,0,0,0,1,1
+Adele,,ade,,ade,0,0,0,0,0,0,1,1
+Limos Kalinga,,kmk,,kmk,0,0,0,0,0,0,1,1
+Lenje,,leh,,leh,0,0,0,0,0,0,1,1
+Manggarai,,mqy,,mqy,0,0,0,0,0,0,1,1
+Alacatlatzala Mixtec,,mim,,mim,0,0,0,0,0,0,1,1
+Buginese,,bug,bug_Latn,bug,0,0,1,0,1,0,1,1
+Mumuye,,mzm,,mzm,0,0,0,0,0,0,1,1
+Riang (India),,ria,,ria,0,0,0,0,0,0,1,1
+Dii,,dur,,dur,0,0,0,0,0,0,1,1
+Liangmai Naga,,njn,,njn,0,0,0,0,0,0,1,1
+Makhuwa-Shirima,,vmk,,vmk,0,0,0,0,0,0,1,1
+Tyap,,kcg,,kcg,0,0,0,0,0,0,1,1
+Plapo Krumen,,ktj,,ktj,0,0,0,0,0,0,1,1
+Gangte,,gnb,,gnb,0,0,0,0,0,0,1,1
+Tai,,taw,,taw,0,0,0,0,0,0,1,1
+Konai,,kxw,,kxw,0,0,0,0,0,0,1,1
+Sirionó,,srq,,srq,0,0,0,0,0,0,1,1
+Isthmus-Mecayapan Nahuatl,,nhx,,nhx,0,0,0,0,0,0,1,1
+Krio,,kri,,kri,0,0,0,0,0,0,1,1
+Soli,,sby,,sby,0,0,0,0,0,0,1,1
+Pichis Ashéninka,,cpu,,cpu,0,0,0,0,0,0,1,1
+ut-Hun,,uth,,uth,0,0,0,0,0,0,1,1
+Algerian Arabic,,arq,,arq,0,0,0,0,0,0,1,1
+Angami Naga,,njm,,njm,0,0,0,0,0,0,1,1
+Serer,,srr,,srr,0,0,0,0,0,0,1,1
+Selee,,snw,,snw,0,0,0,0,0,0,1,1
+Fordata,,frd,,frd,0,0,0,0,0,0,1,1
+Central Malay,,pse,,pse,0,0,0,0,0,0,1,1
+Southern Toussian,,wib,,wib,0,0,0,0,0,0,1,1
+Mayo,,mfy,,mfy,0,0,0,0,0,0,1,1
+Baga Sitemu,,bsp,,bsp,0,0,0,0,0,0,1,1
+Sissala,,sld,,sld,0,0,0,0,0,0,1,1
+Ainu (Japan),,ain,,ain,0,0,0,0,0,0,1,1
+Ono,,ons,,ons,0,0,0,0,0,0,1,1
+Masaaba,,myx,,myx,0,0,0,0,0,0,1,1
+Shilluk,,shk,,shk,0,0,0,0,0,0,1,1
+Maiadomu,,mzz,,mzz,0,0,0,0,0,0,1,1
+Kurukh,,kru,,kru,0,0,0,0,0,0,1,1
+Baniwa,,bwi,,bwi,0,0,0,0,0,0,1,1
+To'abaita,,mlu,,mlu,0,0,0,0,0,0,1,1
+Maung,,mph,,mph,0,0,0,0,0,0,1,1
+Lambya,,lai,,lai,0,0,0,0,0,0,1,1
+Jola-Kasa,,csk,,csk,0,0,0,0,0,0,1,1
+Anyin,,any,,any,0,0,0,0,0,0,1,1
+Tewe,,twx,,twx,0,0,0,0,0,0,1,1
+Pokomo,,pkb,,pkb,0,0,0,0,0,0,1,1
+Salasaca Highland Quichua,,qxl,,qxl,0,0,0,0,0,0,1,1
+Pamona,,pmf,,pmf,0,0,0,0,0,0,1,1
+Machame,,jmc,,jmc,0,0,0,0,0,0,1,1
+Manado Malay,,xmm,,xmm,0,0,0,0,0,0,1,1
+Koyraboro Senni Songhai,,ses,,ses,0,0,0,0,0,0,1,1
+North Bolivian Quechua,,qul,,qul,0,0,0,0,0,0,1,1
+Kituba (Democratic Republic of Congo),,ktu,,ktu,0,0,0,0,0,0,1,1
+Northern Katang,,ncq,,ncq,0,0,0,0,0,0,1,1
+Santa María Quiegolani Zapotec,,zpi,,zpi,0,0,0,0,0,0,1,1
+Aché,,guq,,guq,0,0,0,0,0,0,1,1
+Ashéninka Pajonal,,cjo,,cjo,0,0,0,0,0,0,1,1
+Takwane,,tke,,tke,0,0,0,0,0,0,1,1
+Havu,,hav,,hav,0,0,0,0,0,0,1,1
+Nyaturu,,rim,,rim,0,0,0,0,0,0,1,1
+Laari,,ldi,,ldi,0,0,0,0,0,0,1,1
+Western Penan,,pne,,pne,0,0,0,0,0,0,1,1
+Wali (Ghana),,wlx,,wlx,0,0,0,0,0,0,1,1
+Southern Rincon Zapotec,,zsr,,zsr,0,0,0,0,0,0,1,1
+Dupaninan Agta,,duo,,duo,0,0,0,0,0,0,1,1
+Western Dani,,dnw,,dnw,0,0,0,0,0,0,1,1
+Kaba,,ksp,,ksp,0,0,0,0,0,0,1,1
+Huarijio,,var,,var,0,0,0,0,0,0,1,1
+Rungus,,drg,,drg,0,0,0,0,0,0,1,1
+Taupota,,tpa,,tpa,0,0,0,0,0,0,1,1
+Western Arrarnta,,are,,are,0,0,0,0,0,0,1,1
+Northern Tepehuan,,ntp,,ntp,0,0,0,0,0,0,1,1
+North Marquesan,,mrq,,mrq,0,0,0,0,0,0,1,1
+Yemba,,ybb,,ybb,0,0,0,0,0,0,1,1
+Datooga,,tcc,,tcc,0,0,0,0,0,0,1,1
+Wichí Lhamtés Vejoz,,wlv,,wlv,0,0,0,0,0,0,1,1
+Northern Luri,,lrc,,lrc,0,0,0,0,0,0,1,1
+Una,,mtg,,mtg,0,0,0,0,0,0,1,1
+Rukai,,dru,,dru,0,0,0,0,0,0,1,1
+Pijin,,pis,,pis,0,0,0,0,0,0,1,1
+Southern Kalinga,,ksc,,ksc,0,0,0,0,0,0,1,1
+Borgu Fulfulde,,fue,,fue,0,0,0,0,0,0,1,1
+Upper Guinea Crioulo,,pov,,pov,0,0,0,0,0,0,1,1
+Culina,,cul,,cul,0,0,0,0,0,0,1,1
+Islander Creole English,,icr,,icr,0,0,0,0,0,0,1,1
+Cajonos Zapotec,,zad,,zad,0,0,0,0,0,0,1,1
+Southern East Cree,,crj,,crj,0,0,0,0,0,0,1,1
+Ngazidja Comorian,,zdj,,zdj,0,0,0,0,0,0,1,1
+Ma'di,,mhi,,mhi,0,0,0,0,0,0,1,1
+Laki,,lki,,lki,0,0,0,0,0,0,1,1
+Karajá,,kpj,,kpj,0,0,0,0,0,0,1,1
+Koma,,kmy,,kmy,0,0,0,0,0,0,1,1
+Namiae,,nvm,,nvm,0,0,0,0,0,0,1,1
+Ambo-Pasco Quechua,,qva,,qva,0,0,0,0,0,0,1,1
+Fataluku,,ddg,,ddg,0,0,0,0,0,0,1,1
+Pisaflores Tepehua,,tpp,,tpp,0,0,0,0,0,0,1,1
+Brooke's Point Palawano,,plw,,plw,0,0,0,0,0,0,1,1
+Ngiti,,niy,,niy,0,0,0,0,0,0,1,1
+Northern Pame,,pmq,,pmq,0,0,0,0,0,0,1,1
+Warao,,wba,,wba,0,0,0,0,0,0,1,1
+Chokwe,,cjk,cjk_Latn,cjk,0,0,1,0,0,0,1,1
+Tobelo,,tlb,,tlb,0,0,0,0,0,0,1,1
+Lamkang,,lmk,,lmk,0,0,0,0,0,0,1,1
+Shor,,cjs,,cjs,0,0,0,0,0,0,1,1
+Timugon Murut,,tih,,tih,0,0,0,0,0,0,1,1
+Shughni,,sgh,,sgh,0,0,0,0,0,0,1,1
+Beaver,,bea,,bea,0,0,0,0,0,0,1,1
+Ot Danum,,otd,,otd,0,0,0,0,0,0,1,1
+Tanimuca-Retuarã,,tnc,,tnc,0,0,0,0,0,0,1,1
+Malawi Sena,,swk,,swk,0,0,0,0,0,0,1,1
+Ma'anyan,,mhy,,mhy,0,0,0,0,0,0,1,1
+Lundayeh,,lnd,,lnd,0,0,0,0,0,0,1,1
+Timne,,tem,,tem,0,0,0,0,0,0,1,1
+Pwo Northern Karen,,pww,,pww,0,0,0,0,0,0,1,1
+Adi,,adi,,adi,0,0,0,0,0,0,1,1
+Simte,,smt,,smt,0,0,0,0,0,0,1,1
+Santiago del Estero Quichua,,qus,,qus,0,0,0,0,0,0,1,1
+Nsenga,,nse,,nse,0,0,0,0,0,0,1,1
+Mampruli,,maw,,maw,0,0,0,0,0,0,1,1
+Sankaran Maninka,,msc,,msc,0,0,0,0,0,0,1,1
+Phom Naga,,nph,,nph,0,0,0,0,0,0,1,1
+Dhangu-Djangu,,dhg,,dhg,0,0,0,0,0,0,1,1
+Konyak Naga,,nbe,,nbe,0,0,0,0,0,0,1,1
+Gungu,,rub,,rub,0,0,0,0,0,0,1,1
+Soga,,xog,,xog,0,0,0,0,0,0,1,1
+Wayana,,way,,way,0,0,0,0,0,0,1,1
+Ngiemboon,,nnh,,nnh,0,0,0,0,0,0,1,1
+Sadri,,sck,,sck,0,0,0,0,0,0,1,1
+Rajbanshi,,rjs,,rjs,0,0,0,0,0,0,1,1
+Tampulma,,tpm,,tpm,0,0,0,0,0,0,1,1
+Bahnar,,bdq,,bdq,0,0,0,0,0,0,1,1
+Tamil,ta,tam,tam_Taml,ta,1,1,1,1,1,1,1,1
+Kazakh,kk,kaz,kaz_Cyrl,kk,1,1,1,1,1,0,1,1
+Icelandic,is,isl,isl_Latn,is,1,1,1,1,1,1,1,1
+Nepali (individual language),,npi,npi_Deva,npi,0,0,1,1,0,0,1,1
+Filipino,fil,fil,,fil,1,1,0,0,0,0,1,1
+Macedonian,mk,mkd,mkd_Cyrl,mk,1,1,1,1,1,1,1,1
+Afrikaans,af,afr,afr_Latn,af,1,1,1,1,1,0,1,1
+Marathi,mr,mar,mar_Deva,mr,1,1,1,1,1,1,1,1
+Georgian,ka,kat,kat_Geor,ka,1,1,1,1,1,0,1,1
+Northern Uzbek,,uzn,uzn_Latn,uzn,0,0,1,1,0,0,1,1
+Galician,gl,glg,glg_Latn,gl,1,1,1,1,1,0,1,1
+Belarusian,be,bel,bel_Cyrl,be,0,1,1,1,1,0,1,1
+Malayalam,ml,mal,mal_Mlym,ml,1,1,1,1,1,1,1,1
+Gujarati,gu,guj,guj_Gujr,gu,1,1,1,1,1,1,1,1
+Telugu,te,tel,tel_Telu,te,1,1,1,1,1,1,1,1
+Burmese,my,mya,mya_Mymr,my,1,1,1,1,1,0,1,1
+Moroccan Arabic,,ary,ary_Arab,ary,0,0,1,1,0,0,1,1
+Halh Mongolian,,khk,khk_Cyrl,khk,0,0,1,1,0,0,1,1
+Kannada,kn,kan,kan_Knda,kn,1,1,1,1,1,1,1,1
+Basque,eu,eus,eus_Latn,eu,1,1,1,1,1,0,1,1
+Khmer,km,khm,khm_Khmr,km,1,1,1,1,1,0,1,1
+Armenian,hy,hye,hye_Armn,hy,1,1,1,1,1,0,1,1
+Swahili (individual language),sw,swh,swh_Latn,sw,1,1,1,1,1,1,1,1
+Panjabi,pa,pan,pan_Guru,pa,1,1,1,1,1,0,1,1
+Welsh,cy,cym,cym_Latn,cy,1,1,1,1,1,0,1,1
+Norwegian Nynorsk,nn,nno,nno_Latn,nn,0,0,1,1,1,0,1,1
+Sinhala,si,sin,sin_Sinh,si,1,1,1,0,1,0,1,1
+Irish,ga,gle,gle_Latn,ga,1,1,1,1,1,0,1,1
+Kirghiz,ky,kir,kir_Cyrl,ky,1,1,1,1,1,0,1,1
+Tajik,tg,tgk,tgk_Cyrl,tg,0,1,1,1,1,0,1,1
+Somali,so,som,som_Latn,so,1,1,1,1,1,0,1,1
+Egyptian Arabic,,arz,arz_Arab,arz,0,0,1,1,0,0,1,1
+Southern Pashto,,pbt,pbt_Arab,pbt,0,0,1,1,0,0,1,1
+Odia,,ory,ory_Orya,ory,0,0,1,1,0,0,1,1
+Betawi,,bew,,bew,0,0,0,0,1,0,1,1
+Narom,,nrm,,nrm,0,0,0,0,0,0,1,1
+Maltese,mt,mlt,mlt_Latn,mt,1,1,1,1,1,1,1,1
+Najdi Arabic,,ars,ars_Arab,ars,0,0,1,0,0,0,1,1
+Amharic,am,amh,amh_Ethi,am,1,1,1,1,1,0,1,1
+Esperanto,eo,epo,epo_Latn,eo,0,1,1,0,1,0,1,1
+Central Kurdish,,ckb,ckb_Arab,ckb,0,0,1,1,0,0,1,1
+Northern Kurdish,,kmr,kmr_Latn,kmr,0,0,1,0,0,0,1,1
+Fiji Hindi,,hif,,hif,0,0,0,0,0,0,1,1
+Lao,lo,lao,lao_Laoo,lo,1,1,1,1,1,0,1,1
+Luxembourgish,lb,ltz,ltz_Latn,lb,0,1,1,0,1,0,1,1
+Tatar,tt,tat,tat_Cyrl,tt,1,1,1,0,1,0,1,1
+Scottish Gaelic,gd,gla,gla_Latn,gd,0,1,1,0,1,0,1,1
+Sindhi,sd,snd,snd_Arab,sd,1,1,1,1,1,0,1,1
+Plateau Malagasy,,plt,plt_Latn,plt,0,0,1,0,0,0,1,1
+Yue Chinese,,yue,yue_Hant,yue,0,0,1,1,1,0,1,1
+Tibetan,bo,bod,bod_Tibt,bo,1,0,1,0,1,0,1,1
+Javanese,jv,jav,jav_Latn,jv,0,1,1,1,1,0,1,1
+Haitian,ht,hat,hat_Latn,ht,1,1,1,0,1,0,1,1
+Cebuano,ceb,ceb,ceb_Latn,ceb,1,1,1,1,1,0,1,1
+Hmong Daw,,mww,,mww,0,0,0,0,0,0,1,1
+Western Frisian,fy,fry,,fy,0,1,0,0,1,0,1,1
+Kinyarwanda,rw,kin,kin_Latn,rw,1,1,1,0,1,0,1,1
+Maori,mi,mri,mri_Latn,mi,1,1,1,0,1,0,1,1
+Xhosa,xh,xho,xho_Latn,xh,1,1,1,0,1,0,1,1
+Uighur,ug,uig,uig_Arab,ug,1,1,1,0,1,0,1,1
+Papiamento,,pap,pap_Latn,pap,0,0,1,0,1,0,1,1
+Faroese,fo,fao,fao_Latn,fo,1,0,1,0,1,0,1,1
+Turkmen,tk,tuk,tuk_Latn,tk,1,1,1,0,1,0,1,1
+Assamese,as,asm,asm_Beng,as,1,1,1,1,1,0,1,1
+Eastern Yiddish,,ydd,ydd_Hebr,ydd,0,0,1,0,0,0,1,1
+Samoan,sm,smo,smo_Latn,sm,1,1,1,0,1,0,1,1
+Dhivehi,dv,div,,dv,1,1,0,0,1,0,1,1
+Bashkir,ba,bak,bak_Cyrl,ba,1,0,1,0,1,0,1,1
+Southern Sotho,st,sot,sot_Latn,st,1,1,1,0,1,0,1,1
+Corsican,co,cos,,co,0,1,0,0,1,0,1,1
+Western Armenian,,hyw,,hyw,0,0,0,0,0,0,1,1
+Igbo,ig,ibo,ibo_Latn,ig,1,1,1,1,1,0,1,1
+Hawaiian,haw,haw,,haw,0,1,0,0,1,0,1,1
+Sundanese,su,sun,sun_Latn,su,0,1,1,0,1,0,1,1
+Zulu,zu,zul,zul_Latn,zu,1,1,1,1,1,0,1,1
+Nyanja,ny,nya,nya_Latn,ny,1,1,1,1,1,1,1,1
+Yoruba,yo,yor,yor_Latn,yo,1,1,1,1,1,0,1,1
+Shona,sn,sna,sna_Latn,sn,1,1,1,1,1,0,1,1
+Lushai,,lus,lus_Latn,lus,0,0,1,0,1,0,1,1
+Asturian,,ast,ast_Latn,ast,0,0,1,0,0,0,1,1
+Southern Kurdish,,sdh,,sdh,0,0,0,0,0,0,1,1
+Yakut,,sah,,sah,0,0,0,0,1,0,1,1
+Chuvash,,chv,,chv,0,0,0,0,0,0,1,1
+Occitan (post 1500),oc,oci,oci_Latn,oc,0,0,1,0,1,0,1,1
+South Azerbaijani,,azb,azb_Arab,azb,0,0,1,0,0,0,1,1
+Tigrinya,ti,tir,tir_Ethi,ti,1,1,1,0,1,0,1,1
+Low German,,nds,,nds,0,0,0,0,1,0,1,1
+Neapolitan,,nap,,nap,0,0,0,0,0,0,1,1
+Swiss German,,gsw,,gsw,0,0,0,0,0,0,1,1
+Hakha Chin,,cnh,,cnh,0,0,0,0,1,0,1,1
+Breton,,bre,,bre,0,0,0,0,0,0,1,1
+Ossetian,os,oss,,os,0,0,0,0,1,0,1,1
+Angika,,anp,,anp,0,0,0,0,0,0,1,1
+Northern Sami,se,sme,,se,0,0,0,0,1,0,1,1
+Hiligaynon,,hil,,hil,0,0,0,0,1,0,1,1
+Sanskrit,sa,san,san_Deva,sa,1,1,1,0,1,0,1,1
+Romansh,rm,roh,,rm,0,0,0,0,1,0,1,1
+Rundi,rn,run,run_Latn,rn,0,0,1,0,1,0,1,1
+Rusyn,,rue,,rue,0,0,0,0,0,0,1,1
+Bavarian,,bar,,bar,0,0,0,0,0,0,1,1
+Levantine Arabic,,apc,apc_Arab,apc,0,0,1,0,0,0,1,1
+West Central Oromo,,gaz,gaz_Latn,gaz,0,0,1,1,0,0,1,1
+Seselwa Creole French,,crs,,crs,0,0,0,0,0,0,1,1
+Crimean Tatar,,crh,crh_Latn,crh,0,0,1,0,0,0,1,1
+Limburgish,,lim,lim_Latn,lim,0,0,1,0,0,0,1,1
+Udmurt,,udm,,udm,0,0,0,0,0,0,1,1
+Upper Sorbian,,hsb,,hsb,0,0,0,0,0,0,1,1
+Kalaallisut,kl,kal,,kl,0,0,0,0,1,0,1,1
+Kirmanjki (individual language),,kiu,,kiu,0,0,0,0,0,0,1,1
+Eastern Mari,,mhr,,mhr,0,0,0,0,0,0,1,1
+Maithili,mai,mai,mai_Deva,mai,1,1,1,1,0,0,1,1
+Friulian,,fur,fur_Latn,fur,0,0,1,0,0,0,1,1
+Western Panjabi,,pnb,,pnb,0,0,0,0,0,0,1,1
+Khasi,,kha,,kha,0,0,0,0,0,0,1,1
+Chechen,,che,,che,0,0,0,0,0,0,1,1
+Sardinian,sc,srd,srd_Latn,sc,0,0,1,0,1,0,1,1
+Ganda,lg,lug,lug_Latn,lg,0,1,1,1,1,0,1,1
+Zeeuws,,zea,,zea,0,0,0,0,0,0,1,1
+Lombard,,lmo,lmo_Latn,lmo,0,0,1,0,1,0,1,1
+Lingala,ln,lin,lin_Latn,ln,1,1,1,0,1,0,1,1
+Gurani,,hac,,hac,0,0,0,0,0,0,1,1
+Fijian,fj,fij,fij_Latn,fj,1,0,1,0,1,0,1,1
+Old Norse,,non,,non,0,0,0,0,0,0,1,1
+Aragonese,,arg,,arg,0,0,0,0,0,0,1,1
+Tuvinian,,tyv,,tyv,0,0,0,0,0,0,1,1
+Dzongkha,dz,dzo,dzo_Tibt,dz,0,0,1,0,1,0,1,1
+Balinese,,ban,ban_Latn,ban,0,0,1,0,1,0,1,1
+Vlax Romani,,rmy,,rmy,0,0,0,0,0,0,1,1
+Tunisian Arabic,,aeb,aeb_Arab,aeb,0,0,1,0,0,0,1,1
+Iloko,,ilo,ilo_Latn,ilo,0,0,1,0,1,0,1,1
+Newari,,new,,new,0,0,0,0,1,0,1,1
+Iban,,iba,,iba,0,0,0,0,0,0,1,1
+Balkan Romani,,rmn,,rmn,0,0,0,0,0,0,1,1
+Ewe,ee,ewe,ewe_Latn,ee,0,1,1,0,1,0,1,1
+Bhojpuri,bho,bho,bho_Deva,bho,1,1,1,0,0,0,1,1
+Chhattisgarhi,,hne,hne_Deva,hne,0,0,1,0,0,0,1,1
+Walloon,wa,wln,,wa,0,0,0,0,1,0,1,1
+Piemontese,,pms,,pms,0,0,0,0,0,0,1,1
+Komi-Zyrian,,kpv,,kpv,0,0,0,0,0,0,1,1
+Batak Toba,,bbc,,bbc,0,0,0,0,1,0,1,1
+Tsonga,ts,tso,tso_Latn,ts,0,1,1,0,1,0,1,1
+Russia Buriat,,bxr,,bxr,0,0,0,0,0,0,1,1
+Paraguayan Guaraní,gn,gug,grn_Latn,gn,0,1,1,0,1,0,1,1
+North Ndebele,,nde,,nde,0,0,0,0,0,0,1,1
+Pedi,nso,nso,nso_Latn,nso,1,1,1,0,1,0,1,1
+Tahitian,ty,tah,,ty,1,0,0,0,1,0,1,1
+Tedim Chin,,ctd,,ctd,0,0,0,0,0,0,1,1
+Tswana,tn,tsn,tsn_Latn,tn,1,0,1,0,1,0,1,1
+Morisyen,,mfe,,mfe,0,0,0,0,0,0,1,1
+Kachin,,kac,kac_Latn,kac,0,0,1,0,1,0,1,1
+Kabyle,,kab,kab_Latn,kab,0,0,1,0,0,0,1,1
+Scots,,sco,,sco,0,0,0,0,0,0,1,1
+Kara-Kalpak,,kaa,,kaa,0,0,0,0,0,0,1,1
+Sicilian,,scn,scn_Latn,scn,0,0,1,0,0,0,1,1
+Mirandese,,mwl,,mwl,0,0,0,0,0,0,1,1
+Gilaki,,glk,,glk,0,0,0,0,0,0,1,1
+Tonga (Tonga Islands),to,ton,,to,1,0,0,0,1,0,1,1
+Falam Chin,,cfm,,cfm,0,0,0,0,0,0,1,1
+Dutch,nl,nld,nld_Latn,nl,1,1,1,1,1,1,1,1
+Polish,pl,pol,pol_Latn,pl,1,1,1,1,1,1,1,1
+Indonesian,id,ind,ind_Latn,id,1,1,1,1,1,1,1,1
+Vietnamese,vi,vie,vie_Latn,vi,1,1,1,1,1,1,1,1
+Korean,ko,kor,kor_Hang,ko,1,1,1,1,1,1,1,1
+Turkish,tr,tur,tur_Latn,tr,1,1,1,1,1,1,1,1
+Persian,fa,fas,,fa,1,1,0,1,1,0,1,1
+Swedish,sv,swe,swe_Latn,sv,1,1,1,1,1,1,1,1
+Czech,cs,ces,ces_Latn,cs,1,1,1,1,1,1,1,1
+Romanian,ro,ron,ron_Latn,ro,1,1,1,1,1,1,1,1
+Standard Arabic,,arb,arb_Arab,arb,0,0,1,1,0,0,1,1
+Norwegian Bokmål,nb,nob,nob_Latn,nb,1,0,1,1,1,0,1,1
+Hungarian,hu,hun,hun_Latn,hu,1,1,1,1,1,1,1,1
+Danish,da,dan,dan_Latn,da,1,1,1,1,1,1,1,1
+Ukrainian,uk,ukr,ukr_Cyrl,uk,1,1,1,1,1,1,1,1
+Thai,th,tha,tha_Thai,th,1,1,1,1,1,1,1,1
+Modern Greek (1453-),el,ell,ell_Grek,el,1,1,1,1,1,1,1,1
+Finnish,fi,fin,fin_Latn,fi,1,1,1,1,1,1,1,1
+Bulgarian,bg,bul,bul_Cyrl,bg,1,1,1,1,1,1,1,1
+Slovak,sk,slk,slk_Latn,sk,1,1,1,1,1,1,1,1
+Hindi,hi,hin,hin_Deva,hi,1,1,1,1,1,1,1,1
+Lithuanian,lt,lit,lit_Latn,lt,1,1,1,1,1,1,1,1
+Bosnian,bs,bos,bos_Latn,bs,1,1,1,1,1,0,1,1
+Hebrew,he,heb,heb_Hebr,he,1,1,1,1,1,0,1,1
+Catalan,ca,cat,cat_Latn,ca,1,1,1,1,1,0,1,1
+Slovenian,sl,slv,slv_Latn,sl,1,1,1,1,1,1,1,1
+Croatian,hr,hrv,hrv_Latn,hr,1,1,1,1,1,1,1,1
+Standard Estonian,,ekk,,ekk,0,0,0,0,0,0,1,1
+Bengali,bn,ben,ben_Beng,bn,1,1,1,1,1,1,1,1
+Standard Malay,,zsm,zsm_Latn,zsm,0,0,1,0,0,0,1,1
+Standard Latvian,,lvs,lvs_Latn,lvs,0,0,1,1,0,0,1,1
+North Azerbaijani,,azj,azj_Latn,azj,0,0,1,1,0,0,1,1
+Tosk Albanian,,als,als_Latn,als,0,0,1,0,0,0,1,1
+Serbian,sr,srp,srp_Cyrl,sr,0,1,1,1,1,0,1,1
+Urdu,ur,urd,urd_Arab,ur,1,1,1,1,1,1,1,1
+English,en,eng,eng_Latn,en,1,1,1,1,1,1,1,1
+Russian,ru,rus,rus_Cyrl,ru,1,1,1,1,1,1,1,1
+Mandarin Chinese,,cmn,,cmn,0,0,0,1,0,0,1,1
+Japanese,ja,jpn,jpn_Jpan,ja,1,1,1,1,1,1,1,1
+German,de,deu,deu_Latn,de,1,1,1,1,1,1,1,1
+Spanish,es,spa,spa_Latn,es,1,1,1,1,1,1,1,1
+French,fr,fra,fra_Latn,fr,1,1,1,1,1,1,1,1
+Italian,it,ita,ita_Latn,it,1,1,1,1,1,1,1,1
+Portuguese,pt,por,por_Latn,pt,1,1,1,1,1,1,1,1

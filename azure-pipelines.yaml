@@ -1,0 +1,37 @@
+# Copyright (c) Microsoft Corporation. All rights reserved.
+# Licensed under the MIT License.
+
+trigger:
+  branches:
+    include:
+      - main
+
+pr:
+  branches:
+    include:
+      - main
+
+pool:
+  vmImage: "ubuntu-latest"
+
+steps:
+  - task: UsePythonVersion@0
+    inputs:
+      versionSpec: "3.12"
+    displayName: "Use Python 3.12"
+
+  - script: |
+      python -m pip install --upgrade pip
+      pip install -r requirements.txt
+      pip install -e ".[dev]"
+    displayName: "Install dependencies"
+
+  - script: |
+      python -m pytest tests/ --tb=short
+    displayName: "Run tests"
+
+  - task: ComponentGovernanceComponentDetection@0
+    displayName: "Component Governance Detection"
+    inputs:
+      scanType: "Register"
+      verbosity: "Verbose"

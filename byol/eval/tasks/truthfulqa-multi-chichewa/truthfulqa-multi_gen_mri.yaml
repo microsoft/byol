@@ -1,0 +1,2 @@
+include: truthfulqa-multi_gen_common_mri.yaml
+task: truthfulqa-multi_gen_mri

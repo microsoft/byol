@@ -1,0 +1,41 @@
+# BYOL CPT Data Preparation — Chichewa (nya)
+tgt_lang_code: nya
+tgt_lang_name: Chichewa
+output_dir: ~/byol-data
+overwrite: false
+steps:
+  download_tgt_lang_fineweb2: true
+  refine_tgt_lang: true
+  download_eng_finewebedu: true
+  refine_eng: true
+  translate_eng_to_tgt_lang: true
+fineweb2:
+  dataset_name: nya_Latn
+  splits:
+  - train
+finewebedu:
+  num_shards: 14
+subset:
+  max_token_count: 1024
+  seed: 42
+refine_tgt_lang_config:
+  model_name: gpt-5
+  reasoning_effort: low
+  batch_size: 4
+  concurrency: 32
+  checkpoint_every: 50
+  token_budget_per_item: 2048
+refine_eng_config:
+  model_name: gpt-5-mini
+  reasoning_effort: minimal
+  batch_size: 16
+  concurrency: 128
+  checkpoint_every: 1000
+  token_budget_per_item: 1024
+translate_config:
+  model_name: gpt-5
+  reasoning_effort: low
+  batch_size: 16
+  concurrency: 96
+  checkpoint_every: 5000
+  token_budget_per_item: 1536

@@ -1,0 +1,8 @@
+include: _flores_common_yaml
+task: flores_en_mri
+doc_to_text: 'You are a translation expert, provide translation of the input sentence without any additional text or reasoning
+
+  English sentence: {{sentence_eng_Latn}}
+
+  Māori sentence:'
+doc_to_target: '{{sentence_mri_Latn}}'

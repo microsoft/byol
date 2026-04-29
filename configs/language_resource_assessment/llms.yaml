@@ -1,0 +1,179 @@
+# =============================================================================
+# Translator Configurations for Language Resource Assessment
+# =============================================================================
+# This file configures translators for the find-best-translator task.
+# The 'factory_name' field maps to the translator registry in translation_backends.
+#
+# Language format types (used by different backends):
+#   - full_name: "English", "Chichewa" (GPT models, DeepSeek)
+#   - iso2: "en", "ny" (Google, Azure Translator)
+#   - iso3: "eng", "nya" (Azure Translator target)
+#   - flores200: "eng_Latn", "nya_Latn" (NLLB)
+# =============================================================================
+
+
+# =============================================================================
+# Paths Configuration
+# =============================================================================
+
+paths:
+  default_dataset: "data/rttbench_mono_dataset/RTTBench-Mono.jsonl"
+  output_base: "./results"
+
+
+# =============================================================================
+# Translator Definitions
+# =============================================================================
+# NOTE: 'factory_name' must match a model in MODEL_REGISTRY (registry.py).
+# Examples: gpt-4o, microsoft-translator, nllb-200-600m, gemma-3-4b-it
+
+translators:
+  
+  # ===========================================================================
+  # Local Models - Gemma3
+  # ===========================================================================
+
+
+  gemma-3-4b-it:
+    type: local
+    factory_name: gemma-3-4b-it
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      max_new_tokens: 256
+
+  gemma-3-12b-it:
+    type: local
+    factory_name: gemma-3-12b-it
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      max_new_tokens: 256
+
+  # ===========================================================================
+  # Local Models - Qwen3
+  # ===========================================================================
+
+  qwen3-4b:
+    type: local
+    factory_name: qwen3-4b
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      max_new_tokens: 256
+      enable_thinking: false
+
+  qwen3-8b:
+    type: local
+    factory_name: qwen3-8b
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      max_new_tokens: 256
+      enable_thinking: false
+      do_sample: false
+      repetition_penalty: 1.05
+
+  qwen3-14b:
+    type: local
+    factory_name: qwen3-14b
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      max_new_tokens: 256
+      enable_thinking: false
+      do_sample: false
+      repetition_penalty: 1.05
+
+  # ===========================================================================
+  # Local Models - Apertus (Swiss AI)
+  # ===========================================================================
+
+  apertus-8b:
+    type: local
+    factory_name: apertus-8b
+    src_lang_format: full_name
+    tgt_lang_format: full_name
+    params:
+      max_new_tokens: 256
+      do_sample: false
+      repetition_penalty: 1.05
+
+# =============================================================================
+# Language Code Mappings
+# =============================================================================
+# Add your languages here with all their code variants.
+# The system will automatically use the right code for each translator.
+
+language_codes:
+  English:
+    full_name: English
+    iso2: en
+    iso3: eng
+    flores200: eng_Latn
+    aliases: []
+
+  Chichewa:
+    full_name: Chichewa
+    iso2: ny
+    iso3: nya
+    flores200: nya_Latn
+    aliases:
+      - Nyanja
+      - Chewa
+      - Chicheŵa
+
+  Swahili:
+    full_name: Swahili
+    iso2: sw
+    iso3: swa
+    flores200: swh_Latn
+    aliases:
+      - Kiswahili
+
+  Maori:
+    full_name: Maori
+    iso2: mi
+    iso3: mri
+    flores200: mri_Latn
+    aliases:
+      - Te Reo Māori
+      - Māori
+
+  Guarani:
+    full_name: Guarani
+    iso2: gn
+    iso3: gug
+    flores200: grn_Latn
+    aliases:
+      - Guaraní
+      - Avañe'ẽ
+      - gug
+      - grn
+
+  Bhojpuri:
+    full_name: Bhojpuri
+    iso2: bh
+    iso3: bho
+    flores200: bho_Deva
+    aliases: []
+
+  Basque:
+    full_name: Basque
+    iso2: eu
+    iso3: eus
+    flores200: eus_Latn
+    aliases:
+      - Euskara
+
+  # Add more languages as needed...
+
+
+# =============================================================================
+# Default Configuration
+# =============================================================================
+
+default_translators:
+  - qwen3-8b
+  - gemma-3-12b-it
+  - apertus-8b

@@ -1,0 +1,46 @@
+dataset_path: CohereForAI/Global-MMLU-Lite
+test_split: test
+output_type: generate_until
+description: "Your response should be concise, and you should end with \"The answer is (X)\", where X is the correct letter choice.\n\n"
+
+# Prompt template
+num_fewshot: 0
+doc_to_text: |-
+  Question: {{ question | trim }}
+  Choices:
+  (A) {{ option_a | trim }}
+  (B) {{ option_b | trim }}
+  (C) {{ option_c | trim }}
+  (D) {{ option_d | trim }}
+  Answer:
+
+# Ground-truth letter
+doc_to_target: answer
+
+filter_list:
+  - name: "extract-answer"
+    filter:
+      - function: "ordered_regex"
+        regex_patterns:
+          - '[Tt]he answer is\s+\(?([A-D])\)?\b'
+          - '[Tt]he answer is:\s+\(?([A-D])\)?\b'
+          - '[Tt]he final answer is\s+\(?([A-D])\)?\b'
+          - 'answer is\s+\(?([A-D])\)?\b'
+          - '[Tt]he final answer:\s+\(?([A-D])\)?\b'
+          - '\(([A-D])\)'
+          - "([A-D])"
+        group_select: -1
+      - function: "take_first"
+
+generation_kwargs:
+  until:
+    - "</s>"
+    - "Question:"
+    - "<|im_end|>"
+  temperature: 0.0
+metric_list:
+  - metric: exact_match
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1.0

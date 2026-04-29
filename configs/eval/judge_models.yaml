@@ -1,0 +1,182 @@
+# Model Configuration File
+# Supports both HuggingFace models and API endpoint-based models
+#
+# For local models, set BYOL_WEIGHTS_DIR to the directory containing model folders:
+#   export BYOL_WEIGHTS_DIR=/path/to/your/weights
+# Then use just the folder name in 'repo' (e.g. byol_nya_4b_M)
+# HuggingFace repos (e.g. google/gemma-3-4b-it) work without any env var.
+comparison: 
+  model_a: 
+    name: Gemma-3-4B-Nya-IT-04
+    device: cuda:3
+
+  model_b: 
+    name: GPT-4o
+    device: cuda:2
+
+# Model families with shared generation parameters
+model_families:
+  gemma-3:
+    type: huggingface
+    use_chat_template: true  # Apply tokenizer's chat template formatting
+    use_flash_attention_2: false  # Disable Flash Attention 2 if not installed
+    batch_size: 8  # Number of samples to process in parallel (for HuggingFace models only)
+    generation:
+      max_new_tokens: 256
+      temperature: 1.0
+      top_p: 0.95
+      top_k: 64
+      do_sample: true
+
+  apertus:
+    type: huggingface
+    use_chat_template: true  # Apply tokenizer's chat template formatting
+    batch_size: 10  # Number of samples to process in parallel (for HuggingFace models only)
+    generation:
+      max_new_tokens: 256
+      temperature: 0.8
+      top_p: 0.9
+      do_sample: true
+
+  openai-gpt:
+    type: endpoint
+    generation:
+      max_new_tokens: 256
+      temperature: 1.0
+      do_sample: true
+
+  gpt-oss:
+    type: endpoint
+    system_prompt: "You are a helpful assistant. Provide direct, concise answers without showing your reasoning process or internal thoughts. Output only the final answer in the requested language."
+    generation:
+      max_new_tokens: 512
+      temperature: 1.0
+      do_sample: true
+
+# Individual model definitions
+models:
+  # Gemma-3 family models
+  gemma-3-1b-it:
+    family: gemma-3
+    name: Gemma-3-1B-IT
+    repo: google/gemma-3-1b-it
+    batch_size: 32  # Smallest model, can handle largest batches
+
+  gemma-3-4b-it:
+    family: gemma-3
+    name: Gemma-3-4B-IT
+    repo: google/gemma-3-4b-it
+    batch_size: 16  # 4B model
+
+  gemma-3-12b-it:
+    family: gemma-3
+    name: Gemma-3-12B-IT
+    repo: google/gemma-3-12b-it
+    batch_size: 8  # 12B model
+
+  gemma-3-27b-it:
+    family: gemma-3
+    name: Gemma-3-27B-IT
+    repo: google/gemma-3-27b-it
+    batch_size: 2  # 27B model
+  
+  gemma-3-4b-Nya-it-04:
+    family: gemma-3
+    name: Gemma-3-4B-Nya-IT-04
+    repo: byol_nya_4b_M
+    batch_size: 16  # 4B model
+
+
+  gemma-3-12b-Nya-it-04:
+    family: gemma-3
+    name: Gemma-3-12B-Nya-IT-04
+    repo: byol_nya_12b_M
+    batch_size: 8  # 12B model
+
+
+  gemma-3-4b-Mri-it-04:
+    family: gemma-3
+    name: Gemma-3-4B-Mri-IT-04
+    repo: byol_mri_4b_M
+    batch_size: 16  # 4B model
+
+  gemma-3-12b-Mri-it-04:
+    family: gemma-3
+    name: Gemma-3-12B-Mri-IT-04
+    repo: byol_mri_12b_M
+    batch_size: 8  # 12B model
+
+
+  gemma-3-12b-Mri-it-4:
+    family: gemma-3
+    name: Gemma-3-12B-Mri-IT-4
+    repo: byol_mri_12b_M
+    batch_size: 8  # 12B model   
+  
+
+  # Apertus models
+  apertus:
+    family: apertus
+    name: Apertus-8B-Instruct
+    repo: swiss-ai/Apertus-8B-Instruct-2509
+    batch_size: 8  # 8B model
+
+  # GPT-OSS models (open-source GPT models)
+  gpt-oss-120:
+    family: gpt-oss
+    name: GPT-OSS-120
+    endpoint: gpt-oss-120
+
+  # OpenAI GPT models (commercial)
+  gpt-4o:
+    family: openai-gpt
+    name: GPT-4o
+    endpoint: gpt-4o
+
+  gpt-4.1:
+    family: openai-gpt
+    name: GPT-4.1
+    endpoint: gpt-4.1
+
+# Judge model configuration
+judge_model:
+  model: gpt-5-chat
+  type: endpoint
+  system_prompt: "You are an expert evaluator of language model outputs."
+  generation:
+    max_new_tokens: 512
+    temperature: 0.0
+    top_p: 1.0
+
+# Evaluation settings
+evaluation:
+  enable_language_detection: true  # if false, skip detection and judge all samples
+
+  language_detection:
+    model: gpt-5-chat
+    system_prompt: >
+      You are a {target_name} language expert. You will be given a text and your role
+      is to determine whether it is written in {target_name}. If more than 10% of the
+      text is in a different language, you must identify it as not matching the expected language.
+
+    # Keep the prompt template separate from generation params
+    detection_prompt_template: |
+      You are a {target_name} language expert. Analyze ONLY the response text.
+
+      Response: "{response}"
+      Expected language: {target_name}
+
+      Task: Analyze the Response Language
+      Question: Does the response contain more than 10% content in a language other than {target_name}?
+      - Answer "Yes" if more than 10% (excluding numbers, names, cities, URLs, code, and scientific terms)
+        is in another language.
+      - Answer "No" if the response is predominantly (90%+) in {target_name}.
+      - If the text is code-switched, estimate the proportion based on full words and sentences, not isolated borrowings.
+
+      Additionally, identify the dominant detected language and your confidence.
+
+      Please respond with ONLY these lines (no additional text):
+      Response_Has_Other_Language: [Yes/No]
+      Detected_Language: [language name]
+      Confidence: [High/Medium/Low]
+      Matches_Expected: [Yes/No]

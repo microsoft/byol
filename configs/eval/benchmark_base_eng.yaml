@@ -1,0 +1,89 @@
+# Base Model Evaluation - English (eng)
+# English-only benchmarks for base (pretrained) models
+# Few-shot evaluation (no chat template)
+
+evaluation:
+  results_dir: "results/eval"
+  gpus: "0"
+  batch_size: auto:4
+
+models:
+  - name: "model"
+    path: "google/gemma-3-4b-pt"
+    dtype: "bfloat16"
+    trust_remote_code: true
+
+lm_eval:
+  include_path: "tasks"
+  log_samples: false
+
+tasks:
+  # MMLU - 5-shot
+  - name: "global_mmlu_en"
+    num_fewshot: 5
+    enabled: true
+
+  # Winogrande - 0-shot
+  - name: "winogrande"
+    num_fewshot: 0
+    enabled: true
+
+  # COPA - 5-shot
+  - name: "copa"
+    num_fewshot: 5
+    enabled: true
+
+  # XNLI English - 5-shot
+  - name: "xnli_en"
+    num_fewshot: 5
+    enabled: true
+
+  # Belebele English - 1-shot
+  - name: "belebele_eng_Latn"
+    num_fewshot: 1
+    enabled: true
+
+  # MGSM English - 8-shot
+  - name: "mgsm_direct_en"
+    num_fewshot: 8
+    enabled: true
+
+  # HellaSwag - 10-shot
+  - name: "hellaswag"
+    num_fewshot: 10
+    enabled: true
+
+  # ARC-Challenge - 25-shot
+  - name: "arc_challenge"
+    num_fewshot: 25
+    enabled: true
+    batch_size: auto:2
+
+  # ARC-Easy - 0-shot
+  - name: "arc_easy"
+    num_fewshot: 0
+    enabled: true
+
+  # PIQA - 0-shot
+  - name: "piqa"
+    num_fewshot: 0
+    enabled: true
+
+  # XStoryCloze English - 5-shot
+  - name: "xstorycloze_en"
+    num_fewshot: 5
+    enabled: true
+
+  # TruthfulQA-Multi English - 6-shot
+  - name: "truthfulqa-multi_mc1_en,truthfulqa-multi_mc2_en,truthfulqa-multi_gen_en"
+    num_fewshot: 6
+    enabled: true
+
+  # GPQA Diamond - 5-shot
+  - name: "gpqa_diamond_n_shot"
+    num_fewshot: 5
+    enabled: true
+
+  # BBH Few-shot
+  - name: "bbh_fewshot"
+    enabled: true

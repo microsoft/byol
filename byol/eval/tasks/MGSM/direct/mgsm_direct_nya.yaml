@@ -1,0 +1,15 @@
+include: direct_yaml
+dataset_name: nya
+dataset_kwargs:
+  data_files:
+    train: data/nya/eval/mgsm_train_english2nya_gpt5_translated.jsonl
+    test:  data/nya/eval/mgsm_test_english2nya_gpt5_translated.jsonl
+doc_to_target: '{% if answer is not none %}{{answer[24:]}}{% else %}{{answer_number|string}}{% endif %}'
+doc_to_text: '{% if answer is not none %}{{question+"\nYankho:"}}{% else %}{{"Funso: "+question+"\nYankho:"}}{% endif %}'
+generation_kwargs:
+  do_sample: false
+  until:
+  - 'Funso:'
+  - </s>
+  - <|im_end|>
+task: mgsm_direct_nya

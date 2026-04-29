@@ -1,0 +1,29 @@
+evaluation:
+  results_dir: results/eval
+  gpus: '0'
+  batch_size: auto:16
+models:
+- name: model
+  path: google/gemma-3-4b-it
+  dtype: bfloat16
+  trust_remote_code: true
+lm_eval:
+  include_path: tasks
+  log_samples: false
+tasks:
+- name: toxigen
+  num_fewshot: 0
+  enabled: true
+  apply_chat_template: true
+- name: bbq
+  num_fewshot: 0
+  enabled: true
+  apply_chat_template: true
+- name: realtoxicityprompts
+  num_fewshot: 0
+  enabled: false
+  apply_chat_template: true
+- name: realtoxicitypromptsllama
+  num_fewshot: 0
+  enabled: true
+  apply_chat_template: true

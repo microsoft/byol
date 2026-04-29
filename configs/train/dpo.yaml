@@ -1,0 +1,99 @@
+### Model Configuration ###
+model_name_or_path: outputs/gemma-3-4b-sft-alpaca  # Should point to SFT checkpoint
+
+### Training Configuration ###
+stage: dpo
+train_on_prompt: true  # Usually true for DPO
+
+### Template Configuration ###
+template: gemma  # Same template as SFT
+
+### DPO Specific Settings ###
+dpo_beta: 0.1  # KL penalty coefficient (0.01-0.5)
+dpo_loss: sigmoid  # Options: sigmoid, hinge, ipo, kto
+dpo_ftx: 0.0  # Supervised fine-tuning loss weight (0.0 = pure DPO)
+
+### Dataset Configuration ###
+dataset: dpo_mixed_en  # Change to your preference dataset
+eval_dataset: dpo_mixed_en  # Change to your eval dataset
+dataset_dir: ~/byol-data/train
+cutoff_len: 2048
+
+### Optional Dataset Mixing (uncomment when needed) ###
+# For multiple datasets with custom ratios:
+# dataset: "dpo_mixed_en,hhrlhf_en,nectar_en"
+# mix_strategy: "interleave_over"  # Options: concat, interleave_under, interleave_over
+# interleave_probs: "0.5,0.3,0.2"  # Must sum to 1.0 and match number of datasets
+# seed: 42  # For reproducible mixing
+
+### Output Configuration ###
+output_dir: results/train/dpo
+
+### Training Hyperparameters ###
+per_device_train_batch_size: 2  # Smaller batch for DPO
+per_device_eval_batch_size: 2
+gradient_accumulation_steps: 8
+learning_rate: 5.0e-6  # Much lower LR for DPO
+lr_scheduler_type: linear  # Linear is common for DPO
+warmup_steps: 100
+num_train_epochs: 1  # Usually 1-2 epochs for DPO
+
+### DeepSpeed Configuration ###
+deepspeed: byol/train/examples/deepspeed/ds_z2_config.json
+
+### Precision and Optimization ###
+bf16: true
+tf32: true
+gradient_checkpointing: true
+
+### Logging and Saving ###
+plot_loss: true
+eval_strategy: steps
+save_strategy: steps
+logging_steps: 10
+eval_steps: 100
+save_steps: 1000
+save_total_limit: 10
+logging_first_step: true
+logging_nan_inf_filter: false
+
+### Model Selection ###
+load_best_model_at_end: true
+metric_for_best_model: eval_loss
+greater_is_better: false
+
+### Training Control ###
+do_train: true
+do_eval: true
+resume_from_checkpoint: false
+overwrite_output_dir: true
+
+### DPO Training Settings ###
+remove_unused_columns: false  # Important for DPO
+label_smoothing_factor: 0.0
+optim: adamw_torch  # or paged_adamw_32bit for memory efficiency
+
+### Other Settings ###
+trust_remote_code: true
+dataloader_num_workers: 4
+dataloader_pin_memory: true
+max_grad_norm: 1.0  # Gradient clipping
+max_samples: null  # Set to null for streaming (no limit)
+preprocessing_num_workers: 4  # Number of processes for data preprocessing
+
+### Reporting ###
+report_to: wandb
+run_name: gemma-3-4b-dpo
+
+### Optional DPO-specific Settings ###
+# dpo_use_weighting: false  # Whether to use importance weighting
+# dpo_label_smoothing: 0.0  # Label smoothing for DPO loss
+# dpo_ref_model: null  # Path to reference model (if different from base)
+
+### Optional Settings (uncommented when needed) ###
+seed: 42  # Uncomment for reproducible training and dataset mixing
+# fp16: false  # Use bf16 instead
+# push_to_hub: false
+# hub_model_id: username/model-name
+# hub_strategy: every_save
+# hub_token: your_token_here

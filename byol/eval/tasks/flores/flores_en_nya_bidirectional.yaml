@@ -1,0 +1,4 @@
+task: flores_en_nya_bidirectional
+task_list:
+  - flores_en_nya
+  - flores_nya_en

@@ -1,0 +1,97 @@
+# Instruct Model Evaluation - Māori (mri)
+# 0-shot evaluation with chat template
+
+evaluation:
+  results_dir: "results/eval"
+  gpus: "0"
+  batch_size: auto:4
+  apply_chat_template: true
+
+models:
+  - name: "model"
+    path: "google/gemma-3-4b-it"
+    dtype: "bfloat16"
+    trust_remote_code: true
+
+lm_eval:
+  include_path: "tasks"
+  log_samples: false
+
+tasks:
+  - name: "global_mmlu_mri_gen_0shot"
+    enabled: true
+    apply_chat_template: true
+
+  - name: "xwinograd_mri"
+    enabled: true
+    apply_chat_template: true
+    num_fewshot: 0
+
+  - name: "xcopa_mri"
+    enabled: true
+    apply_chat_template: true
+    num_fewshot: 0
+
+  - name: "xnli_mri"
+    enabled: true
+    apply_chat_template: true
+    num_fewshot: 0
+    batch_size: auto:2
+
+  - name: "mgsm_direct_mri"
+    enabled: true
+    apply_chat_template: true
+    num_fewshot: 0
+
+  - name: "hellaswag_mri"
+    enabled: true
+    apply_chat_template: true
+    num_fewshot: 0
+
+  - name: "arc_challenge_mri"
+    enabled: true
+    apply_chat_template: true
+    num_fewshot: 0
+    batch_size: auto:2
+
+  - name: "arc_easy_mri"
+    enabled: true
+    apply_chat_template: true
+    num_fewshot: 0
+
+  - name: "arc_challenge_chat_mri"
+    enabled: true
+    apply_chat_template: true
+    num_fewshot: 0
+
+  - name: "piqa_mri"
+    enabled: true
+    apply_chat_template: true
+    num_fewshot: 0
+
+  - name: "xstorycloze_mri"
+    enabled: true
+    apply_chat_template: true
+    num_fewshot: 0
+    batch_size: auto:1
+
+  - name: "flores_en_mri"
+    enabled: true
+    apply_chat_template: true
+    num_fewshot: 0
+
+  - name: "flores_mri_en"
+    enabled: true
+    apply_chat_template: true
+    num_fewshot: 0
+
+  - name: "truthfulqa-multi_mc1_mri,truthfulqa-multi_mc2_mri"
+    enabled: true
+    apply_chat_template: true
+    num_fewshot: 6
+
+  - name: "truthfulqa-multi_gen_mri"
+    enabled: true
+    apply_chat_template: true
+    num_fewshot: 6
+

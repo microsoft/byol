@@ -1,0 +1,2 @@
+include: truthfulqa-multi_mc_common_ny.yaml
+task: truthfulqa-multi_mc1_ny

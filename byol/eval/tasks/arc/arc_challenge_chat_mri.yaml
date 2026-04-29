@@ -1,0 +1,43 @@
+tag:
+  - ai2_arc
+task: arc_challenge_chat_mri
+dataset_path: json
+dataset_name: mri
+output_type: generate_until
+training_split: null
+validation_split: validation
+test_split: test
+fewshot_split: validation
+dataset_kwargs:
+  data_files:
+    validation: data/mri/eval/ai2_arc_hard_validation_english2mri_microsoft_translated.jsonl
+    test: data/mri/eval/ai2_arc_hard_test_english2mri_microsoft_translated.jsonl
+doc_to_text: 'He pātai kei raro me ngā whakautu e whā (A, B, C me D), kōwhiria te whakautu pai rawa.
+Pātai: {{question.strip()}}
+A. {{choices.text[0]}}
+B. {{choices.text[1]}}
+C. {{choices.text[2]}}{% if choices.text|length > 3 %}
+D. {{choices.text[3]}}{% endif %}
+Ko tō whakautu me mutu ki te "Ko te whakautu pai rawa ko [the_answer_letter]" ā ko [the_answer_letter] ko tētahi o A, B, C, D rānei.'
+gen_prefix: 'Ko te whakautu pai rawa ko'
+fewshot_delimiter: "\n\n"
+doc_to_target: "{{ 'ABCD'[answerKey|int - 1] if answerKey|string in '1234' else answerKey }}"
+num_fewshot: 0
+generation_kwargs:
+  max_gen_toks: 100
+  until:
+    - "\n\n"
+    - "."
+metric_list:
+  - metric: exact_match
+    aggregation: mean
+    higher_is_better: true
+    ignore_case: true
+    ignore_punctuation: true
+filter_list:
+  - name: remove_whitespace
+    filter:
+      - function: remove_whitespace
+      - function: take_first
+metadata:
+  version: 1.0

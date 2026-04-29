@@ -1,0 +1,7 @@
+include: xstorycloze_common_yaml
+task: xstorycloze_mri
+dataset_name: mri
+dataset_kwargs:
+  data_files:
+    train: data/mri/eval/xstory_cloze_train_english2mri_microsoft_translated.jsonl
+    eval:  data/mri/eval/xstory_cloze_eval_english2mri_microsoft_translated.jsonl

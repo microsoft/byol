@@ -1,0 +1,10 @@
+dataset_name: mri
+dataset_kwargs:
+  data_files:
+    train: data/mri/eval/xnli_validation_english2mri_microsoft_translated.jsonl
+    validation: data/mri/eval/xnli_test_english2mri_microsoft_translated.jsonl
+doc_to_choice: '{{[premise+", nē? āe, "+hypothesis,premise+", rānei? anō, "+hypothesis,premise+",\
+  \ nē? kāo, "+hypothesis]}}'
+doc_to_text: ''
+include: xnli_common_yaml
+task: xnli_mri

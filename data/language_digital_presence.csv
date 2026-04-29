@@ -1,0 +1,1504 @@
+language,lang_code,country,number_of_speakers,corpus_size,corpus_metric_used,cluster_class,cluster_name,category,family,script_type
+Latgalian,ltg,Unknown,200000,5306099,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Goan Konkani,gom,Unknown,3727900,4951610,words,0,Cluster 0,Regional,Indo-European,Non-Latin
+Lezghian,lez,Unknown,516210,4916014,words,0,Cluster 0,Indigenous,Nakh-Daghestanian,Non-Latin
+Sango,sag,Unknown,5217000,4864044,words,0,Cluster 0,Regional,Creole,Latin
+Congo Swahili,swc,Unknown,11150000,4768935,words,0,Cluster 0,Major Regional,Niger-Congo,Latin
+Võro,vro,Unknown,87210,4758556,words,0,Cluster 0,Indigenous,Uralic,Latin
+Avaric,ava,Unknown,703000,4632268,words,0,Cluster 0,Indigenous,Nakh-Daghestanian,Non-Latin
+Erzya,myv,Unknown,236660,4584817,words,0,Cluster 0,Indigenous,Uralic,Non-Latin
+Manipuri,mni,Unknown,2261000,4492845,words,0,Cluster 0,Regional,Sino-Tibetan,Non-Latin
+Kabardian,kbd,Unknown,1877800,4480568,words,0,Cluster 0,Regional,Abkhaz-Adyghe,Non-Latin
+Gagauz,gag,Unknown,200690,4478524,words,0,Cluster 0,Indigenous,Turkic,Non-Latin
+Central Bikol,bcl,Unknown,3890000,4444804,words,0,Cluster 0,Regional,Austronesian,Latin
+Ingush,inh,Unknown,353000,4409602,words,0,Cluster 0,Indigenous,Nakh-Daghestanian,Non-Latin
+Ndonga,ndo,Unknown,279000,4403918,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Southern Uzbek,uzs,Unknown,4698900,4221537,words,0,Cluster 0,Regional,Turkic,Non-Latin
+Shan,shn,Unknown,4687700,4022226,words,0,Cluster 0,Regional,Kra-Dai,Non-Latin
+Sranan Tongo,srn,Unknown,679400,3882735,words,0,Cluster 0,Indigenous,Creole,Latin
+Thado Chin,tcz,Unknown,346100,3882261,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Emilian-Romagnol,eml,Unknown,58000,3875977,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Wolof,wol,Unknown,17342800,3867973,words,0,Cluster 0,Major Regional,Niger-Congo,Latin
+Ga,gaa,Unknown,819560,3848603,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Gronings,gos,Unknown,262000,3802597,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Pfaelzisch,pfl,Unknown,400000,3782666,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Silesian,szl,Unknown,596000,3775003,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Dimli (individual language),diq,Unknown,1280000,3656334,words,0,Cluster 0,Regional,Indo-European,Latin
+Kashubian,csb,Unknown,99200,3625287,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Brahui,brh,Unknown,3005000,3567992,words,0,Cluster 0,Regional,Dravidian,Non-Latin
+Efik,efi,Unknown,2757620,3552903,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Wu Chinese,wuu,Unknown,83401190,3485324,words,0,Cluster 0,Major Regional,Sino-Tibetan,Non-Latin
+Ladino,lad,Unknown,51016,3407818,words,0,Cluster 0,Indigenous,Indo-European,Non-Latin
+Venda,ven,Unknown,3030000,3354140,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Western Mari,mrj,Unknown,15400,3315808,words,0,Cluster 0,Indigenous,Uralic,Non-Latin
+Mesopotamian Arabic,acm,Unknown,20085350,3279411,words,0,Cluster 0,Major Regional,Afro-Asiatic,Non-Latin
+Vlaams,vls,Unknown,1232000,3273813,words,0,Cluster 0,Regional,Indo-European,Latin
+Lozi,loz,Unknown,734000,3267142,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Yucateco,yua,Unknown,802520,3254741,words,0,Cluster 0,Indigenous,Mayan,Latin
+Kaqchikel,cak,Unknown,415370,3243623,words,0,Cluster 0,Indigenous,Mayan,Latin
+Kumyk,kum,Unknown,402600,3232121,words,0,Cluster 0,Indigenous,Turkic,Non-Latin
+Paite Chin,pck,Unknown,79500,3166877,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Adyghe,ady,Unknown,638200,3160197,words,0,Cluster 0,Indigenous,Abkhaz-Adyghe,Non-Latin
+Karachay-Balkar,krc,Unknown,280200,3131656,words,0,Cluster 0,Indigenous,Turkic,Non-Latin
+Bislama,bis,Unknown,122200,3129423,words,0,Cluster 0,Indigenous,Creole,Latin
+Tok Pisin,tpi,Unknown,4125630,3058252,words,0,Cluster 0,Regional,Creole,Latin
+Picard,pcd,Unknown,700000,3014295,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Southern Altai,alt,Unknown,62600,2942634,words,0,Cluster 0,Indigenous,Turkic,Non-Latin
+Tzotzil,tzo,Unknown,552700,2942115,words,0,Cluster 0,Indigenous,Mayan,Latin
+Arpitan,frp,Unknown,157000,2833689,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Luba-Lulua,lua,Unknown,7060000,2750283,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Mossi,mos,Unknown,11896700,2746296,words,0,Cluster 0,Major Regional,Niger-Congo,Latin
+Kölsch,ksh,Unknown,250000,2732556,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Kuanyama,kua,Unknown,1429000,2664533,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Pohnpeian,pon,Unknown,34930,2617476,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Chimborazo Highland Quichua,qug,Unknown,1000000,2611806,words,0,Cluster 0,Regional,Quechuan,Latin
+K'iche',quc,Unknown,1055890,2598519,words,0,Cluster 0,Regional,Mayan,Latin
+Koongo,kng,Unknown,8016500,2586064,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Ligurian,lij,Unknown,147820,2512861,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Gilbertese,gil,Unknown,130378,2476437,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kabuverdianu,kea,Unknown,781610,2476098,words,0,Cluster 0,Indigenous,Creole,Latin
+Mam,mam,Unknown,602400,2473474,words,0,Cluster 0,Indigenous,Mayan,Latin
+Achinese,ace,Unknown,2550000,2470237,words,0,Cluster 0,Regional,Austronesian,Latin
+Tiv,tiv,Unknown,4956000,2458004,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Tornedalen Finnish,fit,Unknown,60000,2429477,words,0,Cluster 0,Indigenous,Uralic,Latin
+Venetian,vec,Unknown,3852500,2393369,words,0,Cluster 0,Regional,Indo-European,Latin
+Tuvalu,tvl,Unknown,14730,2352867,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Luba-Katanga,lub,Unknown,4680000,2308384,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Banjar,bjn,Unknown,3655000,2303855,words,0,Cluster 0,Regional,Austronesian,Non-Latin
+Lak,lbe,Unknown,98100,2294677,words,0,Cluster 0,Indigenous,Nakh-Daghestanian,Non-Latin
+Karelian,krl,Unknown,19900,2273422,words,0,Cluster 0,Indigenous,Uralic,Latin
+Lower Sorbian,dsb,Unknown,6670,2233442,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Isoko,iso,Unknown,740000,2183274,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Tonga (Nyasa),tog,Unknown,382000,2181488,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Livvi,olo,Unknown,30770,2145785,words,0,Cluster 0,Indigenous,Uralic,Latin
+Cornish,cor,Unknown,600,2143237,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Nzima,nzi,Unknown,427000,2114334,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Réunion Creole French,rcf,Unknown,809000,2113926,words,0,Cluster 0,Indigenous,Creole,Latin
+Eastern Canadian Inuktitut,ike,Unknown,41700,2034692,words,0,Cluster 0,Indigenous,Eskimo-Aleut,Non-Latin
+Luo (Kenya and Tanzania),luo,Unknown,5255000,1990724,words,0,Cluster 0,Regional,Nilo-Saharan,Latin
+Tzeltal,tzh,Unknown,589000,1977655,words,0,Cluster 0,Indigenous,Mayan,Latin
+Veps,vep,Unknown,1270,1942368,words,0,Cluster 0,Indigenous,Uralic,Latin
+Abkhazian,abk,Unknown,172180,1890960,words,0,Cluster 0,Indigenous,Abkhaz-Adyghe,Non-Latin
+Tetum,tet,Unknown,491200,1856796,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Rarotongan,rar,Unknown,27190,1856586,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Central Aymara,ayr,Unknown,1464100,1728753,words,0,Cluster 0,Regional,Aymaran,Latin
+Wolaytta,wal,Unknown,2789800,1700722,words,0,Cluster 0,Regional,Afro-Asiatic,Latin
+South Ndebele,nbl,Unknown,2490000,1693920,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Pangasinan,pag,Unknown,1246730,1693561,words,0,Cluster 0,Regional,Austronesian,Latin
+Batak Simalungun,bts,Unknown,151000,1690201,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Batak Karo,btx,Unknown,491000,1671898,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Baoulé,bci,Unknown,5284060,1634944,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Hmar,hmr,Unknown,99000,1612389,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Chuukese,chk,Unknown,81600,1591535,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Poqomchi',poh,Unknown,177000,1578072,words,0,Cluster 0,Indigenous,Mayan,Latin
+Extremaduran,ext,Unknown,501500,1570131,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Eastern Bru,bru,Unknown,132000,1550702,words,0,Cluster 0,Indigenous,Austro-Asiatic,Latin
+Northern Frisian,frr,Unknown,8000,1541305,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Hiri Motu,hmo,Unknown,95000,1535289,words,0,Cluster 0,Indigenous,Pidgin,Latin
+Baatonum,bba,Unknown,1260000,1531850,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Umbu-Ungu,ubu,Unknown,32000,1521891,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Bemba (Zambia),bem,Unknown,4266000,1495876,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Dadibi,mps,Unknown,12600,1491100,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Swati,ssw,Unknown,4714500,1473622,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Dakota,dak,Unknown,1630,1470106,words,0,Cluster 0,Indigenous,Siouan-Catawban,Latin
+Inari Sami,smn,Unknown,400,1450283,words,0,Cluster 0,Indigenous,Uralic,Latin
+Fon,fon,Unknown,2520400,1445127,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Acoli,ach,Unknown,2059080,1432831,words,0,Cluster 0,Regional,Nilo-Saharan,Latin
+Manx,glv,Unknown,1660,1412371,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Musi,mui,Unknown,2191000,1387230,words,0,Cluster 0,Regional,Austronesian,Latin
+Dyula,dyu,Unknown,12841000,1376770,words,0,Cluster 0,Major Regional,Niger-Congo,Latin
+Eastern Huasteca Nahuatl,nhe,Unknown,493000,1376530,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Adangme,ada,Unknown,1020000,1358514,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Guadeloupean Creole French,gcf,Unknown,578500,1355204,words,0,Cluster 0,Indigenous,Creole,Latin
+Sakizaya,szy,Unknown,590,1334263,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Pampanga,pam,Unknown,2056220,1334116,words,0,Cluster 0,Regional,Austronesian,Latin
+Mapudungun,arn,Unknown,258410,1333244,words,0,Cluster 0,Indigenous,Mapudungu,Latin
+Moksha,mdf,Unknown,93300,1330685,words,0,Cluster 0,Indigenous,Uralic,Non-Latin
+Chuj,cac,Unknown,62120,1330076,words,0,Cluster 0,Indigenous,Mayan,Latin
+Saramaccan,srm,Unknown,34600,1328320,words,0,Cluster 0,Indigenous,Creole,Latin
+Achang,acn,Unknown,62700,1303443,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Hakka Chinese,hak,Unknown,40724430,1294808,words,0,Cluster 0,Major Regional,Sino-Tibetan,Non-Latin
+Ayacucho Quechua,quy,Unknown,1270000,1285642,words,0,Cluster 0,Regional,Quechuan,Latin
+Motu,meu,Unknown,39000,1278178,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Mon,mnw,Unknown,1108000,1262876,words,0,Cluster 0,Regional,Austro-Asiatic,Non-Latin
+Kosraean,kos,Unknown,7890,1252883,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kimbundu,kmb,Unknown,1700160,1243068,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Ngäbere,gym,Unknown,171840,1240075,words,0,Cluster 0,Indigenous,Chibchan,Latin
+Mingrelian,xmf,Unknown,290580,1237348,words,0,Cluster 0,Indigenous,Kartvelian,Non-Latin
+Isthmus Zapotec,zai,Unknown,491000,1225032,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Ambulas,abt,Unknown,33000,1221988,words,0,Cluster 0,Indigenous,Sepik,Latin
+Keley-I Kallahan,ify,Unknown,8000,1198470,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Swabian,swg,Unknown,820000,1192282,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Southern Sami,sma,Unknown,600,1172733,words,0,Cluster 0,Indigenous,Uralic,Latin
+Iu Mien,ium,Unknown,826400,1159077,words,0,Cluster 0,Indigenous,Hmong-Mien,Latin
+Tonga (Zambia),toi,Unknown,1484000,1139090,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Kriol,rop,Unknown,17490,1124780,words,0,Cluster 0,Indigenous,Creole,Latin
+Gun,guw,Unknown,1698000,1106992,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Umbundu,umb,Unknown,7810000,1100106,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Kinaray-A,krj,Unknown,601000,1088277,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kekchí,kek,Unknown,1149200,1083083,words,0,Cluster 0,Regional,Mayan,Latin
+Carpathian Romani,rmc,Unknown,178700,1078305,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Yapese,yap,Unknown,5130,1073904,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Zou,zom,Unknown,87500,1064042,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Marshallese,mah,Unknown,67800,1063640,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Awadhi,awa,Unknown,4789700,1061852,words,0,Cluster 0,Regional,Indo-European,Non-Latin
+Kuanua,ksd,Unknown,148000,1050709,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Popti',jac,Unknown,33080,1041592,words,0,Cluster 0,Indigenous,Mayan,Latin
+Talysh,tly,Unknown,204190,1039081,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Mutu,tuc,Unknown,4000,1037809,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kapingamarangi,kpg,Unknown,3000,1029587,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Plautdietsch,pdt,Unknown,362560,1017372,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Dehu,dhv,Unknown,15586,1015390,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Pular,fuf,Unknown,4866080,1004020,words,0,Cluster 0,Regional,Niger-Congo,Latin
+El Nayar Cora,crn,Unknown,33200,991165,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Central Atlas Tamazight,tzm,Unknown,3074740,976602,words,0,Cluster 0,Regional,Afro-Asiatic,Non-Latin
+Santali,sat,Unknown,7902700,972352,words,0,Cluster 0,Regional,Austro-Asiatic,Non-Latin
+Susu,sus,Unknown,2453080,968562,words,0,Cluster 0,Regional,Niger-Congo,Non-Latin
+Chavacano,cbk,Unknown,431000,962009,words,0,Cluster 0,Indigenous,Creole,Latin
+Samogitian,sgs,Unknown,500000,955209,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Central Mnong,cmo,Unknown,69100,952379,words,0,Cluster 0,Indigenous,Austro-Asiatic,Latin
+Garifuna,cab,Unknown,119400,951739,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Cusco Quechua,quz,Unknown,1500000,940907,words,0,Cluster 0,Regional,Quechuan,Latin
+Achi,acr,Unknown,161000,936941,words,0,Cluster 0,Indigenous,Mayan,Latin
+Chamorro,cha,Unknown,61900,927873,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Palauan,pau,Unknown,11700,927467,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Rade,rad,Unknown,399000,920519,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Bambara,bam,Unknown,14354650,906546,words,0,Cluster 0,Major Regional,Niger-Congo,Latin
+Mufian,aoj,Unknown,11000,905415,words,0,Cluster 0,Indigenous,Torricelli,Latin
+San Blas Kuna,cuk,Unknown,57100,902981,words,0,Cluster 0,Indigenous,Chibchan,Latin
+Jarai,jra,Unknown,540900,900405,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Ditammari,tbz,Unknown,293300,893194,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Bukiyip,ape,Unknown,16200,884397,words,0,Cluster 0,Indigenous,Torricelli,Latin
+Hmong Njua,hnj,Unknown,519520,870431,words,0,Cluster 0,Indigenous,Hmong-Mien,Latin
+Ankave,aak,Unknown,1500,864660,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Nyungwe,nyu,Unknown,490000,863415,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Huli,hui,Unknown,200000,857709,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Rawang,raw,Unknown,63000,854820,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Tinputz,tpz,Unknown,10000,853694,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Saterfriesisch,stq,Unknown,2000,843058,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Central Huasteca Nahuatl,nch,Unknown,1650000,837205,words,0,Cluster 0,Regional,Uto-Aztecan,Latin
+Kalmyk,xal,Unknown,495300,836522,words,0,Cluster 0,Indigenous,Mongolic,Non-Latin
+Belize Kriol English,bzj,Unknown,170000,834725,words,0,Cluster 0,Indigenous,Creole,Latin
+Niuean,niu,Unknown,29100,829619,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Skolt Sami,sms,Unknown,320,827911,words,0,Cluster 0,Indigenous,Uralic,Latin
+Bodo (India),brx,Unknown,1474275,814265,words,0,Cluster 0,Regional,Sino-Tibetan,Non-Latin
+Kadazan Dusun,dtp,Unknown,283700,812770,words,0,Cluster 0,Indigenous,Austronesian,Latin
+San Salvador Kongo,kwy,Unknown,2780000,810554,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Macedo-Romanian,rup,Unknown,198700,795617,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Roviana,rug,Unknown,20000,794073,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Guerrero Amuzgo,amu,Unknown,45900,789498,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Kasem,xsm,Unknown,340000,782525,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kwangali,kwn,Unknown,192000,781363,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+S'gaw Karen,ksw,Unknown,2336730,777650,words,0,Cluster 0,Regional,Sino-Tibetan,Non-Latin
+Herero,her,Unknown,248700,777046,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Tz'utujil,tzj,Unknown,111000,775365,words,0,Cluster 0,Indigenous,Mayan,Latin
+Papantla Totonac,top,Unknown,256000,771439,words,0,Cluster 0,Indigenous,Totonacan,Latin
+Farefare,gur,Unknown,969000,767388,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Telefol,tlf,Unknown,15000,762787,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Melpa,med,Unknown,144000,761200,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Waray (Philippines),war,Unknown,2614520,761198,words,0,Cluster 0,Regional,Austronesian,Latin
+Boko (Benin),bqc,Unknown,156000,760235,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Sena,seh,Unknown,2030000,760136,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Matigsalug Manobo,mbt,Unknown,63000,758398,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Nogai,nog,Unknown,85600,753855,words,0,Cluster 0,Indigenous,Turkic,Non-Latin
+Bulu (Cameroon),bum,Unknown,1658000,752867,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Patpatar,gfk,Unknown,17000,751601,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Abau,aau,Unknown,12000,740744,words,0,Cluster 0,Indigenous,Sepik,Latin
+Mambwe-Lungu,mgr,Unknown,213680,740707,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+North Tairora,tbg,Unknown,5000,737635,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Yessan-Mayo,yss,Unknown,4100,734693,words,0,Cluster 0,Indigenous,Sepik,Latin
+Huastec,hus,Unknown,160500,730667,words,0,Cluster 0,Indigenous,Mayan,Latin
+Kikuyu,kik,Unknown,8298950,729931,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Tabo,knv,Unknown,3500,727990,words,0,Cluster 0,Indigenous,South-Central Papuan,Latin
+Bola,bnp,Unknown,27800,724566,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Bini,bin,Unknown,2340000,722664,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Bimin,bhl,Unknown,4300,721015,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Rawa,rwo,Unknown,11500,719121,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Western Huasteca Nahuatl,nhw,Unknown,1650000,717378,words,0,Cluster 0,Regional,Uto-Aztecan,Latin
+Jamaican Creole English,jam,Unknown,3279400,715459,words,0,Cluster 0,Regional,Creole,Latin
+Dagbani,dag,Unknown,1170000,714088,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Aruamu,msy,Unknown,12000,713993,words,0,Cluster 0,Indigenous,Ramu-Lower Sepik,Latin
+Songe,sop,Unknown,1470000,707633,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Kamba (Kenya),kam,Unknown,5260000,703267,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Eastern Maroon Creole,djk,Unknown,73800,696174,words,0,Cluster 0,Indigenous,Creole,Latin
+Kamula,xla,Unknown,1100,689454,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Alamblak,amp,Unknown,3100,685969,words,0,Cluster 0,Indigenous,Sepik,Latin
+Urhobo,urh,Unknown,1273000,685340,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Hawai'i Creole English,hwc,Unknown,644000,683355,words,0,Cluster 0,Indigenous,Creole,Latin
+Kalam,kmh,Unknown,41000,681700,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Baruya,byr,Unknown,10000,678483,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Aguacateco,agu,Unknown,13000,677386,words,0,Cluster 0,Indigenous,Mayan,Latin
+Misima-Panaeati,mpx,Unknown,35000,674754,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Ladin,lld,Unknown,38000,669076,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Gikyode,acd,Unknown,18000,669063,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ixil,ixl,Unknown,138000,665016,words,0,Cluster 0,Indigenous,Mayan,Latin
+Pennsylvania German,pdc,Unknown,283000,663964,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Avokaya,avu,Unknown,99000,660984,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Caribbean Javanese,jvn,Unknown,94500,659261,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Nyankole,nyn,Unknown,4436800,656166,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Amarasi,aaz,Unknown,83000,653628,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Dobu,dob,Unknown,22000,653299,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Pele-Ata,ata,Unknown,4200,651923,words,0,Cluster 0,Indigenous,Yele-West New Britain,Latin
+Mezquital Otomi,ote,Unknown,119000,651035,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Konzo,koo,Unknown,1140000,648292,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Lule Sami,smj,Unknown,2000,646871,words,0,Cluster 0,Indigenous,Uralic,Latin
+Tamasheq,taq,Unknown,980000,644467,words,0,Cluster 0,Indigenous,Afro-Asiatic,Non-Latin
+Moba,mfq,Unknown,541600,642862,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Nakanai,nak,Unknown,45000,640987,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Makhuwa,vmw,Unknown,5233000,637804,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Tabassaran,tab,Unknown,87500,637627,words,0,Cluster 0,Indigenous,Nakh-Daghestanian,Non-Latin
+Nigerian Pidgin,pcm,Unknown,2125000,631289,words,0,Cluster 0,Regional,Creole,Latin
+Akeu,aeu,Unknown,19100,626564,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Central Puebla Nahuatl,ncx,Unknown,1650000,625537,words,0,Cluster 0,Regional,Uto-Aztecan,Latin
+Tulu,tcy,Unknown,2627000,625406,words,0,Cluster 0,Regional,Dravidian,Non-Latin
+Dedua,ded,Unknown,10000,625043,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Amis,ami,Unknown,209000,623553,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Bauzi,bvz,Unknown,2300,619711,words,0,Cluster 0,Indigenous,East Geelvink Bay,Latin
+Dogri (macrolanguage),doi,Unknown,3720000,619197,words,0,Cluster 0,Regional,Indo-European,Non-Latin
+Ndau,ndc,Unknown,2170000,615714,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Sediq,trv,Unknown,39200,613872,words,0,Cluster 0,Indigenous,Austronesian,Latin
+San Jerónimo Tecóatl Mazatec,maa,Unknown,237000,613396,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Assyrian Neo-Aramaic,aii,Unknown,745300,611400,words,0,Cluster 0,Indigenous,Afro-Asiatic,Non-Latin
+Mazanderani,mzn,Unknown,1350000,607436,words,0,Cluster 0,Regional,Indo-European,Non-Latin
+Lukpa,dop,Unknown,196000,602390,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Maasina Fulfulde,ffm,Unknown,2041000,596449,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Yaweyuha,yby,Unknown,5500,596102,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Texmelucan Zapotec,zpz,Unknown,6200,594661,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Sidamo,sid,Unknown,5060000,593716,words,0,Cluster 0,Regional,Afro-Asiatic,Latin
+Yongbei Zhuang,zyb,Unknown,19600000,590991,words,0,Cluster 0,Major Regional,Kra-Dai,Latin
+Nias,nia,Unknown,867000,582875,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Urak Lawoi',urk,Unknown,5000,582772,words,0,Cluster 0,Indigenous,Austronesian,Non-Latin
+Halia,hla,Unknown,49000,582739,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Bambam,ptu,Unknown,37000,581084,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Karbi,mjw,Unknown,674600,580377,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Western Bukidnon Manobo,mbb,Unknown,17800,579913,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Guambiano,gum,Unknown,42000,577090,words,0,Cluster 0,Indigenous,Paezan,Latin
+Naasioi,nas,Unknown,28000,573920,words,0,Cluster 0,Indigenous,South Bougainville,Latin
+Abaza,abq,Unknown,57000,573336,words,0,Cluster 0,Indigenous,Abkhaz-Adyghe,Non-Latin
+Tojolabal,toj,Unknown,46000,568005,words,0,Cluster 0,Indigenous,Mayan,Latin
+Kven Finnish,fkv,Unknown,1700,566620,words,0,Cluster 0,Indigenous,Uralic,Latin
+Yele,yle,Unknown,9200,563876,words,0,Cluster 0,Indigenous,Yele-West New Britain,Latin
+Anjam,boj,Unknown,3800,562623,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Sio,xsi,Unknown,10000,562406,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Sulka,sua,Unknown,6900,554680,words,0,Cluster 0,Indigenous,Language isolate,Latin
+Kipsigis,sgc,Unknown,1910000,549562,words,0,Cluster 0,Regional,Nilo-Saharan,Latin
+Khakas,kjh,Unknown,25010,549082,words,0,Cluster 0,Indigenous,Turkic,Non-Latin
+Kein,bmh,Unknown,3600,545946,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Northern Puebla Nahuatl,ncj,Unknown,113000,545412,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Angor,agg,Unknown,3700,544054,words,0,Cluster 0,Indigenous,Senagi,Latin
+Marik,dad,Unknown,8600,542949,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Nenets,yrk,Unknown,24500,539595,words,0,Cluster 0,Indigenous,Uralic,Non-Latin
+Dano,aso,Unknown,88000,538403,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Burarra,bvr,Unknown,1100,538292,words,0,Cluster 0,Indigenous,Australian,Latin
+Dargwa,dar,Unknown,372610,537219,words,0,Cluster 0,Indigenous,Nakh-Daghestanian,Non-Latin
+Djimini Senoufo,dyi,Unknown,219000,535593,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ömie,aom,Unknown,3200,530825,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Gumatj,gnn,Unknown,100,529222,words,0,Cluster 0,Indigenous,Australian,Latin
+Paama,pma,Unknown,11000,528633,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kâte,kmg,Unknown,32300,527529,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Qaqet,byx,Unknown,19000,527109,words,0,Cluster 0,Indigenous,East New Britain,Latin
+Church Slavic,chu,Unknown,9,525303,words,0,Cluster 0,Indigenous,Indo-European,Non-Latin
+Siane,snp,Unknown,59000,524648,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Korafe-Yegha,kpr,Unknown,6900,524472,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Daga,dgz,Unknown,16000,524460,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Huaylas Ancash Quechua,qwh,Unknown,442000,522387,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Zande (individual language),zne,Unknown,3543500,522128,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Khumi Chin,cnk,Unknown,69500,519662,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Nigerian Fulfulde,fuv,Unknown,17985000,519521,words,0,Cluster 0,Major Regional,Niger-Congo,Non-Latin
+Nyindrou,lid,Unknown,10000,519507,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Maskelynes,klv,Unknown,1900,518945,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Yatee Zapotec,zty,Unknown,6600,514633,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Yalálag Zapotec,zpu,Unknown,4600,513548,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Ruund,rnd,Unknown,625000,511908,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Bo-Ung,mux,Unknown,83000,510907,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Komi-Permyak,koi,Unknown,42500,510902,words,0,Cluster 0,Indigenous,Uralic,Non-Latin
+Bunama,bdd,Unknown,11000,509489,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Konkomba,xon,Unknown,1265000,508821,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Mündü,muh,Unknown,30600,508390,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ao Naga,njo,Unknown,266000,504645,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Pitjantjatjara,pjt,Unknown,3800,504511,words,0,Cluster 0,Indigenous,Australian,Latin
+Tuwali Ifugao,ifk,Unknown,46000,500637,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kenga,kyq,Unknown,139000,499994,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Dan,dnj,Unknown,2230600,499546,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Iduna,viv,Unknown,19000,499084,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Bariai,bch,Unknown,3400,498845,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Girawa,bbr,Unknown,14000,498204,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Amele,aey,Unknown,16000,497684,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Zia,zia,Unknown,9100,496908,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Kasua,khs,Unknown,1800,495129,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Kashmiri,kas,Unknown,8641500,494991,words,0,Cluster 0,Regional,Indo-European,Non-Latin
+Kyaka,kyc,Unknown,53000,493343,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Teribe,tfr,Unknown,6300,492746,words,0,Cluster 0,Indigenous,Chibchan,Latin
+Saniyo-Hiyewe,sny,Unknown,2400,490602,words,0,Cluster 0,Indigenous,Sepik,Latin
+Bedjond,bjv,Unknown,248000,489899,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Digo,dig,Unknown,769000,489780,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Yombe,yom,Unknown,1634000,487961,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Central Mazahua,maz,Unknown,99000,483248,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Mapos Buang,bzh,Unknown,22000,482986,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Yabem,jae,Unknown,7700,481285,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Somba-Siawari,bmu,Unknown,18000,479879,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Arifama-Miniafia,aai,Unknown,7100,477487,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Gokana,gkn,Unknown,197000,477457,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Southwestern Dinka,dik,Unknown,1306000,470597,words,0,Cluster 0,Regional,Nilo-Saharan,Latin
+Chopi,cce,Unknown,1521000,468098,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Minangkabau,min,Unknown,7314000,467287,words,0,Cluster 0,Regional,Austronesian,Latin
+Gwahatike,dah,Unknown,3000,466142,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Western Kanjobal,knj,Unknown,61000,463857,words,0,Cluster 0,Indigenous,Mayan,Latin
+Karkar-Yuri,yuj,Unknown,3100,463295,words,0,Cluster 0,Indigenous,Pauwasi,Latin
+Coatlán Mixe,mco,Unknown,9000,461132,words,0,Cluster 0,Indigenous,Mixe-Zoquean,Latin
+Teso,teo,Unknown,4463300,460973,words,0,Cluster 0,Regional,Nilo-Saharan,Latin
+Dawawa,dww,Unknown,6700,459929,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Imbongu,imo,Unknown,87000,457980,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Mün Chin,mwq,Unknown,18000,456235,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Malinaltepec Me'phaa,tcf,Unknown,147000,455978,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Madurese,mad,Unknown,8108000,451535,words,0,Cluster 0,Regional,Austronesian,Latin
+Saint Lucian Creole French,acf,Unknown,368300,451438,words,0,Cluster 0,Indigenous,Creole,Latin
+Yalunka,yal,Unknown,224000,450613,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Querétaro Otomi,otq,Unknown,52000,450214,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Alur,alz,Unknown,2911000,449134,words,0,Cluster 0,Regional,Nilo-Saharan,Latin
+Epena,sja,Unknown,8600,445126,words,0,Cluster 0,Indigenous,Chocoan,Latin
+Madak,mmx,Unknown,9300,444440,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Mende (Sierra Leone),men,Unknown,2722400,444311,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Mofu-Gudur,mif,Unknown,128000,443979,words,0,Cluster 0,Indigenous,Afro-Asiatic,Latin
+Bine,bon,Unknown,3200,436875,words,0,Cluster 0,Indigenous,Eastern Trans-Fly,Latin
+Yongkom,yon,Unknown,9100,435707,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Zulgo-Gemzek,gnd,Unknown,61000,434426,words,0,Cluster 0,Indigenous,Afro-Asiatic,Latin
+Maranao,mrw,Unknown,1474000,433202,words,0,Cluster 0,Regional,Austronesian,Latin
+Chiquihuitlán Mazatec,maq,Unknown,2000,432958,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Lahu,lhu,Unknown,610600,431791,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Lugbara,lgg,Unknown,2243000,430440,words,0,Cluster 0,Regional,Nilo-Saharan,Latin
+Takia,tbc,Unknown,73900,425680,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kabiyè,kbp,Unknown,1542000,423543,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Barasana-Eduria,bsn,Unknown,1100,421326,words,0,Cluster 0,Indigenous,Tucanoan,Latin
+Mbuko,mqb,Unknown,23000,419987,words,0,Cluster 0,Indigenous,Afro-Asiatic,Latin
+Ticuna,tca,Unknown,64000,419194,words,0,Cluster 0,Indigenous,Language isolate,Latin
+Lote,uvl,Unknown,10000,419176,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Guerrero Nahuatl,ngu,Unknown,233000,415976,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Ipili,ipi,Unknown,50000,415348,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Tachelhit,shi,Unknown,4592000,414772,words,0,Cluster 0,Regional,Afro-Asiatic,Latin
+Gourmanchéma,gux,Unknown,1805000,412598,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Saposa,sps,Unknown,3100,412029,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Jukun Takum,jbu,Unknown,11260,409519,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Iamalele,yml,Unknown,8200,408039,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Adioukrou,adj,Unknown,204000,407979,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Bugawac,buk,Unknown,19000,407597,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Lachiguiri Zapotec,zpa,Unknown,10000,406946,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Asháninka,cni,Unknown,43000,405931,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Binumarien,bjr,Unknown,1400,404935,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Magahi,mag,Unknown,20959200,404674,words,0,Cluster 0,Major Regional,Indo-European,Non-Latin
+Sakalava Malagasy,skg,Unknown,2652900,402991,words,0,Cluster 0,Regional,Austronesian,Latin
+Central Sama,sml,Unknown,162000,402786,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Mopán Maya,mop,Unknown,17500,402374,words,0,Cluster 0,Indigenous,Mayan,Latin
+Inabaknon,abx,Unknown,33000,402181,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kobon,kpw,Unknown,17000,400777,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Wandala,mfi,Unknown,100000,400514,words,0,Cluster 0,Indigenous,Afro-Asiatic,Latin
+Galela,gbi,Unknown,125000,400429,words,0,Cluster 0,Indigenous,West Papuan,Latin
+Suena,sue,Unknown,7300,398958,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Bargam,mlp,Unknown,7100,398562,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Yaouré,yre,Unknown,63000,398288,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kako,kkj,Unknown,224000,398229,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Aneme Wake,aby,Unknown,1700,394535,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Kuot,kto,Unknown,4700,394491,words,0,Cluster 0,Indigenous,Language isolate,Latin
+Nopala Chatino,cya,Unknown,12000,393376,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Huehuetla Tepehua,tee,Unknown,5600,392952,words,0,Cluster 0,Indigenous,Totonacan,Latin
+Ese,mcq,Unknown,20000,392034,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Koonzime,ozm,Unknown,61500,391749,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Tsimané,cas,Unknown,17000,391661,words,0,Cluster 0,Indigenous,Mosetenan,Latin
+Mískito,miq,Unknown,252000,391569,words,0,Cluster 0,Indigenous,Misumalpan,Latin
+Paasaal,sig,Unknown,64000,391348,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kayapó,txu,Unknown,10500,390890,words,0,Cluster 0,Indigenous,Jean,Latin
+Siyin Chin,csy,Unknown,11000,390479,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Agutaynen,agn,Unknown,20000,390412,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Gheg Albanian,aln,Unknown,6240600,389656,words,0,Cluster 0,Regional,Indo-European,Latin
+Migabac,mpp,Unknown,4200,389194,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Noone,nhu,Unknown,67000,388982,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kara (Papua New Guinea),leu,Unknown,12000,385999,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Lyélé,lee,Unknown,344000,385634,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Uma,ppk,Unknown,32000,385618,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Bolinao,smk,Unknown,138000,384534,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Mende (Papua New Guinea),sim,Unknown,11000,383390,words,0,Cluster 0,Indigenous,Sepik,Latin
+Ngaju,nij,Unknown,1205000,383189,words,0,Cluster 0,Regional,Austronesian,Latin
+Carapana,cbc,Unknown,700,380993,words,0,Cluster 0,Indigenous,Tucanoan,Latin
+Achuar-Shiwiar,acu,Unknown,11800,380934,words,0,Cluster 0,Indigenous,Jivaroan,Latin
+Cavineña,cav,Unknown,4000,380469,words,0,Cluster 0,Indigenous,Tacanan,Latin
+Numanggang,nop,Unknown,4700,380438,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Pontic,pnt,Unknown,372200,380173,words,0,Cluster 0,Indigenous,Indo-European,Non-Latin
+Southwest Tanna,nwi,Unknown,6200,379697,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Agarabi,agd,Unknown,55000,379539,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Nii,nii,Unknown,33000,379347,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+North Tanna,tnn,Unknown,8500,379077,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Cameroon Mambila,mcu,Unknown,73000,378433,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kaonde,kqn,Unknown,545000,378137,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Sinte Romani,rmo,Unknown,222900,377077,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Cacua,cbv,Unknown,200,376126,words,0,Cluster 0,Indigenous,Puinavean,Latin
+Wipi,gdr,Unknown,3300,375683,words,0,Cluster 0,Indigenous,Eastern Trans-Fly,Latin
+Merey,meq,Unknown,33000,373900,words,0,Cluster 0,Indigenous,Afro-Asiatic,Latin
+Eastern Karaboro,xrb,Unknown,92000,373239,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Bissa,bib,Unknown,1206000,372618,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Natügu,ntu,Unknown,7100,372478,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Meyah,mej,Unknown,58000,372122,words,0,Cluster 0,Indigenous,East Bird’s Head-Sentani,Latin
+Basa (Cameroon),bas,Unknown,501000,371749,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Macuna,myy,Unknown,2890,370441,words,0,Cluster 0,Indigenous,Tucanoan,Latin
+Iwal,kbm,Unknown,3300,369964,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Selepet,spl,Unknown,20000,369765,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Vaiphei,vap,Unknown,59600,369394,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Northern Grebo,gbo,Unknown,166000,369375,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kunimaipa,kup,Unknown,15000,368918,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Mangseng,mbh,Unknown,6200,368912,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Garrwa,wrk,Unknown,100,368317,words,0,Cluster 0,Indigenous,Australian,Latin
+Kupang Malay,mkn,Unknown,284000,368204,words,0,Cluster 0,Indigenous,Creole,Latin
+Mwaghavul,sur,Unknown,192000,368020,words,0,Cluster 0,Indigenous,Afro-Asiatic,Latin
+Desano,des,Unknown,6100,367855,words,0,Cluster 0,Indigenous,Tucanoan,Latin
+Kuwaa,blh,Unknown,30000,366155,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Carrier,crx,Unknown,1800,365539,words,0,Cluster 0,Indigenous,Eyak-Athabaskan,Latin
+Paicî,pri,Unknown,8700,365531,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Oksapmin,opm,Unknown,22000,365505,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Zaiwa,atb,Unknown,155000,364205,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Akha,ahk,Unknown,694100,362859,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Lamba,lam,Unknown,486000,362034,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kamwe,hig,Unknown,705000,361156,words,0,Cluster 0,Indigenous,Afro-Asiatic,Latin
+Akoose,bss,Unknown,199000,360720,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Deg,mzw,Unknown,61700,360603,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Bafut,bfd,Unknown,151000,360337,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kimré,kqp,Unknown,48000,359149,words,0,Cluster 0,Indigenous,Afro-Asiatic,Latin
+Sasak,sas,Unknown,3497000,358889,words,0,Cluster 0,Regional,Austronesian,Latin
+Jamiltepec Mixtec,mxt,Unknown,13000,358144,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Minica Huitoto,hto,Unknown,2500,358052,words,0,Cluster 0,Indigenous,Witotoan,Latin
+Eastern Bolivian Guaraní,gui,Unknown,170300,357983,words,0,Cluster 0,Indigenous,Tupian,Latin
+Waskia,wsk,Unknown,34000,357700,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Ama (Papua New Guinea),amm,Unknown,1400,357350,words,0,Cluster 0,Indigenous,Arai (Left May),Latin
+Nobonob,gaw,Unknown,9200,357350,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Southern Birifor,biv,Unknown,231900,356995,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ajië,aji,Unknown,6900,356796,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Hanga Hundi,wos,Unknown,13000,355680,words,0,Cluster 0,Indigenous,Sepik,Latin
+Gapapaiwa,pwg,Unknown,5300,354812,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Takuu,nho,Unknown,2100,354417,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Supyire Senoufo,spp,Unknown,754000,353249,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Peñoles Mixtec,mil,Unknown,7300,351421,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Itawit,itv,Unknown,257000,350714,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Delo,ntr,Unknown,30000,350171,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Tucano,tuo,Unknown,11950,349572,words,0,Cluster 0,Indigenous,Tucanoan,Latin
+Santa Teresa Cora,cok,Unknown,5200,348652,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Odoodee,kkc,Unknown,1000,348119,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Southeast Ambrym,tvk,Unknown,6300,347887,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Bawm Chin,bgr,Unknown,5400,347497,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Candoshi-Shapra,cbu,Unknown,3600,346577,words,0,Cluster 0,Indigenous,Language isolate,Latin
+Lambayeque Quechua,quf,Unknown,27000,345273,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Angaataha,agm,Unknown,3300,345210,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Lowland Tarahumara,tac,Unknown,13000,344611,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Comaltepec Chinantec,cco,Unknown,3200,344500,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Iraqw,irk,Unknown,1030000,343849,words,0,Cluster 0,Regional,Afro-Asiatic,Latin
+Manam,mva,Unknown,15000,343530,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Mangga Buang,mmo,Unknown,2300,343521,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Tungag,lcm,Unknown,35000,343345,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Lampung Api,ljp,Unknown,1050000,341983,words,0,Cluster 0,Regional,Austronesian,Latin
+Northern Dagara,dgi,Unknown,399000,340720,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Tuma-Irumu,iou,Unknown,2200,340311,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Kwanga,kwj,Unknown,25900,340009,words,0,Cluster 0,Indigenous,Sepik,Latin
+Panao Huánuco Quechua,qxh,Unknown,64000,339499,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Nafaanra,nfr,Unknown,113600,338002,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kanasi,soq,Unknown,5400,337441,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Botolan Sambal,sbl,Unknown,51000,337048,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kosena,kze,Unknown,5900,335053,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Tifal,tif,Unknown,6800,335038,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Borong,ksr,Unknown,4500,334160,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+West Kewa,kew,Unknown,92000,334097,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Gamo,gmv,Unknown,2128000,333663,words,0,Cluster 0,Regional,Afro-Asiatic,Non-Latin
+Kamasau,kms,Unknown,1800,332187,words,0,Cluster 0,Indigenous,Torricelli,Latin
+Mag-antsi Ayta,sgb,Unknown,15000,332049,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Olo,ong,Unknown,26000,331379,words,0,Cluster 0,Indigenous,Torricelli,Latin
+Highland Oaxaca Chontal,chd,Unknown,2800,331248,words,0,Cluster 0,Indigenous,Tequistlatecan,Latin
+Ozumacín Chinantec,chz,Unknown,4200,331167,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Paumarí,pad,Unknown,1600,331054,words,0,Cluster 0,Indigenous,Arauan,Latin
+Termanu,twu,Unknown,40000,330967,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Highland Totonac,tos,Unknown,223000,330748,words,0,Cluster 0,Indigenous,Totonacan,Latin
+Cashinahua,cbs,Unknown,9400,329998,words,0,Cluster 0,Indigenous,Panoan,Latin
+Piratapuyo,pir,Unknown,2400,328742,words,0,Cluster 0,Indigenous,Tucanoan,Latin
+Gude,gde,Unknown,285000,327792,words,0,Cluster 0,Indigenous,Afro-Asiatic,Latin
+Guajajára,gub,Unknown,23000,327568,words,0,Cluster 0,Indigenous,Tupian,Latin
+Kuranko,knk,Unknown,594000,327419,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ubir,ubr,Unknown,5500,327218,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Mauwake,mhl,Unknown,4550,326179,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Dangaura Tharu,thl,Unknown,1700000,325067,words,0,Cluster 0,Regional,Indo-European,Non-Latin
+Auhelawa,kud,Unknown,3000,324924,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Mengen,mee,Unknown,15000,324665,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Ramoaaina,rai,Unknown,21000,323871,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Tezoatlán Mixtec,mxb,Unknown,6400,323780,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Purepecha,tsz,Unknown,74900,323272,words,0,Cluster 0,Indigenous,Tarascan,Latin
+Chiquitano,cax,Unknown,150800,322090,words,0,Cluster 0,Indigenous,Language isolate,Latin
+Lelemi,lef,Unknown,96900,322009,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kandas,kqw,Unknown,1400,321045,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Waimaha,bao,Unknown,1120,320422,words,0,Cluster 0,Indigenous,Tucanoan,Latin
+Eastern Tamang,taj,Unknown,1271800,320103,words,0,Cluster 0,Regional,Sino-Tibetan,Non-Latin
+Yau (Morobe Province),yuw,Unknown,4700,319357,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Vunjo,vun,Unknown,803000,318872,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Iyo,nca,Unknown,13000,318750,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Aguaruna,agr,Unknown,65000,318638,words,0,Cluster 0,Indigenous,Jivaroan,Latin
+Balantak,blz,Unknown,39000,317682,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Yao,yao,Unknown,3862000,315214,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Maru,mhx,Unknown,177000,314882,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Gulay,gvl,Unknown,642000,314758,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Male (Ethiopia),mdy,Unknown,180000,314749,words,0,Cluster 0,Indigenous,Afro-Asiatic,Non-Latin
+Isnag,isd,Unknown,49000,314506,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Luang,lex,Unknown,27000,313780,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Bwanabwana,tte,Unknown,4100,313608,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Sabaot,spy,Unknown,324000,313280,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Golin,gvf,Unknown,180400,313129,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Urarina,ura,Unknown,3900,311611,words,0,Cluster 0,Indigenous,Language isolate,Latin
+Mekeo,mek,Unknown,36000,311609,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Folopa,ppo,Unknown,9300,311060,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Napu,npy,Unknown,8800,310835,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Koronadal Blaan,bpr,Unknown,198000,310612,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Uri,uvh,Unknown,6900,309690,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Angguruk Yali,yli,Unknown,23000,309330,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Toro So Dogon,dts,Unknown,122000,309275,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+East Kewa,kjs,Unknown,92000,309064,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Tabaru,tby,Unknown,23000,308759,words,0,Cluster 0,Indigenous,West Papuan,Latin
+Muinane,bmr,Unknown,2200,308433,words,0,Cluster 0,Indigenous,Witotoan,Latin
+Lealao Chinantec,cle,Unknown,3200,308136,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Kwoma,kmo,Unknown,5700,307413,words,0,Cluster 0,Indigenous,Sepik,Latin
+Izere,izr,Unknown,110000,307329,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Inuinnaqtun,ikt,Unknown,47000,306862,words,0,Cluster 0,Indigenous,Eskimo-Aleut,Latin
+West-Central Limba,lia,Unknown,579200,306739,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Tlachichilco Tepehua,tpt,Unknown,4700,306127,words,0,Cluster 0,Indigenous,Totonacan,Latin
+Molima,mox,Unknown,7100,304234,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kusaal,kus,Unknown,751800,304044,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Faiwol,fai,Unknown,13000,303854,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Xaasongaxango,kao,Unknown,1094800,303635,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Alyawarr,aly,Unknown,1700,302191,words,0,Cluster 0,Indigenous,Australian,Latin
+Nyemba,nba,Unknown,1210000,302022,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Lachixío Zapotec,zpl,Unknown,10000,301928,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Sochiapam Chinantec,cso,Unknown,8100,301664,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Kuwaataay,cwt,Unknown,11000,301348,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Naro,nhr,Unknown,11300,301037,words,0,Cluster 0,Indigenous,Khoe-Kwadi,Latin
+Tswa,tsc,Unknown,1414300,300193,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Biangai,big,Unknown,7400,299818,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Ocotlán Zapotec,zac,Unknown,23900,299808,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Ntcham,bud,Unknown,395200,298361,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Aghul,agx,Unknown,34000,297778,words,0,Cluster 0,Indigenous,Nakh-Daghestanian,Non-Latin
+Waris,wrs,Unknown,11100,297276,words,0,Cluster 0,Indigenous,Border,Latin
+Kukele,kez,Unknown,264000,296734,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Rotokas,roo,Unknown,12000,296550,words,0,Cluster 0,Indigenous,North Bougainville,Latin
+Makasar,mak,Unknown,2529000,295923,words,0,Cluster 0,Regional,Austronesian,Latin
+Ayautla Mazatec,vmy,Unknown,4600,295886,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Awa-Cuaiquer,kwi,Unknown,49200,294614,words,0,Cluster 0,Indigenous,Barbacoan,Latin
+Keapara,khz,Unknown,40000,294603,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Nehan,nsn,Unknown,13000,294521,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Buhid,bku,Unknown,15000,293990,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Chol,ctu,Unknown,248200,293938,words,0,Cluster 0,Indigenous,Mayan,Latin
+Sinaugoro,snc,Unknown,33000,293805,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Uspanteco,usp,Unknown,5400,293788,words,0,Cluster 0,Indigenous,Mayan,Latin
+Hanga,hag,Unknown,12000,291364,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Wichí Lhamtés Nocten,mtp,Unknown,5600,291288,words,0,Cluster 0,Indigenous,Matacoan,Latin
+Usila Chinantec,cuc,Unknown,9900,291262,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Gofa,gof,Unknown,698000,291238,words,0,Cluster 0,Indigenous,Afro-Asiatic,Non-Latin
+Palantla Chinantec,cpa,Unknown,30000,290492,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Luvale,lue,Unknown,1042000,290157,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Saliba,sbe,Unknown,4400,290092,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Gorontalo,gor,Unknown,1239000,289897,words,0,Cluster 0,Regional,Austronesian,Latin
+Au,avt,Unknown,16000,289794,words,0,Cluster 0,Indigenous,Torricelli,Latin
+South Fali,fal,Unknown,66000,289054,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Jola-Fonyi,dyo,Unknown,535200,288859,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Suau,swp,Unknown,13400,287831,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Southern Pastaza Quechua,qup,Unknown,2100,286857,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Arop-Lokep,apr,Unknown,6200,286310,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Lacandon,lac,Unknown,770,286306,words,0,Cluster 0,Indigenous,Mayan,Latin
+Sukuma,suk,Unknown,11789900,286216,words,0,Cluster 0,Major Regional,Niger-Congo,Latin
+Salt-Yui,sll,Unknown,22000,285856,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Wuvulu-Aua,wuv,Unknown,3300,285224,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Xavánte,xav,Unknown,16000,285186,words,0,Cluster 0,Indigenous,Jean,Latin
+Markweeta,enb,Unknown,141000,284367,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Kanite,kmu,Unknown,11000,284057,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Huallaga Huánuco Quechua,qub,Unknown,60000,282824,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Bishnupriya,bpy,Unknown,119000,281782,words,0,Cluster 0,Indigenous,Indo-European,Non-Latin
+Yopno,yut,Unknown,14400,280917,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Cabécar,cjp,Unknown,14000,280537,words,0,Cluster 0,Indigenous,Chibchan,Latin
+Sa'a,apb,Unknown,24000,278307,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Dawro,dwr,Unknown,1205000,277462,words,0,Cluster 0,Regional,Afro-Asiatic,Latin
+Biak,bhw,Unknown,121000,277090,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Umanakaina,gdn,Unknown,7000,276362,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Kayabí,kyz,Unknown,2710,276350,words,0,Cluster 0,Indigenous,Tupian,Latin
+Guahibo,guh,Unknown,76200,276224,words,0,Cluster 0,Indigenous,Guajiboan,Latin
+Yareba,yrb,Unknown,2600,275531,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Orokaiva,okv,Unknown,71000,275095,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Trinitario,trn,Unknown,7300,274843,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Saraiki,skr,Unknown,25620700,272833,words,0,Cluster 0,Major Regional,Indo-European,Non-Latin
+Northern Tlaxiaco Mixtec,xtn,Unknown,20500,272790,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Galibi Carib,car,Unknown,61770,272610,words,0,Cluster 0,Indigenous,Cariban,Latin
+Siroi,ssd,Unknown,2500,272045,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Alune,alp,Unknown,24000,271337,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Mitla Zapotec,zaw,Unknown,35000,271306,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Zacatlán-Ahuacatlán-Tepetzintla Nahuatl,nhi,Unknown,26000,270383,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Kwaio,kwd,Unknown,27000,268829,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Nabak,naf,Unknown,43000,268027,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Tangoa,tgp,Unknown,1400,267909,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Tepetotutla Chinantec,cnt,Unknown,2500,267816,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Tharaka,thk,Unknown,241000,267794,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Northern Emberá,emp,Unknown,47000,267460,words,0,Cluster 0,Indigenous,Chocoan,Latin
+Quioquitani-Quierí Zapotec,ztq,Unknown,6200,267288,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Parecís,pab,Unknown,1800,266563,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Gogo,gog,Unknown,3008000,265783,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Northwestern Ojibwa,ojb,Unknown,26000,264191,words,0,Cluster 0,Indigenous,Algic,Non-Latin
+Muyuw,myw,Unknown,4700,264177,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Hehe,heh,Unknown,1683000,264145,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Awiyaana,auy,Unknown,23000,262427,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Sursurunga,sgz,Unknown,8200,261667,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Mabaan,mfz,Unknown,94400,261637,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Yosondúa Mixtec,mpm,Unknown,2400,261159,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Amanab,amn,Unknown,8400,260518,words,0,Cluster 0,Indigenous,Border,Latin
+Cuiba,cui,Unknown,2000,260053,words,0,Cluster 0,Indigenous,Guajiboan,Latin
+Wayuu,guc,Unknown,764000,259244,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Kafa,kbr,Unknown,1293000,258737,words,0,Cluster 0,Regional,Afro-Asiatic,Latin
+Wik-Mungkan,wim,Unknown,500,258525,words,0,Cluster 0,Indigenous,Australian,Latin
+Western Niger Fulfulde,fuh,Unknown,3289500,257546,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Gitonga,toh,Unknown,361000,257076,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Chamacoco,ceg,Unknown,2100,256826,words,0,Cluster 0,Indigenous,Zamucoan,Latin
+Kuman (Papua New Guinea),kue,Unknown,211400,256099,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Pamplona Atta,att,Unknown,1600,256061,words,0,Cluster 0,Indigenous,Austronesian,Latin
+North Junín Quechua,qvn,Unknown,83000,255469,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Usan,wnu,Unknown,3800,254423,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Kupsabiny,kpz,Unknown,368000,253003,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Inga,inb,Unknown,21700,252968,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Inoke-Yate,ino,Unknown,28000,252965,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Kakwa,keo,Unknown,608000,252214,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Anufo,cko,Unknown,258000,252173,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Safeyoka,apz,Unknown,5100,252049,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Borei,gai,Unknown,4000,251353,words,0,Cluster 0,Indigenous,Ramu-Lower Sepik,Latin
+Sea Island Creole English,gul,Unknown,305000,251065,words,0,Cluster 0,Indigenous,Creole,Latin
+South Tairora,omw,Unknown,13000,250764,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Fanamaket,bjp,Unknown,2200,250743,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Ngangam,gng,Unknown,125000,250464,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Buglere,sab,Unknown,22000,250032,words,0,Cluster 0,Indigenous,Chibchan,Latin
+Huaylla Wanca Quechua,qvw,Unknown,321000,249922,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Patep,ptp,Unknown,3700,249215,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Batad Ifugao,ifb,Unknown,15000,247456,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Southwest Gbaya,gso,Unknown,293000,246239,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Siwu,akp,Unknown,99000,245930,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Woun Meu,noa,Unknown,25000,245781,words,0,Cluster 0,Indigenous,Chocoan,Latin
+Tena Lowland Quichua,quw,Unknown,30000,245709,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Ewage-Notu,nou,Unknown,40000,245466,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Maiwa (Papua New Guinea),mti,Unknown,3400,245118,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Koreguaje,coe,Unknown,3400,245057,words,0,Cluster 0,Indigenous,Tucanoan,Latin
+Juquila Mixe,mxq,Unknown,10000,244964,words,0,Cluster 0,Indigenous,Mixe-Zoquean,Latin
+Mentawai,mwv,Unknown,82000,243826,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Khoekhoe,naq,Unknown,428300,243476,words,0,Cluster 0,Indigenous,Khoe-Kwadi,Latin
+Mankanya,knf,Unknown,116600,243079,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Benabena,bef,Unknown,111000,242346,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Arosi,aia,Unknown,14000,238434,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Wantoat,wnc,Unknown,30700,237958,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+San Martín Quechua,qvs,Unknown,59000,237852,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Tenharim,pah,Unknown,2160,237679,words,0,Cluster 0,Indigenous,Tupian,Latin
+Atayal,tay,Unknown,85000,237606,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Seimat,ssg,Unknown,2600,237605,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Rotuman,rtm,Unknown,8600,236882,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Malvi,mup,Unknown,89000,236832,words,0,Cluster 0,Indigenous,Indo-European,Non-Latin
+Casiguran Dumagat Agta,dgc,Unknown,900,236772,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Lole,llg,Unknown,27000,236702,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Hote,hot,Unknown,5300,236678,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Mbyá Guaraní,gun,Unknown,46300,236647,words,0,Cluster 0,Indigenous,Tupian,Latin
+Tereno,ter,Unknown,27000,236478,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Mountain Koiali,kpx,Unknown,7300,236014,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Huamalíes-Dos de Mayo Huánuco Quechua,qvh,Unknown,97000,235069,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Lomwe,ngl,Unknown,3484000,234881,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Algonquin,alq,Unknown,7500,232220,words,0,Cluster 0,Indigenous,Algic,Latin
+Waima,rro,Unknown,30000,231901,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Wiru,wiu,Unknown,52000,231265,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Weri,wer,Unknown,8800,230338,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+South Ucayali Ashéninka,cpy,Unknown,18000,229053,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Imbabura Highland Quichua,qvi,Unknown,195000,228085,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Kandawo,gam,Unknown,7600,227196,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Southern Kisi,kss,Unknown,374000,226945,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Komba,kpf,Unknown,31000,226335,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Sepik Iwam,iws,Unknown,5100,225947,words,0,Cluster 0,Indigenous,Sepik,Latin
+Ilianen Manobo,mbi,Unknown,23000,225835,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Anindilyakwa,aoi,Unknown,1600,225770,words,0,Cluster 0,Indigenous,Australian,Latin
+Tabaa Zapotec,zat,Unknown,3000,225596,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Mamanwa,mmn,Unknown,9900,222917,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Uduk,udu,Unknown,67400,222875,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Mi'kmaq,mic,Unknown,26900,222548,words,0,Cluster 0,Indigenous,Algic,Latin
+Helong,heg,Unknown,19000,222369,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kwamera,tnk,Unknown,6000,221358,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Mbula,mna,Unknown,8000,220813,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Bughotu,bgt,Unknown,8300,220698,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Duala,dua,Unknown,291000,220604,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Haya,hay,Unknown,2700000,219985,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Bisu,bzi,Unknown,800,219956,words,0,Cluster 0,Indigenous,Sino-Tibetan,Non-Latin
+Chuwabu,chw,Unknown,1341000,219941,words,0,Cluster 0,Regional,Niger-Congo,Latin
+North Mesopotamian Arabic,ayp,Unknown,12587000,219621,words,0,Cluster 0,Major Regional,Afro-Asiatic,Non-Latin
+Kouya,kyf,Unknown,23000,219049,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Garo,grt,Unknown,1359000,217895,words,0,Cluster 0,Regional,Sino-Tibetan,Non-Latin
+Pa'o Karen,blk,Unknown,858740,217388,words,0,Cluster 0,Indigenous,Sino-Tibetan,Non-Latin
+Margos-Yarowilca-Lauricocha Quechua,qvm,Unknown,149000,216996,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Tataltepec Chatino,cta,Unknown,600,216988,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Whitesands,tnp,Unknown,13000,216364,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Keyagana,kyg,Unknown,42000,216051,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Tawala,tbo,Unknown,41000,215913,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Eastern Highland Otomi,otm,Unknown,61000,215168,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Usarufa,usa,Unknown,3300,214908,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Northern Pastaza Quichua,qvz,Unknown,13400,214540,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Baka (South Sudan),bdh,Unknown,73500,213495,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Label,lbb,Unknown,500,212052,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Bokobaru,bus,Unknown,86000,211885,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Zigula,ziw,Unknown,953500,210111,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Northern Thai,nod,Unknown,7798000,209665,words,0,Cluster 0,Regional,Kra-Dai,Non-Latin
+Dela-Oenale,row,Unknown,9400,208247,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kilivila,kij,Unknown,47000,207789,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Bimoba,bim,Unknown,275000,207644,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Northwest Alaska Inupiatun,esk,Unknown,28000,207221,words,0,Cluster 0,Indigenous,Eskimo-Aleut,Latin
+Antankarana Malagasy,xmv,Unknown,233000,207048,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Lewo,lww,Unknown,3800,206957,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Huautla Mazatec,mau,Unknown,102000,206280,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Angal Heneng,akh,Unknown,95500,205949,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Murle,mur,Unknown,196800,202858,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Mussau-Emira,emi,Unknown,9400,202821,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Batak Angkola,akb,Unknown,1274000,201856,words,0,Cluster 0,Regional,Austronesian,Latin
+Maca,mca,Unknown,1300,201255,words,0,Cluster 0,Indigenous,Matacoan,Latin
+Enga,enq,Unknown,432000,201187,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Southern Carrier,caf,Unknown,2300,201049,words,0,Cluster 0,Indigenous,Eyak-Athabaskan,Latin
+Chipaya,cap,Unknown,2400,198485,words,0,Cluster 0,Indigenous,Chipaya-Uru,Latin
+Chichicapan Zapotec,zpv,Unknown,3400,197058,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Tabasco Chontal,chf,Unknown,62000,197009,words,0,Cluster 0,Indigenous,Mayan,Latin
+Iatmul,ian,Unknown,16000,196535,words,0,Cluster 0,Indigenous,Sepik,Latin
+Noon,snf,Unknown,53000,196519,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Saamia,lsm,Unknown,742000,194706,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kagulu,kki,Unknown,468000,193900,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kombio,xbi,Unknown,5600,193201,words,0,Cluster 0,Indigenous,Torricelli,Latin
+Tetela,tll,Unknown,2182000,192019,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Tagabawa,bgs,Unknown,69000,191053,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Shuar,jiv,Unknown,73000,190810,words,0,Cluster 0,Indigenous,Jivaroan,Latin
+Nunggubuyu,nuy,Unknown,300,190774,words,0,Cluster 0,Indigenous,Australian,Latin
+Huichol,hch,Unknown,68500,190099,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Timbe,tim,Unknown,30000,189568,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Tii,txq,Unknown,27000,188899,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kaingang,kgp,Unknown,36000,188589,words,0,Cluster 0,Indigenous,Jean,Latin
+Maxakalí,mbl,Unknown,1700,187919,words,0,Cluster 0,Indigenous,Maxakalian,Latin
+Eastern Apurímac Quechua,qve,Unknown,257000,187197,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Kenyang,ken,Unknown,162000,186692,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Konso,kxc,Unknown,497400,185835,words,0,Cluster 0,Indigenous,Afro-Asiatic,Non-Latin
+Guianese Creole French,gcr,Unknown,144000,184070,words,0,Cluster 0,Indigenous,Creole,Latin
+Doromu-Koki,kqc,Unknown,2600,184009,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+South Bolivian Quechua,quh,Unknown,2004300,182717,words,0,Cluster 0,Regional,Quechuan,Latin
+Tlahuitoltepec Mixe,mxp,Unknown,7800,182152,words,0,Cluster 0,Indigenous,Mixe-Zoquean,Latin
+Nggem,nbq,Unknown,5800,178546,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Djambarrpuyngu,djr,Unknown,4600,176585,words,0,Cluster 0,Indigenous,Australian,Latin
+Sharanahua,mcd,Unknown,1400,176412,words,0,Cluster 0,Indigenous,Panoan,Latin
+Ezaa,eza,Unknown,842000,176323,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Limbum,lmp,Unknown,226200,175438,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kwara'ae,kwf,Unknown,66000,174184,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Metlatónoc Mixtec,mxv,Unknown,63600,173581,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Machiguenga,mcb,Unknown,24000,171840,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Choapan Zapotec,zpc,Unknown,15000,170887,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Tausug,tsg,Unknown,1654000,170663,words,0,Cluster 0,Regional,Austronesian,Latin
+Western Highland Chatino,ctp,Unknown,22500,167931,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Nande,nnb,Unknown,2632100,167668,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Apalaí,apy,Unknown,500,167415,words,0,Cluster 0,Indigenous,Cariban,Latin
+Zyphe Chin,zyp,Unknown,21000,166534,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Nilamba,nim,Unknown,955000,164930,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Chortí,caa,Unknown,159000,164641,words,0,Cluster 0,Indigenous,Mayan,Latin
+Guayabero,guo,Unknown,3100,162993,words,0,Cluster 0,Indigenous,Guajiboan,Latin
+Atikamekw,atj,Unknown,6800,162913,words,0,Cluster 0,Indigenous,Algic,Latin
+Sunwar,suz,Unknown,62000,162222,words,0,Cluster 0,Indigenous,Sino-Tibetan,Non-Latin
+Kire,geb,Unknown,4600,161276,words,0,Cluster 0,Indigenous,Ramu-Lower Sepik,Latin
+Northern Oaxaca Nahuatl,nhy,Unknown,14000,160842,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Shipibo-Conibo,shp,Unknown,33100,160737,words,0,Cluster 0,Indigenous,Panoan,Latin
+Ese Ejja,ese,Unknown,3000,159788,words,0,Cluster 0,Indigenous,Tacanan,Latin
+Kisar,kje,Unknown,30000,158975,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Western Bolivian Guaraní,gnw,Unknown,9700,157113,words,0,Cluster 0,Indigenous,Tupian,Latin
+Southeastern Puebla Nahuatl,npl,Unknown,145700,156842,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Baeggu,bvd,Unknown,12000,156751,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Nyoro,nyo,Unknown,1469000,155763,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Tiruray,tiy,Unknown,74000,154814,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Chukot,ckt,Unknown,16000,153819,words,0,Cluster 0,Indigenous,Chukotko-Kamchatkan,Non-Latin
+Limbu,lif,Unknown,423000,153038,words,0,Cluster 0,Indigenous,Sino-Tibetan,Non-Latin
+Teutila Cuicatec,cut,Unknown,4200,148979,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Ronga,rng,Unknown,854400,148123,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+San Marcos Tlacoyalco Popoloca,pls,Unknown,11000,147547,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Copala Triqui,trc,Unknown,50000,146889,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Khanty,kca,Unknown,31000,146178,words,0,Cluster 0,Indigenous,Uralic,Non-Latin
+Guhu-Samane,ghs,Unknown,27000,146123,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Rikbaktsa,rkb,Unknown,1400,145907,words,0,Cluster 0,Indigenous,Language isolate,Latin
+Car Nicobarese,caq,Unknown,31000,145288,words,0,Cluster 0,Indigenous,Austro-Asiatic,Latin
+Tlicho,dgr,Unknown,4200,144266,words,0,Cluster 0,Indigenous,Eyak-Athabaskan,Latin
+Chácobo,cao,Unknown,1400,144080,words,0,Cluster 0,Indigenous,Panoan,Latin
+Kumam,kdi,Unknown,360000,143164,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Tepo Krumen,ted,Unknown,71200,142365,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Northern Paiute,pao,Unknown,7500,142177,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Kankanaey,kne,Unknown,280000,142000,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Siona,snn,Unknown,3400,141892,words,0,Cluster 0,Indigenous,Tucanoan,Latin
+Huambisa,hub,Unknown,12000,141729,words,0,Cluster 0,Indigenous,Jivaroan,Latin
+Plains Cree,crk,Unknown,86900,141525,words,0,Cluster 0,Indigenous,Algic,Non-Latin
+Awa (Papua New Guinea),awb,Unknown,3900,141150,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Sebat Bet Gurage,sgw,Unknown,1355000,141039,words,0,Cluster 0,Regional,Afro-Asiatic,Non-Latin
+Barai,bbb,Unknown,3500,140669,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Cashibo-Cacataibo,cbr,Unknown,2300,140654,words,0,Cluster 0,Indigenous,Panoan,Latin
+Gusii,guz,Unknown,3693700,139038,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Sarangani Manobo,mbs,Unknown,87000,138483,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Palikúr,plu,Unknown,3500,138328,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Hdi,xed,Unknown,58000,135319,words,0,Cluster 0,Indigenous,Afro-Asiatic,Latin
+Khana,ogo,Unknown,496000,134869,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Khiamniungan Naga,kix,Unknown,82000,134559,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Tumbuka,tum,Unknown,4035400,134183,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Ladakhi,lbj,Unknown,170700,134140,words,0,Cluster 0,Indigenous,Sino-Tibetan,Non-Latin
+Arabela,arl,Unknown,400,133336,words,0,Cluster 0,Indigenous,Zaparoan,Latin
+Mandinka,mnk,Unknown,2474500,133206,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Makonde,kde,Unknown,2860600,133125,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Warlpiri,wbp,Unknown,2500,132901,words,0,Cluster 0,Indigenous,Australian,Latin
+Coyutla Totonac,toc,Unknown,64000,131580,words,0,Cluster 0,Indigenous,Totonacan,Latin
+Bassa,bsq,Unknown,809500,131099,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+San Pedro Amuzgos Amuzgo,azg,Unknown,5700,130479,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Achagua,aca,Unknown,1000,129922,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Michoacán Nahuatl,ncl,Unknown,4700,129712,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Kadiwéu,kbc,Unknown,2100,128539,words,0,Cluster 0,Indigenous,Guaykuruan,Latin
+Totontepec Mixe,mto,Unknown,7300,128103,words,0,Cluster 0,Indigenous,Mixe-Zoquean,Latin
+Chumburung,ncu,Unknown,118500,127214,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Hunsrik,hrx,Unknown,5006000,126864,words,0,Cluster 0,Regional,Indo-European,Latin
+Mamara Senoufo,myk,Unknown,1735000,126372,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Bantoanon,bno,Unknown,93000,126201,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Abé,aba,Unknown,350000,126078,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Central Yupik,esu,Unknown,27000,125977,words,0,Cluster 0,Indigenous,Eskimo-Aleut,Latin
+Sherpa,xsr,Unknown,143500,125678,words,0,Cluster 0,Indigenous,Sino-Tibetan,Non-Latin
+Tetelcingo Nahuatl,nhg,Unknown,5500,125574,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Nyakyusa-Ngonde,nyy,Unknown,1923000,124970,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Sampang,rav,Unknown,1600,124935,words,0,Cluster 0,Indigenous,Sino-Tibetan,Non-Latin
+Moose Cree,crm,Unknown,8000,123837,words,0,Cluster 0,Indigenous,Algic,Non-Latin
+Waffa,waj,Unknown,3700,123236,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Kuni-Boazi,kvg,Unknown,8300,123166,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Tokelau,tkl,Unknown,11170,122791,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Koti,eko,Unknown,155000,122452,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Chuave,cjv,Unknown,79000,121769,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Nek,nif,Unknown,3100,121739,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Sateré-Mawé,mav,Unknown,16800,121634,words,0,Cluster 0,Indigenous,Tupian,Latin
+Nali,nss,Unknown,5900,121610,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Chachi,cbi,Unknown,11000,119128,words,0,Cluster 0,Indigenous,Barbacoan,Latin
+Tsakhur,tkr,Unknown,44000,119007,words,0,Cluster 0,Indigenous,Nakh-Daghestanian,Non-Latin
+Even,eve,Unknown,20000,118926,words,0,Cluster 0,Indigenous,Tungusic,Non-Latin
+Kala Lagaw Ya,mwp,Unknown,1000,118832,words,0,Cluster 0,Indigenous,Australian,Latin
+Ringgou,rgu,Unknown,14000,118803,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Busa,bqp,Unknown,22000,118791,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Tangkhul Naga (India),nmf,Unknown,228000,117807,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Kagayanen,cgc,Unknown,40000,116600,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Diuxi-Tilantongo Mixtec,xtd,Unknown,4500,116224,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Pinotepa Nacional Mixtec,mio,Unknown,32000,115862,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Mamasa,mqj,Unknown,217000,115415,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Enlhet,enl,Unknown,8800,114948,words,0,Cluster 0,Indigenous,Mascoyan,Latin
+Kpelle,kpe,Unknown,1610300,114706,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Apinayé,apn,Unknown,1900,114399,words,0,Cluster 0,Indigenous,Jean,Latin
+Caribbean Hindustani,hns,Unknown,792600,114288,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Sudest,tgo,Unknown,5900,113428,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Masai,mas,Unknown,3279800,112301,words,0,Cluster 0,Regional,Nilo-Saharan,Latin
+Urat,urt,Unknown,12000,112036,words,0,Cluster 0,Indigenous,Torricelli,Latin
+Francisco León Zoque,zos,Unknown,32000,111738,words,0,Cluster 0,Indigenous,Mixe-Zoquean,Latin
+Toma,tod,Unknown,282000,111131,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ninzo,nin,Unknown,147000,110677,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ambonese Malay,abs,Unknown,409460,110063,words,0,Cluster 0,Indigenous,Creole,Latin
+Ivbie North-Okpela-Arhe,atg,Unknown,73000,110019,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Adzera,adz,Unknown,61500,110011,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Southern Nambikuára,nab,Unknown,1340,109909,words,0,Cluster 0,Indigenous,Nambikwara,Latin
+Camsá,kbh,Unknown,7900,109908,words,0,Cluster 0,Indigenous,Language isolate,Latin
+Eastern Khumi Chin,cek,Unknown,14000,109489,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Kwere,cwe,Unknown,330000,109473,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kube,kgf,Unknown,15000,109361,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Apurinã,apu,Unknown,7700,109002,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Emberá-Catío,cto,Unknown,51000,108797,words,0,Cluster 0,Indigenous,Chocoan,Latin
+Tewa (USA),tew,Unknown,5200,108367,words,0,Cluster 0,Indigenous,Kiowa-Tanoan,Latin
+Bribri,bzd,Unknown,15300,108285,words,0,Cluster 0,Indigenous,Chibchan,Latin
+Binandere,bhg,Unknown,12000,107951,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Border Kuna,kvn,Unknown,3700,107752,words,0,Cluster 0,Indigenous,Chibchan,Latin
+Zemba,dhm,Unknown,45700,107314,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Yanesha',ame,Unknown,9000,106450,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Balangao,blw,Unknown,33000,106448,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Southern Dagaare,dga,Unknown,1268000,106147,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Western Tlacolula Valley Zapotec,zab,Unknown,49100,105754,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Gela,nlg,Unknown,24000,104801,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Haruai,tmd,Unknown,4100,104405,words,0,Cluster 0,Indigenous,Piawi,Latin
+Tsikimba,kdl,Unknown,186000,103656,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Fasu,faa,Unknown,4100,103265,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Kok Borok,trp,Unknown,1351700,103111,words,0,Cluster 0,Regional,Sino-Tibetan,Latin
+Western Lawa,lcp,Unknown,9100,102901,words,0,Cluster 0,Indigenous,Austro-Asiatic,Non-Latin
+Tsishingini,tsw,Unknown,183000,102661,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Vidunda,vid,Unknown,15000,102455,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Edolo,etr,Unknown,3400,101889,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Sierra de Juárez Zapotec,zaa,Unknown,6300,101676,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Nuer,nus,Unknown,1760300,101094,words,0,Cluster 0,Regional,Nilo-Saharan,Latin
+Kaluli,bco,Unknown,3700,100930,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Beembe,beq,Unknown,150000,100880,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Dangaléat,daa,Unknown,147000,100670,words,0,Cluster 0,Indigenous,Afro-Asiatic,Latin
+Sangir,sxn,Unknown,529000,100367,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Alekano,gah,Unknown,62000,99728,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Chayahuita,cbt,Unknown,22000,99521,words,0,Cluster 0,Indigenous,Cahuapanan,Latin
+Cañar Highland Quichua,qxr,Unknown,173000,99269,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Dhao,nfa,Unknown,3100,99039,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Chayuco Mixtec,mih,Unknown,16000,98634,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Tumulung Sisaala,sil,Unknown,187000,97897,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Gumuz,guk,Unknown,639000,97805,words,0,Cluster 0,Indigenous,Nilo-Saharan,Non-Latin
+Mansaka,msk,Unknown,89000,96526,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Izii,izz,Unknown,771000,96503,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Bakairí,bkq,Unknown,1500,96223,words,0,Cluster 0,Indigenous,Cariban,Latin
+Tektiteko,ttc,Unknown,3590,95320,words,0,Cluster 0,Indigenous,Mayan,Latin
+Kosarek Yale,kkl,Unknown,4300,94980,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Potawatomi,pot,Unknown,28800,94901,words,0,Cluster 0,Indigenous,Algic,Latin
+Abui,abz,Unknown,30000,94087,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Cajamarca Quechua,qvc,Unknown,40000,93788,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Northern Conchucos Ancash Quechua,qxn,Unknown,321000,93503,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Colorado,cof,Unknown,3300,93165,words,0,Cluster 0,Indigenous,Barbacoan,Latin
+Attié,ati,Unknown,838000,92951,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Macushi,mbc,Unknown,40500,91924,words,0,Cluster 0,Indigenous,Cariban,Latin
+Amarakaeri,amr,Unknown,2200,91867,words,0,Cluster 0,Indigenous,Harákmbut,Latin
+Anmatyerre,amx,Unknown,700,91530,words,0,Cluster 0,Indigenous,Australian,Latin
+Yaqui,yaq,Unknown,45000,91283,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Xicotepec De Juárez Totonac,too,Unknown,18000,89708,words,0,Cluster 0,Indigenous,Totonacan,Latin
+Suba,sxb,Unknown,173000,89198,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Rincón Zapotec,zar,Unknown,39000,88642,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Aringa,luc,Unknown,1042000,88543,words,0,Cluster 0,Regional,Nilo-Saharan,Latin
+Central Cagayan Agta,agt,Unknown,1200,88460,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Southern Nuni,nnw,Unknown,238000,87986,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ajyíninka Apurucayali,cpc,Unknown,5300,87316,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Torres Strait Creole,tcs,Unknown,6620,87104,words,0,Cluster 0,Indigenous,Creole,Latin
+Masbatenyo,msb,Unknown,1013000,86745,words,0,Cluster 0,Regional,Austronesian,Latin
+Phende,pem,Unknown,1222000,86460,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Central Subanen,syb,Unknown,216000,85365,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Nyamwanga,mwn,Unknown,539300,85320,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Luwo,lwo,Unknown,254000,85311,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Denya,anv,Unknown,37000,85172,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kaiwá,kgk,Unknown,36600,84967,words,0,Cluster 0,Indigenous,Tupian,Latin
+Ogea,eri,Unknown,4200,84959,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Nadëb,mbj,Unknown,700,83638,words,0,Cluster 0,Indigenous,Puinavean,Latin
+Rejang,rej,Unknown,414000,83448,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Mixtepec Zapotec,zpm,Unknown,11000,82689,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Ambai,amk,Unknown,40000,82248,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Uripiv-Wala-Rano-Atchin,upv,Unknown,12000,81838,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Nkonya,nko,Unknown,28000,81781,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Binukid,bkd,Unknown,205000,81301,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Tacana,tna,Unknown,19000,80931,words,0,Cluster 0,Indigenous,Tacanan,Latin
+Wallisian,wls,Unknown,35600,80578,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Akawaio,ake,Unknown,8200,80073,words,0,Cluster 0,Indigenous,Cariban,Latin
+Lashi,lsi,Unknown,36500,79886,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Tatuyo,tav,Unknown,400,79622,words,0,Cluster 0,Indigenous,Tucanoan,Latin
+Santo Domingo Albarradas Zapotec,zas,Unknown,11000,79577,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Swampy Cree,csw,Unknown,8000,79060,words,0,Cluster 0,Indigenous,Algic,Latin
+Miyobe,soy,Unknown,23300,78916,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ottawa,otw,Unknown,79400,78733,words,0,Cluster 0,Indigenous,Algic,Latin
+Maore Comorian,swb,Unknown,325900,78462,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Highland Popoluca,poi,Unknown,46000,78316,words,0,Cluster 0,Indigenous,Mixe-Zoquean,Latin
+Are,mwc,Unknown,5200,78305,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Mayoyao Ifugao,ifu,Unknown,40000,77723,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Southeastern Tepehuan,stp,Unknown,13000,77718,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Aja (Benin),ajg,Unknown,1450000,77708,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Wedau,wed,Unknown,4500,77685,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Paranan,prf,Unknown,19000,76866,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Ika,ikk,Unknown,46000,76007,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kutu,kdc,Unknown,148000,75826,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ozolotepec Zapotec,zao,Unknown,10000,75112,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Ocotepec Mixtec,mie,Unknown,8200,74521,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+San Vicente Coatlán Zapotec,zpt,Unknown,4200,74211,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Ngindo,nnq,Unknown,723000,73526,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Western Apache,apw,Unknown,23000,73460,words,0,Cluster 0,Indigenous,Eyak-Athabaskan,Latin
+Upper Necaxa Totonac,tku,Unknown,4500,72570,words,0,Cluster 0,Indigenous,Totonacan,Latin
+Meru,mer,Unknown,2708000,72512,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Luguru,ruf,Unknown,1542000,72069,words,0,Cluster 0,Regional,Niger-Congo,Latin
+San Juan Colorado Mixtec,mjc,Unknown,10000,72068,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Muyang,muy,Unknown,48000,72000,words,0,Cluster 0,Indigenous,Afro-Asiatic,Latin
+Mwani,wmw,Unknown,161000,71584,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Esan,ish,Unknown,743000,71378,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Makhuwa-Meetto,mgh,Unknown,2419300,71260,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Dungan,dng,Unknown,182500,70320,words,0,Cluster 0,Indigenous,Sino-Tibetan,Non-Latin
+San Martín Itunyoso Triqui,trq,Unknown,3600,70130,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Ata Manobo,atd,Unknown,41000,69920,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Minaveha,mvn,Unknown,4100,69692,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Nigeria Mambila,mzk,Unknown,219000,69682,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Southern Puebla Mixtec,mit,Unknown,3700,69430,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Paiwan,pwn,Unknown,95700,69281,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Nyole,nuj,Unknown,756000,69102,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Caluyanun,clu,Unknown,52000,69065,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Miahuatlán Zapotec,zam,Unknown,1200,68955,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Murui Huitoto,huu,Unknown,14100,68804,words,0,Cluster 0,Indigenous,Witotoan,Latin
+Abua,abn,Unknown,56000,68745,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Hanunoo,hnn,Unknown,24000,68730,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Estado de México Otomi,ots,Unknown,23000,68728,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Jèrriais,nrf,Unknown,18920,68475,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Northern Kankanay,xnn,Unknown,144000,68433,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Mape,mlh,Unknown,3500,68421,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Yine,pib,Unknown,5500,67921,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Samberigi,ssx,Unknown,35000,67879,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Santa María Zacatepec Mixtec,mza,Unknown,3200,67860,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Sarangani Blaan,bps,Unknown,140000,67674,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kuku-Yalanji,gvn,Unknown,300,67401,words,0,Cluster 0,Indigenous,Australian,Latin
+Central Tunebo,tuf,Unknown,3800,67320,words,0,Cluster 0,Indigenous,Chibchan,Latin
+Ewondo,ewo,Unknown,2363000,66884,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Zotung Chin,czt,Unknown,54000,66673,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Quiotepec Chinantec,chq,Unknown,11000,66433,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Fataleka,far,Unknown,14000,66419,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Fore,for,Unknown,47000,66195,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Kamano,kbq,Unknown,129000,66072,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Coatzospan Mixtec,miz,Unknown,2800,65664,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Isthmus Mixe,mir,Unknown,32000,65443,words,0,Cluster 0,Indigenous,Mixe-Zoquean,Latin
+Waorani,auc,Unknown,2930,64563,words,0,Cluster 0,Indigenous,Language isolate,Latin
+Awara,awx,Unknown,3000,64269,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Mohawk,moh,Unknown,38600,64250,words,0,Cluster 0,Indigenous,Iroquoian,Latin
+Yawa,yva,Unknown,12000,63712,words,0,Cluster 0,Indigenous,West Papuan,Latin
+Idoma,idu,Unknown,1275000,63483,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Igede,ige,Unknown,526000,63261,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+San Mateo Del Mar Huave,huv,Unknown,14000,63005,words,0,Cluster 0,Indigenous,Huavean,Latin
+Bana,bcw,Unknown,74000,62719,words,0,Cluster 0,Indigenous,Afro-Asiatic,Latin
+Central Tarahumara,tar,Unknown,40000,62288,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Tol,jic,Unknown,23000,61916,words,0,Cluster 0,Indigenous,Jicaquean,Latin
+Lalana Chinantec,cnl,Unknown,14000,61196,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Akukem,spm,Unknown,1200,61177,words,0,Cluster 0,Indigenous,Ramu-Lower Sepik,Latin
+Kalagan,kqe,Unknown,102000,60874,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Secoya,sey,Unknown,2000,60225,words,0,Cluster 0,Indigenous,Tucanoan,Latin
+Hamer-Banna,amf,Unknown,141000,60187,words,0,Cluster 0,Indigenous,Afro-Asiatic,Latin
+Southern Conchucos Ancash Quechua,qxo,Unknown,342000,59449,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Tooro,ttj,Unknown,1200000,59107,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Highland Puebla Nahuatl,azz,Unknown,227000,58483,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Yakan,yka,Unknown,203300,58337,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Caquinte,cot,Unknown,400,58184,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Baltic Romani,rml,Unknown,28600,58175,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Mundurukú,myu,Unknown,12000,58167,words,0,Cluster 0,Indigenous,Tupian,Latin
+Eastern Oromo,hae,Unknown,8291000,58015,words,0,Cluster 0,Regional,Afro-Asiatic,Latin
+Ayutla Mixtec,miy,Unknown,15000,57940,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Buamu,box,Unknown,433000,57747,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Wahau Kenyah,whk,Unknown,11300,57258,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Okpe (Southwestern Edo),oke,Unknown,52000,57100,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ga'dang,gdg,Unknown,8900,57067,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Bora,boa,Unknown,4600,57051,words,0,Cluster 0,Indigenous,Witotoan,Latin
+Silacayoapan Mixtec,mks,Unknown,25700,56906,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Batak Dairi,btd,Unknown,2190000,55823,words,0,Cluster 0,Regional,Austronesian,Latin
+Atatláhuca Mixtec,mib,Unknown,12000,55683,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Tuyuca,tue,Unknown,2500,55492,words,0,Cluster 0,Indigenous,Tucanoan,Latin
+Obolo,ann,Unknown,357000,55311,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Buli (Ghana),bwu,Unknown,231000,55051,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ucayali-Yurúa Ashéninka,cpb,Unknown,10100,54827,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Gwichʼin,gwi,Unknown,3500,54706,words,0,Cluster 0,Indigenous,Eyak-Athabaskan,Latin
+Lobala,loq,Unknown,174000,54487,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ngawn Chin,cnw,Unknown,19000,54341,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Wala,lgl,Unknown,14000,54000,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Sanumá,xsu,Unknown,2000,53911,words,0,Cluster 0,Indigenous,Yanomaman,Latin
+Toura (Côte d'Ivoire),neb,Unknown,91000,53727,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Yaminahua,yaa,Unknown,3400,53622,words,0,Cluster 0,Indigenous,Panoan,Latin
+Lango (Uganda),laj,Unknown,2700000,53381,words,0,Cluster 0,Regional,Nilo-Saharan,Latin
+Central Bontok,lbk,Unknown,26000,52975,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Cubeo,cub,Unknown,15600,52963,words,0,Cluster 0,Indigenous,Tucanoan,Latin
+Capanahua,kaq,Unknown,500,52870,words,0,Cluster 0,Indigenous,Panoan,Latin
+Eastern Arrernte,aer,Unknown,3100,52711,words,0,Cluster 0,Indigenous,Australian,Latin
+Kalanga,kck,Unknown,423000,52605,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Kakabai,kqf,Unknown,1700,52094,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Nomatsiguenga,not,Unknown,9600,51540,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Giryama,nyf,Unknown,1567200,51483,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Tepeuxila Cuicatec,cux,Unknown,12000,51126,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Sylheti,syl,Unknown,11520000,50921,words,0,Cluster 0,Major Regional,Indo-European,Non-Latin
+Hixkaryána,hix,Unknown,900,50590,words,0,Cluster 0,Indigenous,Cariban,Latin
+Yamba,yam,Unknown,175000,50427,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Mokole,mkl,Unknown,44000,50279,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Nivaclé,cag,Unknown,18200,50081,words,0,Cluster 0,Indigenous,Matacoan,Latin
+Yucuna,ycn,Unknown,3400,49796,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Toraja-Sa'dan,sda,Unknown,1018000,49635,words,0,Cluster 0,Regional,Austronesian,Latin
+Amatlán Zapotec,zpo,Unknown,13000,49409,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Western Subanon,suc,Unknown,155000,49365,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Wa,wbm,Unknown,94100,49060,words,0,Cluster 0,Indigenous,Austro-Asiatic,Latin
+Rapanui,rap,Unknown,9300,48897,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Central Kanuri,knc,Unknown,9767000,48492,words,0,Cluster 0,Regional,Nilo-Saharan,Latin
+Zarma,dje,Unknown,5316600,48460,words,0,Cluster 0,Regional,Nilo-Saharan,Latin
+Nukna,klt,Unknown,1600,48188,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Mian,mpt,Unknown,2600,48100,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Guarayu,gyr,Unknown,25000,47081,words,0,Cluster 0,Indigenous,Tupian,Latin
+Matal,mfh,Unknown,60000,47073,words,0,Cluster 0,Indigenous,Afro-Asiatic,Latin
+Caló,rmq,Unknown,933500,46875,words,0,Cluster 0,Indigenous,Mixed language,Latin
+Baba Malay,mbf,Unknown,304000,46805,words,0,Cluster 0,Indigenous,Creole,Latin
+Koya,kff,Unknown,45000,45945,words,0,Cluster 0,Indigenous,Dravidian,Non-Latin
+Ndali,ndh,Unknown,611000,45521,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Wè Northern,wob,Unknown,346000,45351,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Makaa,mcp,Unknown,230000,45283,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+San Miguel El Grande Mixtec,mig,Unknown,7500,45116,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Ngambay,sba,Unknown,2212000,44779,words,0,Cluster 0,Regional,Nilo-Saharan,Latin
+Cherokee,chr,Unknown,2100,44621,words,0,Cluster 0,Indigenous,Iroquoian,Non-Latin
+Ngulu,ngp,Unknown,434000,43638,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ledo Kaili,lew,Unknown,409000,43552,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Magdalena Peñasco Mixtec,xtm,Unknown,9200,43388,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Arapaho,arp,Unknown,9000,42960,words,0,Cluster 0,Indigenous,Algic,Latin
+Siksika,bla,Unknown,51000,42932,words,0,Cluster 0,Indigenous,Algic,Latin
+Ikwere,ikw,Unknown,743000,42830,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Eastern Bontok,ebk,Unknown,8100,42829,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Mbukushu,mhw,Unknown,126000,42489,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Piapoco,pio,Unknown,18300,42462,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Pilagá,plg,Unknown,6100,42351,words,0,Cluster 0,Indigenous,Guaykuruan,Latin
+Anuki,aui,Unknown,800,42327,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Dibabawon Manobo,mbd,Unknown,26000,42189,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Matsés,mcf,Unknown,6400,42077,words,0,Cluster 0,Indigenous,Panoan,Latin
+Yareni Zapotec,zae,Unknown,3900,41965,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Ibanag,ibg,Unknown,956000,41173,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Vengo,bav,Unknown,45000,41140,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Mayangna,yan,Unknown,20800,40917,words,0,Cluster 0,Indigenous,Misumalpan,Latin
+Bwaidoka,bwd,Unknown,9400,40711,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Cotabato Manobo,mta,Unknown,39500,40060,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kutep,kub,Unknown,95200,40016,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Cerma,cme,Unknown,88200,39920,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Páez,pbb,Unknown,255000,39893,words,0,Cluster 0,Indigenous,Paezan,Latin
+Tupuri,tui,Unknown,454000,39578,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Sekpele,lip,Unknown,23000,39303,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Vagla,vag,Unknown,19000,38909,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Sierra Negra Nahuatl,nsu,Unknown,31000,38660,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Sassarese Sardinian,sdc,Unknown,105000,38508,words,0,Cluster 0,Indigenous,Indo-European,Latin
+Gor,gqr,Unknown,201000,38376,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Nomaande,lem,Unknown,20000,38300,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Nocte Naga,njb,Unknown,49300,38179,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Wapishana,wap,Unknown,15300,37286,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Yatzachi Zapotec,zav,Unknown,4000,36938,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Mbunda,mck,Unknown,563000,36821,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ignaciano,ign,Unknown,2200,36669,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Mundani,mnf,Unknown,98000,36363,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Moyon Naga,nmo,Unknown,2900,35751,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Pogolo,poy,Unknown,607000,35736,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Cofán,con,Unknown,3400,35481,words,0,Cluster 0,Indigenous,Language isolate,Latin
+Jalapa De Díaz Mazatec,maj,Unknown,23000,35362,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Ghayavi,bmk,Unknown,5700,35324,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kom (India),kmm,Unknown,20000,35322,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Uab Meto,aoz,Unknown,853000,35205,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Parkwa,pbi,Unknown,72000,35163,words,0,Cluster 0,Indigenous,Afro-Asiatic,Latin
+Kuo,xuo,Unknown,36000,35129,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Northern East Cree,crl,Unknown,7100,35116,words,0,Cluster 0,Indigenous,Algic,Non-Latin
+Duruma,dug,Unknown,607000,34938,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Gen,gej,Unknown,740000,34877,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Toba,tob,Unknown,143100,34841,words,0,Cluster 0,Indigenous,Guaykuruan,Latin
+Yagua,yad,Unknown,9000,34768,words,0,Cluster 0,Indigenous,Yaguan,Latin
+Duri,mvp,Unknown,151000,34758,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Wanga,lwg,Unknown,103000,34607,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Walmajarri,wmt,Unknown,300,34540,words,0,Cluster 0,Indigenous,Australian,Latin
+Q'anjob'al,kjb,Unknown,311700,34525,words,0,Cluster 0,Indigenous,Mayan,Latin
+Buhutu,bxh,Unknown,2600,34518,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Tikar,tik,Unknown,184000,34397,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Adamawa Fulfulde,fub,Unknown,7422100,34342,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Mochi,old,Unknown,1387000,33781,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Hrangkhol,hra,Unknown,8300,33692,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Adele,ade,Unknown,68000,33616,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Limos Kalinga,kmk,Unknown,16000,33434,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Lenje,leh,Unknown,282000,33246,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Manggarai,mqy,Unknown,809000,33235,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Alacatlatzala Mixtec,mim,Unknown,34000,33098,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Buginese,bug,Unknown,4398800,33054,words,0,Cluster 0,Regional,Austronesian,Latin
+Mumuye,mzm,Unknown,911000,33011,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Riang (India),ria,Unknown,2400,32692,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Dii,dur,Unknown,74000,32541,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Liangmai Naga,njn,Unknown,76000,32422,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Makhuwa-Shirima,vmk,Unknown,1008000,32364,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Tyap,kcg,Unknown,291000,32327,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Plapo Krumen,ktj,Unknown,200,32192,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Gangte,gnb,Unknown,31600,31978,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Tai,taw,Unknown,1000,31640,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Konai,kxw,Unknown,700,31606,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Sirionó,srq,Unknown,190,31601,words,0,Cluster 0,Indigenous,Tupian,Latin
+Isthmus-Mecayapan Nahuatl,nhx,Unknown,36700,31582,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Krio,kri,Unknown,964200,31419,words,0,Cluster 0,Indigenous,Creole,Latin
+Soli,sby,Unknown,75000,31322,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Pichis Ashéninka,cpu,Unknown,17000,30407,words,0,Cluster 0,Indigenous,Maipurean,Latin
+ut-Hun,uth,Unknown,61000,30132,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Algerian Arabic,arq,Unknown,38633000,30130,words,0,Cluster 0,Major Regional,Afro-Asiatic,Non-Latin
+Angami Naga,njm,Unknown,171000,29769,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Serer,srr,Unknown,1898300,29660,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Selee,snw,Unknown,20000,29636,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Fordata,frd,Unknown,70000,29519,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Central Malay,pse,Unknown,2531000,29088,words,0,Cluster 0,Regional,Austronesian,Latin
+Southern Toussian,wib,Unknown,45000,28832,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Mayo,mfy,Unknown,181000,28692,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Baga Sitemu,bsp,Unknown,47000,28620,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Sissala,sld,Unknown,34000,28563,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ainu (Japan),ain,Unknown,13300,28563,words,0,Cluster 0,Indigenous,Language isolate,Latin
+Ono,ons,Unknown,16000,28471,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Masaaba,myx,Unknown,2572000,28315,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Shilluk,shk,Unknown,530200,28305,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Maiadomu,mzz,Unknown,1300,28246,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Kurukh,kru,Unknown,5322500,27552,words,0,Cluster 0,Regional,Dravidian,Non-Latin
+Baniwa,bwi,Unknown,9800,27385,words,0,Cluster 0,Indigenous,Maipurean,Latin
+To'abaita,mlu,Unknown,26000,27329,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Maung,mph,Unknown,400,26832,words,0,Cluster 0,Indigenous,Australian,Latin
+Lambya,lai,Unknown,237000,26512,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Jola-Kasa,csk,Unknown,72000,26328,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Anyin,any,Unknown,1979100,26288,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Tewe,twx,Unknown,403000,26202,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Pokomo,pkb,Unknown,123000,26044,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Salasaca Highland Quichua,qxl,Unknown,21000,26015,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Pamona,pmf,Unknown,186000,25881,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Machame,jmc,Unknown,833000,25584,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Manado Malay,xmm,Unknown,49000,25547,words,0,Cluster 0,Indigenous,Creole,Latin
+Koyraboro Senni Songhai,ses,Unknown,1307000,25540,words,0,Cluster 0,Regional,Nilo-Saharan,Latin
+North Bolivian Quechua,qul,Unknown,283000,25313,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Kituba (Democratic Republic of Congo),ktu,Unknown,12400000,24998,words,0,Cluster 0,Major Regional,Creole,Latin
+Northern Katang,ncq,Unknown,73000,24898,words,0,Cluster 0,Indigenous,Austro-Asiatic,Non-Latin
+Santa María Quiegolani Zapotec,zpi,Unknown,2700,24882,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Aché,guq,Unknown,2000,24659,words,0,Cluster 0,Indigenous,Tupian,Latin
+Ashéninka Pajonal,cjo,Unknown,15000,24536,words,0,Cluster 0,Indigenous,Maipurean,Latin
+Takwane,tke,Unknown,406000,24334,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Havu,hav,Unknown,1114000,24180,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Nyaturu,rim,Unknown,1248000,24114,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Laari,ldi,Unknown,203200,23847,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Western Penan,pne,Unknown,4600,23756,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Wali (Ghana),wlx,Unknown,117000,23446,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Southern Rincon Zapotec,zsr,Unknown,19500,23438,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Dupaninan Agta,duo,Unknown,2000,23334,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Western Dani,dnw,Unknown,275000,22563,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Kaba,ksp,Unknown,194000,22504,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Huarijio,var,Unknown,2200,22461,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+Rungus,drg,Unknown,77000,22300,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Taupota,tpa,Unknown,1280,22009,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Western Arrarnta,are,Unknown,500,21348,words,0,Cluster 0,Indigenous,Australian,Latin
+Northern Tepehuan,ntp,Unknown,7700,21329,words,0,Cluster 0,Indigenous,Uto-Aztecan,Latin
+North Marquesan,mrq,Unknown,6000,20955,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Yemba,ybb,Unknown,750000,20923,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Datooga,tcc,Unknown,217000,20707,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Wichí Lhamtés Vejoz,wlv,Unknown,32000,20686,words,0,Cluster 0,Indigenous,Matacoan,Latin
+Northern Luri,lrc,Unknown,3088000,20529,words,0,Cluster 0,Regional,Indo-European,Non-Latin
+Una,mtg,Unknown,6300,20423,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Rukai,dru,Unknown,13000,20309,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Pijin,pis,Unknown,57600,20030,words,0,Cluster 0,Indigenous,Creole,Latin
+Southern Kalinga,ksc,Unknown,20000,19496,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Borgu Fulfulde,fue,Unknown,903700,19403,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Upper Guinea Crioulo,pov,Unknown,561000,19145,words,0,Cluster 0,Indigenous,Creole,Latin
+Culina,cul,Unknown,7200,18980,words,0,Cluster 0,Indigenous,Arauan,Latin
+Islander Creole English,icr,Unknown,30000,18680,words,0,Cluster 0,Indigenous,Creole,Latin
+Cajonos Zapotec,zad,Unknown,7900,18401,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Southern East Cree,crj,Unknown,9700,18331,words,0,Cluster 0,Indigenous,Algic,Non-Latin
+Ngazidja Comorian,zdj,Unknown,438700,18316,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ma'di,mhi,Unknown,432500,18116,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Laki,lki,Unknown,710000,17581,words,0,Cluster 0,Indigenous,Indo-European,Non-Latin
+Karajá,kpj,Unknown,4900,17093,words,0,Cluster 0,Indigenous,Karajá,Latin
+Koma,kmy,Unknown,80400,16968,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Namiae,nvm,Unknown,2300,16966,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Ambo-Pasco Quechua,qva,Unknown,123000,16478,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Fataluku,ddg,Unknown,49070,15761,words,0,Cluster 0,Indigenous,Trans-New Guinea,Latin
+Pisaflores Tepehua,tpp,Unknown,6300,15151,words,0,Cluster 0,Indigenous,Totonacan,Latin
+Brooke's Point Palawano,plw,Unknown,14000,14950,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Ngiti,niy,Unknown,291000,14533,words,0,Cluster 0,Indigenous,Nilo-Saharan,Latin
+Northern Pame,pmq,Unknown,500,14413,words,0,Cluster 0,Indigenous,Otomanguean,Latin
+Warao,wba,Unknown,49000,14354,words,0,Cluster 0,Indigenous,Language isolate,Latin
+Chokwe,cjk,Unknown,4161700,14075,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Tobelo,tlb,Unknown,38000,13888,words,0,Cluster 0,Indigenous,West Papuan,Latin
+Lamkang,lmk,Unknown,9000,13880,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Shor,cjs,Unknown,10800,13723,words,0,Cluster 0,Indigenous,Turkic,Non-Latin
+Timugon Murut,tih,Unknown,11000,13541,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Shughni,sgh,Unknown,148000,13457,words,0,Cluster 0,Indigenous,Indo-European,Non-Latin
+Beaver,bea,Unknown,1330,13451,words,0,Cluster 0,Indigenous,Eyak-Athabaskan,Latin
+Ot Danum,otd,Unknown,98000,13388,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Tanimuca-Retuarã,tnc,Unknown,1400,13019,words,0,Cluster 0,Indigenous,Tucanoan,Latin
+Malawi Sena,swk,Unknown,805000,12991,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Ma'anyan,mhy,Unknown,579000,12803,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Lundayeh,lnd,Unknown,60600,12649,words,0,Cluster 0,Indigenous,Austronesian,Latin
+Timne,tem,Unknown,2124500,12583,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Pwo Northern Karen,pww,Unknown,86000,12318,words,0,Cluster 0,Indigenous,Sino-Tibetan,Non-Latin
+Adi,adi,Unknown,191490,12213,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Simte,smt,Unknown,9000,11885,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Santiago del Estero Quichua,qus,Unknown,69800,11772,words,0,Cluster 0,Indigenous,Quechuan,Latin
+Nsenga,nse,Unknown,1179000,11628,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Mampruli,maw,Unknown,454000,11547,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Sankaran Maninka,msc,Unknown,127000,11511,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Phom Naga,nph,Unknown,61000,11349,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Dhangu-Djangu,dhg,Unknown,200,11272,words,0,Cluster 0,Indigenous,Australian,Latin
+Konyak Naga,nbe,Unknown,276200,11054,words,0,Cluster 0,Indigenous,Sino-Tibetan,Latin
+Gungu,rub,Unknown,127000,10892,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Soga,xog,Unknown,4325400,10864,words,0,Cluster 0,Regional,Niger-Congo,Latin
+Wayana,way,Unknown,1740,10743,words,0,Cluster 0,Indigenous,Cariban,Latin
+Ngiemboon,nnh,Unknown,484000,10632,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Sadri,sck,Unknown,586000,10576,words,0,Cluster 0,Indigenous,Indo-European,Non-Latin
+Rajbanshi,rjs,Unknown,148700,10056,words,0,Cluster 0,Indigenous,Indo-European,Non-Latin
+Tampulma,tpm,Unknown,28000,10019,words,0,Cluster 0,Indigenous,Niger-Congo,Latin
+Bahnar,bdq,Unknown,302000,10015,words,0,Cluster 0,Indigenous,Austro-Asiatic,Latin
+Tamil,tam,Unknown,86344340,1956295569,words,1,Cluster 1,Major Regional,Dravidian,Non-Latin
+Kazakh,kaz,Unknown,21361340,1894859216,words,1,Cluster 1,Major Regional,Turkic,Non-Latin
+Icelandic,isl,Unknown,326030,1714501973,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Nepali (individual language),npi,Unknown,33110360,1661495795,words,1,Cluster 1,Major Regional,Indo-European,Non-Latin
+Filipino,fil,Unknown,90000000,1650196919,words,1,Cluster 1,Major Regional,Austronesian,Latin
+Macedonian,mkd,Unknown,1737030,1627567163,words,1,Cluster 1,Regional,Indo-European,Non-Latin
+Afrikaans,afr,Unknown,18124960,1610355940,words,1,Cluster 1,Major Regional,Indo-European,Latin
+Marathi,mar,Unknown,99262870,1557496716,words,1,Cluster 1,Major Regional,Indo-European,Non-Latin
+Georgian,kat,Unknown,3956510,1451710558,words,1,Cluster 1,Regional,Kartvelian,Non-Latin
+Northern Uzbek,uzn,Unknown,29407440,1244774446,words,1,Cluster 1,Major Regional,Turkic,Non-Latin
+Galician,glg,Unknown,3378300,1237951458,words,1,Cluster 1,Regional,Indo-European,Latin
+Belarusian,bel,Unknown,3739930,1176809713,words,1,Cluster 1,Regional,Indo-European,Non-Latin
+Malayalam,mal,Unknown,38180200,1067660360,words,1,Cluster 1,Major Regional,Dravidian,Non-Latin
+Gujarati,guj,Unknown,62473620,943489396,words,1,Cluster 1,Major Regional,Indo-European,Non-Latin
+Telugu,tel,Unknown,95814020,917683144,words,1,Cluster 1,Major Regional,Dravidian,Non-Latin
+Burmese,mya,Unknown,44392800,862916497,words,1,Cluster 1,Major Regional,Sino-Tibetan,Non-Latin
+Moroccan Arabic,ary,Unknown,40213000,848490839,words,1,Cluster 1,Major Regional,Afro-Asiatic,Non-Latin
+Halh Mongolian,khk,Unknown,2948340,832003565,words,1,Cluster 1,Regional,Mongolic,Non-Latin
+Kannada,kan,Unknown,58706690,757254806,words,1,Cluster 1,Major Regional,Dravidian,Non-Latin
+Basque,eus,Unknown,1086860,719129161,words,1,Cluster 1,Regional,Language isolate,Latin
+Khmer,khm,Unknown,18994330,674447890,words,1,Cluster 1,Major Regional,Austro-Asiatic,Non-Latin
+Armenian,hye,Unknown,3753752,640146005,words,1,Cluster 1,Regional,Indo-European,Non-Latin
+Swahili (individual language),swh,Unknown,87160700,575383740,words,1,Cluster 1,Major Regional,Niger-Congo,Latin
+Panjabi,pan,Unknown,36516310,533554094,words,1,Cluster 1,Major Regional,Indo-European,Non-Latin
+Welsh,cym,Unknown,550230,528672066,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Norwegian Nynorsk,nno,Unknown,5498180,528126159,words,1,Cluster 1,Regional,Indo-European,Latin
+Sinhala,sin,Unknown,20222790,517559749,words,1,Cluster 1,Major Regional,Indo-European,Non-Latin
+Irish,gle,Unknown,1201140,419596485,words,1,Cluster 1,Regional,Indo-European,Latin
+Kirghiz,kir,Unknown,6089830,401382122,words,1,Cluster 1,Regional,Turkic,Non-Latin
+Tajik,tgk,Unknown,10574420,399905099,words,1,Cluster 1,Major Regional,Indo-European,Non-Latin
+Somali,som,Unknown,24692650,372370508,words,1,Cluster 1,Major Regional,Afro-Asiatic,Latin
+Egyptian Arabic,arz,Unknown,118567230,347282986,words,1,Cluster 1,Major Global,Afro-Asiatic,Non-Latin
+Southern Pashto,pbt,Unknown,21714820,340584091,words,1,Cluster 1,Major Regional,Indo-European,Non-Latin
+Odia,ory,Unknown,39533607,339080258,words,1,Cluster 1,Major Regional,Indo-European,Non-Latin
+Betawi,bew,Unknown,6810000,330257516,words,1,Cluster 1,Regional,Creole,Latin
+Narom,nrm,Unknown,4000,297951297,words,1,Cluster 1,Indigenous,Austronesian,Latin
+Maltese,mlt,Unknown,544740,289642511,words,1,Cluster 1,Indigenous,Afro-Asiatic,Latin
+Najdi Arabic,ars,Unknown,20856530,272315862,words,1,Cluster 1,Major Regional,Afro-Asiatic,Non-Latin
+Amharic,amh,Unknown,60001030,242228967,words,1,Cluster 1,Major Regional,Afro-Asiatic,Non-Latin
+Esperanto,epo,Unknown,101000,241554163,words,1,Cluster 1,Indigenous,Constructed language,Latin
+Central Kurdish,ckb,Unknown,6050990,238907619,words,1,Cluster 1,Regional,Indo-European,Non-Latin
+Northern Kurdish,kmr,Unknown,17152020,223799813,words,1,Cluster 1,Major Regional,Indo-European,Non-Latin
+Fiji Hindi,hif,Unknown,331570,214109686,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Lao,lao,Unknown,4650870,191653935,words,1,Cluster 1,Regional,Kra-Dai,Non-Latin
+Luxembourgish,ltz,Unknown,477500,181872913,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Tatar,tat,Unknown,4847590,168362608,words,1,Cluster 1,Regional,Turkic,Non-Latin
+Scottish Gaelic,gla,Unknown,73510,168200508,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Sindhi,snd,Unknown,36890560,166969381,words,1,Cluster 1,Major Regional,Indo-European,Non-Latin
+Plateau Malagasy,plt,Unknown,7549160,165617335,words,1,Cluster 1,Regional,Austronesian,Latin
+Yue Chinese,yue,Unknown,85716890,158749365,words,1,Cluster 1,Major Regional,Sino-Tibetan,Non-Latin
+Tibetan,bod,Unknown,1220270,145186834,words,1,Cluster 1,Regional,Sino-Tibetan,Non-Latin
+Javanese,jav,Unknown,69193700,140982809,words,1,Cluster 1,Major Regional,Austronesian,Latin
+Haitian,hat,Unknown,13674080,136482386,words,1,Cluster 1,Major Regional,Creole,Latin
+Cebuano,ceb,Unknown,21404110,133905527,words,1,Cluster 1,Major Regional,Austronesian,Latin
+Hmong Daw,mww,Unknown,2059400,132379106,words,1,Cluster 1,Regional,Hmong-Mien,Latin
+Western Frisian,fry,Unknown,720840,131479658,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Kinyarwanda,kin,Unknown,15297350,128096363,words,1,Cluster 1,Major Regional,Niger-Congo,Latin
+Maori,mri,Unknown,228600,122438118,words,1,Cluster 1,Indigenous,Austronesian,Latin
+Xhosa,xho,Unknown,19216300,116865271,words,1,Cluster 1,Major Regional,Niger-Congo,Latin
+Uighur,uig,Unknown,13562992,113488238,words,1,Cluster 1,Major Regional,Turkic,Non-Latin
+Papiamento,pap,Unknown,318100,108656796,words,1,Cluster 1,Indigenous,Creole,Latin
+Faroese,fao,Unknown,69000,102319503,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Turkmen,tuk,Unknown,7797920,101704079,words,1,Cluster 1,Regional,Turkic,Non-Latin
+Assamese,asm,Unknown,23648240,99512649,words,1,Cluster 1,Major Regional,Indo-European,Non-Latin
+Eastern Yiddish,ydd,Unknown,451887,94860777,words,1,Cluster 1,Indigenous,Indo-European,Non-Latin
+Samoan,smo,Unknown,433940,93188319,words,1,Cluster 1,Indigenous,Austronesian,Latin
+Dhivehi,div,Unknown,499500,91997853,words,1,Cluster 1,Indigenous,Indo-European,Non-Latin
+Bashkir,bak,Unknown,1175840,80613307,words,1,Cluster 1,Regional,Turkic,Non-Latin
+Southern Sotho,sot,Unknown,13524700,80034217,words,1,Cluster 1,Major Regional,Niger-Congo,Latin
+Corsican,cos,Unknown,121000,79676327,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Western Armenian,hyw,Unknown,2033530,76659620,words,1,Cluster 1,Regional,Indo-European,Non-Latin
+Igbo,ibo,Unknown,33715730,76366256,words,1,Cluster 1,Major Regional,Niger-Congo,Latin
+Hawaiian,haw,Unknown,8000,75946136,words,1,Cluster 1,Indigenous,Austronesian,Latin
+Sundanese,sun,Unknown,38600000,74143911,words,1,Cluster 1,Major Regional,Austronesian,Latin
+Zulu,zul,Unknown,27804600,72080210,words,1,Cluster 1,Major Regional,Niger-Congo,Latin
+Nyanja,nya,Unknown,14507700,63283501,words,1,Cluster 1,Major Regional,Niger-Congo,Latin
+Yoruba,yor,Unknown,49883270,59421050,words,1,Cluster 1,Major Regional,Niger-Congo,Latin
+Shona,sna,Unknown,14099680,52399161,words,1,Cluster 1,Major Regional,Niger-Congo,Latin
+Lushai,lus,Unknown,959750,49451606,words,1,Cluster 1,Indigenous,Sino-Tibetan,Latin
+Asturian,ast,Unknown,709000,48040257,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Southern Kurdish,sdh,Unknown,6000000,43620019,words,1,Cluster 1,Regional,Indo-European,Non-Latin
+Yakut,sah,Unknown,378000,43345988,words,1,Cluster 1,Indigenous,Turkic,Non-Latin
+Chuvash,chv,Unknown,742370,39628581,words,1,Cluster 1,Indigenous,Turkic,Non-Latin
+Occitan (post 1500),oci,Unknown,1111560,36547088,words,1,Cluster 1,Regional,Indo-European,Latin
+South Azerbaijani,azb,Unknown,13833570,35982485,words,1,Cluster 1,Major Regional,Turkic,Non-Latin
+Tigrinya,tir,Unknown,10739390,35418294,words,1,Cluster 1,Major Regional,Afro-Asiatic,Non-Latin
+Low German,nds,Unknown,2502460,34430753,words,1,Cluster 1,Regional,Indo-European,Latin
+Neapolitan,nap,Unknown,5700000,32540437,words,1,Cluster 1,Regional,Indo-European,Latin
+Swiss German,gsw,Unknown,6463630,32276621,words,1,Cluster 1,Regional,Indo-European,Latin
+Hakha Chin,cnh,Unknown,338690,31650210,words,1,Cluster 1,Indigenous,Sino-Tibetan,Latin
+Breton,bre,Unknown,206000,28307723,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Ossetian,oss,Unknown,495850,27968180,words,1,Cluster 1,Indigenous,Indo-European,Non-Latin
+Angika,anp,Unknown,1082130,27899865,words,1,Cluster 1,Regional,Indo-European,Non-Latin
+Northern Sami,sme,Unknown,25700,25531767,words,1,Cluster 1,Indigenous,Uralic,Latin
+Hiligaynon,hil,Unknown,6257550,24483952,words,1,Cluster 1,Regional,Austronesian,Latin
+Sanskrit,san,Unknown,31420,23398791,words,1,Cluster 1,Indigenous,Indo-European,Non-Latin
+Romansh,roh,Unknown,40000,23347373,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Rundi,run,Unknown,12907650,22627876,words,1,Cluster 1,Major Regional,Niger-Congo,Latin
+Rusyn,rue,Unknown,74280,21433544,words,1,Cluster 1,Indigenous,Indo-European,Non-Latin
+Bavarian,bar,Unknown,13714000,21088238,words,1,Cluster 1,Major Regional,Indo-European,Latin
+Levantine Arabic,apc,Unknown,60422810,19770049,words,1,Cluster 1,Major Regional,Afro-Asiatic,Non-Latin
+West Central Oromo,gaz,Unknown,26960550,19432809,words,1,Cluster 1,Major Regional,Afro-Asiatic,Latin
+Seselwa Creole French,crs,Unknown,88400,18866286,words,1,Cluster 1,Indigenous,Creole,Latin
+Crimean Tatar,crh,Unknown,588340,18067374,words,1,Cluster 1,Indigenous,Turkic,Non-Latin
+Limburgish,lim,Unknown,1300000,16353382,words,1,Cluster 1,Regional,Indo-European,Latin
+Udmurt,udm,Unknown,273230,16177574,words,1,Cluster 1,Indigenous,Uralic,Non-Latin
+Upper Sorbian,hsb,Unknown,13300,15432468,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Kalaallisut,kal,Unknown,57700,15049065,words,1,Cluster 1,Indigenous,Eskimo-Aleut,Latin
+Kirmanjki (individual language),kiu,Unknown,258000,15016927,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Eastern Mari,mhr,Unknown,271900,14818094,words,1,Cluster 1,Indigenous,Uralic,Non-Latin
+Maithili,mai,Unknown,17640000,14185458,words,1,Cluster 1,Major Regional,Indo-European,Non-Latin
+Friulian,fur,Unknown,420000,13491661,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Western Panjabi,pnb,Unknown,90304960,13212353,words,1,Cluster 1,Major Regional,Indo-European,Non-Latin
+Khasi,kha,Unknown,1050000,13196759,words,1,Cluster 1,Regional,Austro-Asiatic,Latin
+Chechen,che,Unknown,1816650,12941398,words,1,Cluster 1,Regional,Nakh-Daghestanian,Non-Latin
+Sardinian,srd,Unknown,1200000,12803439,words,1,Cluster 1,Regional,Indo-European,Latin
+Ganda,lug,Unknown,12624550,12425508,words,1,Cluster 1,Major Regional,Niger-Congo,Latin
+Zeeuws,zea,Unknown,100000,12229493,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Lombard,lmo,Unknown,3903000,11979889,words,1,Cluster 1,Regional,Indo-European,Latin
+Lingala,lin,Unknown,40576100,11334643,words,1,Cluster 1,Major Regional,Niger-Congo,Latin
+Gurani,hac,Unknown,300000,11316691,words,1,Cluster 1,Indigenous,Indo-European,Non-Latin
+Fijian,fij,Unknown,314000,11020549,words,1,Cluster 1,Indigenous,Austronesian,Latin
+Old Norse,non,Unknown,48000,10377021,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Aragonese,arg,Unknown,25600,10279581,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Tuvinian,tyv,Unknown,262750,10120118,words,1,Cluster 1,Indigenous,Turkic,Non-Latin
+Dzongkha,dzo,Unknown,315080,10072394,words,1,Cluster 1,Indigenous,Sino-Tibetan,Non-Latin
+Balinese,ban,Unknown,3306300,10050850,words,1,Cluster 1,Regional,Austronesian,Latin
+Vlax Romani,rmy,Unknown,609980,10012283,words,1,Cluster 1,Indigenous,Indo-European,Non-Latin
+Tunisian Arabic,aeb,Unknown,12543420,9957445,words,1,Cluster 1,Major Regional,Afro-Asiatic,Non-Latin
+Iloko,ilo,Unknown,8519200,9530782,words,1,Cluster 1,Regional,Austronesian,Latin
+Newari,new,Unknown,909600,9211366,words,1,Cluster 1,Indigenous,Sino-Tibetan,Non-Latin
+Iban,iba,Unknown,1481800,8935396,words,1,Cluster 1,Regional,Austronesian,Latin
+Balkan Romani,rmn,Unknown,758310,8926535,words,1,Cluster 1,Indigenous,Indo-European,Non-Latin
+Ewe,ewe,Unknown,5794110,8227103,words,1,Cluster 1,Regional,Niger-Congo,Latin
+Bhojpuri,bho,Unknown,52682000,8124171,words,1,Cluster 1,Major Regional,Indo-European,Non-Latin
+Chhattisgarhi,hne,Unknown,16300000,7714120,words,1,Cluster 1,Major Regional,Indo-European,Non-Latin
+Walloon,wln,Unknown,600000,7578752,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Piemontese,pms,Unknown,700000,7563912,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Komi-Zyrian,kpv,Unknown,109000,7487255,words,1,Cluster 1,Indigenous,Uralic,Non-Latin
+Batak Toba,bbc,Unknown,4160000,7133496,words,1,Cluster 1,Regional,Austronesian,Latin
+Tsonga,tso,Unknown,10003500,6847746,words,1,Cluster 1,Major Regional,Niger-Congo,Latin
+Russia Buriat,bxr,Unknown,307000,6700632,words,1,Cluster 1,Indigenous,Mongolic,Non-Latin
+Paraguayan Guaraní,gug,Unknown,6619000,6611368,words,1,Cluster 1,Regional,Tupian,Latin
+North Ndebele,nde,Unknown,3472310,6565947,words,1,Cluster 1,Regional,Niger-Congo,Latin
+Pedi,nso,Unknown,13731000,6510267,words,1,Cluster 1,Major Regional,Niger-Congo,Latin
+Tahitian,tah,Unknown,62810,6272739,words,1,Cluster 1,Indigenous,Austronesian,Latin
+Tedim Chin,ctd,Unknown,411000,6245955,words,1,Cluster 1,Indigenous,Sino-Tibetan,Latin
+Tswana,tsn,Unknown,13745730,6231759,words,1,Cluster 1,Major Regional,Niger-Congo,Latin
+Morisyen,mfe,Unknown,1040810,6093489,words,1,Cluster 1,Regional,Creole,Latin
+Kachin,kac,Unknown,940000,6057725,words,1,Cluster 1,Indigenous,Sino-Tibetan,Latin
+Kabyle,kab,Unknown,7859800,5991207,words,1,Cluster 1,Regional,Afro-Asiatic,Latin
+Scots,sco,Unknown,1599200,5825162,words,1,Cluster 1,Regional,Indo-European,Latin
+Kara-Kalpak,kaa,Unknown,907470,5816224,words,1,Cluster 1,Indigenous,Turkic,Non-Latin
+Sicilian,scn,Unknown,4700000,5806212,words,1,Cluster 1,Regional,Indo-European,Latin
+Mirandese,mwl,Unknown,15000,5803729,words,1,Cluster 1,Indigenous,Indo-European,Latin
+Gilaki,glk,Unknown,1610000,5779590,words,1,Cluster 1,Regional,Indo-European,Non-Latin
+Tonga (Tonga Islands),ton,Unknown,187190,5555867,words,1,Cluster 1,Indigenous,Austronesian,Latin
+Falam Chin,cfm,Unknown,107900,5495910,words,1,Cluster 1,Indigenous,Sino-Tibetan,Latin
+Dutch,nld,Unknown,25387290,74651199348,words,2,Cluster 2,Major Regional,Indo-European,Latin
+Polish,pol,Unknown,45284250,73137196876,words,2,Cluster 2,Major Regional,Indo-European,Latin
+Indonesian,ind,Unknown,252429270,60286570559,words,2,Cluster 2,Major Global,Austronesian,Latin
+Vietnamese,vie,Unknown,96983550,50910484900,words,2,Cluster 2,Major Regional,Austro-Asiatic,Latin
+Korean,kor,Unknown,81646870,48637229978,words,2,Cluster 2,Major Regional,Koreanic,Non-Latin
+Turkish,tur,Unknown,91258880,41949670257,words,2,Cluster 2,Major Regional,Turkic,Latin
+Persian,fas,Unknown,116065490,39735379718,words,2,Cluster 2,Major Global,Indo-European,Non-Latin
+Swedish,swe,Unknown,13255410,35760957009,words,2,Cluster 2,Major Regional,Indo-European,Latin
+Czech,ces,Unknown,12466210,35494489638,words,2,Cluster 2,Major Regional,Indo-European,Latin
+Romanian,ron,Unknown,23730290,35048022260,words,2,Cluster 2,Major Regional,Indo-European,Non-Latin
+Standard Arabic,arb,Unknown,334765000,32837139175,words,2,Cluster 2,Major Global,Afro-Asiatic,Non-Latin
+Norwegian Bokmål,nob,Unknown,5498180,32045225370,words,2,Cluster 2,Regional,Indo-European,Latin
+Hungarian,hun,Unknown,12147600,30941313384,words,2,Cluster 2,Major Regional,Uralic,Latin
+Danish,dan,Unknown,5816910,28073298751,words,2,Cluster 2,Regional,Indo-European,Latin
+Ukrainian,ukr,Unknown,39019860,25606071698,words,2,Cluster 2,Major Regional,Indo-European,Non-Latin
+Thai,tha,Unknown,71383530,24679261380,words,2,Cluster 2,Major Regional,Kra-Dai,Non-Latin
+Modern Greek (1453-),ell,Unknown,13345670,22844004778,words,2,Cluster 2,Major Regional,Indo-European,Non-Latin
+Finnish,fin,Unknown,5615740,20359774956,words,2,Cluster 2,Regional,Uralic,Latin
+Bulgarian,bul,Unknown,7921000,16097217729,words,2,Cluster 2,Regional,Indo-European,Non-Latin
+Slovak,slk,Unknown,7437540,14824219235,words,2,Cluster 2,Regional,Indo-European,Latin
+Hindi,hin,Unknown,609125030,11303623973,words,2,Cluster 2,Major Global,Indo-European,Non-Latin
+Lithuanian,lit,Unknown,2835390,9151439320,words,2,Cluster 2,Regional,Indo-European,Latin
+Bosnian,bos,Unknown,3119530,9107585516,words,2,Cluster 2,Regional,Indo-European,Latin
+Hebrew,heb,Unknown,10481810,8478346819,words,2,Cluster 2,Major Regional,Afro-Asiatic,Non-Latin
+Catalan,cat,Unknown,9299570,8366625285,words,2,Cluster 2,Regional,Indo-European,Latin
+Slovenian,slv,Unknown,2273060,7709635936,words,2,Cluster 2,Regional,Indo-European,Latin
+Croatian,hrv,Unknown,6451070,6619122430,words,2,Cluster 2,Regional,Indo-European,Latin
+Standard Estonian,ekk,Unknown,1000510,6580544367,words,2,Cluster 2,Regional,Uralic,Latin
+Bengali,ben,Unknown,284349790,6192588228,words,2,Cluster 2,Major Global,Indo-European,Non-Latin
+Standard Malay,zsm,Unknown,35000000,5670102692,words,2,Cluster 2,Major Regional,Austronesian,Non-Latin
+Standard Latvian,lvs,Unknown,1370000,5386290626,words,2,Cluster 2,Regional,Indo-European,Latin
+North Azerbaijani,azj,Unknown,10368120,3910963737,words,2,Cluster 2,Major Regional,Turkic,Non-Latin
+Tosk Albanian,als,Unknown,1158700,3479878464,words,2,Cluster 2,Regional,Indo-European,Latin
+Serbian,srp,Unknown,8255086,3323091509,words,2,Cluster 2,Regional,Indo-European,Non-Latin
+Urdu,urd,Unknown,246000240,2819121318,words,2,Cluster 2,Major Global,Indo-European,Non-Latin
+English,eng,Unknown,1527921460,7953468226848,words,3,Cluster 3,Major Global,Germanic,Latin
+Russian,rus,Unknown,253363550,588610006686,words,3,Cluster 3,Major Global,Indo-European,Non-Latin
+Mandarin Chinese,cmn,Unknown,1183802380,543571389611,words,3,Cluster 3,Major Global,Sino-Tibetan,Non-Latin
+Japanese,jpn,Unknown,125635690,331166236817,words,3,Cluster 3,Major Global,Japonic,Non-Latin
+German,deu,Unknown,134040290,262305627266,words,3,Cluster 3,Major Global,Indo-European,Latin
+Spanish,spa,Unknown,558462490,261547491469,words,3,Cluster 3,Major Global,Indo-European,Latin
+French,fra,Unknown,311914410,220689378295,words,3,Cluster 3,Major Global,Indo-European,Latin
+Italian,ita,Unknown,40112600,139140142697,words,3,Cluster 3,Major Regional,Indo-European,Latin
+Portuguese,por,Unknown,266630410,109554931079,words,3,Cluster 3,Major Global,Indo-European,Latin

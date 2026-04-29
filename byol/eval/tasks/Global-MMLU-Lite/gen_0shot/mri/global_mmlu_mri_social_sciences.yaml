@@ -1,0 +1,4 @@
+include: _mri_template_with_internal_data.yaml
+dataset_name: mri
+process_docs: !function ../utils.process_social_sciences
+task: global_mmlu_mri_social_sciences_gen_0shot

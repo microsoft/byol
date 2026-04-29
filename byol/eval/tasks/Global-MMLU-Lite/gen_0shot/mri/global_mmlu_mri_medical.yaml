@@ -1,0 +1,4 @@
+include: _mri_template_with_internal_data.yaml
+dataset_name: mri
+process_docs: !function ../utils.process_medical
+task: global_mmlu_mri_medical_gen_0shot

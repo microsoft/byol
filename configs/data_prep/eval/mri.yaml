@@ -1,0 +1,28 @@
+# BYOL Eval Data Preparation — Māori (mri)
+tgt_lang_code: mri
+tgt_lang_name: Māori
+max_workers: 8
+batch_size: 32
+default_translator: microsoft-translator
+default_llm_max_tokens: 2048
+benchmarks:
+- name: copa
+  enabled: true
+- name: ai2_arc_hard
+  enabled: true
+- name: ai2_arc_easy
+  enabled: true
+- name: hellaswag
+  enabled: true
+- name: piqa
+  enabled: true
+- name: xnli
+  enabled: true
+- name: xstory_cloze
+  enabled: true
+- name: mgsm
+  enabled: true
+- name: HiTZ-truthfulqa-multi
+  enabled: true
+- name: mmlu_lite
+  enabled: true

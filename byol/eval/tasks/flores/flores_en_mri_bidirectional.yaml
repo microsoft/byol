@@ -1,0 +1,4 @@
+task: flores_en_mri_bidirectional
+task_list:
+  - flores_en_mri
+  - flores_mri_en

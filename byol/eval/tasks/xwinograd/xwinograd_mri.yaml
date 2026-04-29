@@ -1,0 +1,6 @@
+dataset_name: mri
+include: xwinograd_common_yaml
+task: xwinograd_mri
+dataset_kwargs:
+  data_files:
+    test: data/mri/eval/xwinograd_aligned_mri_1000.jsonl

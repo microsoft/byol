@@ -1,0 +1,4 @@
+include: _nya_template_with_internal_data.yaml
+dataset_name: nya
+process_docs: !function ../utils.process_humanities
+task: global_mmlu_nya_humanities_gen_0shot
