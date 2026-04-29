@@ -218,7 +218,7 @@ pytablewriter==1.2.1
 pytest==9.0.2
 pytest-cov==7.0.0
 python-dateutil==2.9.0.post0
-python-dotenv==1.2.1
+python-dotenv==1.2.2
 python-json-logger==4.0.0
 python-multipart==0.0.21
 pytz==2025.2
