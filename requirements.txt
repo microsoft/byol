@@ -186,7 +186,7 @@ pathspec==1.0.4
 pathvalidate==3.3.1
 peft==0.18.1
 pexpect==4.9.0
-pillow==11.3.0
+pillow==12.2.0
 platformdirs==4.5.1
 pluggy==1.6.0
 portalocker==3.2.0
