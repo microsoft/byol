@@ -201,7 +201,7 @@ ptyprocess==0.7.0
 pure_eval==0.2.3
 py-cpuinfo==9.0.0
 pyarrow==23.0.0
-pyasn1==0.6.2
+pyasn1==0.6.4
 pyasn1_modules==0.4.2
 pybase64==1.4.3
 pycountry==24.6.1
