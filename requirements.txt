@@ -224,7 +224,7 @@ python-multipart==0.0.21
 pytz==2025.2
 PyYAML==6.0.3
 pyzmq==27.1.0
-ray==2.53.0
+ray==2.56.0
 referencing==0.37.0
 regex==2026.1.15
 requests==2.32.5
